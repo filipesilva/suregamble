@@ -1,0 +1,1 @@
+This repo works as an obsidian vault that builds a website using babashka automations together with the obsidian cli, using obsidian properties for metadata.

@@ -1,0 +1,19 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("articles")
+    order:
+      - file.name
+      - state
+      - author
+      - tags
+      - published-at
+      - file.ctime
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC
+      - property: state
+        direction: ASC

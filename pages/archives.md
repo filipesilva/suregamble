@@ -1,0 +1,1 @@
+this is all articles, search/sort/list
