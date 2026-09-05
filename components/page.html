@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if url %}{{ title }} | {% endif %}Catalyst</title>
+  {% if summary %}<meta name="description" content="{{ summary }}">{% endif %}
+  <link rel="stylesheet" href="{{ root }}assets/site.css">
+</head>
+<body>
+  {% include "header.html" %}
+  <main>{{ main|safe }}</main>
+  {% include "footer.html" %}
+</body>
+</html>

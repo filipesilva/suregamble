@@ -1,19 +1,51 @@
+filters:
+  and:
+    - file.inFolder("articles")
 views:
   - type: table
-    name: Table
-    filters:
-      and:
-        - file.inFolder("articles")
+    name: Editorial
+    groupBy:
+      property: state
+      direction: ASC
     order:
       - file.name
-      - state
+      - title
       - author
+      - series
       - tags
       - published-at
-      - file.ctime
       - file.mtime
     sort:
       - property: file.mtime
         direction: DESC
-      - property: state
+  - type: table
+    name: Published
+    filters:
+      and:
+        - state == "published"
+    order:
+      - file.name
+      - title
+      - author
+      - series
+      - tags
+      - published-at
+    sort:
+      - property: published-at
+        direction: DESC
+  - type: table
+    name: Series
+    filters:
+      and:
+        - "!series.isEmpty()"
+    groupBy:
+      property: series
+      direction: ASC
+    order:
+      - file.name
+      - title
+      - state
+      - published-at
+    sort:
+      - property: published-at
         direction: ASC

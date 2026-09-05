@@ -1,0 +1,19 @@
+<article class="article">
+  {% if not state = "published" %}<p class="banner">{{ state }}: not on the live site</p>{% endif %}
+  <h1>{{ title }}</h1>
+  <p class="byline">
+    by <a href="{{ root }}{{ author.url }}">{{ author.title }}</a>
+    on <time datetime="{{ published-at }}">{{ published-at|date:"d MMM yyyy" }}</time>
+    {% if series %}in the <a href="{{ root }}r&amp;d/">{{ series }}</a> series{% endif %}
+    {% for tag in tags %}<a class="tag" href="{{ root }}archives/?q={{ tag }}">#{{ tag }}</a> {% endfor %}
+    {% if original-url %}<br>Originally posted at <a href="{{ original-url }}">{{ original-url|host }}</a>{% endif %}
+  </p>
+  {{ body|safe }}
+</article>
+<style>
+  .article {
+    & h1 { margin-block-end: .25rem; }
+    & .byline { margin-block-start: 0; color: var(--muted); overflow-wrap: anywhere; }
+    & .banner { background: light-dark(#fff3cd, #4a3b00); padding: .5rem 1rem; border-radius: var(--radius); }
+  }
+</style>

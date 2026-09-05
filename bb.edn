@@ -1,1 +1,9 @@
-{}
+{:paths ["src"]
+ :deps {io.github.squint-cljs/squint {:mvn/version "0.14.208"}}
+ :tasks
+ {build {:doc "Build the published site into public/"
+         :requires ([site])
+         :task (try (site/build)
+                    (catch clojure.lang.ExceptionInfo e (println (ex-message e)) (System/exit 1)))}
+  dev   {:doc "Serve drafts too at localhost:8080/catalyst/ (or bb dev 8081), rebuild on save"
+         :task dev/start}}}

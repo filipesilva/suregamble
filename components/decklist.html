@@ -1,0 +1,16 @@
+<section class="decklist">
+  <table>
+    {% for card in cards %}{% if card.count %}<tr><td>{{ card.count }}</td><td>{{ card.name }}</td></tr>{% else %}<tr><th colspan="2">{{ card.name }}</th></tr>{% endif %}
+    {% endfor %}
+  </table>
+  <button onclick="navigator.clipboard.writeText(this.previousElementSibling.innerText.replaceAll('\t', ' '))">Copy deck</button>
+</section>
+<style>
+  .decklist {
+    border: 1px solid var(--rule); border-radius: var(--radius); padding: 1rem;
+    & table { border-collapse: collapse; margin-block-end: .5rem; }
+    & td:first-child { text-align: right; padding-inline-end: .75rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+    & th { text-align: left; padding-block-start: .5rem; }
+    & button { font: inherit; }
+  }
+</style>

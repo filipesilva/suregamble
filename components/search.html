@@ -1,0 +1,47 @@
+<search class="search" hidden>
+  <form>
+    <input type="search" name="q" placeholder="Filter by title, author or tag" autofocus>
+    <select name="sort">
+      <option value="newest">Newest first</option>
+      <option value="oldest">Oldest first</option>
+      <option value="title">By title</option>
+    </select>
+    <output name="count"></output>
+  </form>
+</search>
+{% include "articles.html" %}
+<script type="application/cljs">
+(def search (js/document.querySelector ".search"))
+(def form (.querySelector search "form"))
+(def ul (.-nextElementSibling search))
+(def items (vec (.-children ul)))
+
+(defn text [li] (.toLowerCase (.-textContent li)))
+(defn title [li] (.toLowerCase (.-textContent (.querySelector li "a"))))
+(defn date [li] (.-dateTime (.querySelector li "time")))
+
+(defn update! []
+  (let [q (.toLowerCase (.trim (.-value (.-q form))))
+        by (.-value (.-sort form))
+        shown (cond->> (filter #(.includes (text %) q) items)
+                (= by "title") (sort-by title)
+                (not= by "title") (sort-by date)
+                (= by "newest") reverse)]
+    (.replaceChildren ul)
+    (doseq [li shown] (.append ul li))
+    (set! (.-value (.-count form)) (str (count shown) " of " (count items)))))
+
+(set! (.-value (.-q form)) (or (.get (js/URLSearchParams. js/location.search) "q") ""))
+(.addEventListener form "input" update!)
+(.addEventListener form "submit" #(.preventDefault %))
+(set! (.-hidden search) false)
+(update!)
+</script>
+<style>
+  .search form {
+    display: flex; flex-wrap: wrap; gap: .5rem; align-items: center; margin-block-end: 1rem;
+    & input { flex: 1; min-width: 12rem; font: inherit; }
+    & select { font: inherit; }
+    & output { color: var(--muted); }
+  }
+</style>

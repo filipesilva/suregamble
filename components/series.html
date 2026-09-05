@@ -1,0 +1,17 @@
+{% for s in by-series %}
+<details class="series" name="series"{% if forloop.first %} open{% endif %}>
+  <summary>{{ s.name }} <small>{{ s.articles|count }} part{{ s.articles|pluralize }}</small></summary>
+  <ol>
+    {% for a in s.articles %}
+    <li><a href="{{ root }}{{ a.url }}">{{ a.title }}</a> <small>{{ a.published-at|date:"d MMM yyyy" }}</small></li>
+    {% endfor %}
+  </ol>
+</details>
+{% endfor %}
+<style>
+  .series {
+    border: 1px solid var(--rule); border-radius: var(--radius); padding: .5rem 1rem; margin-block-end: .5rem;
+    & summary { cursor: pointer; font-weight: 600; }
+    & small { font-weight: normal; color: var(--muted); }
+  }
+</style>

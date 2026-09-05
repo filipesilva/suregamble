@@ -1,0 +1,22 @@
+:root {
+  color-scheme: light dark;
+  --muted: light-dark(#666, #999);
+  --rule: light-dark(#ddd, #444);
+  --radius: .5rem;
+}
+body { max-width: 44rem; margin: 0 auto; padding: 0 1rem 2rem; font: 1rem/1.6 system-ui, sans-serif; }
+h1, h2, h3 { text-wrap: balance; line-height: 1.2; }
+p { text-wrap: pretty; }
+img { max-width: 100%; height: auto; }
+pre { overflow-x: auto; padding: 1rem; background: light-dark(#f4f4f4, #222); border-radius: var(--radius); }
+.tag { color: var(--muted); text-decoration: none; }
+.unresolved { color: var(--muted); border-bottom: 1px dotted; }
+.callout {
+  margin-block: 1rem; padding: .5rem 1rem; border-radius: .25rem;
+  border-inline-start: 4px solid light-dark(#7aa2f7, #3d59a1); background: light-dark(#f4f7ff, #1f2335);
+  & .callout-title, & summary { font-weight: 600; margin: 0; }
+  & summary { cursor: pointer; }
+  &[data-callout="tip"] { border-color: light-dark(#73daca, #2c8c7f); background: light-dark(#effbf9, #14302c); }
+  &[data-callout="warning"] { border-color: light-dark(#e0af68, #a36f1c); background: light-dark(#fff8ec, #332a14); }
+}
+@view-transition { navigation: auto; }

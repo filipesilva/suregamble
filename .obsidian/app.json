@@ -1,1 +1,8 @@
-{}
+{
+  "attachmentFolderPath": "assets",
+  "userIgnoreFilters": [
+    "public/",
+    "src/",
+    "components/"
+  ]
+}
