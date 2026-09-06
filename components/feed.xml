@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Catalyst</title>
+  <link href="{{ site }}"/>
+  <link rel="self" href="{{ site }}feed.xml"/>
+  <id>{{ site }}feed.xml</id>
+  <updated>{{ articles.0.published-at|date:"yyyy-MM-dd'T'HH:mm:ss'Z'" }}</updated>
+  {% for a in articles %}
+  <entry>
+    <title>{{ a.title }}</title>
+    <link href="{{ site }}{{ a.url }}"/>
+    <id>{{ site }}{{ a.url }}</id>
+    <updated>{{ a.published-at|date:"yyyy-MM-dd'T'HH:mm:ss'Z'" }}</updated>
+    <author><name>{{ a.author.title }}</name></author>
+    {% if a.summary %}<summary>{{ a.summary }}</summary>{% endif %}
+  </entry>
+  {% endfor %}
+</feed>

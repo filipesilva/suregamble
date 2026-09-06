@@ -6,6 +6,7 @@
   <title>{% if url %}{{ title }} | {% endif %}Catalyst</title>
   {% if summary %}<meta name="description" content="{{ summary }}">{% endif %}
   <link rel="stylesheet" href="{{ root }}assets/site.css">
+  <link rel="alternate" type="application/atom+xml" href="{{ root }}feed.xml">
 </head>
 <body>
   {% include "header.html" %}

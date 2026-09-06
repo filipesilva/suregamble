@@ -10,6 +10,7 @@
             [vault :refer [fail lookup]])
   (:import [org.jsoup Jsoup]))
 
+(def site "https://filipesilva.github.io/catalyst/")
 (def public (fs/path vault/root "public"))
 (def components (fs/path vault/root "components"))
 (selmer/set-resource-path! (str components))
@@ -55,6 +56,7 @@
         pages (notes "pages")
         assets (filter fs/regular-file? (fs/glob (fs/path vault/root "assets") "**"))]
     {:articles articles
+     :site site
      :notes (vault/folder "cards" "decklists" "articles" "authors" "pages" "series")
      :authors (for [a (vals authors)]
                 (assoc a :articles (filter #(= (:slug a) (:slug (:author %))) articles)))
@@ -184,6 +186,7 @@
     (doseq [[out html] rendered]
       (fs/create-dirs (fs/parent out))
       (spit (str out) html))
+    (spit (str (fs/path public "feed.xml")) (render "feed.xml" data))
     (fs/copy-tree (fs/path vault/root "assets") (fs/path public "assets"))
     (fs/create-dirs (fs/path public "assets/squint"))
     (io/copy (io/input-stream (io/resource "squint/core.js")) (fs/file (fs/path public "assets/squint/core.js")))
