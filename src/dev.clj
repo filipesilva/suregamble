@@ -50,7 +50,7 @@
 
 (defn snapshot []
   (into {} (map (juxt str fs/last-modified-time))
-        (mapcat #(fs/glob (fs/path site/root %) "**") ["articles" "authors" "pages" "components" "assets"])))
+        (mapcat #(fs/glob (fs/path site/root %) "**") ["articles" "authors" "pages" "decklists" "components" "assets"])))
 
 (defn start [& [port]]
   (let [port (or (some-> port parse-long) 8080)]

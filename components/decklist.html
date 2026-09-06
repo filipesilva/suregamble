@@ -1,16 +1,46 @@
 <section class="decklist">
-  <table>
-    {% for card in cards %}{% if card.count %}<tr><td>{{ card.count }}</td><td>{{ card.name }}</td></tr>{% else %}<tr><th colspan="2">{{ card.name }}</th></tr>{% endif %}
+  <header>
+    <img src="{{ identity.image }}" alt="" loading="lazy">
+    <div>
+      <strong>{{ identity.link|safe }}</strong>
+      <small>{{ cards }} cards (min {{ identity.deck-size }}), {{ influence }}/{{ identity.influence-limit }} influence{% if agenda-points %}, {{ agenda-points }} agenda points{% endif %}</small>
+      <small><a href="{{ nrdb }}">{{ title }}</a> on NetrunnerDB</small>
+    </div>
+  </header>
+  <div class="columns">
+    {% for column in columns %}
+    <div>
+      {% for s in column %}
+      <h3>{{ s.name }}</h3>
+      <ul>
+        {% for r in s.rows %}<li><span class="count">{{ r.count }}x</span> {{ r.link|safe }}{% if r.dots %} <span class="influence {{ r.faction }}">{{ r.dots }}</span>{% endif %}</li>
+        {% endfor %}
+      </ul>
+      {% endfor %}
+    </div>
     {% endfor %}
-  </table>
-  <button onclick="navigator.clipboard.writeText(this.previousElementSibling.innerText.replaceAll('\t', ' '))">Copy deck</button>
+  </div>
 </section>
 <style>
   .decklist {
     border: 1px solid var(--rule); border-radius: var(--radius); padding: 1rem;
-    & table { border-collapse: collapse; margin-block-end: .5rem; }
-    & td:first-child { text-align: right; padding-inline-end: .75rem; color: var(--muted); font-variant-numeric: tabular-nums; }
-    & th { text-align: left; padding-block-start: .5rem; }
-    & button { font: inherit; }
+    & header { display: flex; gap: 1rem; align-items: center; & > img { width: 4rem; border-radius: .25rem; } & small { display: block; color: var(--muted); } }
+    & .columns { display: grid; grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr)); gap: 0 1.5rem; }
+    & h3 { font-size: 1em; margin-block: 1rem .25rem; }
+    & ul { list-style: none; padding: 0; margin: 0; }
+    & li { break-inside: avoid; }
+    & .count { color: var(--muted); font-variant-numeric: tabular-nums; }
+    & .influence { font: 90% Arial, sans-serif; }
+    & .anarch { color: light-dark(orangered, #d9693f); }
+    & .criminal { color: light-dark(royalblue, #3862df); }
+    & .shaper { color: light-dark(limegreen, #60a260); }
+    & .haas_bioroid { color: light-dark(blueviolet, #8854b9); }
+    & .jinteki { color: light-dark(crimson, #b14157); }
+    & .nbn { color: light-dark(darkorange, #ffde00); }
+    & .weyland_consortium { color: light-dark(darkgreen, #458c45); }
+    & .adam { color: #a89c33; }
+    & .apex { color: light-dark(black, gray); }
+    & .sunny_lebeau { color: #66686b; }
+    & .neutral_runner, & .neutral_corp { color: gray; }
   }
 </style>

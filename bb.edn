@@ -6,4 +6,9 @@
          :task (try (site/build)
                     (catch clojure.lang.ExceptionInfo e (println (ex-message e)) (System/exit 1)))}
   dev   {:doc "Serve drafts too at localhost:8080/catalyst/ (or bb dev 8081), rebuild on save"
-         :task dev/start}}}
+         :task dev/start}
+  cards {:doc "Fetch every card from NetrunnerDB into cards/"
+         :task nrdb/cards}
+  decklist {:doc "Fetch a NetrunnerDB decklist into decklists/: bb decklist <url>"
+            :requires ([nrdb])
+            :task (nrdb/decklist (first *command-line-args*))}}}

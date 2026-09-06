@@ -3,8 +3,10 @@
   (:require [babashka.fs :as fs]
             [clj-yaml.core :as yaml]
             [clojure.java.io :as io]
+            [hiccup2.core :as h]
             [clojure.string :as str]
             [markdown]
+            [nrdb]
             [selmer.filters :as filters]
             [selmer.parser :as selmer]
             [squint.compiler :as squint]))
@@ -22,6 +24,12 @@
   (if (inst? v) (java.time.LocalDateTime/ofInstant (.toInstant v) java.time.ZoneOffset/UTC) v))
 
 (defn encode [path] (subs (.getRawPath (java.net.URI. nil nil (str "/" path) nil)) 1))
+
+(defn vault-key
+  "How Obsidian matches a link: the file name, lower-cased, without .md."
+  [name]
+  (-> (fs/file-name name) str/lower-case (str/replace #"\.md$" "")
+      (java.text.Normalizer/normalize java.text.Normalizer$Form/NFC)))
 
 (defn read-note [dir f]
   (let [[_ fm body] (re-matches #"(?s)\A(?:---\r?\n(.*?)\r?\n---\r?\n)?(.*)" (slurp (str f)))
@@ -49,6 +57,18 @@
     (assoc article :state state :author (authors author)
            :tags (if (string? tags) (str/split tags #",\s*") tags))))
 
+(defn folder
+  "Folders of notes read on demand: cards/ has two thousand and a page needs a few."
+  [& dirs]
+  {:cache (atom {})
+   :files (into {} (for [dir dirs, f (fs/glob (fs/path root dir) "*.md")] [(vault-key f) [dir f]]))})
+
+(defn lookup
+  "A vault name, or a card title, to its note."
+  [{:keys [files cache]} name]
+  (when-let [[dir f] (get files (str/lower-case (nrdb/note-name (vault-key name))))]
+    (or (@cache f) (let [n (read-note dir f)] (swap! cache assoc f n) n))))
+
 (defn load-site [states]
   (let [authors (into {} (map (juxt :slug identity)) (notes "authors"))
         all (map #(check authors %) (notes "articles"))
@@ -56,6 +76,9 @@
         pages (notes "pages")
         assets (filter fs/regular-file? (fs/glob (fs/path root "assets") "**"))]
     {:articles articles
+     :cards (folder "cards")
+     :decks (folder "decklists")
+     :vault (folder "articles" "authors" "pages")
      :authors (for [a (vals authors)]
                 (assoc a :articles (filter #(= (:slug a) (:slug (:author %))) articles)))
      :pages (filter #(states (:state % "published")) pages)
@@ -69,7 +92,7 @@
   "Vault name to site url. Drafts and typos give nil; only typos get a warning."
   [data file]
   (fn [name]
-    (let [key (-> (fs/file-name name) str/lower-case (str/replace #"\.md$" ""))]
+    (let [key (vault-key name)]
       (when-not (contains? (:index data) key)
         (println "warn:" file "links to" (pr-str name) "which is not in the vault"))
       (get-in data [:index key]))))
@@ -80,18 +103,63 @@
          (let [file (fs/file-name (str (:template (ex-data e) component)))]
            (throw (ex-info (str "components/" file ": " (str/replace (ex-message e) #" for template file:.*" "")) {}))))))
 
-(defn card [line]
-  (if-let [[_ count name] (re-matches #"(\d+)x?\s+(.+)" line)] {:count count :name name} {:name line}))
-
 (defn component
   "A fenced code block whose language names a component renders that component."
   [data {:keys [language text limit] :as fence}]
-  (let [lines (remove str/blank? (str/split-lines text))]
-    (if (fs/exists? (fs/path components (str language ".html")))
-      (render (str language ".html") (cond-> (merge data fence {:lines lines :cards (map card lines)})
-                                       limit (update :articles #(take (parse-long limit) %))))
-      (when (and language (empty? lines))
-        (println "warn:" (:file data) "has an empty" language "block and there is no" (str "components/" language ".html"))))))
+  (if (fs/exists? (fs/path components (str language ".html")))
+    (render (str language ".html") (cond-> (merge data fence) limit (update :articles #(take (parse-long limit) %))))
+    (when (and language (str/blank? text))
+      (println "warn:" (:file data) "has an empty" language "block and there is no" (str "components/" language ".html")))))
+
+(defn section
+  "The markdown under a heading, for ![[note#heading]]. Nested headings as a#b, matched like Obsidian, case insensitive."
+  [body path]
+  (reduce (fn [text heading]
+            (when text
+              (let [level (fn [line] (count (re-find #"^#+(?=\s)" line)))
+                    wanted? (fn [line] (and (pos? (level line))
+                                            (= (str/lower-case heading) (str/lower-case (str/trim (subs line (level line)))))))
+                    [_ [start & after]] (split-with (complement wanted?) (str/split-lines text))]
+                (when start
+                  (str/join "\n" (cons start (take-while #(or (zero? (level %)) (> (level %) (level start))) after)))))))
+          body (str/split path #"#")))
+
+(defn card-link
+  "A card name as a link to NetrunnerDB with a hover preview: the image, then the text of every face."
+  [card & [label]]
+  (let [text (markdown/inline (str/replace (:body card) #"(?m)^(#+ (Image|Text)|!\[.*?\))\n?" ""))]
+    (str/trimr (render "card.html" (assoc card :label (or label (:title card)) :text text)))))
+
+(defn card-image [card width]
+  (str (h/html [:a {:href (:nrdb card)} [:img {:src (:image card) :alt (:title card) :width (or width 300)}]])))
+
+(defn deck-sections
+  "The deck note's body: ### headings, then - 3x [[Card]] lines."
+  [cards {:keys [file body]}]
+  (reduce (fn [sections line]
+            (cond (re-find #"^### " line) (conj sections {:name (subs line 4) :rows []})
+                  (re-find #"^- (\d+)x \[\[([^\]|]+)" line)
+                  (let [[_ n name] (re-find #"^- (\d+)x \[\[([^\]|]+)" line)
+                        card (lookup cards name)]
+                    (when-not card (println "warn:" file "lists" (pr-str name) "which is not in cards/"))
+                    (update-in sections [(dec (count sections)) :rows] conj {:count (parse-long n) :name name :card card}))
+                  (str/starts-with? line "- ") (fail file (str "cannot read deck line " (pr-str line)))
+                  :else sections))
+          [{:name nil :rows []}]
+          (str/split-lines body)))
+
+(defn decklist [cards deck]
+  (let [name (str/replace (str (:identity deck)) #"^\[\[|\]\]$" "")
+        identity (or (lookup cards name) (fail (:file deck) (str "identity " (pr-str name) " is not a note in cards/")))
+        row (fn [{:keys [count name card] :as r}]
+              (assoc r :link (if card (card-link card) name)
+                       :faction (:faction card)
+                       :dots (when (and card (not= (:faction card) (:faction identity)) (pos? (:influence card 0)))
+                               (apply str (repeat (* count (:influence card)) "●")))))
+        sections (for [s (deck-sections cards deck) :when (seq (:rows s))] (update s :rows #(map row %)))
+        right? (fn [s] (contains? #{"program" "ice"} (:type (:card (first (:rows s))))))]
+    (render "decklist.html" (assoc deck :identity (assoc identity :link (card-link identity))
+                                        :columns [(remove right? sections) (filter right? sections)]))))
 
 (defn hoist
   "Moves the <style> blocks components bring along into <head>, once each."
@@ -113,9 +181,20 @@
   "Renders one note. Gives back where it goes and the html."
   [data {:keys [path file body] :as note} component-name]
   (let [data (merge data note {:root (or (not-empty (str/replace path #"[^/]+/" "../")) "./")})
-        data (assoc data :body (markdown/html body {:root (:root data) :url (linker data file) :component (partial component data)}))
-        main (if component-name (render component-name data) (:body data))]
-    [(fs/path public path "index.html") (-> (render "page.html" (assoc data :main main)) hoist (cljs (:root data)))]))
+        {:keys [cards decks vault]} data
+        ctx (atom nil)
+        md (fn [text] (markdown/html text @ctx))]
+    (reset! ctx {:root (:root data) :url (linker data file) :component (partial component data)
+                 :note-link (fn [name label] (some-> (lookup cards name) (card-link label)))
+                 :note-embed (fn [name width]
+                               (let [[note heading] (str/split name #"#" 2)]
+                                 (if heading
+                                   (some-> (or (lookup decks note) (lookup cards note) (lookup vault note)) :body (section heading) md)
+                                   (or (some->> (lookup decks note) (decklist cards))
+                                       (some-> (lookup cards note) (card-image width))))))})
+    (let [data (assoc data :body (md body))
+          main (if component-name (render component-name data) (:body data))]
+      [(fs/path public path "index.html") (-> (render "page.html" (assoc data :main main)) hoist (cljs (:root data)))])))
 
 (defn build
   "Renders everything, then replaces public/. With :dev true, drafts are built too."
