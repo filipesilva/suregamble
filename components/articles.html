@@ -3,16 +3,24 @@
   <li>
     <a href="{{ root }}{{ a.url }}">{{ a.title }}</a>
     <small>{{ a.author.title }}, <time datetime="{{ a.published-at }}">{{ a.published-at|date:"d MMM yyyy" }}</time>
-      {% for tag in a.tags %}<a class="tag" href="{{ root }}archives/?q={{ tag }}">#{{ tag }}</a> {% endfor %}</small>
+      {% for tag in a.tags %}{% include "tag.html" %} {% endfor %}</small>
     {% if a.summary %}<p>{{ a.summary }}</p>{% endif %}
   </li>
   {% endfor %}
 </ul>
 <style>
   .articles {
-    list-style: none; padding: 0;
-    & li { margin-block-end: .75rem; }
-    & small, & p { color: var(--muted); }
-    & p { margin: .25rem 0 0; }
+    list-style: none;
+    padding: 0;
+
+    & li {
+      margin-block-end: .75rem;
+    }
+    & small, & p {
+      color: var(--muted);
+    }
+    & p {
+      margin: .25rem 0 0;
+    }
   }
 </style>

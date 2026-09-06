@@ -10,7 +10,26 @@
 (def embed {:regex #"!\[\[([^\]|]+)(?:\|(\d+))?\]\]"
             :handler (fn [[_ name width]] {:type :embed :name name :width width})})
 
+(defn strip-comments [src]
+  (str/replace src #"(?s)(```.*?```)|%%.*?%%" (fn [[_ code]] (or code ""))))
+
+(defn parse [src]
+  (md/parse {:text-tokenizers [embed u/internal-link-tokenizer tag]} (strip-comments src)))
+
 (defn anchor [heading] (-> heading str/lower-case (str/replace #"\s+" "-")))
+
+(defn section
+  "The markdown under a heading, for ![[note#heading]]: nested headings as a#b, matched like Obsidian, case insensitive."
+  [body path]
+  (reduce (fn [text heading]
+            (when text
+              (let [level (fn [line] (count (re-find #"^#+(?=\s)" line)))
+                    wanted? (fn [line] (and (pos? (level line))
+                                            (= (str/lower-case heading) (str/lower-case (str/trim (subs line (level line)))))))
+                    [start & after] (drop-while (complement wanted?) (str/split-lines text))]
+                (when start
+                  (str/join "\n" (cons start (take-while #(or (zero? (level %)) (> (level %) (level start))) after)))))))
+          body (str/split path #"#")))
 
 (defn hook [ctx k & args] (some-> (get ctx k) (apply args) h/raw))
 
@@ -24,12 +43,16 @@
           [:span.unresolved label]))))
 
 (defn image [{:keys [root url] :as ctx} {:keys [name width]}]
-  (or (hook ctx :note-embed name width)
-      (if-not (re-find #"(?i)\.(png|jpe?g|gif|svg|webp)$" name)
-        (wikilink ctx {:text name})
-        (if-let [target (url name)]
-          [:img {:src (str root target) :alt (str/replace name #"\.\w+$" "") :width width}]
-          [:span.unresolved name]))))
+  (let [[note heading] (str/split name #"#" 2)]
+    (or (if heading
+          (when-let [text (some-> (:note-body ctx) (apply [note]) (section heading))]
+            (md/->hiccup ctx (parse text)))
+          (hook ctx :note-embed note width))
+        (if-not (re-find #"(?i)\.(png|jpe?g|gif|svg|webp)$" name)
+          (wikilink ctx {:text name})
+          (if-let [target (url name)]
+            [:img {:src (str root target) :alt (str/replace name #"\.\w+$" "") :width width}]
+            [:span.unresolved name])))))
 
 (defn paragraph [ctx {:keys [content] :as node}]
   (if (and (= 1 (count content)) (= :embed (:type (first content))))
@@ -48,34 +71,29 @@
           (empty? fold) (md/into-hiccup [:aside.callout {:data-callout (str/lower-case kind)} heading] ctx body)
           :else (md/into-hiccup [:details.callout {:data-callout (str/lower-case kind) :open (= fold "+")} heading] ctx body))))
 
-(defn code [{:keys [component] :as ctx} node]
-  (or (some-> (component (assoc node :text (md/node->text node))) h/raw)
+(defn code [ctx node]
+  (or (hook ctx :component (assoc node :text (md/node->text node)))
       ((:code md/default-hiccup-renderers) ctx node)))
+
+(defn raw [_ node] (h/raw (md/node->text node)))
 
 (def renderers
   (assoc md/default-hiccup-renderers
          :internal-link wikilink :embed image :blockquote callout :code code :paragraph paragraph
-         :hashtag (fn [{:keys [root]} {:keys [text]}] [:a.tag {:href (str root "archives/?q=" text)} (str "#" text)])
-         :html-block (fn [_ node] (h/raw (md/node->text node)))
-         :html-inline (fn [_ node] (h/raw (md/node->text node)))))
-
-(defn strip-comments [src]
-  (str/replace src #"(?s)(```.*?```)|%%.*?%%" (fn [[_ code]] (or code ""))))
+         :hashtag (fn [ctx {:keys [text]}] (or (hook ctx :component {:language "tag" :tag text}) (str "#" text)))
+         :html-block raw :html-inline raw))
 
 (defn inline
   "Markdown as inline html, for text that lives inside a link: blocks become spans."
   [src]
   (let [span (fn [class] (fn [ctx node] (md/into-hiccup [:span {:class class}] ctx node)))]
-    (->> (md/parse src)
+    (->> (parse src)
          (md/->hiccup (assoc renderers :doc (span "doc") :paragraph (span "p") :heading (span "h")
                              :bullet-list (span "list") :list-item (span "item") :url (constantly nil)))
          h/html str)))
 
 (defn html
   "ctx carries :root, :url (vault name -> url, or nil), :component (fence -> html, or nil),
-   :note-link (name, label -> html, or nil) and :note-embed (name, width -> html, or nil)."
+   :note-link (name, label -> html), :note-body (name -> markdown) and :note-embed (name, width -> html), all nil when unknown."
   [src ctx]
-  (->> (strip-comments src)
-       (md/parse {:text-tokenizers [embed u/internal-link-tokenizer tag]})
-       (md/->hiccup (merge renderers ctx))
-       h/html str))
+  (str (h/html (md/->hiccup (merge renderers ctx) (parse src)))))

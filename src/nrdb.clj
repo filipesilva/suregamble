@@ -5,9 +5,9 @@
             [cheshire.core :as json]
             [clj-yaml.core :as yaml]
             [clojure.string :as str]
-            [flatland.ordered.map :refer [ordered-map]]))
+            [flatland.ordered.map :refer [ordered-map]]
+            [vault]))
 
-(def root (fs/parent (fs/parent *file*)))
 (def api "https://api.netrunnerdb.com/api/v3/public/")
 
 (defn fetch [url]
@@ -23,10 +23,9 @@
   [title]
   (-> title (str/replace ": " " - ") (str/replace #"[\"*?<>|:\\#^\[\]]" "") (str/replace "/" "-")))
 
-(defn number [v] (if (and (string? v) (re-matches #"\d+" v)) (parse-long v) v))
+(defn number [v] (if (string? v) (or (parse-long v) v) v))
 
-(def tokens {"credit" "credit" "click" "click" "subroutine" "↳" "trash" "trash" "mu" "MU"
-             "interrupt" "interrupt" "recurring-credit" "recurring credit" "link" "link"})
+(def tokens {"subroutine" "↳" "mu" "MU"})
 
 (defn plain
   "Card text as markdown: icon tokens as words, html as markdown."
@@ -47,15 +46,17 @@
   [{:keys [title text]} image level]
   (str level " Image\n\n![" title "](" image ")\n\n" level " Text\n\n" (plain text) "\n"))
 
+(defn large [images] (get-in images [:nrdb_classic :large]))
+
 (defn card-note [{:keys [id attributes]}]
   (let [a attributes
         name (note-name (:title a))
         faces (:faces a)
-        image #(get-in % [:nrdb_classic :large])
+        image (large (:latest_printing_images a))
         props (ordered-map
                "title" (:title a)
                "aliases" (vec (remove #{name} (distinct (concat [(:title a) (:stripped_title a)] (map :title faces)))))
-               "faces" (vec (map :title faces))
+               "faces" (mapv :title faces)
                "id" id
                "code" (:latest_printing_id a)
                "side" (:side_id a)
@@ -77,28 +78,26 @@
                "set" (last (:card_set_names a))
                "released" (:date_release a)
                "formats" (vec (:format_ids a))
-               "image" (image (:latest_printing_images a))
+               "image" image
                "nrdb" (str "https://netrunnerdb.com/en/card/" (:latest_printing_id a)))
         props (into (ordered-map) (remove (fn [[_ v]] (or (nil? v) (and (coll? v) (empty? v))))) props)
-        body (apply str (face a (image (:latest_printing_images a)) "##")
-                    (for [f faces] (str "\n## " (:title f) "\n\n" (face f (image (:images f)) "###"))))]
+        body (apply str (face a image "##")
+                    (for [f faces] (str "\n## " (:title f) "\n\n" (face f (large (:images f)) "###"))))]
     [name (str "---\n" (yaml/generate-string props :dumper-options {:flow-style :block}) "---\n" body)]))
 
 (defn cards
   "Writes one note per card into cards/."
   []
-  (let [dir (fs/path root "cards")]
+  (let [dir (fs/path vault/root "cards")
+        notes (map card-note (fetch-all "cards"))]
     (fs/create-dirs dir)
-    (let [notes (map card-note (fetch-all "cards"))]
-      (doseq [[name text] notes] (spit (str (fs/path dir (str name ".md"))) text))
-      (println "wrote" (count notes) "cards"))))
+    (doseq [[name text] notes] (spit (str (fs/path dir (str name ".md"))) text))
+    (println "wrote" (count notes) "cards")))
 
 (defn card-index
-  "Card id -> note name and properties, read from cards/."
+  "Card id -> its note."
   []
-  (into {} (for [f (fs/glob (fs/path root "cards") "*.md")
-                 :let [props (yaml/parse-string (second (re-find #"(?s)\A---\n(.*?)\n---" (slurp (str f)))))]]
-             [(:id props) (assoc props :name (str (fs/strip-ext (fs/file-name f))))])))
+  (into {} (map (juxt :id identity)) (vault/notes "cards")))
 
 (defn card [cards id]
   (or (cards id) (throw (ex-info (str "cards/ has no note for " id ", run bb cards") {}))))
@@ -117,8 +116,8 @@
 
 (defn link
   "A card link the way Obsidian writes one: the file name, shown as the title."
-  [{:keys [name title]}]
-  (str "[[" name (when (not= name title) (str "|" title)) "]]"))
+  [{:keys [slug title]}]
+  (str "[[" slug (when (not= slug title) (str "|" title)) "]]"))
 
 (defn decklist
   "Writes a NetrunnerDB decklist as a note into decklists/."
@@ -138,7 +137,7 @@
         text (str "---\n"
                   "title: " (json/generate-string (:name a)) "\n"
                   "nrdb: https://netrunnerdb.com/en/decklist/" uuid "\n"
-                  "identity: \"[[" (:name identity) "]]\"\n"
+                  "identity: \"[[" (:slug identity) "]]\"\n"
                   "side: " (:side_id a) "\n"
                   "faction: " (:faction_id a) "\n"
                   "cards: " (:num_cards a) "\n"
@@ -148,7 +147,7 @@
                   "---\n"
                   summary "\n\n"
                   (str/join "\n\n" body) "\n")
-        file (fs/path root "decklists" (str (note-name (:name a)) ".md"))]
+        file (fs/path vault/root "decklists" (str (note-name (:name a)) ".md"))]
     (fs/create-dirs (fs/parent file))
     (spit (str file) text)
-    (println "wrote" (str (fs/relativize root file)))))
+    (println "wrote" (str (fs/relativize vault/root file)))))

@@ -23,9 +23,7 @@
 (defn update! []
   (let [q (.toLowerCase (.trim (.-value (.-q form))))
         by (.-value (.-sort form))
-        shown (cond->> (filter #(.includes (text %) q) items)
-                (= by "title") (sort-by title)
-                (not= by "title") (sort-by date)
+        shown (cond-> (sort-by (if (= by "title") title date) (filter #(.includes (text %) q) items))
                 (= by "newest") reverse)]
     (.replaceChildren ul)
     (doseq [li shown] (.append ul li))
@@ -39,9 +37,21 @@
 </script>
 <style>
   .search form {
-    display: flex; flex-wrap: wrap; gap: .5rem; align-items: center; margin-block-end: 1rem;
-    & input { flex: 1; min-width: 12rem; font: inherit; }
-    & select { font: inherit; }
-    & output { color: var(--muted); }
+    display: flex;
+    flex-wrap: wrap;
+    gap: .5rem;
+    align-items: center;
+    margin-block-end: 1rem;
+
+    & input, & select {
+      font: inherit;
+    }
+    & input {
+      flex: 1;
+      min-width: 12rem;
+    }
+    & output {
+      color: var(--muted);
+    }
   }
 </style>

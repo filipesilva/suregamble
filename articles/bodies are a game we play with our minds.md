@@ -5,7 +5,7 @@ author: tuno
 tags:
   - runner
   - anarch
-series: Decklists
+series: "[[Decklists]]"
 published-at: 2026-09-01T15:11:22
 summary: Sebastião Souza Pessoa, 5-5 at EMEA.
 original-url: https://netrunnerdb.com/en/decklist/5a10d134-acee-4a70-b3f3-b3f57b5b3d07/bodies-are-a-game-we-play-with-our-minds-5-5-emea-

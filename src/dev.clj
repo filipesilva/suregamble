@@ -6,9 +6,6 @@
             [selmer.util]
             [site]))
 
-(def base "/catalyst")
-(def types {"css" "text/css" "js" "text/javascript" "xml" "application/xml" "png" "image/png"
-            "jpg" "image/jpeg" "svg" "image/svg+xml" "webp" "image/webp"})
 (def clients (atom #{}))
 (def problem (atom nil))
 
@@ -26,38 +23,36 @@
                         :on-close (fn [ch _] (swap! clients disj ch))}))
 
 (defn file [f]
-  (if (= "html" (fs/extension f))
-    {:status 200 :headers {"Content-Type" "text/html"} :body (str (slurp (str f)) script)}
-    {:status 200 :headers {"Content-Type" (types (fs/extension f) "application/octet-stream")} :body (fs/file f)}))
+  {:status 200
+   :headers {"Content-Type" (or (java.net.URLConnection/guessContentTypeFromName (str f)) "application/octet-stream")}
+   :body (if (= "html" (fs/extension f)) (str (slurp (str f)) script) (fs/file f))})
 
 (defn handler [{:keys [uri] :as req}]
-  (let [f (fs/path site/public (java.net.URLDecoder/decode (subs uri (min (count uri) (inc (count base)))) "UTF-8"))]
+  (let [f (fs/path site/public (java.net.URLDecoder/decode (subs uri 1) "UTF-8"))
+        missing (fs/path site/public "404.html")]
     (cond (= uri "/events") (events req)
-          (not (str/starts-with? uri (str base "/"))) {:status 302 :headers {"Location" (str base "/")}}
           (and (fs/directory? f) (not (str/ends-with? uri "/"))) {:status 301 :headers {"Location" (str uri "/")}}
           (fs/regular-file? (fs/path f "index.html")) (file (fs/path f "index.html"))
           (fs/regular-file? f) (file f)
+          (fs/regular-file? missing) (assoc (file missing) :status 404)
           :else {:status 404 :headers {"Content-Type" "text/plain"} :body (str "not found: " uri)})))
 
 (defn rebuild []
-  (try (site/build :dev true)
-       (reset! problem nil)
-       (doseq [ch @clients] (tell ch "reload"))
-       (catch Exception e
-         (reset! problem (str/replace (ex-message e) "\n" " "))
-         (println "build failed:" @problem)
-         (doseq [ch @clients] (tell ch @problem)))))
+  (reset! problem (try (site/build :dev true) nil
+                       (catch Exception e (str/replace (ex-message e) "\n" " "))))
+  (when @problem (println "build failed:" @problem))
+  (doseq [ch @clients] (tell ch (or @problem "reload"))))
 
 (defn snapshot []
   (into {} (map (juxt str fs/last-modified-time))
-        (mapcat #(fs/glob (fs/path site/root %) "**") ["articles" "authors" "pages" "decklists" "components" "assets"])))
+        (mapcat #(fs/glob (fs/path vault/root %) "**") ["articles" "authors" "pages" "series" "decklists" "components" "assets"])))
 
 (defn start [& [port]]
   (let [port (or (some-> port parse-long) 8080)]
     (selmer.util/set-missing-value-formatter! (fn [tag _] (if-let [v (:tag-value tag)] (str "<mark>missing " v "</mark>") "")))
     (rebuild)
     (http/run-server handler {:port port})
-    (println (str "serving http://localhost:" port base "/")))
+    (println (str "serving http://localhost:" port "/")))
   (loop [before (snapshot)]
     (Thread/sleep 200)
     (let [now (snapshot)]

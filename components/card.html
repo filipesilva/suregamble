@@ -1,14 +1,43 @@
 <a class="card" href="{{ nrdb }}">{{ label }}<span class="card-preview"><img src="{{ image }}" alt="" loading="lazy">{{ text|safe }}</span></a>
 <style>
   .card-preview {
-    display: none; position: fixed; top: 1rem; right: 1rem; z-index: 1;
-    width: clamp(12rem, 50vw - 24rem, 18rem); max-width: calc(100vw - 2rem);
-    padding: .5rem; background: light-dark(#fff, #1c1c1c); border: 1px solid var(--rule); border-radius: var(--radius);
-    color: CanvasText; font: normal .875rem/1.4 system-ui, sans-serif;
-    & img { display: block; width: 100%; aspect-ratio: 300 / 419; border-radius: .25rem; background: var(--rule); }
-    & .p, & .h, & .item { display: block; margin-block-start: .5rem; }
-    & .h { font-weight: 600; margin-block-start: .75rem; }
+    display: none;
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+    z-index: 1;
+    width: clamp(12rem, 50vw - 24rem, 18rem);
+    max-width: calc(100vw - 2rem);
+    padding: .5rem;
+    background: light-dark(#fff, #1c1c1c);
+    border: 1px solid var(--rule);
+    border-radius: var(--radius);
+    color: CanvasText;
+    font: normal .875rem/1.4 system-ui, sans-serif;
+
+    & img {
+      display: block;
+      width: 100%;
+      aspect-ratio: 300 / 419;
+      border-radius: .25rem;
+      background: var(--rule);
+    }
+    & .p, & .h, & .item {
+      display: block;
+      margin-block-start: .5rem;
+    }
+    & .h {
+      font-weight: 600;
+      margin-block-start: .75rem;
+    }
   }
-  .card:hover .card-preview, .card:focus-visible .card-preview { display: block; }
-  @media (hover: none) { .card:hover .card-preview { display: none; } }
+  .card:hover .card-preview,
+  .card:focus-visible .card-preview {
+    display: block;
+  }
+  @media (hover: none) {
+    .card:hover .card-preview {
+      display: none;
+    }
+  }
 </style>

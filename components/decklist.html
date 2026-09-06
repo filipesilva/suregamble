@@ -13,7 +13,7 @@
       {% for s in column %}
       <h3>{{ s.name }}</h3>
       <ul>
-        {% for r in s.rows %}<li><span class="count">{{ r.count }}x</span> {{ r.link|safe }}{% if r.dots %} <span class="influence {{ r.faction }}">{{ r.dots }}</span>{% endif %}</li>
+        {% for r in s.rows %}<li><span class="count">{{ r.count }}x</span> {{ r.link|safe }}{% if r.dots %} <span class="influence {{ r.card.faction }}">{{ r.dots }}</span>{% endif %}</li>
         {% endfor %}
       </ul>
       {% endfor %}
@@ -23,14 +23,45 @@
 </section>
 <style>
   .decklist {
-    border: 1px solid var(--rule); border-radius: var(--radius); padding: 1rem;
-    & header { display: flex; gap: 1rem; align-items: center; & > img { width: 4rem; border-radius: .25rem; } & small { display: block; color: var(--muted); } }
-    & .columns { display: grid; grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr)); gap: 0 1.5rem; }
-    & h3 { font-size: 1em; margin-block: 1rem .25rem; }
-    & ul { list-style: none; padding: 0; margin: 0; }
-    & li { break-inside: avoid; }
-    & .count { color: var(--muted); font-variant-numeric: tabular-nums; }
-    & .influence { font: 90% Arial, sans-serif; }
+    border: 1px solid var(--rule);
+    border-radius: var(--radius);
+    padding: 1rem;
+
+    & header {
+      display: flex;
+      gap: 1rem;
+      align-items: center;
+
+      & > img {
+        width: 4rem;
+        border-radius: .25rem;
+      }
+      & small {
+        display: block;
+        color: var(--muted);
+      }
+    }
+    & .columns {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+      gap: 0 1.5rem;
+    }
+    & h3 {
+      font-size: 1em;
+      margin-block: 1rem .25rem;
+    }
+    & ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+    & .count {
+      color: var(--muted);
+      font-variant-numeric: tabular-nums;
+    }
+    & .influence {
+      font: 90% Arial, sans-serif;
+    }
     & .anarch { color: light-dark(orangered, #d9693f); }
     & .criminal { color: light-dark(royalblue, #3862df); }
     & .shaper { color: light-dark(limegreen, #60a260); }

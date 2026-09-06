@@ -5,7 +5,7 @@ author: tuno
 tags:
   - corp
   - weyland
-series: Decklists
+series: "[[Decklists]]"
 published-at: 2026-03-16T19:55:35
 summary: Ob Superheavy Logistics, 1st at the Milan District tournament.
 original-url: https://netrunnerdb.com/en/decklist/b5891cfa-fb89-4045-9131-86067cc71afd/posture-training-1st-milan-district-

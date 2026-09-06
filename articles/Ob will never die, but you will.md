@@ -5,7 +5,7 @@ author: tuno
 tags:
   - corp
   - weyland
-series: Decklists
+series: "[[Decklists]]"
 published-at: 2026-07-20T10:55:31
 summary: Ob Superheavy Logistics, 11th at Showdown.
 original-url: https://netrunnerdb.com/en/decklist/8526630d-94c5-49bd-829a-b52a0c0c1fc5/ob-will-never-die-but-you-will-11th-showdown-
