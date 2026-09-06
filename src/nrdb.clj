@@ -11,7 +11,7 @@
 (def api "https://api.netrunnerdb.com/api/v3/public/")
 
 (defn fetch [url]
-  (json/parse-string (:body (http/get url {:headers {"User-Agent" "catalyst"}})) true))
+  (json/parse-string (:body (http/get url {:headers {"User-Agent" "sure-gamble"}})) true))
 
 (defn fetch-all [path]
   (loop [url (str api path "?page[size]=1000") acc []]

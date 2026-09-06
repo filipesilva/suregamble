@@ -10,7 +10,7 @@
             [vault :refer [fail lookup]])
   (:import [org.jsoup Jsoup]))
 
-(def site "https://filipesilva.github.io/catalyst/")
+(def site "https://filipesilva.github.io/sure-gamble/")
 (def public (fs/path vault/root "public"))
 (def components (fs/path vault/root "components"))
 (selmer/set-resource-path! (str components))
@@ -158,7 +158,7 @@
   "Renders one note. Gives back where it goes and the html."
   [data {:keys [path file body] :as note} component-name]
   (let [{:keys [notes]} data
-        root (if (= path "404.html") "/" (or (not-empty (str/replace path #"[^/]+/" "../")) "./"))
+        root (if (= path "404.html") (:prefix data) (or (not-empty (str/replace path #"[^/]+/" "../")) "./"))
         data (merge data note {:root root})
         card (fn [name] (let [n (lookup notes name)] (when (= "cards" (:dir n)) n)))
         body (markdown/html body {:root (:root data) :url (linker data file) :component (partial component data)
@@ -177,7 +177,8 @@
   [& {:keys [dev]}]
   (selmer/clear-cache!)
   (let [t0 (System/nanoTime)
-        data (load-site (if dev #{"draft" "review" "published"} #{"published"}))
+        data (assoc (load-site (if dev #{"draft" "review" "published"} #{"published"}))
+                    :prefix (if dev "/" (.getPath (java.net.URI. site))))
         rendered (vec (concat (for [a (:articles data)] (page data a "article.html"))
                               (for [a (:authors data)] (page data a "author.html"))
                               (for [s (:all-series data)] (page data s nil))
