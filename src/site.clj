@@ -10,7 +10,7 @@
             [vault :refer [fail lookup]])
   (:import [org.jsoup Jsoup]))
 
-(def site "https://filipesilva.github.io/sure-gamble/")
+(def site "https://filipesilva.github.io/suregamble/")
 (def public (fs/path vault/root "public"))
 (def components (fs/path vault/root "components"))
 (selmer/set-resource-path! (str components))
