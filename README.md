@@ -2,7 +2,7 @@
 
 This repo works as an [Obsidian vault](https://obsidian.md) that builds a website using [Babashka](https://book.babashka.org) automations over [Markdown Properties](https://obsidian.md/help/properties).
 
-Open the vault in Obsidian to write content, or in a code editor to edit the automation.
+Install both Obsidian and Babashka, then open the vault in Obsidian to write content, or in a code editor to edit the automation.
 
 
 ## Structure
