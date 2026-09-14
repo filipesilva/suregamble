@@ -154,23 +154,36 @@
   [html]
   (.outerHtml (Jsoup/parse html)))
 
+(defn body
+  "A note's body as html, with links from root."
+  [data {:keys [file body] :as note} root]
+  (let [{:keys [notes]} data
+        data (merge data note {:root root})
+        card (fn [name] (let [n (lookup notes name)] (when (= "cards" (:dir n)) n)))]
+    (markdown/html body {:root root :url (linker data file) :component (partial component data)
+                         :note-link (fn [name label] (some-> (card name) (card-link label)))
+                         :note-body (fn [name] (:body (lookup notes name)))
+                         :note-embed (fn [name width]
+                                       (let [n (lookup notes name)]
+                                         (case (:dir n) "decklists" (decklist notes n) "cards" (card-image n width) nil)))})))
+
 (defn page
   "Renders one note. Gives back where it goes and the html."
-  [data {:keys [path file body] :as note} component-name]
-  (let [{:keys [notes]} data
-        root (if (= path "404.html") (:prefix data) (or (not-empty (str/replace path #"[^/]+/" "../")) "./"))
-        data (merge data note {:root root})
-        card (fn [name] (let [n (lookup notes name)] (when (= "cards" (:dir n)) n)))
-        body (markdown/html body {:root (:root data) :url (linker data file) :component (partial component data)
-                                  :note-link (fn [name label] (some-> (card name) (card-link label)))
-                                  :note-body (fn [name] (:body (lookup notes name)))
-                                  :note-embed (fn [name width]
-                                                (let [n (lookup notes name)]
-                                                  (case (:dir n) "decklists" (decklist notes n) "cards" (card-image n width) nil)))})
-        data (assoc data :body body)
+  [data {:keys [path] :as note} component-name]
+  (let [root (if (= path "404.html") (:prefix data) (or (not-empty (str/replace path #"[^/]+/" "../")) "./"))
+        body (body data note root)
+        data (merge data note {:root root :body body})
         main (if component-name (render component-name data) body)]
     [(if (str/ends-with? path ".html") (fs/path public path) (fs/path public path "index.html"))
      (-> (render "page.html" (assoc data :main main)) hoist (cljs root) tidy)]))
+
+(defn feed-content
+  "An article's body for the feed: absolute links, no styles or card previews. Goes inside CDATA."
+  [data article]
+  (let [doc (Jsoup/parseBodyFragment (body data article site))
+        html (do (.remove (.select doc "style, .card-preview")) (.html (.body doc)))]
+    (when (str/includes? html "]]>") (fail (:file article) "contains ]]> which cannot go in the feed"))
+    html))
 
 (defn build
   "Renders everything, then replaces public/. With :dev true, drafts are built too."
@@ -187,7 +200,8 @@
     (doseq [[out html] rendered]
       (fs/create-dirs (fs/parent out))
       (spit (str out) html))
-    (spit (str (fs/path public "feed.xml")) (render "feed.xml" data))
+    (spit (str (fs/path public "feed.xml"))
+          (render "feed.xml" (update data :articles (partial mapv #(assoc % :content (feed-content data %))))))
     (fs/copy-tree (fs/path vault/root "assets") (fs/path public "assets"))
     (fs/create-dirs (fs/path public "assets/squint"))
     (io/copy (io/input-stream (io/resource "squint/core.js")) (fs/file (fs/path public "assets/squint/core.js")))

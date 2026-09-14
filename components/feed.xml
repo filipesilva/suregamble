@@ -13,6 +13,7 @@
     <updated>{{ a.published-at|date:"yyyy-MM-dd'T'HH:mm:ss'Z'" }}</updated>
     <author><name>{{ a.author.title }}</name></author>
     {% if a.summary %}<summary>{{ a.summary }}</summary>{% endif %}
+    <content type="html"><![CDATA[{{ a.content|safe }}]]></content>
   </entry>
   {% endfor %}
 </feed>
