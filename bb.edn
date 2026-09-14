@@ -1,7 +1,6 @@
-{:paths ["src"
-         ;; vendor squint so we don't need java to resolve deps
-         ;; https://github.com/squint-cljs/squint
-         "vendor/squint-0.14.208.jar"]
+{:min-bb-version "1.13.222"
+ :paths ["src"]
+ :deps {io.github.squint-cljs/squint {:mvn/version "0.14.208"}}
  :tasks
  {build {:doc "Build the published site into public/"
          :requires ([site])
