@@ -9,7 +9,7 @@ series: "[[Decklists]]"
 published-at: 2026-03-16T19:55:35
 summary: Ob Superheavy Logistics, 1st at the Milan District tournament.
 cover: "[[Ob Superheavy Logistics - Extract. Export. Excel.]]"
-original-url: https://netrunnerdb.com/en/decklist/b5891cfa-fb89-4045-9131-86067cc71afd/posture-training-1st-milan-district-
+source: https://netrunnerdb.com/en/decklist/b5891cfa-fb89-4045-9131-86067cc71afd/posture-training-1st-milan-district-
 ---
 I've had a lot to think about recently. Decisions, Decisions is interesting at face value but I don't think Regent's cardpool really supports it much, Bulwark is the best you can target with it, unless you can do D,D -> [[Sure Gamble]] -> Radiate which is just silly. Transfigure + Dirge is pretty much nonsense and very easy to assemble IMO. I don't like what they're doing with Silent, I feel like Sly does way too much and it doesn't make too much sense to build anything else. Hellraiser is surprisingly viable, just pick Juggling, you don't even need to go infinite with Pommel Strikes... etc.
 

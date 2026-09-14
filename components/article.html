@@ -6,7 +6,7 @@
     on <time datetime="{{ published-at }}">{{ published-at|date:"d MMM yyyy" }}</time>
     {% if series %}in the <a href="{{ root }}{{ series.url }}">{{ series.title }}</a> series{% endif %}
     {% for tag in tags %}{% include "tag.html" %} {% endfor %}
-    {% if original-url %}<br>Originally posted at <a href="{{ original-url }}">{{ original-url|host }}</a>{% endif %}
+    {% if source %}<br>Originally posted at <a href="{{ source }}">{{ source|host }}</a>{% endif %}
   </p>
   {{ body|safe }}
 </article>
