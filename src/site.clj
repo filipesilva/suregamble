@@ -167,12 +167,21 @@
                                        (let [n (lookup notes name)]
                                          (case (:dir n) "decklists" (decklist notes n) "cards" (card-image n width) nil)))})))
 
+(defn cover
+  "A note's cover image for link previews: a url, or a [[card]] for its image. Cards are portraits, so they get the small card."
+  [notes {:keys [file cover]}]
+  (cond (nil? cover) nil
+        (re-find #"^https?://" cover) {:image cover :twitter "summary_large_image"}
+        :else (if-let [card (lookup notes cover)]
+                {:image (:image card) :twitter "summary"}
+                (fail file (str "cover " (pr-str cover) " is not a url or a note in cards/")))))
+
 (defn page
   "Renders one note. Gives back where it goes and the html."
   [data {:keys [path] :as note} component-name]
   (let [root (if (= path "404.html") (:prefix data) (or (not-empty (str/replace path #"[^/]+/" "../")) "./"))
         body (body data note root)
-        data (merge data note {:root root :body body})
+        data (merge data note {:root root :body body :cover (cover (:notes data) note)})
         main (if component-name (render component-name data) body)]
     [(if (str/ends-with? path ".html") (fs/path public path) (fs/path public path "index.html"))
      (-> (render "page.html" (assoc data :main main)) hoist (cljs root) tidy)]))

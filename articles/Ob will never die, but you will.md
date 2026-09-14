@@ -8,6 +8,7 @@ tags:
 series: "[[Decklists]]"
 published-at: 2026-07-20T10:55:31
 summary: Ob Superheavy Logistics, 11th at Showdown.
+cover: https://i.ibb.co/GQYgGjFJ/EEE-cover.png
 original-url: https://netrunnerdb.com/en/decklist/8526630d-94c5-49bd-829a-b52a0c0c1fc5/ob-will-never-die-but-you-will-11th-showdown-
 ---
 Hi! I'm jan tuno. Thirty years ago, I was about to be born, and God said:

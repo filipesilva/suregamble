@@ -8,6 +8,7 @@ tags:
 series: "[[Decklists]]"
 published-at: 2026-09-01T15:11:22
 summary: Sebastião Souza Pessoa, 5-5 at EMEA.
+cover: "[[Sebastião Souza Pessoa - Activist Organizer]]"
 original-url: https://netrunnerdb.com/en/decklist/5a10d134-acee-4a70-b3f3-b3f57b5b3d07/bodies-are-a-game-we-play-with-our-minds-5-5-emea-
 ---
 *Sosteneva, fra l'altro, che le inopinate catastrofi non sono mai la conseguenza o l'effetto che dir si voglia d'un unico motivo, d'una causa al singolare: ma sono come un vortice, un punto di depressione ciclonica nella coscienza del mondo, verso cui hanno cospirato tutta una molteplicità di causali convergenti.*
