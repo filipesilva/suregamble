@@ -1,5 +1,5 @@
 <header class="site-header">
-  <a class="brand" href="{{ root }}">Sure Gamble</a>
+  <a class="brand" href="{{ root }}"><img src="{{ root }}assets/logo.jpg" alt="">Sure <span>Gamble</span></a>
   {% include "nav.html" %}
 </header>
 <style>
@@ -7,12 +7,27 @@
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-    padding-block: 1rem;
+    padding-block: 1.5rem 1rem;
     border-bottom: 1px solid var(--rule);
+    font: 1.75rem/1 "Bebas Neue", sans-serif;
 
-    & .brand {
-      font-weight: bold;
+    & a {
+      color: inherit;
       text-decoration: none;
+    }
+    & .brand {
+      position: relative;
+
+      & span {
+        color: var(--accent);
+      }
+      & img {
+        position: absolute;
+        top: -1.0em;
+        right: 100%;
+        height: 12.75rem;
+        max-width: none;
+      }
     }
   }
 </style>
