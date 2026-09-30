@@ -4,11 +4,11 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if url %}{{ title }} | {% endif %}Sure Gamble</title>
-  <meta name="description" content="{{ summary|default:"Making it all look like luck takes style." }}">
+  <meta name="description" content="{% if summary %}{{ summary }}{% else %}Making it all look like luck takes style.{% endif %}">
   <meta name="theme-color" content="#ffd58a">
   <meta property="og:site_name" content="Sure Gamble">
   <meta property="og:title" content="{% if url %}{{ title }}{% else %}Sure Gamble{% endif %}">
-  <meta property="og:description" content="{{ summary|default:"Making it all look like luck takes style." }}">
+  <meta property="og:description" content="{% if summary %}{{ summary }}{% else %}Making it all look like luck takes style.{% endif %}">
   <meta property="og:url" content="{{ site }}{{ url }}">
   <meta property="og:type" content="{% if dir = "articles" %}article{% else %}website{% endif %}">
   {% if cover %}<meta property="og:image" content="{{ cover.image }}">
