@@ -168,9 +168,9 @@
                                          (case (:dir n) "decklists" (decklist notes n) "cards" (card-image n width) nil)))})))
 
 (defn cover
-  "A note's cover image for link previews: a url, or a [[card]] for its image. Cards are portraits, so they get the small card."
+  "A note's cover image for link previews: a url, or a [[card]] for its image, or the logo. Cards and the logo are portraits, so they get the small card."
   [notes {:keys [file cover]}]
-  (cond (nil? cover) nil
+  (cond (nil? cover) {:image (str site "assets/og.jpg") :twitter "summary"}
         (re-find #"^https?://" cover) {:image cover :twitter "summary_large_image"}
         :else (if-let [card (lookup notes cover)]
                 {:image (:image card) :twitter "summary"}
