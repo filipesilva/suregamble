@@ -1,0 +1,72 @@
+filters:
+  and:
+    - file.inFolder("cards")
+views:
+  - type: cards
+    name: Gallery
+    order: []
+    sort:
+      - property: released
+        direction: DESC
+    image: note.image
+    imageAspectRatio: 1.4
+  - type: table
+    name: Corp
+    filters:
+      and:
+        - side == "corp"
+    groupBy:
+      property: faction
+      direction: ASC
+    order:
+      - file.name
+      - type
+      - subtypes
+      - cost
+      - advancement
+      - agenda-points
+      - strength
+      - trash
+      - influence
+      - set
+      - formats
+    sort:
+      - property: type
+        direction: ASC
+  - type: table
+    name: Runner
+    filters:
+      and:
+        - side == "runner"
+    groupBy:
+      property: faction
+      direction: ASC
+    order:
+      - file.name
+      - type
+      - subtypes
+      - cost
+      - strength
+      - memory
+      - link
+      - influence
+      - set
+      - formats
+    sort:
+      - property: type
+        direction: ASC
+  - type: table
+    name: Sets
+    groupBy:
+      property: set
+      direction: ASC
+    order:
+      - file.name
+      - side
+      - faction
+      - type
+      - code
+      - released
+    sort:
+      - property: code
+        direction: ASC

@@ -1,0 +1,21 @@
+filters:
+  and:
+    - file.inFolder("decklists")
+views:
+  - type: table
+    name: Decklists
+    groupBy:
+      property: side
+      direction: ASC
+    order:
+      - file.name
+      - identity
+      - faction
+      - cards
+      - influence
+      - agenda-points
+      - file.backlinks
+      - created
+    sort:
+      - property: created
+        direction: DESC
