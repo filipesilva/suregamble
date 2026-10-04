@@ -1,4 +1,6 @@
 .lsp
 .clj-kondo
 .obsidian/workspace.json
+.obsidian/plugins
+!.obsidian/plugins/bb-tasks/
 public
