@@ -42,12 +42,20 @@
             :when (or (nil? campaign) (= "DRAFT" (:status campaign)))]
         (assoc a :campaign-title title :draft campaign)))))
 
+(def faction-colors
+  "The light colors of components/decklist.html, since mail apps do not support light-dark()."
+  {"anarch" "orangered" "criminal" "royalblue" "shaper" "limegreen" "haas_bioroid" "blueviolet"
+   "jinteki" "crimson" "nbn" "darkorange" "weyland_consortium" "darkgreen" "adam" "#a89c33"
+   "apex" "black" "sunny_lebeau" "#66686b" "neutral_runner" "gray" "neutral_corp" "gray"})
+
 (defn content
-  "The feed content with the site's image sizing inlined, since mail apps do not have the site css."
+  "The feed content with the site's image sizing and influence colors inlined, since mail apps do not have the site css."
   [data article]
   (let [doc (Jsoup/parseBodyFragment (site/feed-content data article))]
     (.attr (.select doc "img") "style" "max-width: 100%; height: auto;")
-    (.attr (.select doc ".decklist header > img") "style" "width: 64px; height: auto;")
+    (doseq [dots (.select doc ".influence")]
+      (when-let [color (some faction-colors (.classNames dots))]
+        (.attr dots "style" (str "color: " color ";"))))
     (.html (.body doc))))
 
 (defn create [data article]

@@ -187,10 +187,10 @@
      (-> (render "page.html" (assoc data :main main)) hoist (cljs root) tidy)]))
 
 (defn feed-content
-  "An article's body for the feed: absolute links, no styles or card previews. Goes inside CDATA."
+  "An article's body for the feed: absolute links, no styles, card previews or decklist identity images. Goes inside CDATA."
   [data article]
   (let [doc (Jsoup/parseBodyFragment (body data article site))
-        html (do (.remove (.select doc "style, .card-preview")) (.html (.body doc)))]
+        html (do (.remove (.select doc "style, .card-preview, .decklist header > img")) (.html (.body doc)))]
     (when (str/includes? html "]]>") (fail (:file article) "contains ]]> which cannot go in the feed"))
     html))
 
