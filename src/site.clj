@@ -15,6 +15,7 @@
 (def components (fs/path vault/root "components"))
 (selmer/set-resource-path! (str components))
 (filters/add-filter! :host #(.getHost (java.net.URI. %)))
+(filters/add-filter! :bust #(str % "?v=" (format "%08x" (hash (slurp (str (fs/path vault/root %)))))))
 
 (defn encode [path] (subs (.getRawPath (java.net.URI. nil nil (str "/" path) nil)) 1))
 
