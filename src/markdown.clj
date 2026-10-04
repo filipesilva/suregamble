@@ -47,13 +47,15 @@
   [content]
   [:label.spoiler [:input {:type "checkbox" :autocomplete "off"}] content])
 
+(defn image? [name] (re-find #"(?i)\.(png|jpe?g|gif|svg|webp)$" name))
+
 (defn image [{:keys [root url] :as ctx} {:keys [name width] :as node}]
   (let [[note heading] (str/split name #"#" 2)]
     (cond-> (or (if heading
                   (when-let [text (some-> (:note-body ctx) (apply [note]) (section heading))]
                     (md/->hiccup ctx (parse text)))
                   (hook ctx :note-embed note width))
-                (if-not (re-find #"(?i)\.(png|jpe?g|gif|svg|webp)$" name)
+                (if-not (image? name)
                   (wikilink ctx {:text name})
                   (if-let [target (url name)]
                     [:img {:src (str root target) :alt (str/replace name #"\.\w+$" "") :width width}]
@@ -97,12 +99,14 @@
          :html-block raw :html-inline raw))
 
 (defn inline
-  "Markdown as inline html, for text that lives inside a link: blocks become spans."
-  [src]
+  "Markdown as inline html, for text that lives inside a link: blocks become spans, only images resolve.
+   ctx carries :root and :url as in html."
+  [src {:keys [url] :as ctx}]
   (let [span (fn [class] (fn [ctx node] (md/into-hiccup [:span {:class class}] ctx node)))]
     (->> (parse src)
-         (md/->hiccup (assoc renderers :doc (span "doc") :paragraph (span "p") :heading (span "h")
-                             :bullet-list (span "list") :list-item (span "item") :url (constantly nil)))
+         (md/->hiccup (assoc (merge renderers ctx) :doc (span "doc") :paragraph (span "p") :heading (span "h")
+                             :bullet-list (span "list") :list-item (span "item")
+                             :url #(when (image? %) (url %))))
          h/html str)))
 
 (defn html

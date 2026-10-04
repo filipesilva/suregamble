@@ -1,0 +1,12 @@
+.image-embed:has(img[src*="/assets/nsg/"]:not([width])) {
+  vertical-align: -.2em;
+}
+
+img[src*="/assets/nsg/"]:not([width]) {
+  height: 1.1em;
+  width: auto;
+}
+
+.theme-dark img[src*="/assets/nsg/black/"] {
+  filter: invert(1);
+}

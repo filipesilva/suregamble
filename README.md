@@ -18,6 +18,7 @@ Install both Obsidian and Babashka, then open the vault in Obsidian to write con
 ├── bases/           Obsidian bases for vault overview
 ├── components/      HTML and css fragments
 ├── assets/          site.css and images, copied to public/assets/
+│   └── nsg/         Null Signal Games game symbols, use inline as ![[credit.svg]]
 ├── src/             babashka code
 ├── public/          the generated site
 └── bb.edn           babashka tasks

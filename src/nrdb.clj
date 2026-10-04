@@ -25,16 +25,13 @@
 
 (defn number [v] (if (string? v) (or (parse-long v) v) v))
 
-(def tokens {"subroutine" "↳" "mu" "MU"})
+(def icons (set (map #(str (fs/file-name %)) (fs/glob (fs/path vault/root "assets/nsg") "**.svg"))))
 
 (defn plain
-  "Card text as markdown: icon tokens as words, html as markdown."
+  "Card text as markdown: icon tokens as embeds of assets/nsg/, html as markdown."
   [text]
   (-> (str text)
-      (str/replace #"(\d+|X)\[credit\]" "$1 credits")
-      (str/replace "1 credits" "1 credit")
-      (str/replace #"(\[click\]){2,}" (fn [[m _]] (str (quot (count m) 7) " clicks")))
-      (str/replace #"\[([a-z-]+)\]" (fn [[_ t]] (or (tokens t) (str/replace t "-" " "))))
+      (str/replace #"\[([a-z-]+)\]" (fn [[_ t]] (if (icons (str t ".svg")) (str "![[" t ".svg]]") (str/replace t "-" " "))))
       (str/replace #"</?strong>" "**")
       (str/replace #"</?em>" "*")
       (str/replace #"<ul>|</ul>|</li>" "")

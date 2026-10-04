@@ -69,7 +69,7 @@
      :pages (filter #(states (:state % "published")) pages)
      :index (into {} (concat (for [n (concat all (vals authors) (vals series) pages)]
                                [(:key n) (when (states (:state n "published")) (:url n))])
-                             (for [f assets] [(vault/link-key f) (encode (str "assets/" (fs/file-name f)))])))}))
+                             (for [f assets] [(vault/link-key f) (encode (str (fs/relativize vault/root f)))])))}))
 
 (defn linker
   "Vault name to site url. Drafts and typos give nil; only typos get a warning."
@@ -101,9 +101,9 @@
     (str/join "\n\n" (cons (text "Text") (for [f faces] (str "## " f "\n\n" (text (str f "#Text"))))))))
 
 (defn card-link
-  "A card name as a link to NetrunnerDB with a hover preview."
-  [card & [label]]
-  (str/trimr (render "card.html" (assoc card :label (or label (:title card)) :text (markdown/inline (card-text card))))))
+  "A card name as a link to NetrunnerDB with a hover preview. ctx carries :root and :url for the icons in its text."
+  [ctx card & [label]]
+  (str/trimr (render "card.html" (assoc card :label (or label (:title card)) :text (markdown/inline (card-text card) ctx)))))
 
 (defn card-image [card width]
   (str/trimr (render "card-image.html" (assoc card :width width))))
@@ -122,16 +122,16 @@
           [{:name nil :rows []}]
           (str/split-lines body)))
 
-(defn decklist [notes deck]
+(defn decklist [ctx notes deck]
   (let [identity (or (lookup notes (:identity deck))
                      (fail (:file deck) (str "identity " (pr-str (:identity deck)) " is not a note in cards/")))
         row (fn [{:keys [count name card] :as r}]
-              (assoc r :link (if card (card-link card) name)
+              (assoc r :link (if card (card-link ctx card) name)
                        :dots (when (and card (not= (:faction card) (:faction identity)) (pos? (:influence card 0)))
                                (apply str (repeat (* count (:influence card)) "●")))))
         sections (for [s (deck-sections notes deck) :when (seq (:rows s))] (update s :rows #(map row %)))
         right? (fn [s] (contains? #{"program" "ice"} (:type (:card (first (:rows s))))))]
-    (render "decklist.html" (assoc deck :identity (assoc identity :link (card-link identity))
+    (render "decklist.html" (assoc deck :identity (assoc identity :link (card-link ctx identity))
                                         :columns [(remove right? sections) (filter right? sections)]))))
 
 (defn hoist
@@ -160,13 +160,14 @@
   [data {:keys [file body] :as note} root]
   (let [{:keys [notes]} data
         data (merge data note {:root root})
+        ctx {:root root :url (linker data file)}
         card (fn [name] (let [n (lookup notes name)] (when (= "cards" (:dir n)) n)))]
-    (markdown/html body {:root root :url (linker data file) :component (partial component data)
-                         :note-link (fn [name label] (some-> (card name) (card-link label)))
-                         :note-body (fn [name] (:body (lookup notes name)))
-                         :note-embed (fn [name width]
-                                       (let [n (lookup notes name)]
-                                         (case (:dir n) "decklists" (decklist notes n) "cards" (card-image n width) nil)))})))
+    (markdown/html body (assoc ctx :component (partial component data)
+                               :note-link (fn [name label] (when-let [c (card name)] (card-link ctx c label)))
+                               :note-body (fn [name] (:body (lookup notes name)))
+                               :note-embed (fn [name width]
+                                             (let [n (lookup notes name)]
+                                               (case (:dir n) "decklists" (decklist ctx notes n) "cards" (card-image n width) nil)))))))
 
 (defn cover
   "A note's cover image for link previews: a url, or a [[card]] for its image, or the logo. Cards and the logo are portraits, so they get the small card."
@@ -188,10 +189,13 @@
      (-> (render "page.html" (assoc data :main main)) hoist (cljs root) tidy)]))
 
 (defn feed-content
-  "An article's body for the feed: absolute links, no styles, card previews, spoiler toggles or decklist identity images. Goes inside CDATA."
+  "An article's body for the feed: absolute links, no styles, card previews, spoiler toggles or decklist identity images,
+   icons as text since mail apps block svg. Goes inside CDATA."
   [data article]
   (let [doc (Jsoup/parseBodyFragment (body data article site))
-        html (do (.remove (.select doc "style, .card-preview, .spoiler > input, .decklist header > img")) (.html (.body doc)))]
+        html (do (.remove (.select doc "style, .card-preview, .spoiler > input, .decklist header > img"))
+                 (doseq [icon (.select doc "img[src*=/assets/nsg/]")] (.replaceWith icon (org.jsoup.nodes.TextNode. (str/replace (.attr icon "alt") "-" " "))))
+                 (.html (.body doc)))]
     (when (str/includes? html "]]>") (fail (:file article) "contains ]]> which cannot go in the feed"))
     html))
 

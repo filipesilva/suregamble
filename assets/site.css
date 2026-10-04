@@ -56,6 +56,16 @@ img {
   height: auto;
 }
 
+img[src*="assets/nsg/"]:not([width]) {
+  height: 1.1em;
+  width: auto;
+  vertical-align: -.2em;
+}
+
+img[src*="assets/nsg/black/"] {
+  filter: invert(1);
+}
+
 pre {
   overflow-x: auto;
   padding: 1rem;
