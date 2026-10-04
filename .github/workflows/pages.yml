@@ -36,3 +36,15 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+
+  email:
+    needs: deploy
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: DeLaGuardo/setup-clojure@13.0
+        with:
+          bb: 1.13.222
+      - run: bb email send
+        env:
+          SENDER_TOKEN: ${{ secrets.SENDER_TOKEN }}

@@ -12,4 +12,7 @@
          :task nrdb/cards}
   decklist {:doc "Fetch a NetrunnerDB decklist into decklists/: bb decklist <url>"
             :requires ([nrdb])
-            :task (nrdb/decklist (first *command-line-args*))}}}
+            :task (nrdb/decklist (first *command-line-args*))}
+  email {:doc "Email newly published articles to subscribers: bb email lists them, bb email send sends them"
+         :requires ([email])
+         :task (email/run (= "send" (first *command-line-args*)))}}}
