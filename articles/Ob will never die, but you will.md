@@ -28,7 +28,7 @@ Yes, yes, I know. It's not entirely fair to say that *I* built these decks: ther
 
 Oh! Speaking of authorship...
 
-![Extract. Export. Excel.](https://i.ibb.co/GQYgGjFJ/EEE-cover.png)
+![Extract. Export. Excel.|spoiler](https://i.ibb.co/GQYgGjFJ/EEE-cover.png)
 
 My book about Ob Superheavy Logistics is titled *Extract. Export. Excel.*. It is 208 pages long. I hope you enjoy it when you read it in September 2026. <3
 

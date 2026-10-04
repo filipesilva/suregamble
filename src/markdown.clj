@@ -7,8 +7,8 @@
 
 (def tag (assoc u/hashtag-tokenizer :regex #"(?U)(^|\B)#(?=[\w/-]*[^\W\d])[\w/-]+"))
 
-(def embed {:regex #"!\[\[([^\]|]+)(?:\|(\d+))?\]\]"
-            :handler (fn [[_ name width]] {:type :embed :name name :width width})})
+(def embed {:regex #"!\[\[([^\]|]+)(\|spoiler)?(?:\|(\d+))?\]\]"
+            :handler (fn [[_ name spoiler width]] {:type :embed :name name :spoiler (some? spoiler) :width width})})
 
 (defn strip-comments [src]
   (str/replace src #"(?s)(```.*?```)|%%.*?%%" (fn [[_ code]] (or code ""))))
@@ -42,17 +42,30 @@
           [:a {:href (str root target (some->> heading anchor (str "#")))} label]
           [:span.unresolved label]))))
 
-(defn image [{:keys [root url] :as ctx} {:keys [name width]}]
+(defn spoiler
+  "Blurred until clicked, see .spoiler in site.css."
+  [content]
+  [:label.spoiler [:input {:type "checkbox" :autocomplete "off"}] content])
+
+(defn image [{:keys [root url] :as ctx} {:keys [name width] :as node}]
   (let [[note heading] (str/split name #"#" 2)]
-    (or (if heading
-          (when-let [text (some-> (:note-body ctx) (apply [note]) (section heading))]
-            (md/->hiccup ctx (parse text)))
-          (hook ctx :note-embed note width))
-        (if-not (re-find #"(?i)\.(png|jpe?g|gif|svg|webp)$" name)
-          (wikilink ctx {:text name})
-          (if-let [target (url name)]
-            [:img {:src (str root target) :alt (str/replace name #"\.\w+$" "") :width width}]
-            [:span.unresolved name])))))
+    (cond-> (or (if heading
+                  (when-let [text (some-> (:note-body ctx) (apply [note]) (section heading))]
+                    (md/->hiccup ctx (parse text)))
+                  (hook ctx :note-embed note width))
+                (if-not (re-find #"(?i)\.(png|jpe?g|gif|svg|webp)$" name)
+                  (wikilink ctx {:text name})
+                  (if-let [target (url name)]
+                    [:img {:src (str root target) :alt (str/replace name #"\.\w+$" "") :width width}]
+                    [:span.unresolved name])))
+      (:spoiler node) spoiler)))
+
+(defn md-image
+  "![alt|spoiler](url) is a spoiler, like ![[name|spoiler]]."
+  [ctx node]
+  (let [[_ alt hidden] (re-find #"(?s)(.*?)(\|spoiler)?$" (md/node->text node))
+        img ((:image md/default-hiccup-renderers) ctx (assoc node :content [{:type :text :text alt}]))]
+    (cond-> img hidden spoiler)))
 
 (defn paragraph [ctx {:keys [content] :as node}]
   (if (and (= 1 (count content)) (= :embed (:type (first content))))
@@ -79,7 +92,7 @@
 
 (def renderers
   (assoc md/default-hiccup-renderers
-         :internal-link wikilink :embed image :blockquote callout :code code :paragraph paragraph
+         :internal-link wikilink :embed image :image md-image :blockquote callout :code code :paragraph paragraph
          :hashtag (fn [ctx {:keys [text]}] (or (hook ctx :component {:language "tag" :tag text}) (str "#" text)))
          :html-block raw :html-inline raw))
 
