@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/25089
 
 Project Junebug can be advanced.
 
-If you pay 1 credit when the Runner accesses Project Junebug, do 2 net damage for each advancement token on Project Junebug.
+If you pay 1![[credit.svg]] when the Runner accesses Project Junebug, do 2 net damage for each advancement token on Project Junebug.

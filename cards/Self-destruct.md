@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/06112
 
 Remote server only.
 
-**trash:** Trash all cards installed in the root of or protecting this server. Trace[X], where X is equal to the number of cards trashed. If successful, do 3 net damage. Use this ability only during a run on this server.
+**![[trash.svg]]:** Trash all cards installed in the root of or protecting this server. Trace[X], where X is equal to the number of cards trashed. If successful, do 3 net damage. Use this ability only during a run on this server.

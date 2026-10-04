@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/35011
 
 ## Text
 
-3 clicks,trash**:** Gain 9 credits.
+![[click.svg]]![[click.svg]]![[click.svg]],![[trash.svg]]**:** Gain 9![[credit.svg]].

@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/08038
 
 ## Text
 
-As an additional cost to play an event, if there is a copy of that event in the heap, the Runner must pay 2 credits.
+As an additional cost to play an event, if there is a copy of that event in the heap, the Runner must pay 2![[credit.svg]].

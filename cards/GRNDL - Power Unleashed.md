@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/04097
 
 ## Text
 
-You start the game with 10 credits and 1 bad publicity.
+You start the game with 10![[credit.svg]] and 1 bad publicity.

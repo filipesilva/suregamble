@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/12023
 
 ## Text
 
-**click**, **trash:** Run any server. If successful, instead of breaching the attacked server, pay X credits if able, where X is equal to the number of tags you have. If you do, choose a number less than or equal to X. Access that many cards in and/or in the root of the attacked server. *(If you cannot pay, you will not access anything.)*
+**![[click.svg]]**, **![[trash.svg]]:** Run any server. If successful, instead of breaching the attacked server, pay X![[credit.svg]] if able, where X is equal to the number of tags you have. If you do, choose a number less than or equal to X. Access that many cards in and/or in the root of the attacked server. *(If you cannot pay, you will not access anything.)*

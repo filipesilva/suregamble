@@ -32,6 +32,6 @@ nrdb: https://netrunnerdb.com/en/card/26060
 
 When you rez this ice, take 1 bad publicity.
 
-↳ Trash 1 installed Runner card.
+![[subroutine.svg]] Trash 1 installed Runner card.
 
-↳ Trace[6]. If successful, the Runner cannot steal or trash Corp cards for the remainder of this run.
+![[subroutine.svg]] Trace[6]. If successful, the Runner cannot steal or trash Corp cards for the remainder of this run.

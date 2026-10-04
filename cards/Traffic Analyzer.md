@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/12075
 
 ## Text
 
-Whenever you rez a piece of ice protecting this server, Trace[2]. If successful, the Corp gains 1 credit.
+Whenever you rez a piece of ice protecting this server, Trace[2]. If successful, the Corp gains 1![[credit.svg]].

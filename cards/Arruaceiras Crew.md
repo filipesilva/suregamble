@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/34073
 
 Once per turn → **Take 1 tag:** The ice you are encountering gets –2 strength for the remainder of this encounter.
 
-trash, **2 credits:** Trash the ice you are encountering if its strength is 0 or less.
+![[trash.svg]], **2![[credit.svg]]:** Trash the ice you are encountering if its strength is 0 or less.

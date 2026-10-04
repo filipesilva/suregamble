@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/34116
 
 While the Runner is tagged, this ice gets +2 strength.
 
-↳ Gain 1 credit for each tag the Runner has.
+![[subroutine.svg]] Gain 1![[credit.svg]] for each tag the Runner has.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

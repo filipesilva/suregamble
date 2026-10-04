@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/36038
 
 While the Runner is accessing this asset in R&D, they must reveal it.
 
-When the Runner accesses this asset, they lose 1 credit. If they are tagged, do 1 net damage.
+When the Runner accesses this asset, they lose 1![[credit.svg]]. If they are tagged, do 1 net damage.

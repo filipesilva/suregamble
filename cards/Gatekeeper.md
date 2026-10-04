@@ -29,6 +29,6 @@ nrdb: https://netrunnerdb.com/en/card/22029
 
 Gatekeeper has +6 strength if you rezzed it this turn.
 
-↳ Draw up to 3 cards. Reveal up to 3 agendas in HQ and/or Archives, then shuffle those agendas into R&D.
+![[subroutine.svg]] Draw up to 3 cards. Reveal up to 3 agendas in HQ and/or Archives, then shuffle those agendas into R&D.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

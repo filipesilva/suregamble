@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/12026
 
 This event is not trashed until another **current** is played or an agenda is scored.
 
-interrupt → The first time each turn you would increase the strength of an **icebreaker**, for the remainder of the run that **icebreaker** gains "Abilities that increase this program's strength last for the remainder of the run *(instead of any shorter duration)*."
+![[interrupt.svg]] → The first time each turn you would increase the strength of an **icebreaker**, for the remainder of the run that **icebreaker** gains "Abilities that increase this program's strength last for the remainder of the run *(instead of any shorter duration)*."

@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/11046
 
 ## Text
 
-The first time you spend credits from a **stealth** card during each run, place 1 credit on this resource or draw 1 card.
+The first time you spend credits from a **stealth** card during each run, place 1![[credit.svg]] on this resource or draw 1 card.
 
 You can spend hosted credits for anything.

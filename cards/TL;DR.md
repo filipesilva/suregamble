@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/09017
 
 ## Text
 
-↳ The next time the Runner encounters a piece of ice during this run, that ice gains a second copy of each of its subroutines *(after the original subroutine)* for the remainder of that encounter.
+![[subroutine.svg]] The next time the Runner encounters a piece of ice during this run, that ice gains a second copy of each of its subroutines *(after the original subroutine)* for the remainder of that encounter.

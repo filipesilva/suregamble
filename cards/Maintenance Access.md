@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/35016
 
 ## Text
 
-As an additional cost to play this event, spend click.
+As an additional cost to play this event, spend ![[click.svg]].
 
 Run Archives. When you would approach Archives *(after passing all ice)*, instead change the attacked server to HQ and approach HQ.

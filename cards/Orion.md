@@ -31,8 +31,8 @@ nrdb: https://netrunnerdb.com/en/card/07015
 
 Orion can be advanced and its rez cost is lowered by 3 for each advancement token on it.
 
-↳ Trash 1 program.
+![[subroutine.svg]] Trash 1 program.
 
-↳ Resolve a subroutine on another piece of rezzed ice.
+![[subroutine.svg]] Resolve a subroutine on another piece of rezzed ice.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

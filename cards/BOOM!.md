@@ -30,6 +30,6 @@ nrdb: https://netrunnerdb.com/en/card/11058
 
 Play only if the Runner has at least 2 tags.
 
-As an additional cost to play this operation, spend click.
+As an additional cost to play this operation, spend ![[click.svg]].
 
 Do 7 meat damage.

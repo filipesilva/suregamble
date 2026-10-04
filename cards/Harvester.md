@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/10032
 
 ## Text
 
-↳ The Runner draws 3 cards and then discards down to their maximum hand size.
+![[subroutine.svg]] The Runner draws 3 cards and then discards down to their maximum hand size.
 
-↳ The Runner draws 3 cards and then discards down to their maximum hand size.
+![[subroutine.svg]] The Runner draws 3 cards and then discards down to their maximum hand size.

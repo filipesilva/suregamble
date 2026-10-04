@@ -25,7 +25,7 @@ nrdb: https://netrunnerdb.com/en/card/28003
 
 ## Text
 
-When your turn begins, you may pay 1 credit to place 1 power counter on this upgrade.
+When your turn begins, you may pay 1![[credit.svg]] to place 1 power counter on this upgrade.
 
 Whenever the Runner makes a successful run, remove 1 power counter from this upgrade.
 

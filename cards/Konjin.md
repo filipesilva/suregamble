@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/26109
 
 ## Text
 
-When the Runner encounters this ice, play a Psi Game. *(Players secretly bid 0–2 credits. Then each player reveals and spends their bid.)* If the bids differ, you may choose another rezzed piece of ice. The Runner encounters that ice. *(When that encounter ends, if the run has not ended, finish encountering this ice.)*
+When the Runner encounters this ice, play a Psi Game. *(Players secretly bid 0–2![[credit.svg]]. Then each player reveals and spends their bid.)* If the bids differ, you may choose another rezzed piece of ice. The Runner encounters that ice. *(When that encounter ends, if the run has not ended, finish encountering this ice.)*

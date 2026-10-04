@@ -27,7 +27,7 @@ nrdb: https://netrunnerdb.com/en/card/33023
 
 Run any server. If successful, for each time you passed ice this run, resolve 1 of the following that you have not yet resolved this run:
 
-- Gain 4 credits.
+- Gain 4![[credit.svg]].
 
 - Search your stack for a program. Install it. *(Shuffle your stack after searching it.)*
 

@@ -29,8 +29,8 @@ nrdb: https://netrunnerdb.com/en/card/05046
 
 ## Text
 
-Interface → **1 credit:** Break 1 **code gate** subroutine.
+Interface → **1![[credit.svg]]:** Break 1 **code gate** subroutine.
 
-**2 credits:** +2 strength.
+**2![[credit.svg]]:** +2 strength.
 
 This program cannot interface with ice protecting a remote server.

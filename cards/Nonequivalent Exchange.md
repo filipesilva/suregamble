@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/33118
 
 ## Text
 
-Gain 5 credits. You may have each player gain 2 credits.
+Gain 5![[credit.svg]]. You may have each player gain 2![[credit.svg]].

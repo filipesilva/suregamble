@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/34032
 
 Each run, as long as a piece of ice has been derezzed during that run, each installed **icebreaker** gets –2 strength.
 
-Once per turn → When a run begins, you may derez 1 piece of ice not protecting the attacked server to gain 1 credit.
+Once per turn → When a run begins, you may derez 1 piece of ice not protecting the attacked server to gain 1![[credit.svg]].

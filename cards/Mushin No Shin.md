@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/05015
 
 ## Text
 
-As an additional cost to play this operation, spend click.
+As an additional cost to play this operation, spend ![[click.svg]].
 
 Install 1 asset, agenda, or upgrade from HQ in the root of a new server. Place 3 advancement counters on that card. You cannot score or rez that card until your next turn begins.

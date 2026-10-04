@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/31037
 
 ## Text
 
-Run any server. When that run ends, if it was successful, gain 5 credits.
+Run any server. When that run ends, if it was successful, gain 5![[credit.svg]].

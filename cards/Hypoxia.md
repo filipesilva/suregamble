@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/33101
 
 Play only if the Runner is tagged.
 
-Do 1 core damage. The Runner gets -1 allotted click for their next turn.
+Do 1 core damage. The Runner gets -1 allotted ![[click.svg]] for their next turn.
 
 Remove this operation from the game.

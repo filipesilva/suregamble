@@ -27,8 +27,8 @@ nrdb: https://netrunnerdb.com/en/card/22053
 
 ## Text
 
-This ice gains "↳ Gain 1 credit and the Runner loses 1 credit." before its other subroutines for every 2 faceup **transaction** operations in Archives.
+This ice gains "![[subroutine.svg]] Gain 1![[credit.svg]] and the Runner loses 1![[credit.svg]]." before its other subroutines for every 2 faceup **transaction** operations in Archives.
 
-↳ Gain 1 credit and the Runner loses 1 credit.
+![[subroutine.svg]] Gain 1![[credit.svg]] and the Runner loses 1![[credit.svg]].
 
-↳ End the run.
+![[subroutine.svg]] End the run.

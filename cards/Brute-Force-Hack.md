@@ -25,6 +25,6 @@ nrdb: https://netrunnerdb.com/en/card/13002
 
 ## Text
 
-As an additional cost to play this event, spend click.
+As an additional cost to play this event, spend ![[click.svg]].
 
 Derez a piece of ice that has a rez cost of X or lower.

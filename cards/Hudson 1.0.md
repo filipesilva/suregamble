@@ -28,8 +28,8 @@ nrdb: https://netrunnerdb.com/en/card/20067
 
 ## Text
 
-**Lose click:** Break 1 subroutine on this ice. Only the Runner can use this ability.
+**Lose ![[click.svg]]:** Break 1 subroutine on this ice. Only the Runner can use this ability.
 
-↳ The Runner cannot access more than 1 card during this run.
+![[subroutine.svg]] The Runner cannot access more than 1 card during this run.
 
-↳ The Runner cannot access more than 1 card during this run.
+![[subroutine.svg]] The Runner cannot access more than 1 card during this run.

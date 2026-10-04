@@ -25,6 +25,6 @@ nrdb: https://netrunnerdb.com/en/card/36053
 
 ## Text
 
-As an additional cost to play this operation, spend click.
+As an additional cost to play this operation, spend ![[click.svg]].
 
 Choose 1 installed card you can advance. Place 1 advancement counter on that card for each remote server that has a card in its root and is protected by ice.

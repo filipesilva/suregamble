@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/09041
 
 ## Text
 
-The first click you spend each turn must be spent to take the basic action to play an event or the basic action to run a server. You cannot take the action to play an event this way except if you play a **run** event.
+The first ![[click.svg]] you spend each turn must be spent to take the basic action to play an event or the basic action to run a server. You cannot take the action to play an event this way except if you play a **run** event.
 
-Once per turn → **Lose 2 clicks:** Break 1 subroutine.
+Once per turn → **Lose ![[click.svg]]![[click.svg]]:** Break 1 subroutine.

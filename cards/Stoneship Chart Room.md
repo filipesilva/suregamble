@@ -25,6 +25,6 @@ nrdb: https://netrunnerdb.com/en/card/33030
 
 ## Text
 
-trash**:** Draw 2 cards.
+![[trash.svg]]**:** Draw 2 cards.
 
-trash**:** Charge 1 of your installed cards.
+![[trash.svg]]**:** Charge 1 of your installed cards.

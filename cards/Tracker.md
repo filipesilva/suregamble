@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/11105
 
 When your turn begins, you may choose a server.
 
-**click**, **2 credits:** Run the chosen server. The first time a subroutine would resolve during that run, prevent it from resolving.
+**![[click.svg]]**, **2![[credit.svg]]:** Run the chosen server. The first time a subroutine would resolve during that run, prevent it from resolving.

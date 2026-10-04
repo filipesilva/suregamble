@@ -25,6 +25,6 @@ nrdb: https://netrunnerdb.com/en/card/06103
 
 ## Text
 
-click: Place 1 power counter on IT Department.
+![[click.svg]]: Place 1 power counter on IT Department.
 
 **Hosted power counter:** Choose a rezzed piece of ice. That ice has +1 strength until the end of the turn for each power counter (including the one spent) on IT Department.

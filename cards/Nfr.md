@@ -32,4 +32,4 @@ Whenever this program fully breaks a piece of ice, place 1 power counter on this
 
 This program gets +1 strength for each power counter on it.
 
-Interface → **1 credit:** Break 1 **barrier** subroutine.
+Interface → **1![[credit.svg]]:** Break 1 **barrier** subroutine.

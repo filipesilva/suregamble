@@ -25,6 +25,6 @@ nrdb: https://netrunnerdb.com/en/card/34114
 
 ## Text
 
-When you score this agenda, gain 3 credits and place 1 advancement counter on an installed card.
+When you score this agenda, gain 3![[credit.svg]] and place 1 advancement counter on an installed card.
 
-When you install this agenda from anywhere except HQ, you may reveal it. If you do, gain 2 credits and place 1 advancement counter on an installed card.
+When you install this agenda from anywhere except HQ, you may reveal it. If you do, gain 2![[credit.svg]] and place 1 advancement counter on an installed card.

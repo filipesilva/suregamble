@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/34106
 
 ## Text
 
-The first time each turn the Runner passes a rezzed **code gate** or **sentry**, you may pay 1 credit or trash 1 card from HQ. If you do, the Runner encounters that ice again.
+The first time each turn the Runner passes a rezzed **code gate** or **sentry**, you may pay 1![[credit.svg]] or trash 1 card from HQ. If you do, the Runner encounters that ice again.

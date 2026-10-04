@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/33044
 
 While this ice is protecting Archives, it gets +3 strength.
 
-↳ Do 3 net damage.
+![[subroutine.svg]] Do 3 net damage.

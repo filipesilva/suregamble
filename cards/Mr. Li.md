@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/20036
 
 ## Text
 
-**click:** Draw 2 cards. When you do, add 1 of those cards to the bottom of your stack.
+**![[click.svg]]:** Draw 2 cards. When you do, add 1 of those cards to the bottom of your stack.

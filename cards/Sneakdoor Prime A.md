@@ -20,4 +20,4 @@ nrdb: https://netrunnerdb.com/en/card/14026
 
 ## Text
 
-click,click: Make a run on a remote server. If successful, instead treat it as a successful run on a central server.
+![[click.svg]],![[click.svg]]: Make a run on a remote server. If successful, instead treat it as a successful run on a central server.

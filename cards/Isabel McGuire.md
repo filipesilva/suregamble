@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/04050
 
 ## Text
 
-click: Add 1 of your installed cards to HQ.
+![[click.svg]]: Add 1 of your installed cards to HQ.

@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/20055
 
 ## Text
 
-Gain 2 credits or expose 1 card.
+Gain 2![[credit.svg]] or expose 1 card.

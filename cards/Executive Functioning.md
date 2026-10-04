@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/13035
 
 ## Text
 
-↳ Trace[4]. If successful, do 1 core damage.
+![[subroutine.svg]] Trace[4]. If successful, do 1 core damage.

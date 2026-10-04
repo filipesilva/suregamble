@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/10016
 
 ## Text
 
-↳ For the remainder of this run, as an additional cost to use an **icebreaker** ability to break subroutines, the Runner must pay 1 credit.
+![[subroutine.svg]] For the remainder of this run, as an additional cost to use an **icebreaker** ability to break subroutines, the Runner must pay 1![[credit.svg]].
 
-↳ For the remainder of this run, as an additional cost to use an **icebreaker** ability to break subroutines, the Runner must pay 1 credit
+![[subroutine.svg]] For the remainder of this run, as an additional cost to use an **icebreaker** ability to break subroutines, the Runner must pay 1![[credit.svg]]

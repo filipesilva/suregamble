@@ -29,6 +29,6 @@ nrdb: https://netrunnerdb.com/en/card/12055
 
 When the Runner encounters this ice, they may take 1 tag to bypass it.
 
-↳ The Corp gains 2 credits.
+![[subroutine.svg]] The Corp gains 2![[credit.svg]].
 
-↳ End the run.
+![[subroutine.svg]] End the run.

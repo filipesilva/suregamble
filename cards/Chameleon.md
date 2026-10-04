@@ -33,4 +33,4 @@ When you install this program, choose **barrier**, **code gate**, or **sentry**.
 
 When your discard phase ends, add this program to your grip.
 
-Interface → **1 credit:** Break 1 subroutine on a piece of ice that has the chosen subtype.
+Interface → **1![[credit.svg]]:** Break 1 subroutine on a piece of ice that has the chosen subtype.

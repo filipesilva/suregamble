@@ -31,9 +31,9 @@ nrdb: https://netrunnerdb.com/en/card/09001
 
 ## Text
 
-click: Flip this identity.
+![[click.svg]]: Flip this identity.
 
-The Runner pays 1 credit more when spending a click to remove a tag (not through a card ability).
+The Runner pays 1![[credit.svg]] more when spending a ![[click.svg]] to remove a tag (not through a card ability).
 
 ## 
 
@@ -43,6 +43,6 @@ The Runner pays 1 credit more when spending a click to remove a tag (not through
 
 ### Text
 
-click: Flip this identity.
+![[click.svg]]: Flip this identity.
 
-You may pay 2 credits fewer when spending a click to trash a resource (not through a card ability).
+You may pay 2![[credit.svg]] fewer when spending a ![[click.svg]] to trash a resource (not through a card ability).

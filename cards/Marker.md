@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/04116
 
 ## Text
 
-↳ The next piece of ice the Runner encounters during this run gains "↳ End the run." after its other subroutines for the remainder of that run.
+![[subroutine.svg]] The next piece of ice the Runner encounters during this run gains "![[subroutine.svg]] End the run." after its other subroutines for the remainder of that run.

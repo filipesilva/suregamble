@@ -30,4 +30,4 @@ Film Critic can host a single agenda.
 
 Whenever you access an agenda, you may host that agenda on Film Critic (the agenda is no longer being accessed and is uninstalled).
 
-click,click: Add an agenda hosted on Film Critic to your score area.
+![[click.svg]],![[click.svg]]: Add an agenda hosted on Film Critic to your score area.

@@ -29,6 +29,6 @@ nrdb: https://netrunnerdb.com/en/card/36050
 
 When you rez this ice, if it is protecting a central server, take 1 bad publicity.
 
-↳ End the run unless the Runner pays 3 credits.
+![[subroutine.svg]] End the run unless the Runner pays 3![[credit.svg]].
 
-↳ End the run unless the Runner pays 3 credits.
+![[subroutine.svg]] End the run unless the Runner pays 3![[credit.svg]].

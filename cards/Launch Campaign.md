@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/09027
 
 ## Text
 
-Place 6 credits from the bank on Launch Campaign when it is rezzed. When there are no credits left on Launch Campaign, trash it.
+Place 6![[credit.svg]] from the bank on Launch Campaign when it is rezzed. When there are no credits left on Launch Campaign, trash it.
 
-When your turn begins, take 2 credits from Launch Campaign.
+When your turn begins, take 2![[credit.svg]] from Launch Campaign.

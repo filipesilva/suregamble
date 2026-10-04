@@ -29,8 +29,8 @@ nrdb: https://netrunnerdb.com/en/card/34042
 
 Threat 3 → The Runner cannot spend credits while subroutines on this ice are resolving. *(This ability is active if any player has 3 or more agenda points.)*
 
-↳ Do 1 net damage unless the Runner pays 2 credits.
+![[subroutine.svg]] Do 1 net damage unless the Runner pays 2![[credit.svg]].
 
-↳ Do 1 net damage unless the Runner pays 2 credits.
+![[subroutine.svg]] Do 1 net damage unless the Runner pays 2![[credit.svg]].
 
-↳ Do 1 net damage unless the Runner pays 2 credits.
+![[subroutine.svg]] Do 1 net damage unless the Runner pays 2![[credit.svg]].

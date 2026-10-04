@@ -31,6 +31,6 @@ nrdb: https://netrunnerdb.com/en/card/33018
 
 When you install this program, place 6 power counters on it.
 
-Interface → trash or **hosted power counter:** Break 1 **sentry** subroutine.
+Interface → ![[trash.svg]] or **hosted power counter:** Break 1 **sentry** subroutine.
 
-**2 credits:** +3 strength.
+**2![[credit.svg]]:** +3 strength.

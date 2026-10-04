@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/12057
 
 ## Text
 
-↳End the run.
+![[subroutine.svg]]End the run.
 
-↳End the run.
+![[subroutine.svg]]End the run.

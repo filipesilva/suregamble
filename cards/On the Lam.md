@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/11082
 
 ## Text
 
-Host this event on an installed resource as a condition counter with "interrupt → trash**:** Prevent up to 3 tags or up to 3 damage."
+Host this event on an installed resource as a condition counter with "![[interrupt.svg]] → ![[trash.svg]]**:** Prevent up to 3 tags or up to 3 damage."

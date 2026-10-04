@@ -24,6 +24,6 @@ nrdb: https://netrunnerdb.com/en/card/06001
 
 ## Text
 
-click,click,click: Place 1 agenda counter on Domestic Sleepers.
+![[click.svg]],![[click.svg]],![[click.svg]]: Place 1 agenda counter on Domestic Sleepers.
 
 Domestic Sleepers is worth 1 agenda point while it has at least 1 agenda counter on it.

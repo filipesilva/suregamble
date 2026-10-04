@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/06058
 
 ## Text
 
-The first time you have no credits in your credit pool each turn, gain 1 credit.
+The first time you have no credits in your credit pool each turn, gain 1![[credit.svg]].

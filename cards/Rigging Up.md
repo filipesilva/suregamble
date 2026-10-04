@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/33024
 
 ## Text
 
-Install 1 program or piece of hardware from your grip, paying 3 credits less. You may charge that card if able. *(If it has a power counter on it, add another.)*
+Install 1 program or piece of hardware from your grip, paying 3![[credit.svg]] less. You may charge that card if able. *(If it has a power counter on it, add another.)*

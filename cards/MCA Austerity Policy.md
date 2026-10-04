@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/12111
 
 ## Text
 
-Once per turn → click**:** Place 1 power counter on this asset. When the Runner's next turn begins, they lose click.
+Once per turn → ![[click.svg]]**:** Place 1 power counter on this asset. When the Runner's next turn begins, they lose ![[click.svg]].
 
-click, trash, **3 hosted power counters:** Gain 4 clicks.
+![[click.svg]], ![[trash.svg]], **3 hosted power counters:** Gain ![[click.svg]]![[click.svg]]![[click.svg]]![[click.svg]].

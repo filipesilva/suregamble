@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/30031
 
 ## Text
 
-+1MU
++1![[mu.svg]]
 
 You get +1 maximum hand size.

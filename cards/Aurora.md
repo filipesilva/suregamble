@@ -29,6 +29,6 @@ nrdb: https://netrunnerdb.com/en/card/20027
 
 ## Text
 
-Interface → **2 credits:** Break 1 **barrier** subroutine.
+Interface → **2![[credit.svg]]:** Break 1 **barrier** subroutine.
 
-**2 credits:** +3 strength.
+**2![[credit.svg]]:** +3 strength.

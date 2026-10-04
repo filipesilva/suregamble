@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/12020
 
 ## Text
 
-trash: Cards cannot be installed until the end of the run. Use this ability only during a run on this server.
+![[trash.svg]]: Cards cannot be installed until the end of the run. Use this ability only during a run on this server.

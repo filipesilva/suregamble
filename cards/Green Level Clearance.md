@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/20073
 
 ## Text
 
-Gain 3 credits and draw 1 card.
+Gain 3![[credit.svg]] and draw 1 card.

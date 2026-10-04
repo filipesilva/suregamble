@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/30062
 
 ## Text
 
-↳ Trash 1 installed program or end the run.
+![[subroutine.svg]] Trash 1 installed program or end the run.

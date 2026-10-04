@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/02072
 
 ## Text
 
-2recurring credit
+2![[recurring-credit.svg]]
 
 Use these credits to rez ice.

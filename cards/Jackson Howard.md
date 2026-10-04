@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/04015
 
 ## Text
 
-click: Draw 2 cards.
+![[click.svg]]: Draw 2 cards.
 
 **Remove Jackson Howard from the game:** Shuffle up to 3 cards from Archives into R&D.

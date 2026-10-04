@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/35026
 
 ## Text
 
-Draw 1 card for each click you have remaining.
+Draw 1 card for each ![[click.svg]] you have remaining.

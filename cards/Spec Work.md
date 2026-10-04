@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/26022
 
 As an additional cost to play this event, trash 1 installed program.
 
-Gain 4 credits and draw 2 cards.
+Gain 4![[credit.svg]] and draw 2 cards.

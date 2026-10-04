@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/25127
 
 Contract Killer can be advanced.
 
-If there are at least 2 advancement tokens on Contract Killer, it gains: "click, trash: Trash a **connection** or do 2 meat damage."
+If there are at least 2 advancement tokens on Contract Killer, it gains: "![[click.svg]], ![[trash.svg]]: Trash a **connection** or do 2 meat damage."

@@ -23,6 +23,6 @@ nrdb: https://netrunnerdb.com/en/card/04069
 
 ## Text
 
-When your turn begins, lose click.
+When your turn begins, lose ![[click.svg]].
 
 Ignore any additional costs on each **double** event you play.

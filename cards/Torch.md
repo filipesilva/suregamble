@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/04047
 
 ## Text
 
-Interface → **1 credit:** Break 1 **code gate** subroutine.
+Interface → **1![[credit.svg]]:** Break 1 **code gate** subroutine.
 
-**1 credit:** +1 strength.
+**1![[credit.svg]]:** +1 strength.

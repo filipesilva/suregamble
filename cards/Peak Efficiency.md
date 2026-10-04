@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/06062
 
 ## Text
 
-Gain 1 credit for each rezzed piece of ice.
+Gain 1![[credit.svg]] for each rezzed piece of ice.

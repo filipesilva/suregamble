@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/33011
 
 When your turn begins, identify your mark. *(If you don’t have a mark, a random central server becomes your mark for this turn.)*
 
-The first time each turn you make a successful run on your mark, gain click.
+The first time each turn you make a successful run on your mark, gain ![[click.svg]].

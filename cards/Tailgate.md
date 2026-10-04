@@ -25,6 +25,6 @@ nrdb: https://netrunnerdb.com/en/card/36012
 
 ## Text
 
-The play cost of this event is lowered by 1 credit for each piece of ice protecting HQ.
+The play cost of this event is lowered by 1![[credit.svg]] for each piece of ice protecting HQ.
 
 Run HQ. If successful, access 2 additional cards when you breach HQ.

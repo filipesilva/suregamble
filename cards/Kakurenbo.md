@@ -26,7 +26,7 @@ nrdb: https://netrunnerdb.com/en/card/26111
 
 ## Text
 
-As an additional cost to play this operation, spend 2 clicks.
+As an additional cost to play this operation, spend ![[click.svg]]![[click.svg]].
 
 Trash any number of cards from HQ. Turn all cards in Archives facedown. You may install 1 card from Archives in the root of a remote server and place 2 advancement counters on it.
 

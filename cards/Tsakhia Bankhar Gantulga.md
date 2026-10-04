@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/33074
 
 When your turn begins, you may choose a server.
 
-During the first encounter each turn with a piece of ice protecting the chosen server, whenever the Corp would resolve a subroutine, instead they resolve "↳ Do 1 net damage.".
+During the first encounter each turn with a piece of ice protecting the chosen server, whenever the Corp would resolve a subroutine, instead they resolve "![[subroutine.svg]] Do 1 net damage.".

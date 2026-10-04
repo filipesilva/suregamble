@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/06056
 
 ## Text
 
-click: Host a resource or piece of hardware from your grip on The Supplier.
+![[click.svg]]: Host a resource or piece of hardware from your grip on The Supplier.
 
 When your turn begins, you may install a hosted card, lowering the install cost by 2.

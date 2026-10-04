@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/30059
 
 ## Text
 
-Whenever you advance a card, gain 2 credits if it had no advancement counters.
+Whenever you advance a card, gain 2![[credit.svg]] if it had no advancement counters.

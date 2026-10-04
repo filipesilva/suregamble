@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/25053
 
 ## Text
 
-Interface → **trash:** Break any number of **AP** subroutines.
+Interface → **![[trash.svg]]:** Break any number of **AP** subroutines.
 
-interrupt → **trash:** Prevent any amount of net damage.
+![[interrupt.svg]] → **![[trash.svg]]:** Prevent any amount of net damage.

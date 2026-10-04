@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/06064
 
 ## Text
 
-This ice gains "↳ End the run." for each card in HQ.
+This ice gains "![[subroutine.svg]] End the run." for each card in HQ.

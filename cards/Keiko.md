@@ -28,8 +28,8 @@ nrdb: https://netrunnerdb.com/en/card/26070
 
 ## Text
 
-+2MU
++2![[mu.svg]]
 
-The first time each turn you install a **companion** card or spend credits from an installed **companion** card, gain 1 credit.
+The first time each turn you install a **companion** card or spend credits from an installed **companion** card, gain 1![[credit.svg]].
 
 Limit 1 **console** per player.

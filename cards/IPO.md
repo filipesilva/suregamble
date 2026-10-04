@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/25147
 
 After you resolve this operation, end your action phase.
 
-Gain 13 credits.
+Gain 13![[credit.svg]].

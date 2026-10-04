@@ -32,4 +32,4 @@ When you install this resource, take 1 tag. Load X power counters onto this reso
 
 The Corp cannot trash this resource while there is another resource installed.
 
-interrupt → **Hosted power counter:** Prevent 1 meat damage.
+![[interrupt.svg]] → **Hosted power counter:** Prevent 1 meat damage.

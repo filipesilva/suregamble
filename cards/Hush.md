@@ -30,4 +30,4 @@ Install only on a piece of ice.
 
 Host ice cannot gain abilities and loses all abilities except its printed subroutines.
 
-**click:** Host this program on another installed piece of ice.
+**![[click.svg]]:** Host this program on another installed piece of ice.

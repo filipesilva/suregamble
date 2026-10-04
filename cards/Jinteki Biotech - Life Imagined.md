@@ -37,7 +37,7 @@ nrdb: https://netrunnerdb.com/en/card/08012
 
 Before taking your first turn, you may switch this identity with any copy of Jinteki Biotech.
 
-**3 clicks:** Flip this identity.
+**![[click.svg]]![[click.svg]]![[click.svg]]:** Flip this identity.
 
 ## The Brewery: Jinteki Biotech
 

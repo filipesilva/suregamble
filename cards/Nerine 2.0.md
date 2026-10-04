@@ -29,8 +29,8 @@ nrdb: https://netrunnerdb.com/en/card/12030
 
 ## Text
 
-**Lose 2 clicks:** Break up to 2 subroutines on this ice. Only the Runner can use this ability.
+**Lose ![[click.svg]]![[click.svg]]:** Break up to 2 subroutines on this ice. Only the Runner can use this ability.
 
-↳ Do 1 core damage. You may draw 1 card.
+![[subroutine.svg]] Do 1 core damage. You may draw 1 card.
 
-↳ Do 1 core damage. You may draw 1 card.
+![[subroutine.svg]] Do 1 core damage. You may draw 1 card.

@@ -25,6 +25,6 @@ nrdb: https://netrunnerdb.com/en/card/04034
 
 ## Text
 
-As an additional cost to play this operation, spend click.
+As an additional cost to play this operation, spend ![[click.svg]].
 
 Place up to 2 advancement tokens on a card that can be advanced.

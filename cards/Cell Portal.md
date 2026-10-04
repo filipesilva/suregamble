@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/01074
 
 ## Text
 
-↳ The Runner moves to the outermost position of the attacked server. They may jack out. Derez this ice.
+![[subroutine.svg]] The Runner moves to the outermost position of the attacked server. They may jack out. Derez this ice.

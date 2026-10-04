@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/02016
 
 ## Text
 
-click: Trace[2]. If successful, give the Runner 1 tag.
+![[click.svg]]: Trace[2]. If successful, give the Runner 1 tag.

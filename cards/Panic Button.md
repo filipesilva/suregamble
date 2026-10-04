@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/04072
 
 Install only in the root of HQ.
 
-1 credit: Draw 1 card. Use this ability only during a run on HQ.
+1![[credit.svg]]: Draw 1 card. Use this ability only during a run on HQ.

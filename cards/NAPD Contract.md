@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/04119
 
 This agenda gets +1 advancement requirement for each bad publicity you have.
 
-As an additional cost to steal this agenda, the Runner must pay 4 credits.
+As an additional cost to steal this agenda, the Runner must pay 4![[credit.svg]].

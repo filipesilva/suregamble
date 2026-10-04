@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/30046
 
 ## Text
 
-↳ Do 1 net damage. If you trash a card this way with a printed play or install cost that is an odd number, end the run. *(0 is not odd.)*
+![[subroutine.svg]] Do 1 net damage. If you trash a card this way with a printed play or install cost that is an odd number, end the run. *(0 is not odd.)*

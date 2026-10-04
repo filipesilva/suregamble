@@ -32,8 +32,8 @@ When you rez this ice, choose 1 or more subtypes among **barrier**, **code gate*
 
 When a turn ends, derez this ice.
 
-↳ If this ice is a **code gate**, the Runner loses click and 1 credit.
+![[subroutine.svg]] If this ice is a **code gate**, the Runner loses ![[click.svg]] and 1![[credit.svg]].
 
-↳ If this ice is a **sentry**, trash 1 installed program.
+![[subroutine.svg]] If this ice is a **sentry**, trash 1 installed program.
 
-↳ If this ice is a **barrier**, gain 1 credit and end the run.
+![[subroutine.svg]] If this ice is a **barrier**, gain 1![[credit.svg]] and end the run.

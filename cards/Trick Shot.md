@@ -25,8 +25,8 @@ nrdb: https://netrunnerdb.com/en/card/34087
 
 ## Text
 
-Place 4 credits on this event. You can spend hosted credits during runs.
+Place 4![[credit.svg]] on this event. You can spend hosted credits during runs.
 
-Run R&D. If successful, place 2 credits on this event and access 1 additional card when you breach R&D.
+Run R&D. If successful, place 2![[credit.svg]] on this event and access 1 additional card when you breach R&D.
 
 When that run ends, you may run a remote server.

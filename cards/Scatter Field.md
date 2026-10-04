@@ -29,6 +29,6 @@ nrdb: https://netrunnerdb.com/en/card/35042
 
 While this ice is the only piece of ice protecting this server, it gets +4 strength.
 
-↳ You may install 1 card from HQ.
+![[subroutine.svg]] You may install 1 card from HQ.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

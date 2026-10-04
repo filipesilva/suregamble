@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/12077
 
 ## Text
 
-When you score this agenda, the Runner may trash 1 of their installed cards. If they do not, draw 1 card and gain 5 credits. Otherwise, you may trash 1 of your installed cards to repeat this process.
+When you score this agenda, the Runner may trash 1 of their installed cards. If they do not, draw 1 card and gain 5![[credit.svg]]. Otherwise, you may trash 1 of your installed cards to repeat this process.

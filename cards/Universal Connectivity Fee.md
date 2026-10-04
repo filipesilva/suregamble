@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/06067
 
 ## Text
 
-↳ If the Runner is not tagged, they lose 1 credit. If the Runner is tagged, they lose all credits in their credit pool and you trash this ice.
+![[subroutine.svg]] If the Runner is not tagged, they lose 1![[credit.svg]]. If the Runner is tagged, they lose all credits in their credit pool and you trash this ice.

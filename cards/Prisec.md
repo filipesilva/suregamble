@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/11040
 
 ## Text
 
-If the Runner accesses Prisec while installed, you may pay 2 credits to give the Runner 1 tag and do 1 meat damage.
+If the Runner accesses Prisec while installed, you may pay 2![[credit.svg]] to give the Runner 1 tag and do 1 meat damage.

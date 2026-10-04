@@ -29,8 +29,8 @@ nrdb: https://netrunnerdb.com/en/card/21104
 
 ## Text
 
-Interface → **2 credits:** Break up to 3 **code gate** subroutines.
+Interface → **2![[credit.svg]]:** Break up to 3 **code gate** subroutines.
 
-**2 credits:** +3 strength.
+**2![[credit.svg]]:** +3 strength.
 
-The first time each turn this program fully breaks a piece of ice, the Corp loses 1 credit.
+The first time each turn this program fully breaks a piece of ice, the Corp loses 1![[credit.svg]].

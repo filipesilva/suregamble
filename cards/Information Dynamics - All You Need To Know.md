@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/00012
 
 Draft format only.
 
-If you have more nbn cards rezzed than any other faction, whenever an agenda is scored or stolen, give the runner 1 tag.
+If you have more ![[nbn.svg]] cards rezzed than any other faction, whenever an agenda is scored or stolen, give the runner 1 tag.

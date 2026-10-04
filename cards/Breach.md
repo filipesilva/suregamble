@@ -29,8 +29,8 @@ nrdb: https://netrunnerdb.com/en/card/05042
 
 ## Text
 
-Interface → **2 credits:** Break up to 3 **barrier** subroutines.
+Interface → **2![[credit.svg]]:** Break up to 3 **barrier** subroutines.
 
-**2 credits:** +4 strength.
+**2![[credit.svg]]:** +4 strength.
 
 This program cannot interface with ice protecting a remote server.

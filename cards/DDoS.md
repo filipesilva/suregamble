@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/08103
 
 ## Text
 
-trash: The Corp cannot rez the outermost piece of ice during a run on any server this turn.
+![[trash.svg]]: The Corp cannot rez the outermost piece of ice during a run on any server this turn.

@@ -28,8 +28,8 @@ nrdb: https://netrunnerdb.com/en/card/34092
 
 ## Text
 
-Interface → **1 credit:** Break 1 **barrier** subroutine.
+Interface → **1![[credit.svg]]:** Break 1 **barrier** subroutine.
 
-**2 credits:** +3 strength.
+**2![[credit.svg]]:** +3 strength.
 
-Threat 4 → **2 credits:** +9 strength. Use this ability only once per run. *(This ability is active if any player has 4 or more agenda points.)*
+Threat 4 → **2![[credit.svg]]:** +9 strength. Use this ability only once per run. *(This ability is active if any player has 4 or more agenda points.)*

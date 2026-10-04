@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/21027
 
 ## Text
 
-trash: Break the first subroutine on the encountered piece of ice.
+![[trash.svg]]: Break the first subroutine on the encountered piece of ice.

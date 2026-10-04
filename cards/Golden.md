@@ -28,8 +28,8 @@ nrdb: https://netrunnerdb.com/en/card/11025
 
 ## Text
 
-Interface → 2 credits: Break up to 2 **sentry** subroutines.
+Interface → 2![[credit.svg]]: Break up to 2 **sentry** subroutines.
 
-**2 credits:** +4 strength.
+**2![[credit.svg]]:** +4 strength.
 
-**2 credits**, **add this program to your grip:** Derez 1 **sentry** this program fully broke during this encounter.
+**2![[credit.svg]]**, **add this program to your grip:** Derez 1 **sentry** this program fully broke during this encounter.

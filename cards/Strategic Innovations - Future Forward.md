@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/00010
 
 Draft format only.
 
-If you have more haas bioroid cards rezzed than any other faction, when the Runner's turn ends, shuffle 1 card in Archives into R&D.
+If you have more ![[haas-bioroid.svg]] cards rezzed than any other faction, when the Runner's turn ends, shuffle 1 card in Archives into R&D.

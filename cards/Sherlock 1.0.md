@@ -28,8 +28,8 @@ nrdb: https://netrunnerdb.com/en/card/02030
 
 ## Text
 
-**Lose click:** Break 1 subroutine on this ice. Only the Runner can use this ability.
+**Lose ![[click.svg]]:** Break 1 subroutine on this ice. Only the Runner can use this ability.
 
-↳ Trace[4]. If successful, add 1 installed program to the top of the Runner's stack.
+![[subroutine.svg]] Trace[4]. If successful, add 1 installed program to the top of the Runner's stack.
 
-↳ Trace[4]. If successful, add 1 installed program to the top of the Runner's stack.
+![[subroutine.svg]] Trace[4]. If successful, add 1 installed program to the top of the Runner's stack.

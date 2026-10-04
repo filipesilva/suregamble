@@ -32,4 +32,4 @@ Changeling can be advanced.
 
 While Changeling has an odd number of advancement tokens on it, it gains **sentry** and loses **barrier**.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

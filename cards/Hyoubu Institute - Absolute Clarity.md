@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/26039
 
 ## Text
 
-The first time each turn you reveal a card, gain 1 credit.
+The first time each turn you reveal a card, gain 1![[credit.svg]].
 
-**click:** Reveal 1 card from the grip at random or the top card of the stack.
+**![[click.svg]]:** Reveal 1 card from the grip at random or the top card of the stack.

@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/11001
 
 This event is not trashed until another **current** is played or an agenda is scored.
 
-Whenever the Corp draws 1 or more cards, if it is not the first time they have drawn cards this turn, they lose 1 credit.
+Whenever the Corp draws 1 or more cards, if it is not the first time they have drawn cards this turn, they lose 1![[credit.svg]].

@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/20126
 
 ## Text
 
-If the Runner is tagged, Private Security Force gains: "click: Do 1 meat damage."
+If the Runner is tagged, Private Security Force gains: "![[click.svg]]: Do 1 meat damage."

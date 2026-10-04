@@ -30,8 +30,8 @@ nrdb: https://netrunnerdb.com/en/card/09050
 
 ## Text
 
-If you have at least 2link, the memory cost of this program is 0MU, even if it is not installed.
+If you have at least 2![[link.svg]], the memory cost of this program is 0![[mu.svg]], even if it is not installed.
 
-Interface → **2 credits:** Break any number of **barrier** subroutines.
+Interface → **2![[credit.svg]]:** Break any number of **barrier** subroutines.
 
-**2 credits:** +3 strength.
+**2![[credit.svg]]:** +3 strength.

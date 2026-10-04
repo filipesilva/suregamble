@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/02042
 
 ## Text
 
-When your turn begins, you may gain click. If you do, take 1 tag when this turn ends.
+When your turn begins, you may gain ![[click.svg]]. If you do, take 1 tag when this turn ends.

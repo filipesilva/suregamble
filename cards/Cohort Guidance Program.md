@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/34108
 
 When your turn begins, you may resolve 1 of the following:
 
-- Trash 1 card from HQ. If you do, gain 2 credits and draw 1 card.
+- Trash 1 card from HQ. If you do, gain 2![[credit.svg]] and draw 1 card.
 
 - Turn 1 facedown card in Archives faceup. If you do, place 1 advancement counter on an installed card.

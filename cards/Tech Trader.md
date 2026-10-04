@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/10023
 
 ## Text
 
-Whenever you use a trash ability, gain 1 credit.
+Whenever you use a ![[trash.svg]] ability, gain 1![[credit.svg]].

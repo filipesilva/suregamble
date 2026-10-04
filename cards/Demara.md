@@ -28,8 +28,8 @@ nrdb: https://netrunnerdb.com/en/card/25034
 
 ## Text
 
-Interface → **2 credits:** Break up to 2 **barrier** subroutines.
+Interface → **2![[credit.svg]]:** Break up to 2 **barrier** subroutines.
 
-**2 credits:** +3 strength.
+**2![[credit.svg]]:** +3 strength.
 
-**trash:** Bypass the **barrier** you are encountering.
+**![[trash.svg]]:** Bypass the **barrier** you are encountering.

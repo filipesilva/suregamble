@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/12089
 
 ## Text
 
-When your turn begins, you may remove 1 card in the heap from the game. If you do, gain 2 credits.
+When your turn begins, you may remove 1 card in the heap from the game. If you do, gain 2![[credit.svg]].

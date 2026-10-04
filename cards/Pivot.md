@@ -26,7 +26,7 @@ nrdb: https://netrunnerdb.com/en/card/34062
 
 ## Text
 
-As an additional cost to play this operation, spend click.
+As an additional cost to play this operation, spend ![[click.svg]].
 
 Search R&D for 1 operation or agenda and reveal it. *(Shuffle R&D after searching it.)* Add that card to HQ.
 

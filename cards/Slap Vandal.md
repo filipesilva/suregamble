@@ -31,4 +31,4 @@ nrdb: https://netrunnerdb.com/en/card/34026
 
 Install only on a piece of ice.
 
-Interface → **1 credit:** Break 1 subroutine on host ice. Use this ability only once per encounter.
+Interface → **1![[credit.svg]]:** Break 1 subroutine on host ice. Use this ability only once per encounter.

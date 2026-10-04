@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/21028
 
 ## Text
 
-As an additional cost to play this event, spend click.
+As an additional cost to play this event, spend ![[click.svg]].
 
-Trash any number of programs and/or pieces of hardware from your grip. Search your stack for 1 program or piece of hardware. Install it, paying X credits less. X is equal to the total install cost of the trashed cards.
+Trash any number of programs and/or pieces of hardware from your grip. Search your stack for 1 program or piece of hardware. Install it, paying X![[credit.svg]] less. X is equal to the total install cost of the trashed cards.

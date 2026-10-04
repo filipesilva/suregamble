@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/11111
 
 After you resolve this operation, end your action phase.
 
-Gain 8 credits and draw 4 cards.
+Gain 8![[credit.svg]] and draw 4 cards.

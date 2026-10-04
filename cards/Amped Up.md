@@ -23,4 +23,4 @@ nrdb: https://netrunnerdb.com/en/card/07031
 
 ## Text
 
-Gain 3 clicks and suffer 1 core damage. This damage cannot be prevented.
+Gain ![[click.svg]]![[click.svg]]![[click.svg]] and suffer 1 core damage. This damage cannot be prevented.

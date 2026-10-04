@@ -32,4 +32,4 @@ When you rez this ice, choose 1 installed program hosted on a piece of ice. Host
 
 Each hosted program loses all abilities and cannot gain abilities.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

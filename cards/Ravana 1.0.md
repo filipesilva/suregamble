@@ -29,8 +29,8 @@ nrdb: https://netrunnerdb.com/en/card/31045
 
 ## Text
 
-**Lose click:** Break 1 subroutine on this ice. Only the Runner can use this ability.
+**Lose ![[click.svg]]:** Break 1 subroutine on this ice. Only the Runner can use this ability.
 
-↳ Resolve 1 subroutine on another rezzed **bioroid** ice.
+![[subroutine.svg]] Resolve 1 subroutine on another rezzed **bioroid** ice.
 
-↳ Resolve 1 subroutine on another rezzed **bioroid** ice.
+![[subroutine.svg]] Resolve 1 subroutine on another rezzed **bioroid** ice.

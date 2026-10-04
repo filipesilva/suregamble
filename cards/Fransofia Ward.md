@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/35021
 
 ## Text
 
-The rez cost of each piece of ice is increased by 1 credit.
+The rez cost of each piece of ice is increased by 1![[credit.svg]].
 
-Whenever you encounter a piece of ice, if the Corp has 15 credits or more, you may trash this resource to bypass that ice. *(Pass that ice. No subroutines or further "when encountered" abilities resolve.)*
+Whenever you encounter a piece of ice, if the Corp has 15![[credit.svg]] or more, you may trash this resource to bypass that ice. *(Pass that ice. No subroutines or further "when encountered" abilities resolve.)*

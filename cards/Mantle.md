@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/26088
 
 ## Text
 
-1recurring credit
+1![[recurring-credit.svg]]
 
 You can spend hosted credits to use hardware and programs.

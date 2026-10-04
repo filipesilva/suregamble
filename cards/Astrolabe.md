@@ -27,7 +27,7 @@ nrdb: https://netrunnerdb.com/en/card/06079
 
 ## Text
 
-+1MU
++1![[mu.svg]]
 
 Draw 1 card whenever the Corp creates a server.
 

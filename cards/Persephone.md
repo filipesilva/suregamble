@@ -29,8 +29,8 @@ nrdb: https://netrunnerdb.com/en/card/12042
 
 ## Text
 
-Interface → **2 credits:** Break 1 **sentry** subroutine.
+Interface → **2![[credit.svg]]:** Break 1 **sentry** subroutine.
 
-**1 credit:** +1 strength.
+**1![[credit.svg]]:** +1 strength.
 
 Whenever you pass a **sentry** after encountering it, you may trash the top card of your stack. If you do, trash 1 card from the top of R&D for each subroutine on that **sentry** that resolved during that encounter.

@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/10027
 
 ## Text
 
-When you rez Advanced Assembly Lines, gain 3 credits.
+When you rez Advanced Assembly Lines, gain 3![[credit.svg]].
 
-trash: Install a non-agenda card from HQ (paying the install cost). You cannot use this ability during a run.
+![[trash.svg]]: Install a non-agenda card from HQ (paying the install cost). You cannot use this ability during a run.

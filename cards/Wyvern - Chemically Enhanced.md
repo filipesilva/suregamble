@@ -27,4 +27,4 @@ Draft format only.
 
 You must maintain the order of your heap.
 
-Whenever you trash a Corp card, if you have more anarch cards installed than any other faction, shuffle the top card of your heap into your stack.
+Whenever you trash a Corp card, if you have more ![[anarch.svg]] cards installed than any other faction, shuffle the top card of your heap into your stack.

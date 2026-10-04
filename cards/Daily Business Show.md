@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/31063
 
 ## Text
 
-interrupt → The first time each turn you would draw any number of cards, increase the number of cards you will draw by 1. When you draw those cards, add 1 of them to the bottom of R&D.
+![[interrupt.svg]] → The first time each turn you would draw any number of cards, increase the number of cards you will draw by 1. When you draw those cards, add 1 of them to the bottom of R&D.

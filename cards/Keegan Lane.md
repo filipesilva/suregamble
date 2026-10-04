@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/09024
 
 ## Text
 
-trash, **remove 1 tag:** Trash 1 program. Use this ability only during a run on this server.
+![[trash.svg]], **remove 1 tag:** Trash 1 program. Use this ability only during a run on this server.

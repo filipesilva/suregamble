@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/25067
 
 ## Text
 
-The first time each turn the Runner loses or spends click during a run, you may add 1 card from Archives to the top of R&D.
+The first time each turn the Runner loses or spends ![[click.svg]] during a run, you may add 1 card from Archives to the top of R&D.

@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/12059
 
 ## Text
 
-As an additional cost to play this operation, spend click, click.
+As an additional cost to play this operation, spend ![[click.svg]], ![[click.svg]].
 
 Move all advancement tokens from all installed cards to 1 card that can be advanced.

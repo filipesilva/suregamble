@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/11092
 
 ## Text
 
-↳ You and the Runner secretly spend 0 credits, 1 credit, or 2 credits. Reveal spent credits. If you and the Runner spent a different number of credits, choose another server. The Runner moves to the outermost position of that server instead of passing this ice. For the remainder of this run, the Runner must add 1 installed Runner card to the bottom of their stack as an additional cost to jack out. The Runner may jack out.
+![[subroutine.svg]] You and the Runner secretly spend 0![[credit.svg]], 1![[credit.svg]], or 2![[credit.svg]]. Reveal spent credits. If you and the Runner spent a different number of credits, choose another server. The Runner moves to the outermost position of that server instead of passing this ice. For the remainder of this run, the Runner must add 1 installed Runner card to the bottom of their stack as an additional cost to jack out. The Runner may jack out.

@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/31024
 
 When your turn begins, you may choose a server.
 
-The first time each turn you make a successful run on the chosen server, instead of breaching it, gain 2 credits.
+The first time each turn you make a successful run on the chosen server, instead of breaching it, gain 2![[credit.svg]].

@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/21045
 
 ## Text
 
-interrupt → The first time each turn you would take tags or suffer net damage, you may trash this resource to have the Corp trace[0]. If unsuccessful, prevent all tags or all net damage.
+![[interrupt.svg]] → The first time each turn you would take tags or suffer net damage, you may trash this resource to have the Corp trace[0]. If unsuccessful, prevent all tags or all net damage.

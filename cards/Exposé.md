@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/08075
 
 You can advance this asset.
 
-trash**:** Remove 1 bad publicity for each hosted advancement counter.
+![[trash.svg]]**:** Remove 1 bad publicity for each hosted advancement counter.

@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/07040
 
 ## Text
 
-Interface → **1 credit:** Break 1 subroutine. You cannot access cards for the remainder of this run.
+Interface → **1![[credit.svg]]:** Break 1 subroutine. You cannot access cards for the remainder of this run.
 
-**1 credit:** +1 strength.
+**1![[credit.svg]]:** +1 strength.

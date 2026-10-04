@@ -29,6 +29,6 @@ nrdb: https://netrunnerdb.com/en/card/30074
 
 ## Text
 
-↳ The Runner loses 3 credits.
+![[subroutine.svg]] The Runner loses 3![[credit.svg]].
 
-↳ If the Runner has 6 credits or less, end the run.
+![[subroutine.svg]] If the Runner has 6![[credit.svg]] or less, end the run.

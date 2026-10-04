@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/09035
 
 ## Text
 
-interrupt, once per turn → **0 credits:** Prevent a "when encountered" ability on a piece of ice.
+![[interrupt.svg]], once per turn → **0![[credit.svg]]:** Prevent a "when encountered" ability on a piece of ice.
 
-trash**:** Install the top 3 cards of your stack facedown.
+![[trash.svg]]**:** Install the top 3 cards of your stack facedown.

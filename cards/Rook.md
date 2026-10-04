@@ -29,6 +29,6 @@ nrdb: https://netrunnerdb.com/en/card/04003
 
 While this program is hosted on ice, the rez cost of each piece of ice protecting this server is increased by 2.
 
-click: Host this program on a piece of ice that is not hosting a **Caïssa** program.
+![[click.svg]]: Host this program on a piece of ice that is not hosting a **Caïssa** program.
 
-If this program is hosted on ice, its click ability can only be used to host it on ice protecting the same server or in the same position as its current host ice. *(Count positions from the innermost ice.)*
+If this program is hosted on ice, its ![[click.svg]] ability can only be used to host it on ice protecting the same server or in the same position as its current host ice. *(Count positions from the innermost ice.)*

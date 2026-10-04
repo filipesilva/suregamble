@@ -24,8 +24,8 @@ nrdb: https://netrunnerdb.com/en/card/11036
 
 ## Text
 
-When your turn begins, you may move up to 3 credits from your credit pool to C.I. Fund.
+When your turn begins, you may move up to 3![[credit.svg]] from your credit pool to C.I. Fund.
 
-When your turn begins, place 2 credits on C.I. Fund from the bank if there are at least 6 credits on it.
+When your turn begins, place 2![[credit.svg]] on C.I. Fund from the bank if there are at least 6![[credit.svg]] on it.
 
-2 credits,trash: Take all credits from C.I. Fund.
+2![[credit.svg]],![[trash.svg]]: Take all credits from C.I. Fund.

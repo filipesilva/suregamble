@@ -32,4 +32,4 @@ nrdb: https://netrunnerdb.com/en/card/30001
 
 ## Text
 
-The first time each turn you trash a card you are accessing, gain 1 credit and draw 1 card.
+The first time each turn you trash a card you are accessing, gain 1![[credit.svg]] and draw 1 card.

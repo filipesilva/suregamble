@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/11052
 
 When you score Project Kusanagi, place 1 agenda counter on it for each advancement token on it over 2.
 
-**Hosted agenda counter:** Choose 1 piece of ice to gain "↳ Do 1 net damage." after all its other subroutines for the remainder of this run.
+**Hosted agenda counter:** Choose 1 piece of ice to gain "![[subroutine.svg]] Do 1 net damage." after all its other subroutines for the remainder of this run.

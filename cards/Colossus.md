@@ -31,6 +31,6 @@ nrdb: https://netrunnerdb.com/en/card/26124
 
 You can advance this ice. It gets +1 strength for each hosted advancement counter.
 
-↳ Give the Runner 1 tag. If there are 3 or more hosted advancement counters, instead give the Runner 2 tags.
+![[subroutine.svg]] Give the Runner 1 tag. If there are 3 or more hosted advancement counters, instead give the Runner 2 tags.
 
-↳ Trash 1 installed program. If there are 3 or more hosted advancement counters, instead trash 1 installed program and 1 installed resource.
+![[subroutine.svg]] Trash 1 installed program. If there are 3 or more hosted advancement counters, instead trash 1 installed program and 1 installed resource.

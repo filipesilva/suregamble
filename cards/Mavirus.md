@@ -30,4 +30,4 @@ While the Runner is accessing this upgrade in R&D, they must reveal it.
 
 When the Runner accesses this upgrade, you may purge virus counters. If this upgrade is rezzed, do 1 net damage.
 
-trash**:** Purge virus counters.
+![[trash.svg]]**:** Purge virus counters.

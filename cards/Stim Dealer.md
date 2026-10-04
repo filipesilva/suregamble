@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/07051
 
 ## Text
 
-When your turn begins, if there are 2 or more hosted power counters, remove all of them and suffer 1 core damage. This damage cannot be prevented. Otherwise, place 1 power counter on this resource and gain click.
+When your turn begins, if there are 2 or more hosted power counters, remove all of them and suffer 1 core damage. This damage cannot be prevented. Otherwise, place 1 power counter on this resource and gain ![[click.svg]].

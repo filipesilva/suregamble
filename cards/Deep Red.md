@@ -26,10 +26,10 @@ nrdb: https://netrunnerdb.com/en/card/04042
 
 ## Text
 
-+3MU
++3![[mu.svg]]
 
 Use the MU on Deep Red only for **Caïssa** programs.
 
-Whenever you install a **Caïssa** program, you may trigger its click ability without spending click.
+Whenever you install a **Caïssa** program, you may trigger its ![[click.svg]] ability without spending ![[click.svg]].
 
 Limit 1 **console** per player.

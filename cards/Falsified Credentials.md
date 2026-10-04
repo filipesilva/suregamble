@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/21064
 
 ## Text
 
-Name a card type. Expose a card in a remote server, then gain 5 credits if the exposed card has the named card type.
+Name a card type. Expose a card in a remote server, then gain 5![[credit.svg]] if the exposed card has the named card type.

@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/21080
 
 ## Text
 
-When your turn begins, you may trash Rashida Jaheem to gain 3 credits and draw 3 cards.
+When your turn begins, you may trash Rashida Jaheem to gain 3![[credit.svg]] and draw 3 cards.

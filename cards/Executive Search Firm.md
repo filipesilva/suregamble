@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/10072
 
 ## Text
 
-This card costs 0 influence if you have 6 or more non-**alliance** weyland consortium cards in your deck.
+This card costs 0 influence if you have 6 or more non-**alliance** ![[weyland-consortium.svg]] cards in your deck.
 
-click: Search R&D for an **executive**, **sysop**, or **character**, reveal it, and add it to HQ. Shuffle R&D.
+![[click.svg]]: Search R&D for an **executive**, **sysop**, or **character**, reveal it, and add it to HQ. Shuffle R&D.

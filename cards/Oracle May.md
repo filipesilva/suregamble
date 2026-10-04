@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/05054
 
 You cannot use this resource more than once per turn.
 
-click**:** Choose a card type. Reveal the top card of your stack. If that card has the chosen type, draw it and gain 2 credits. Otherwise, trash it.
+![[click.svg]]**:** Choose a card type. Reveal the top card of your stack. If that card has the chosen type, draw it and gain 2![[credit.svg]]. Otherwise, trash it.

@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/04067
 
 ## Text
 
-Interface → **trash:** Break any number of **destroyer** subroutines.
+Interface → **![[trash.svg]]:** Break any number of **destroyer** subroutines.
 
-**1 credit:** +2 strength.
+**1![[credit.svg]]:** +2 strength.

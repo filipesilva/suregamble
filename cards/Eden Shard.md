@@ -30,6 +30,6 @@ nrdb: https://netrunnerdb.com/en/card/06020
 
 Whenever you make a successful run on R&D, instead of breaching R&D, you may install this resource from your grip, ignoring all costs.
 
-**trash:** The Corp draws 2 cards.
+**![[trash.svg]]:** The Corp draws 2 cards.
 
 Limit 1 per deck.

@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/26010
 
 ## Text
 
-The first **job** resource, **connection** resource, or piece of hardware you install each turn costs 1 credit less to install.
+The first **job** resource, **connection** resource, or piece of hardware you install each turn costs 1![[credit.svg]] less to install.

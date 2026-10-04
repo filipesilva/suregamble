@@ -24,6 +24,6 @@ nrdb: https://netrunnerdb.com/en/card/10060
 
 ## Text
 
-Draw 1 card. Gain 1 credit for each copy of Exclusive Party in your heap.
+Draw 1 card. Gain 1![[credit.svg]] for each copy of Exclusive Party in your heap.
 
 Limit 6 per deck.

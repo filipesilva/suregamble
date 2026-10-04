@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/34049
 
 When the Runner steals this agenda, give them 1 tag.
 
-click, **remove 1 tag:** Shuffle this agenda into R&D. The Corp can use this ability only if this agenda is in the Runner's score area.
+![[click.svg]], **remove 1 tag:** Shuffle this agenda into R&D. The Corp can use this ability only if this agenda is in the Runner's score area.

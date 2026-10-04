@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/31038
 
 ## Text
 
-1recurring credit *(When you install this card and before your turn begins, refill to 1 hosted credit.)*
+1![[recurring-credit.svg]] *(When you install this card and before your turn begins, refill to 1 hosted credit.)*
 
 You can spend hosted credits to play events.

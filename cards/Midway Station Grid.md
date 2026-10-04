@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/06007
 
 ## Text
 
-During runs on this server, the Runner must pay 1 credit as an additional cost to use an **icebreaker** ability to break subroutines.
+During runs on this server, the Runner must pay 1![[credit.svg]] as an additional cost to use an **icebreaker** ability to break subroutines.
 
 Limit 1 **region** per server.

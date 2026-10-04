@@ -31,4 +31,4 @@ The rez cost of IQ is increased by 1 for each card in HQ.
 
 IQ has +1 strength for each card in HQ.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

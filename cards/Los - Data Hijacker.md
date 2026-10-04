@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/12025
 
 ## Text
 
-The first time the Corp rezzes a piece of ice each turn, gain 2 credits.
+The first time the Corp rezzes a piece of ice each turn, gain 2![[credit.svg]].

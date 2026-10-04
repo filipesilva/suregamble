@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/06040
 
 ## Text
 
-Place 3 credits on Ghost Runner when it is installed. When there are no credits left on Ghost Runner, trash it.
+Place 3![[credit.svg]] on Ghost Runner when it is installed. When there are no credits left on Ghost Runner, trash it.
 
 You can use the credits on Ghost Runner during a run.

@@ -31,6 +31,6 @@ nrdb: https://netrunnerdb.com/en/card/10005
 
 You cannot use this program to break subroutines on more than one ice per run.
 
-Interface → **1 credit:** Break up to 2 **sentry** subroutines.
+Interface → **1![[credit.svg]]:** Break up to 2 **sentry** subroutines.
 
-**2 credits:** +2 strength.
+**2![[credit.svg]]:** +2 strength.

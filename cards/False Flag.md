@@ -31,4 +31,4 @@ False Flag can be advanced.
 
 When the Runner accesses False Flag, give the Runner 1 tag for every 2 advancement tokens on False Flag.
 
-click, **7 hosted advancement tokens**: add False Flag to your score area as an agenda worth 3 agenda points.
+![[click.svg]], **7 hosted advancement tokens**: add False Flag to your score area as an agenda worth 3 agenda points.

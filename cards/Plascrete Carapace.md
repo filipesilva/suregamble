@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/02009
 
 When you install this hardware, load 4 power counters onto it. When it is empty, trash it.
 
-interrupt → **Hosted power counter:** Prevent 1 meat damage.
+![[interrupt.svg]] → **Hosted power counter:** Prevent 1 meat damage.

@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/07006
 
 ## Text
 
-click: Gain 3 credits.
+![[click.svg]]: Gain 3![[credit.svg]].
 
 Limit 1 Government Takeover per deck.

@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/08064
 
 ## Text
 
-As an additional cost to play this event, spend click.
+As an additional cost to play this event, spend ![[click.svg]].
 
 Expose 1 card installed in the root of a remote server. If you do and that card is an asset or upgrade, trash it.

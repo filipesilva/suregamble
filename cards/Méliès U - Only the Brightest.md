@@ -39,7 +39,7 @@ When your discard phase ends, secretly set your identity to any copy of Méliès
 
 When the Runner makes a successful run on a central server, flip this identity.
 
-When the Runner’s action phase ends, gain 1 credit.
+When the Runner’s action phase ends, gain 1![[credit.svg]].
 
 ## Tenure Floors: Méliès U
 

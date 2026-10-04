@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/12049
 
 ## Text
 
-When your turn begins, gain 1 credit if you have fewer than 6 credits.
+When your turn begins, gain 1![[credit.svg]] if you have fewer than 6![[credit.svg]].
 
-Whenever you have 0 credits, trash Dadiana Chacon and take 3 meat damage.
+Whenever you have 0![[credit.svg]], trash Dadiana Chacon and take 3 meat damage.

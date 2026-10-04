@@ -31,4 +31,4 @@ Turing has +3 strength while protecting a remote server.
 
 The Runner cannot use **AI** programs to break subroutines on Turing.
 
-↳ End the run unless the Runner spends 3 clicks.
+![[subroutine.svg]] End the run unless the Runner spends ![[click.svg]]![[click.svg]]![[click.svg]].

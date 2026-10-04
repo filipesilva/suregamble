@@ -30,10 +30,10 @@ nrdb: https://netrunnerdb.com/en/card/33094
 
 When your turn begins, turn each hosted card faceup.
 
-click**:** Host a copy of Matryoshka from your grip faceup on this program. *(It is not installed.)*
+![[click.svg]]**:** Host a copy of Matryoshka from your grip faceup on this program. *(It is not installed.)*
 
-Interface → **X credits**, **turn 1 hosted copy of Matryoshka facedown:** Break X subroutines.
+Interface → **X![[credit.svg]]**, **turn 1 hosted copy of Matryoshka facedown:** Break X subroutines.
 
-**1 credit:** +1 strength.
+**1![[credit.svg]]:** +1 strength.
 
 Limit 6 per deck.

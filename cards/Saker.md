@@ -29,8 +29,8 @@ nrdb: https://netrunnerdb.com/en/card/11064
 
 ## Text
 
-Interface → **1 credit:** Break 1 **barrier** subroutine.
+Interface → **1![[credit.svg]]:** Break 1 **barrier** subroutine.
 
-**2 credits:** +2 strength.
+**2![[credit.svg]]:** +2 strength.
 
-**2 credits**, **add this program to your grip:** Derez 1 **barrier** this program fully broke during this encounter.
+**2![[credit.svg]]**, **add this program to your grip:** Derez 1 **barrier** this program fully broke during this encounter.

@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/03033
 
 ## Text
 
-Trash up to 5 programs from your grip. Gain 2 credits for each program trashed.
+Trash up to 5 programs from your grip. Gain 2![[credit.svg]] for each program trashed.

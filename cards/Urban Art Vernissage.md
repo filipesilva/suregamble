@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/34029
 
 ## Text
 
-When your turn begins, you may add 1 installed non-**virus** **trojan** program to your grip. If you do, place 2 credits on this resource.
+When your turn begins, you may add 1 installed non-**virus** **trojan** program to your grip. If you do, place 2![[credit.svg]] on this resource.
 
 You can spend hosted credits to install cards.

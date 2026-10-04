@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/34103
 
 ## Text
 
-As an additional cost to play this operation, spend click.
+As an additional cost to play this operation, spend ![[click.svg]].
 
-Gain 6 credits and draw 2 cards. Add 1 card from Archives to HQ.
+Gain 6![[credit.svg]] and draw 2 cards. Add 1 card from Archives to HQ.

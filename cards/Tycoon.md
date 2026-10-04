@@ -29,8 +29,8 @@ nrdb: https://netrunnerdb.com/en/card/22012
 
 ## Text
 
-Interface → **1 credit:** Break up to 2 **barrier** subroutines.
+Interface → **1![[credit.svg]]:** Break up to 2 **barrier** subroutines.
 
-**2 credits:** +3 strength.
+**2![[credit.svg]]:** +3 strength.
 
-Whenever an encounter ends, if you used this program to break a subroutine during that encounter, the Corp gains 2 credits.
+Whenever an encounter ends, if you used this program to break a subroutine during that encounter, the Corp gains 2![[credit.svg]].

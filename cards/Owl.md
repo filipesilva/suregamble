@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/12060
 
 ## Text
 
-↳ Add 1 installed program to the top of the stack.
+![[subroutine.svg]] Add 1 installed program to the top of the stack.

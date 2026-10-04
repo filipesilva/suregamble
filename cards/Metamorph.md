@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/12094
 
 ## Text
 
-↳ Swap 2 other installed pieces of ice or 2 of your installed non-ice cards.
+![[subroutine.svg]] Swap 2 other installed pieces of ice or 2 of your installed non-ice cards.

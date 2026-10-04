@@ -27,8 +27,8 @@ nrdb: https://netrunnerdb.com/en/card/34053
 
 ## Text
 
-Threat 4 → When the Runner encounters this ice, it gains X "↳ End the run." subroutines for the remainder of this run, after its other subroutines. X is equal to the number of tags the Runner has.
+Threat 4 → When the Runner encounters this ice, it gains X "![[subroutine.svg]] End the run." subroutines for the remainder of this run, after its other subroutines. X is equal to the number of tags the Runner has.
 
-↳ Give the Runner 1 tag.
+![[subroutine.svg]] Give the Runner 1 tag.
 
-↳ Give the Runner 1 tag.
+![[subroutine.svg]] Give the Runner 1 tag.

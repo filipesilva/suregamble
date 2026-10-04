@@ -29,10 +29,10 @@ nrdb: https://netrunnerdb.com/en/card/11011
 
 ## Text
 
-**Lose 2 clicks:** Break up to 2 subroutines on this ice. Only the Runner can use this ability.
+**Lose ![[click.svg]]![[click.svg]]:** Break up to 2 subroutines on this ice. Only the Runner can use this ability.
 
-↳ Trace[4]. If successful, add 1 installed program to the bottom of the Runner's stack.
+![[subroutine.svg]] Trace[4]. If successful, add 1 installed program to the bottom of the Runner's stack.
 
-↳ Trace[4]. If successful, add 1 installed program to the bottom of the Runner's stack.
+![[subroutine.svg]] Trace[4]. If successful, add 1 installed program to the bottom of the Runner's stack.
 
-↳ Give the Runner 1 tag.
+![[subroutine.svg]] Give the Runner 1 tag.

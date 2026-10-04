@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/08095
 
 ## Text
 
-When your turn begins, you may pay 1 credit. If you do, place 1 advancement counter on a card you can advance in the root of a server.
+When your turn begins, you may pay 1![[credit.svg]]. If you do, place 1 advancement counter on a card you can advance in the root of a server.

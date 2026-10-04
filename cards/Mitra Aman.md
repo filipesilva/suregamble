@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/35056
 
 ## Text
 
-Whenever the Runner approaches a piece of ice protecting this server, you may trash this upgrade. If you do, gain 3 credits and you may swap the ice being approached with a piece of ice from Archives or HQ.
+Whenever the Runner approaches a piece of ice protecting this server, you may trash this upgrade. If you do, gain 3![[credit.svg]] and you may swap the ice being approached with a piece of ice from Archives or HQ.

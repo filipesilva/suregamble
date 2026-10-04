@@ -31,6 +31,6 @@ nrdb: https://netrunnerdb.com/en/card/09013
 
 While the Runner is accessing this ice in R&D, they must reveal it.
 
-When the Runner accesses this ice anywhere except in Archives, you may pay 3 credits. If you do, they encounter it.
+When the Runner accesses this ice anywhere except in Archives, you may pay 3![[credit.svg]]. If you do, they encounter it.
 
-↳ Trace[6]. If successful, add 1 installed Runner card to the grip.
+![[subroutine.svg]] Trace[6]. If successful, add 1 installed Runner card to the grip.

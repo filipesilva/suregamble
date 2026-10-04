@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/06011
 
 When the Runner encounters this ice, you may reveal up to 2 pieces of **grail** ice in HQ. For the remainder of this run, this ice gains the subroutines of each revealed piece of ice in the order of your choice.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

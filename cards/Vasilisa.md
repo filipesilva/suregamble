@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/33054
 
 ## Text
 
-When the Runner encounters this ice, you may pay 1 credit. If you do, place 1 advancement counter on an installed card you can advance.
+When the Runner encounters this ice, you may pay 1![[credit.svg]]. If you do, place 1 advancement counter on an installed card you can advance.
 
-↳ Give the Runner 1 tag.
+![[subroutine.svg]] Give the Runner 1 tag.

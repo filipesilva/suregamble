@@ -26,8 +26,8 @@ nrdb: https://netrunnerdb.com/en/card/11030
 
 ## Text
 
-If the Corp has 5-9 credits when your turn begins, gain 1 credit.
+If the Corp has 5-9![[credit.svg]] when your turn begins, gain 1![[credit.svg]].
 
-If the Corp has 10-14 credits when your turn begins, draw 1 card.
+If the Corp has 10-14![[credit.svg]] when your turn begins, draw 1 card.
 
-If the Corp has at least 15 credits when your turn begins, gain click.
+If the Corp has at least 15![[credit.svg]] when your turn begins, gain ![[click.svg]].

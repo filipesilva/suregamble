@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/13041
 
 ## Text
 
-interrupt → Whenever 1 or more Runner cards would be trashed *(from any location)*, set those cards aside instead of adding them to the heap. You can look at those cards. You may remove 1 of them from the game. Then, add all of those cards that are still set aside to the heap. Ignore this ability if you have already removed a card from the game with it this turn.
+![[interrupt.svg]] → Whenever 1 or more Runner cards would be trashed *(from any location)*, set those cards aside instead of adding them to the heap. You can look at those cards. You may remove 1 of them from the game. Then, add all of those cards that are still set aside to the heap. Ignore this ability if you have already removed a card from the game with it this turn.

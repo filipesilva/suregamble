@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/04017
 
 When you score this agenda, place 2 agenda counters on it.
 
-click, **hosted agenda counter:** Gain 7 credits and take 1 bad publicity.
+![[click.svg]], **hosted agenda counter:** Gain 7![[credit.svg]] and take 1 bad publicity.

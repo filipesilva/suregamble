@@ -25,6 +25,6 @@ nrdb: https://netrunnerdb.com/en/card/02068
 
 ## Text
 
-2recurring credit
+2![[recurring-credit.svg]]
 
 Use these credits to install hardware.

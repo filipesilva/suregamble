@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/29017
 
 ## Text
 
-↳ The Runner cannot make another run this turn.
+![[subroutine.svg]] The Runner cannot make another run this turn.

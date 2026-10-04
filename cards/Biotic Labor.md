@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/31048
 
 ## Text
 
-Gain 2 clicks.
+Gain ![[click.svg]]![[click.svg]].

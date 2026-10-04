@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/22032
 
 ## Text
 
-Gain click for each agenda in the Runner's score area. Remove Game Changer from the game instead of trashing it.
+Gain ![[click.svg]] for each agenda in the Runner's score area. Remove Game Changer from the game instead of trashing it.

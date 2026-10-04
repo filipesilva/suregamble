@@ -30,6 +30,6 @@ nrdb: https://netrunnerdb.com/en/card/06100
 
 Whenever you make a successful run on HQ, instead of breaching HQ, you may install this resource from your grip, ignoring all costs.
 
-**trash:** The Corp discards 2 cards from HQ at random.
+**![[trash.svg]]:** The Corp discards 2 cards from HQ at random.
 
 Limit 1 per deck.

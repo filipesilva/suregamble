@@ -26,7 +26,7 @@ nrdb: https://netrunnerdb.com/en/card/11008
 
 Resolve two of the following in any order:
 
-- Gain 3 credits.
+- Gain 3![[credit.svg]].
 
 - Draw 2 cards.
 

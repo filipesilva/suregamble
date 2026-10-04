@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/12015
 
 ## Text
 
-↳ Trace[4]. If successful, give the Runner 1 tag.
+![[subroutine.svg]] Trace[4]. If successful, give the Runner 1 tag.
 
-↳ Trace[2]. If successful, whenever the Runner breaches a server for the remainder of this run, they access 1 fewer card.
+![[subroutine.svg]] Trace[2]. If successful, whenever the Runner breaches a server for the remainder of this run, they access 1 fewer card.

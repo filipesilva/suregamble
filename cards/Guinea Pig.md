@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/22003
 
 Trash your grip.
 
-Gain 10 credits.
+Gain 10![[credit.svg]].

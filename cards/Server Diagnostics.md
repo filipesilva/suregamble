@@ -25,6 +25,6 @@ nrdb: https://netrunnerdb.com/en/card/03025
 
 ## Text
 
-Gain 2 credits when your turn begins.
+Gain 2![[credit.svg]] when your turn begins.
 
 Trash Server Diagnostics when you install a piece of ice.

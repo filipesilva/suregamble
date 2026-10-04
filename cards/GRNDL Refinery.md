@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/20083
 
 GRNDL Refinery can be advanced.
 
-click, trash: Gain 4 credits for each advancement token on GRNDL Refinery.
+![[click.svg]], ![[trash.svg]]: Gain 4![[credit.svg]] for each advancement token on GRNDL Refinery.

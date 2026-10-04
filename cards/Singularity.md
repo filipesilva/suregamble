@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/20004
 
 ## Text
 
-As an additional cost to play this event, spend click.
+As an additional cost to play this event, spend ![[click.svg]].
 
 Run a remote server. If successful, instead of breaching that server, trash all cards installed in the root of that server.

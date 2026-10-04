@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/35078
 
 Play only if the threat level is 4 or greater, and only if the Runner made a successful run during their last turn.
 
-Do 4 meat damage unless the Runner pays 8 credits.
+Do 4 meat damage unless the Runner pays 8![[credit.svg]].

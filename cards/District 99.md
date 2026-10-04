@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/22007
 
 The first time each turn a program or a piece of hardware is trashed (from any location), you may place 1 power counter on District 99.
 
-click, **3 hosted power counters**: Add a card that matches the faction of your identity from your heap to your grip.
+![[click.svg]], **3 hosted power counters**: Add a card that matches the faction of your identity from your heap to your grip.

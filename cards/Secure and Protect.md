@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/26061
 
 ## Text
 
-As an additional cost to play this operation, spend click.
+As an additional cost to play this operation, spend ![[click.svg]].
 
-Search R&D for 1 piece of ice and reveal it. *(Shuffle R&D after searching it.)* Install that ice protecting a central server, paying 3 credits less.
+Search R&D for 1 piece of ice and reveal it. *(Shuffle R&D after searching it.)* Install that ice protecting a central server, paying 3![[credit.svg]] less.

@@ -27,7 +27,7 @@ nrdb: https://netrunnerdb.com/en/card/11041
 
 ## Text
 
-+1MU
++1![[mu.svg]]
 
 You get +1 maximum hand size for each tag you have.
 

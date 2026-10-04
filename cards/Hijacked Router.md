@@ -25,6 +25,6 @@ nrdb: https://netrunnerdb.com/en/card/22005
 
 ## Text
 
-Whenever the Corp creates a server, they lose 1 credit.
+Whenever the Corp creates a server, they lose 1![[credit.svg]].
 
-Whenever you make a successful run on Archives, you may trash this hardware. If you do, the Corp loses 3 credits.
+Whenever you make a successful run on Archives, you may trash this hardware. If you do, the Corp loses 3![[credit.svg]].

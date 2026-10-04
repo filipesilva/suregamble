@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/07035
 
 ## Text
 
-Run HQ. If successful, instead of breaching HQ, you may spend any number of click to force the Corp to trash that many cards from HQ at random.
+Run HQ. If successful, instead of breaching HQ, you may spend any number of ![[click.svg]] to force the Corp to trash that many cards from HQ at random.

@@ -26,8 +26,8 @@ nrdb: https://netrunnerdb.com/en/card/11118
 
 ## Text
 
-Gain 1 credit when your turn begins.
+Gain 1![[credit.svg]] when your turn begins.
 
-Whenever you gain credits through a card ability other than from NASX, you may spend up to 2 credits to place that many power counters on NASX.
+Whenever you gain credits through a card ability other than from NASX, you may spend up to 2![[credit.svg]] to place that many power counters on NASX.
 
-click,trash: Gain 2 credits for each power counter on NASX.
+![[click.svg]],![[trash.svg]]: Gain 2![[credit.svg]] for each power counter on NASX.

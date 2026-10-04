@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/31072
 
 Install only faceup. *(This agenda is neither rezzed nor unrezzed.)*
 
-Whenever you advance this agenda, gain 2 credits. If there are 5 or more hosted advancement counters *(including the counter just placed)*, gain 3 credits instead.
+Whenever you advance this agenda, gain 2![[credit.svg]]. If there are 5 or more hosted advancement counters *(including the counter just placed)*, gain 3![[credit.svg]] instead.

@@ -34,4 +34,4 @@ When your discard phase ends, remove all hosted power counters.
 
 Interface → **Hosted power counter:** Break 1 subroutine.
 
-**2 credits:** +2 strength.
+**2![[credit.svg]]:** +2 strength.

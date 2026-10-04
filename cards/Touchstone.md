@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/36021
 
 ## Text
 
-The first time each turn you play an event, place 1 credit on this hardware.
+The first time each turn you play an event, place 1![[credit.svg]] on this hardware.
 
 You can spend hosted credits during runs.

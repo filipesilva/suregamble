@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/35002
 
 ## Text
 
-Once per turn → click**:** Install 1 card from your grip, paying 2 credits less. When you install that card, suffer 1 meat damage.
+Once per turn → ![[click.svg]]**:** Install 1 card from your grip, paying 2![[credit.svg]] less. When you install that card, suffer 1 meat damage.

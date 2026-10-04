@@ -23,6 +23,6 @@ nrdb: https://netrunnerdb.com/en/card/34001
 
 ## Text
 
-Gain 4 credits.
+Gain 4![[credit.svg]].
 
-When this event is trashed from your grip or stack, you may gain 2 credits.
+When this event is trashed from your grip or stack, you may gain 2![[credit.svg]].

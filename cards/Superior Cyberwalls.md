@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/06087
 
 All **barrier** ice have +1 strength.
 
-When you score Superior Cyberwalls, gain 1 credit for each rezzed **barrier**.
+When you score Superior Cyberwalls, gain 1![[credit.svg]] for each rezzed **barrier**.

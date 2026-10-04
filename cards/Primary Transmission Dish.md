@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/06006
 
 ## Text
 
-3recurring credit
+3![[recurring-credit.svg]]
 
 Use these credits during traces.

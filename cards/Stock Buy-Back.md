@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/11019
 
 After you resolve this operation, end your action phase.
 
-Gain 3 credits for each agenda in the Runner's score area.
+Gain 3![[credit.svg]] for each agenda in the Runner's score area.

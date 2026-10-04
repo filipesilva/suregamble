@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/08088
 
 ## Text
 
-Whenever the Runner trashes a Corp card *(including this asset)*, they lose click.
+Whenever the Runner trashes a Corp card *(including this asset)*, they lose ![[click.svg]].

@@ -26,8 +26,8 @@ nrdb: https://netrunnerdb.com/en/card/31082
 
 ## Text
 
-Gain 1 credit.
+Gain 1![[credit.svg]].
 
-The first time each turn you play a copy of Subliminal Messaging, gain click.
+The first time each turn you play a copy of Subliminal Messaging, gain ![[click.svg]].
 
 When your turn begins, if this card is in Archives and the Runner did not initiate any runs during their last turn, you may reveal this card and add it to HQ.

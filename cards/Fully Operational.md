@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/26036
 
 ## Text
 
-Gain 2 credits or draw 2 cards. Repeat this process for each remote server that has a card in its root and is protected by ice.
+Gain 2![[credit.svg]] or draw 2 cards. Repeat this process for each remote server that has a card in its root and is protected by ice.

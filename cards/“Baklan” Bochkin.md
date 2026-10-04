@@ -31,4 +31,4 @@ nrdb: https://netrunnerdb.com/en/card/26017
 
 The first time you encounter a piece of ice during each run, place 1 power counter on this resource.
 
-**trash, X hosted power counters:** Derez the ice you are encountering if its strength is X or less. Take 1 tag.
+**![[trash.svg]], X hosted power counters:** Derez the ice you are encountering if its strength is X or less. Take 1 tag.

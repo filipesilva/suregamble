@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/12056
 
 ## Text
 
-Whenever the Runner breaks a subroutine during a run on this server, gain 2 credits if they are tagged.
+Whenever the Runner breaks a subroutine during a run on this server, gain 2![[credit.svg]] if they are tagged.

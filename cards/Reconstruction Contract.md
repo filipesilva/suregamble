@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/21020
 
 Whenever the Runner suffers any amount of meat damage, you may place 1 advancement token on Reconstruction Contract.
 
-trash: Move any number of advancement tokens from Reconstruction Contract to a card that can be advanced.
+![[trash.svg]]: Move any number of advancement tokens from Reconstruction Contract to a card that can be advanced.

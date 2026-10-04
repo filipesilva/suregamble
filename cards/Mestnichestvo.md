@@ -28,8 +28,8 @@ nrdb: https://netrunnerdb.com/en/card/33053
 
 You can advance this ice.
 
-When the Runner encounters this ice, you may remove 1 hosted advancement counter. If you do, the Runner loses 3 credits.
+When the Runner encounters this ice, you may remove 1 hosted advancement counter. If you do, the Runner loses 3![[credit.svg]].
 
-↳ The Runner loses 3 credits.
+![[subroutine.svg]] The Runner loses 3![[credit.svg]].
 
-↳ End the run.
+![[subroutine.svg]] End the run.

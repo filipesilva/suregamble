@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/08101
 
 ## Text
 
-Play only as your first click.
+Play only as your first ![[click.svg]].
 
-The first time you access an agenda this turn, gain 7 credits.
+The first time you access an agenda this turn, gain 7![[credit.svg]].

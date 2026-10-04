@@ -29,7 +29,7 @@ nrdb: https://netrunnerdb.com/en/card/30003
 
 ## Text
 
-+1MU
++1![[mu.svg]]
 
 Access, once per turn → **Trash 2 cards from your grip:** Trash the card you are accessing.
 

@@ -29,6 +29,6 @@ nrdb: https://netrunnerdb.com/en/card/25012
 
 ## Text
 
-Interface → **2 credits:** Break up to 2 **code gate** subroutines.
+Interface → **2![[credit.svg]]:** Break up to 2 **code gate** subroutines.
 
-**1 credit:** +1 strength.
+**1![[credit.svg]]:** +1 strength.

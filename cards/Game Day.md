@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/08026
 
 ## Text
 
-As an additional cost to play this event, spend click.
+As an additional cost to play this event, spend ![[click.svg]].
 
 If you have fewer cards in your grip than your maximum hand size, draw cards until you have cards in your grip equal to your maximum hand size.

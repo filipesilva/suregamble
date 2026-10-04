@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/10011
 
 ## Text
 
-The first time the Runner initiates a run each turn, you may draw 1 card or gain 1 credit.
+The first time the Runner initiates a run each turn, you may draw 1 card or gain 1![[credit.svg]].

@@ -25,6 +25,6 @@ nrdb: https://netrunnerdb.com/en/card/36013
 
 ## Text
 
-+1MU
++1![[mu.svg]]
 
 When you install this hardware, if you are not tagged, take 1 tag.

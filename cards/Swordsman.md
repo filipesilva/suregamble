@@ -32,6 +32,6 @@ nrdb: https://netrunnerdb.com/en/card/31056
 
 The Runner cannot break subroutines on this ice using **AI** programs.
 
-↳ Trash 1 installed **AI** program.
+![[subroutine.svg]] Trash 1 installed **AI** program.
 
-↳ Do 1 net damage.
+![[subroutine.svg]] Do 1 net damage.

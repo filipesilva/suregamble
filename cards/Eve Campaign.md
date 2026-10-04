@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/02092
 
 ## Text
 
-Place 16 credits from the bank on Eve Campaign when it is rezzed. When there are no credits left on Eve Campaign, trash it.
+Place 16![[credit.svg]] from the bank on Eve Campaign when it is rezzed. When there are no credits left on Eve Campaign, trash it.
 
-When your turn begins, take 2 credits from Eve Campaign.
+When your turn begins, take 2![[credit.svg]] from Eve Campaign.

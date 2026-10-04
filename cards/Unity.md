@@ -31,6 +31,6 @@ nrdb: https://netrunnerdb.com/en/card/30026
 
 ## Text
 
-Interface → **1 credit:** Break 1 **code gate** subroutine.
+Interface → **1![[credit.svg]]:** Break 1 **code gate** subroutine.
 
-**1 credit:** +X strength. X is equal to the number of installed **icebreakers** *(including this one)*.
+**1![[credit.svg]]:** +X strength. X is equal to the number of installed **icebreakers** *(including this one)*.

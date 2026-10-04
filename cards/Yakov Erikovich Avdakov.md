@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/33126
 
 ## Text
 
-Whenever a player trashes a card *(including this upgrade)* from the root of this server or protecting it, except during installation, gain 2 credits.
+Whenever a player trashes a card *(including this upgrade)* from the root of this server or protecting it, except during installation, gain 2![[credit.svg]].

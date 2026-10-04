@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/26069
 
 ## Text
 
-**trash:** Set aside the top 6 cards of your stack faceup. You may install 1 program or **virtual** resource from among those cards, paying 2 credits less. Shuffle 3 of the remaining cards into your stack, then remove the rest from the game.
+**![[trash.svg]]:** Set aside the top 6 cards of your stack faceup. You may install 1 program or **virtual** resource from among those cards, paying 2![[credit.svg]] less. Shuffle 3 of the remaining cards into your stack, then remove the rest from the game.

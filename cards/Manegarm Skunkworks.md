@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/30042
 
 ## Text
 
-Whenever the Runner approaches this server, end the run unless they either spend 2 clicks or pay 5 credits.
+Whenever the Runner approaches this server, end the run unless they either spend ![[click.svg]]![[click.svg]] or pay 5![[credit.svg]].

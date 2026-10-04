@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/35072
 
 ## Text
 
-When you rez this asset, load 8 credits onto it. When it is empty, trash it.
+When you rez this asset, load 8![[credit.svg]] onto it. When it is empty, trash it.
 
-When your turn begins, take 4 credits from this asset and draw 1 card.
+When your turn begins, take 4![[credit.svg]] from this asset and draw 1 card.

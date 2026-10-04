@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/09012
 
 When you rez this asset, take 1 bad publicity.
 
-When your turn begins, if the Runner is tagged, gain 2 credits. Otherwise, gain 1 credit.
+When your turn begins, if the Runner is tagged, gain 2![[credit.svg]]. Otherwise, gain 1![[credit.svg]].

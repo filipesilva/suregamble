@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/11026
 
 ## Text
 
-Choose a server and place 20 credits from the bank on Temüjin Contract when you install it. When there are no credits left on Temüjin Contract, trash it.
+Choose a server and place 20![[credit.svg]] from the bank on Temüjin Contract when you install it. When there are no credits left on Temüjin Contract, trash it.
 
-Whenever you make a successful run on the chosen server, take 4 credits from Temüjin Contract.
+Whenever you make a successful run on the chosen server, take 4![[credit.svg]] from Temüjin Contract.

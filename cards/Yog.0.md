@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/01014
 
 ## Text
 
-Interface → **0 credits:** Break 1 **code gate** subroutine.
+Interface → **0![[credit.svg]]:** Break 1 **code gate** subroutine.

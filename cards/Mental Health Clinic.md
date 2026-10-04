@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/05009
 
 ## Text
 
-Gain 1 credit when your turn begins.
+Gain 1![[credit.svg]] when your turn begins.
 
 The Runner's maximum hand size is increased by 1.

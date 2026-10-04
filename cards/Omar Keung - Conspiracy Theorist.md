@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/11043
 
 ## Text
 
-Once per turn → click**:** Run Archives. If that run would be declared successful, change the attacked server to HQ or R&D for the remainder of that run.
+Once per turn → ![[click.svg]]**:** Run Archives. If that run would be declared successful, change the attacked server to HQ or R&D for the remainder of that run.

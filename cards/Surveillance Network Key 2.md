@@ -20,6 +20,6 @@ nrdb: https://netrunnerdb.com/en/card/14019
 
 ## Text
 
-Whenever the Corp spends click to draw 1 or more cards (including through a card ability), reveal the first card drawn.
+Whenever the Corp spends ![[click.svg]] to draw 1 or more cards (including through a card ability), reveal the first card drawn.
 
-2 credits: For the remainder of this run, access 1 additional card whenever you access cards from HQ or R&D. Use this ability only once per turn.
+2![[credit.svg]]: For the remainder of this run, access 1 additional card whenever you access cards from HQ or R&D. Use this ability only once per turn.

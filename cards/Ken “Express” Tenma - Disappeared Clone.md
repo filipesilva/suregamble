@@ -31,4 +31,4 @@ nrdb: https://netrunnerdb.com/en/card/31013
 
 ## Text
 
-The first time each turn you play a **run** event, gain 1 credit.
+The first time each turn you play a **run** event, gain 1![[credit.svg]].

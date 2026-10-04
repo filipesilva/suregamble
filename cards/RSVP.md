@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/04077
 
 ## Text
 
-↳ The Runner cannot spend any credits for the remainder of this run.
+![[subroutine.svg]] The Runner cannot spend any credits for the remainder of this run.

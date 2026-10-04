@@ -27,8 +27,8 @@ nrdb: https://netrunnerdb.com/en/card/33045
 
 ## Text
 
-The rez cost of this ice is lowered by 1 credit for each rezzed piece of **code gate** ice.
+The rez cost of this ice is lowered by 1![[credit.svg]] for each rezzed piece of **code gate** ice.
 
-↳ Do 2 net damage.
+![[subroutine.svg]] Do 2 net damage.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

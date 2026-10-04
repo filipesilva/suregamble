@@ -33,10 +33,10 @@ nrdb: https://netrunnerdb.com/en/card/26102
 
 ## Text
 
-**Lose click:** Break 1 subroutine on this ice. The Corp gets +1 allotted click for their next turn. Only the Runner can use this ability.
+**Lose ![[click.svg]]:** Break 1 subroutine on this ice. The Corp gets +1 allotted ![[click.svg]] for their next turn. Only the Runner can use this ability.
 
-↳ Do 2 core damage.
+![[subroutine.svg]] Do 2 core damage.
 
-↳ Trash 1 installed Runner card. Gain 3 credits.
+![[subroutine.svg]] Trash 1 installed Runner card. Gain 3![[credit.svg]].
 
-↳ End the run.
+![[subroutine.svg]] End the run.

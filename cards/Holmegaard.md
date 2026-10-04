@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/13036
 
 ## Text
 
-↳ Trace[4]. If successful, the Runner cannot access cards or breach the attacked server for the remainder of this run.
+![[subroutine.svg]] Trace[4]. If successful, the Runner cannot access cards or breach the attacked server for the remainder of this run.
 
-↳ Trash 1 installed **icebreaker**.
+![[subroutine.svg]] Trash 1 installed **icebreaker**.

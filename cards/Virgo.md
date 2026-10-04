@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/06109
 
 ## Text
 
-↳ Trace[2]. If successful, give the Runner 1 tag. If your trace strength is 5 or greater, give the Runner 1 tag.
+![[subroutine.svg]] Trace[2]. If successful, give the Runner 1 tag. If your trace strength is 5 or greater, give the Runner 1 tag.

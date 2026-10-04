@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/04112
 
 ## Text
 
-interrupt → Whenever you would take bad publicity, trace[3]. If successful, prevent all of that bad publicity.
+![[interrupt.svg]] → Whenever you would take bad publicity, trace[3]. If successful, prevent all of that bad publicity.

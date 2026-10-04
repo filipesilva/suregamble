@@ -26,8 +26,8 @@ nrdb: https://netrunnerdb.com/en/card/36039
 
 ## Text
 
-click**:** Swap this ice with another installed piece of ice.
+![[click.svg]]**:** Swap this ice with another installed piece of ice.
 
-↳ Look at the top card of R&D. You may add that card to the bottom of R&D.
+![[subroutine.svg]] Look at the top card of R&D. You may add that card to the bottom of R&D.
 
-↳ Each piece of ice gets +1 strength for the remainder of this run.
+![[subroutine.svg]] Each piece of ice gets +1 strength for the remainder of this run.

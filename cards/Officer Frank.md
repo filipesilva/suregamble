@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/13024
 
 ## Text
 
-trash, 1 credit: The Corp trashes 2 cards from HQ at random. Use this ability only if you suffered meat damage this turn.
+![[trash.svg]], 1![[credit.svg]]: The Corp trashes 2 cards from HQ at random. Use this ability only if you suffered meat damage this turn.

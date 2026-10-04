@@ -27,10 +27,10 @@ nrdb: https://netrunnerdb.com/en/card/26015
 
 ## Text
 
-+1MU
++1![[mu.svg]]
 
 The first time each turn you install a piece of hardware, draw 1 card.
 
-Whenever a run begins, you may install 1 piece of hardware from your grip, paying 1 credit more.
+Whenever a run begins, you may install 1 piece of hardware from your grip, paying 1![[credit.svg]] more.
 
 Limit 1 **console** per player.

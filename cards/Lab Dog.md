@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/08052
 
 ## Text
 
-↳ The Runner trashes an installed piece of hardware. Trash Lab Dog.
+![[subroutine.svg]] The Runner trashes an installed piece of hardware. Trash Lab Dog.

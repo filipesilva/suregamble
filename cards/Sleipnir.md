@@ -26,8 +26,8 @@ nrdb: https://netrunnerdb.com/en/card/36030
 
 ## Text
 
-↳ You may draw 1 card.
+![[subroutine.svg]] You may draw 1 card.
 
-↳ You may shuffle 1 card from HQ or Archives into R&D.
+![[subroutine.svg]] You may shuffle 1 card from HQ or Archives into R&D.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

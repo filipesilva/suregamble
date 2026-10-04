@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/12017
 
 ## Text
 
-**Forfeit an agenda**: Rez up to 3 pieces of ice, lowering the cost of each by 2 credits for each printed agenda point on the forfeited agenda.
+**Forfeit an agenda**: Rez up to 3 pieces of ice, lowering the cost of each by 2![[credit.svg]] for each printed agenda point on the forfeited agenda.

@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/25092
 
 ## Text
 
-The first time the Runner spends 1 or more click during their turn, gain 2 credits. If those click were spent to take an action, the first time during that action a run on this server begins, pay 2 credits.
+The first time the Runner spends 1 or more ![[click.svg]] during their turn, gain 2![[credit.svg]]. If those ![[click.svg]] were spent to take an action, the first time during that action a run on this server begins, pay 2![[credit.svg]].

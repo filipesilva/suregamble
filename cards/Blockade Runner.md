@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/11065
 
 ## Text
 
-click,click: Draw 3 cards. Shuffle 1 card from your grip into your stack.
+![[click.svg]],![[click.svg]]: Draw 3 cards. Shuffle 1 card from your grip into your stack.

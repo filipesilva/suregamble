@@ -31,4 +31,4 @@ When the Runner encounters this ice, place 1 virus counter on it.
 
 This ice gets −1 strength for each hosted virus counter.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

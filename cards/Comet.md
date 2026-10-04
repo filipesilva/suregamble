@@ -27,7 +27,7 @@ nrdb: https://netrunnerdb.com/en/card/08027
 
 ## Text
 
-+1MU
++1![[mu.svg]]
 
 The first time you play an event each turn, you may play another event (without spending a click) after the first one resolves.
 

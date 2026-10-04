@@ -29,8 +29,8 @@ nrdb: https://netrunnerdb.com/en/card/12120
 
 Conundrum has +3 strength if there is an installed **AI**.
 
-↳ The Runner trashes an installed program.
+![[subroutine.svg]] The Runner trashes an installed program.
 
-↳ The Runner loses click, if able.
+![[subroutine.svg]] The Runner loses ![[click.svg]], if able.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

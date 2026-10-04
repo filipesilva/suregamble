@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/06107
 
 ## Text
 
-As an additional cost to play this operation, spend click.
+As an additional cost to play this operation, spend ![[click.svg]].
 
 Rez 1 piece of ice for each tag the Runner has, ignoring all costs.

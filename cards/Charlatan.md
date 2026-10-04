@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/13010
 
 ## Text
 
-**2 clicks:** Run any server. The first time you approach a rezzed piece of ice during this run, you may pay credits equal to the strength of that ice. If you do, when you encounter that ice after this approach, bypass it.
+**![[click.svg]]![[click.svg]]:** Run any server. The first time you approach a rezzed piece of ice during this run, you may pay credits equal to the strength of that ice. If you do, when you encounter that ice after this approach, bypass it.

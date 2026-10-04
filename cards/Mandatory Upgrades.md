@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/02011
 
 ## Text
 
-You have 1 additional click to spend each turn.
+You have 1 additional ![[click.svg]] to spend each turn.

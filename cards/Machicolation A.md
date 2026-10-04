@@ -23,10 +23,10 @@ nrdb: https://netrunnerdb.com/en/card/14010
 
 ## Text
 
-↳ Trash 1 program.
+![[subroutine.svg]] Trash 1 program.
 
-↳ Trash 1 program.
+![[subroutine.svg]] Trash 1 program.
 
-↳ Trash 1 piece of hardware.
+![[subroutine.svg]] Trash 1 piece of hardware.
 
-↳ The Runner loses 3 credits, if able. End the run.
+![[subroutine.svg]] The Runner loses 3![[credit.svg]], if able. End the run.

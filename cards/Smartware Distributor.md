@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/30033
 
 ## Text
 
-click**:** Place 3 credits on this resource.
+![[click.svg]]**:** Place 3![[credit.svg]] on this resource.
 
-When your turn begins, take 1 credit from this resource.
+When your turn begins, take 1![[credit.svg]] from this resource.

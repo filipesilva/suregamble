@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/06092
 
 You cannot use this upgrade more than once per turn.
 
-click**:** Place 3 credits on this upgrade.
+![[click.svg]]**:** Place 3![[credit.svg]] on this upgrade.
 
-click**:** Take all credits from this upgrade.
+![[click.svg]]**:** Take all credits from this upgrade.

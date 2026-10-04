@@ -27,8 +27,8 @@ nrdb: https://netrunnerdb.com/en/card/34035
 
 ## Text
 
-Threat 4 → When the Runner encounters this ice, give them 1 tag unless they spend click. *(This ability is active if any player has 4 or more agenda points.)*
+Threat 4 → When the Runner encounters this ice, give them 1 tag unless they spend ![[click.svg]]. *(This ability is active if any player has 4 or more agenda points.)*
 
-↳ Give the Runner 1 tag.
+![[subroutine.svg]] Give the Runner 1 tag.
 
-↳ If the Runner is tagged, do 1 core damage.
+![[subroutine.svg]] If the Runner is tagged, do 1 core damage.

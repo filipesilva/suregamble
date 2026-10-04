@@ -27,10 +27,10 @@ nrdb: https://netrunnerdb.com/en/card/35053
 
 ## Text
 
-↳ You may install 1 piece of ice from Archives, ignoring all costs.
+![[subroutine.svg]] You may install 1 piece of ice from Archives, ignoring all costs.
 
-↳ You may rez 1 installed piece of ice, paying 2 credits less.
+![[subroutine.svg]] You may rez 1 installed piece of ice, paying 2![[credit.svg]] less.
 
-↳ Resolve 1 subroutine on a rezzed **sentry**.
+![[subroutine.svg]] Resolve 1 subroutine on a rezzed **sentry**.
 
-↳ Resolve 1 subroutine on another rezzed **code gate**.
+![[subroutine.svg]] Resolve 1 subroutine on another rezzed **code gate**.

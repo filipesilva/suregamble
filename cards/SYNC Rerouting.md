@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/26118
 
 Play only if there is no active **lockdown**. This operation is not trashed until your next turn begins.
 
-Whenever a run begins, give the Runner 1 tag unless they pay 4 credits.
+Whenever a run begins, give the Runner 1 tag unless they pay 4![[credit.svg]].

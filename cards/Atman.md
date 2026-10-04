@@ -34,4 +34,4 @@ When you install this program, you may spend any number of credits to place that
 
 This program gets +1 strength for each hosted power counter, and it can only interface with ice of exactly equal strength.
 
-Interface → **1 credit:** Break 1 subroutine.
+Interface → **1![[credit.svg]]:** Break 1 subroutine.

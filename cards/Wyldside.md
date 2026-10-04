@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/01016
 
 ## Text
 
-When your turn begins, draw 2 cards and lose click.
+When your turn begins, draw 2 cards and lose ![[click.svg]].

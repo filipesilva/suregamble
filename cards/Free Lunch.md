@@ -27,8 +27,8 @@ nrdb: https://netrunnerdb.com/en/card/12035
 
 ## Text
 
-**Hosted power counter:** The Runner loses 1 credit.
+**Hosted power counter:** The Runner loses 1![[credit.svg]].
 
-↳ Place 1 power counter on Free Lunch.
+![[subroutine.svg]] Place 1 power counter on Free Lunch.
 
-↳ Place 1 power counter on Free Lunch.
+![[subroutine.svg]] Place 1 power counter on Free Lunch.

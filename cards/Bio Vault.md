@@ -31,4 +31,4 @@ Remote server only.
 
 You can advance this upgrade.
 
-trash, **2 hosted advancement counters:** End the run. Use this ability only during a run.
+![[trash.svg]], **2 hosted advancement counters:** End the run. Use this ability only during a run.

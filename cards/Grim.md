@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/04020
 
 When you rez this ice, take 1 bad publicity.
 
-↳ Trash 1 installed program.
+![[subroutine.svg]] Trash 1 installed program.

@@ -31,7 +31,7 @@ nrdb: https://netrunnerdb.com/en/card/22058
 
 When your turn begins, place 1 power counter on Lady Liberty.
 
-click, click, click: Add an agenda from HQ to your score area worth agenda points equal to the exact number of hosted power counters.
+![[click.svg]], ![[click.svg]], ![[click.svg]]: Add an agenda from HQ to your score area worth agenda points equal to the exact number of hosted power counters.
 
 Limit 1 **region** per server.
 

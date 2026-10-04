@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/10021
 
 ## Text
 
-When you install this program, choose a server. As an additional cost to install a card in the root of or protecting that server, the Corp must pay 1 credit.
+When you install this program, choose a server. As an additional cost to install a card in the root of or protecting that server, the Corp must pay 1![[credit.svg]].
 
 When the Corp purges virus counters, trash this program.

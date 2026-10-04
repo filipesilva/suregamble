@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/21054
 
 ## Text
 
-When your turn ends, you may name a card type. Gain 2 credits the first time each turn the Runner plays or installs a card that has the type you last named this way.
+When your turn ends, you may name a card type. Gain 2![[credit.svg]] the first time each turn the Runner plays or installs a card that has the type you last named this way.

@@ -27,10 +27,10 @@ nrdb: https://netrunnerdb.com/en/card/26002
 
 ## Text
 
-+1MU
++1![[mu.svg]]
 
-The trash cost of each Corp card is lowered by 1 credit.
+The trash cost of each Corp card is lowered by 1![[credit.svg]].
 
-The first time each turn you trash a Corp card, gain 1 credit.
+The first time each turn you trash a Corp card, gain 1![[credit.svg]].
 
 Limit 1 **console** per player.

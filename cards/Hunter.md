@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/25144
 
 ## Text
 
-↳ Trace[3]. If successful, give the Runner 1 tag.
+![[subroutine.svg]] Trace[3]. If successful, give the Runner 1 tag.

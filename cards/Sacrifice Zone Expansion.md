@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/36056
 
 Install only faceup. *(This agenda is neither rezzed nor unrezzed.)*
 
-The first time each turn you advance this agenda, gain 3 credits.
+The first time each turn you advance this agenda, gain 3![[credit.svg]].
 
 Once per turn → When the Runner makes a successful run on another server, you may remove 1 hosted advancement counter to do 1 meat damage.

@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/04114
 
 ## Text
 
-Whenever the Runner passes all of the ice protecting this server, you and the Runner secretly spend 0 credits, 1 credit, or 2 credits. Reveal spent credits. If you and the Runner spent a different number of credits, end the run.
+Whenever the Runner passes all of the ice protecting this server, you and the Runner secretly spend 0![[credit.svg]], 1![[credit.svg]], or 2![[credit.svg]]. Reveal spent credits. If you and the Runner spent a different number of credits, end the run.

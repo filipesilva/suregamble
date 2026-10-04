@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/03018
 
 ## Text
 
-↳ You may install 1 piece of ice from HQ protecting this server, ignoring the install cost.
+![[subroutine.svg]] You may install 1 piece of ice from HQ protecting this server, ignoring the install cost.

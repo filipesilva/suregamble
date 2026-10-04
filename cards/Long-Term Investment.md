@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/13055
 
 ## Text
 
-When your turn begins, place 2 credits on Long-Term Investment. If there are at least 8 credits on Long-Term Investment, it gains "click: Take any number of credits from Long-Term Investment."
+When your turn begins, place 2![[credit.svg]] on Long-Term Investment. If there are at least 8![[credit.svg]] on Long-Term Investment, it gains "![[click.svg]]: Take any number of credits from Long-Term Investment."

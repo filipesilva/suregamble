@@ -23,4 +23,4 @@ nrdb: https://netrunnerdb.com/en/card/07044
 
 ## Text
 
-interrupt → Whenever you would access a card in Archives, you may instead remove it from the game. Use this ability only once each time you breach Archives.
+![[interrupt.svg]] → Whenever you would access a card in Archives, you may instead remove it from the game. Use this ability only once each time you breach Archives.

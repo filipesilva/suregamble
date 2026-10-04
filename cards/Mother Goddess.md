@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/06010
 
 Mother Goddess gains the subtypes of all other rezzed ice.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

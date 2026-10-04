@@ -28,8 +28,8 @@ nrdb: https://netrunnerdb.com/en/card/11010
 
 ## Text
 
-**Lose click:** Break 1 subroutine on this ice. Only the Runner can use this ability.
+**Lose ![[click.svg]]:** Break 1 subroutine on this ice. Only the Runner can use this ability.
 
-↳ The Runner must pay 1 credit or trash 1 of their installed cards.
+![[subroutine.svg]] The Runner must pay 1![[credit.svg]] or trash 1 of their installed cards.
 
-↳ The Runner must pay 1 credit or trash 1 of their installed cards.
+![[subroutine.svg]] The Runner must pay 1![[credit.svg]] or trash 1 of their installed cards.

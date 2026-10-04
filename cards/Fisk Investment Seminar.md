@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/08105
 
 ## Text
 
-Play only as your first click.
+Play only as your first ![[click.svg]].
 
 Each player draws 3 cards.

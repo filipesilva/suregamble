@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/11093
 
 ## Text
 
-Whenever the Runner makes a successful run on this server, if they do not have at least 2 cards in the grip and 6 credits, you may look at the top 5 cards of R&D and swap 1 of those cards with 1 card in HQ.
+Whenever the Runner makes a successful run on this server, if they do not have at least 2 cards in the grip and 6![[credit.svg]], you may look at the top 5 cards of R&D and swap 1 of those cards with 1 card in HQ.
 
 Limit 1 **region** per server.

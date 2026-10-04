@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/06023
 
 ## Text
 
-Whenever the Runner loses or spends click during a run on this server, they lose all credits in their credit pool.
+Whenever the Runner loses or spends ![[click.svg]] during a run on this server, they lose all credits in their credit pool.
 
 Limit 1 **region** per server.

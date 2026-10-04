@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/26095
 
 ## Text
 
-The first time each turn you make a successful run, draw 1 card. If your identity is **digital** or you have at least 2link, also gain 1 credit.
+The first time each turn you make a successful run, draw 1 card. If your identity is **digital** or you have at least 2![[link.svg]], also gain 1![[credit.svg]].

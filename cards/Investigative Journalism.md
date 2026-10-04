@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/07049
 
 Install only if the Corp has at least 1 bad publicity.
 
-4 clicks, trash**:** Give the Corp 1 bad publicity.
+![[click.svg]]![[click.svg]]![[click.svg]]![[click.svg]], ![[trash.svg]]**:** Give the Corp 1 bad publicity.

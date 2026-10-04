@@ -27,8 +27,8 @@ nrdb: https://netrunnerdb.com/en/card/25032
 
 ## Text
 
-+1MU
++1![[mu.svg]]
 
-The first time you make a successful run each turn, you may gain 1 credit and look at the top card of your stack. If you do, you may add that card to the bottom of your stack.
+The first time you make a successful run each turn, you may gain 1![[credit.svg]] and look at the top card of your stack. If you do, you may add that card to the bottom of your stack.
 
 Limit 1 **console** per player.

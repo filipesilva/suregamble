@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/08107
 
 Whenever you make a successful run, place 1 power counter on DaVinci.
 
-trash: Install a card from your grip with an install cost equal to or less than the number of power counters on DaVinci, ignoring the install cost.
+![[trash.svg]]: Install a card from your grip with an install cost equal to or less than the number of power counters on DaVinci, ignoring the install cost.

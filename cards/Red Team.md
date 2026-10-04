@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/30018
 
 ## Text
 
-When you install this resource, load 12 credits onto it. When it is empty, trash it.
+When you install this resource, load 12![[credit.svg]] onto it. When it is empty, trash it.
 
-click**:** Run a central server you have not run this turn. If successful, take 3 credits from this resource.
+![[click.svg]]**:** Run a central server you have not run this turn. If successful, take 3![[credit.svg]] from this resource.

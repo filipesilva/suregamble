@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/13027
 
 ## Text
 
-click**, forfeit an agenda:** Play an event from your heap, ignoring all costs.
+![[click.svg]]**, forfeit an agenda:** Play an event from your heap, ignoring all costs.

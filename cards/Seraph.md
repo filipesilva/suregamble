@@ -30,10 +30,10 @@ nrdb: https://netrunnerdb.com/en/card/34118
 
 ## Text
 
-When the Runner encounters this ice, they lose 3 credits unless they suffer 2 net damage or take 1 tag.
+When the Runner encounters this ice, they lose 3![[credit.svg]] unless they suffer 2 net damage or take 1 tag.
 
-↳ The Runner loses 3 credits.
+![[subroutine.svg]] The Runner loses 3![[credit.svg]].
 
-↳ Do 2 net damage.
+![[subroutine.svg]] Do 2 net damage.
 
-↳ Give the Runner 1 tag.
+![[subroutine.svg]] Give the Runner 1 tag.

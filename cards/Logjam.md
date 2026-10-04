@@ -30,8 +30,8 @@ You can advance this ice. It gets +1 strength for each hosted advancement counte
 
 When you rez this ice, place 1 advancement counter on it plus 1 advancement counter for each card type among faceup cards in Archives.
 
-↳ Gain 2 credits. End the run.
+![[subroutine.svg]] Gain 2![[credit.svg]]. End the run.
 
-↳ End the run.
+![[subroutine.svg]] End the run.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

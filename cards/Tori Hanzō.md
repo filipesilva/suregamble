@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/05022
 
 ## Text
 
-interrupt → The first time you would do 1 or more net damage during each run against this server, instead you may pay 2 credits to do 1 core damage.
+![[interrupt.svg]] → The first time you would do 1 or more net damage during each run against this server, instead you may pay 2![[credit.svg]] to do 1 core damage.

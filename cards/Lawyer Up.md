@@ -25,6 +25,6 @@ nrdb: https://netrunnerdb.com/en/card/04063
 
 ## Text
 
-As an additional cost to play this event, spend click.
+As an additional cost to play this event, spend ![[click.svg]].
 
 Remove up to 2 tags and draw 3 cards.

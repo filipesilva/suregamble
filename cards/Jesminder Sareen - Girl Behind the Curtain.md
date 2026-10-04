@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/10006
 
 ## Text
 
-interrupt → The first time each run you would take 1 or more tags, prevent 1 tag.
+![[interrupt.svg]] → The first time each run you would take 1 or more tags, prevent 1 tag.

@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/08076
 
 ## Text
 
-↳ End the run if the Runner is tagged.
+![[subroutine.svg]] End the run if the Runner is tagged.
 
-↳ End the run if the Runner is tagged.
+![[subroutine.svg]] End the run if the Runner is tagged.

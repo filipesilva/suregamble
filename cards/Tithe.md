@@ -30,6 +30,6 @@ nrdb: https://netrunnerdb.com/en/card/30073
 
 ## Text
 
-↳ Do 1 net damage.
+![[subroutine.svg]] Do 1 net damage.
 
-↳ Gain 1 credit.
+![[subroutine.svg]] Gain 1![[credit.svg]].

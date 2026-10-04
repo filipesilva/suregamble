@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/21097
 
 Play only if the Runner made a successful run during their last turn.
 
-Choose a card type, then reveal the grip. Gain 2 credits for each card of the chosen type revealed this way.
+Choose a card type, then reveal the grip. Gain 2![[credit.svg]] for each card of the chosen type revealed this way.

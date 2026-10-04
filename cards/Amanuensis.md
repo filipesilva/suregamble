@@ -26,7 +26,7 @@ nrdb: https://netrunnerdb.com/en/card/34069
 
 ## Text
 
-+1MU
++1![[mu.svg]]
 
 When your turn ends, place 1 power counter on this hardware if you are tagged.
 

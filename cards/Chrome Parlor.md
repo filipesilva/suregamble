@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/08044
 
 ## Text
 
-interrupt → Whenever you would suffer damage from a "when installed" ability on a piece of **cybernetic** hardware, prevent all of that damage.
+![[interrupt.svg]] → Whenever you would suffer damage from a "when installed" ability on a piece of **cybernetic** hardware, prevent all of that damage.

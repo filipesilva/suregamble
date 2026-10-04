@@ -26,8 +26,8 @@ nrdb: https://netrunnerdb.com/en/card/01024
 
 ## Text
 
-+1MU
++1![[mu.svg]]
 
-Gain 1 credit whenever you make a successful run.
+Gain 1![[credit.svg]] whenever you make a successful run.
 
 Limit 1 **console** per player.

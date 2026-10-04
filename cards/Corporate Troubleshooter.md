@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/31049
 
 ## Text
 
-**X**credit, trash**:** Choose 1 rezzed piece of ice protecting this server. That ice gets +X strength for the remainder of the turn.
+**X**![[credit.svg]], ![[trash.svg]]**:** Choose 1 rezzed piece of ice protecting this server. That ice gets +X strength for the remainder of the turn.

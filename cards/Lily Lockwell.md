@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/09008
 
 When you rez Lily Lockwell, draw 3 cards.
 
-click, **remove 1 tag:** Search R&D for an operation, reveal it, and shuffle the rest of R&D. Add the operation to the top of R&D.
+![[click.svg]], **remove 1 tag:** Search R&D for an operation, reveal it, and shuffle the rest of R&D. Add the operation to the top of R&D.

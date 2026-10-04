@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/21029
 
 ## Text
 
-The first time you make a successful run on HQ or R&D each turn, you may name a number. If you do, reveal the next card that you access this run. If it has a rez cost, play cost, or advancement requirement equal to the named number, either gain 3 credits or draw 2 cards.
+The first time you make a successful run on HQ or R&D each turn, you may name a number. If you do, reveal the next card that you access this run. If it has a rez cost, play cost, or advancement requirement equal to the named number, either gain 3![[credit.svg]] or draw 2 cards.

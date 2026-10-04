@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/03054
 
 ## Text
 
-click, click, trash: Play an event from your heap (paying its play cost).
+![[click.svg]], ![[click.svg]], ![[trash.svg]]: Play an event from your heap (paying its play cost).

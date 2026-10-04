@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/26027
 
 ## Text
 
-Once per turn → click**:** Gain 2 credits.
+Once per turn → ![[click.svg]]**:** Gain 2![[credit.svg]].
 
-Once per turn → click**:** Install 1 program or piece of hardware from your grip, paying 1 credit less.
+Once per turn → ![[click.svg]]**:** Install 1 program or piece of hardware from your grip, paying 1![[credit.svg]] less.

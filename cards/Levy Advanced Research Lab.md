@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/13021
 
 ## Text
 
-click: Reveal the top 4 cards of your stack. If any of those cards are programs, you may add 1 to your grip. Add the rest of the cards to the bottom of your stack in any order.
+![[click.svg]]: Reveal the top 4 cards of your stack. If any of those cards are programs, you may add 1 to your grip. Add the rest of the cards to the bottom of your stack in any order.

@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/20057
 
 ## Text
 
-+1MU, +1link
++1![[mu.svg]], +1![[link.svg]]

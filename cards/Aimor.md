@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/21032
 
 ## Text
 
-↳ Trash the top 3 cards of the stack. Trash Aimor.
+![[subroutine.svg]] Trash the top 3 cards of the stack. Trash Aimor.

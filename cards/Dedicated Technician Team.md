@@ -24,6 +24,6 @@ nrdb: https://netrunnerdb.com/en/card/07026
 
 ## Text
 
-2recurring credit
+2![[recurring-credit.svg]]
 
 Use these credits to install ice protecting this server.

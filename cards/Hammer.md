@@ -30,8 +30,8 @@ nrdb: https://netrunnerdb.com/en/card/34126
 
 During each encounter with this ice, the Runner cannot break more than 1 of its printed subroutines except using **killers**.
 
-↳ Give the Runner 1 tag.
+![[subroutine.svg]] Give the Runner 1 tag.
 
-↳ Trash 1 installed resource or piece of hardware.
+![[subroutine.svg]] Trash 1 installed resource or piece of hardware.
 
-↳ Trash 1 installed program that is not a **decoder**, **fracter**, or **killer**.
+![[subroutine.svg]] Trash 1 installed program that is not a **decoder**, **fracter**, or **killer**.

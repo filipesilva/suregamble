@@ -29,8 +29,8 @@ nrdb: https://netrunnerdb.com/en/card/31021
 
 ## Text
 
-Interface → **1 credit:** Break 1 **code gate** subroutine.
+Interface → **1![[credit.svg]]:** Break 1 **code gate** subroutine.
 
-**2 credits:** +2 strength.
+**2![[credit.svg]]:** +2 strength.
 
-trash**:** Bypass the **code gate** you are encountering.
+![[trash.svg]]**:** Bypass the **code gate** you are encountering.

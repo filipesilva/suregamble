@@ -31,6 +31,6 @@ nrdb: https://netrunnerdb.com/en/card/35009
 
 This program gets +1 strength for each **fracter** in your heap.
 
-Interface → **1 credit:** Break 1 **barrier** subroutine.
+Interface → **1![[credit.svg]]:** Break 1 **barrier** subroutine.
 
-**1 credit:** +1 strength.
+**1![[credit.svg]]:** +1 strength.

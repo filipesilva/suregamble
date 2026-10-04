@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/22022
 
 ## Text
 
-When your turn begins, you may pay 2 credits to gain click. If you do, trash Algernon when your turn ends if you did not make a successful run this turn.
+When your turn begins, you may pay 2![[credit.svg]] to gain ![[click.svg]]. If you do, trash Algernon when your turn ends if you did not make a successful run this turn.

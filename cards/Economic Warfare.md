@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/21036
 
 Play only if the Runner made a successful run during their last turn.
 
-If the Runner has at least 4 credits, they lose 4 credits.
+If the Runner has at least 4![[credit.svg]], they lose 4![[credit.svg]].

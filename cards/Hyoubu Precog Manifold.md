@@ -32,4 +32,4 @@ Play only if there is no active **lockdown**. This operation is not trashed unti
 
 When you play this operation, choose a server.
 
-Whenever the Runner makes a successful run on the chosen server, play a Psi Game. *(Players secretly bid 0–2 credits. Then each player reveals and spends their bid.)* If the bids differ, end the run.
+Whenever the Runner makes a successful run on the chosen server, play a Psi Game. *(Players secretly bid 0–2![[credit.svg]]. Then each player reveals and spends their bid.)* If the bids differ, end the run.

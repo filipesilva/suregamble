@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/05012
 
 ## Text
 
-click: Swap 2 pieces of installed ice.
+![[click.svg]]: Swap 2 pieces of installed ice.

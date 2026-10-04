@@ -27,8 +27,8 @@ nrdb: https://netrunnerdb.com/en/card/36041
 
 ## Text
 
-↳ Do 2 net damage.
+![[subroutine.svg]] Do 2 net damage.
 
-↳ Do 2 net damage unless the Runner pays 3 credits.
+![[subroutine.svg]] Do 2 net damage unless the Runner pays 3![[credit.svg]].
 
-↳ Do 2 net damage unless the Runner jacks out.
+![[subroutine.svg]] Do 2 net damage unless the Runner jacks out.

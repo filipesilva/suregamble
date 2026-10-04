@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/07012
 
 Asteroid Belt can be advanced and its rez cost is lowered by 3 for each advancement token on it.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

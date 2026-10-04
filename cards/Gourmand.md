@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/35007
 
 ## Text
 
-Access → trash**:** Trash the non-agenda card you are accessing. If you do, draw 1 card.
+Access → ![[trash.svg]]**:** Trash the non-agenda card you are accessing. If you do, draw 1 card.

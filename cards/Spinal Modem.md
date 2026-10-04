@@ -27,7 +27,7 @@ nrdb: https://netrunnerdb.com/en/card/20007
 
 ## Text
 
-+1MU, 2recurring credit
++1![[mu.svg]], 2![[recurring-credit.svg]]
 
 You can spend hosted credits to use **icebreakers**.
 

@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/12080
 
 ## Text
 
-Gain 2 credits for each card with at least 1 advancement token on it.
+Gain 2![[credit.svg]] for each card with at least 1 advancement token on it.

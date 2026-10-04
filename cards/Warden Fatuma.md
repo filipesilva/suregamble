@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/21093
 
 ## Text
 
-Each rezzed piece of **bioroid** ice gains "↳ The Runner loses click." before its other subroutines.
+Each rezzed piece of **bioroid** ice gains "![[subroutine.svg]] The Runner loses ![[click.svg]]." before its other subroutines.

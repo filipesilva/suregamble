@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/01052
 
 ## Text
 
-+1link
++1![[link.svg]]

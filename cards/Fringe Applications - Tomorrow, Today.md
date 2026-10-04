@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/00013
 
 Draft format only.
 
-If you have more weyland consortium cards rezzed than any other faction, when the Runner's turn begins, place an advancement token on a piece of ice.
+If you have more ![[weyland-consortium.svg]] cards rezzed than any other faction, when the Runner's turn begins, place an advancement token on a piece of ice.

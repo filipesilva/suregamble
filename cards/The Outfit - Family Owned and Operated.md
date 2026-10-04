@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/22050
 
 ## Text
 
-Whenever you take 1 or more bad publicity, gain 3 credits.
+Whenever you take 1 or more bad publicity, gain 3![[credit.svg]].

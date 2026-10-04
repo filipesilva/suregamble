@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/25014
 
 ## Text
 
-Whenever you make a successful run on HQ, the Corp loses 1 credit.
+Whenever you make a successful run on HQ, the Corp loses 1![[credit.svg]].
 
 Trash Lamprey if the Corp purges virus counters.

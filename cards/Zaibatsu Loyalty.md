@@ -24,6 +24,6 @@ nrdb: https://netrunnerdb.com/en/card/01071
 
 ## Text
 
-interrupt → When a card would be exposed, you may rez this asset.
+![[interrupt.svg]] → When a card would be exposed, you may rez this asset.
 
-interrupt → **1 credit** or **trash:** Prevent 1 card from being exposed.
+![[interrupt.svg]] → **1![[credit.svg]]** or **![[trash.svg]]:** Prevent 1 card from being exposed.

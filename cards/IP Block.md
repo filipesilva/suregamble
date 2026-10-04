@@ -30,6 +30,6 @@ nrdb: https://netrunnerdb.com/en/card/11094
 
 When the Runner encounters this ice, give them 1 tag if there is an installed **AI** program.
 
-↳ Trace[3]. If successful, give the Runner 1 tag.
+![[subroutine.svg]] Trace[3]. If successful, give the Runner 1 tag.
 
-↳ End the run if the Runner is tagged.
+![[subroutine.svg]] End the run if the Runner is tagged.

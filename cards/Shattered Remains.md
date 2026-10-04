@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/06050
 
 Shattered Remains can be advanced.
 
-If you pay 1 credit when the Runner accesses Shattered Remains, trash 1 piece of hardware for each advancement token on Shattered Remains.
+If you pay 1![[credit.svg]] when the Runner accesses Shattered Remains, trash 1 piece of hardware for each advancement token on Shattered Remains.

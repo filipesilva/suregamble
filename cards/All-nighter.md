@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/20053
 
 ## Text
 
-click, trash: Gain 2 clicks.
+![[click.svg]], ![[trash.svg]]: Gain ![[click.svg]]![[click.svg]].

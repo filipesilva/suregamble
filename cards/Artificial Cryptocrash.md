@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/33049
 
 ## Text
 
-When you score this agenda, the Runner loses 7 credits.
+When you score this agenda, the Runner loses 7![[credit.svg]].

@@ -29,8 +29,8 @@ nrdb: https://netrunnerdb.com/en/card/21108
 
 ## Text
 
-Once per turn → When you encounter a piece of ice, you may pay 2 credits. If you do, it gains **code gate** for the remainder of that encounter.
+Once per turn → When you encounter a piece of ice, you may pay 2![[credit.svg]]. If you do, it gains **code gate** for the remainder of that encounter.
 
-Interface → **1 credit:** Break 1 **code gate** subroutine.
+Interface → **1![[credit.svg]]:** Break 1 **code gate** subroutine.
 
-**2 credits:** +4 strength.
+**2![[credit.svg]]:** +4 strength.

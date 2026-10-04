@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/08014
 
 ## Text
 
-↳ Do 1 net damage for each unused MU the Runner has.
+![[subroutine.svg]] Do 1 net damage for each unused MU the Runner has.

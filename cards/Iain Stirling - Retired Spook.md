@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/05028
 
 ## Text
 
-When your turn begins, gain 2 credits if the Corp has more scored agenda points than you.
+When your turn begins, gain 2![[credit.svg]] if the Corp has more scored agenda points than you.

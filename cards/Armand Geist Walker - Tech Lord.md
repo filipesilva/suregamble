@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/08063
 
 ## Text
 
-Whenever you use a trash ability, draw 1 card.
+Whenever you use a ![[trash.svg]] ability, draw 1 card.

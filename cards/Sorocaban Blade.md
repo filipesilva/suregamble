@@ -29,8 +29,8 @@ nrdb: https://netrunnerdb.com/en/card/34101
 
 You cannot trash more than 1 installed Runner card with this ice during each encounter.
 
-↳ Trash 1 installed resource.
+![[subroutine.svg]] Trash 1 installed resource.
 
-↳ Trash 1 installed piece of hardware.
+![[subroutine.svg]] Trash 1 installed piece of hardware.
 
-↳ Trash 1 installed program.
+![[subroutine.svg]] Trash 1 installed program.

@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/09051
 
 ## Text
 
-Install only if you have at least 2link.
+Install only if you have at least 2![[link.svg]].
 
-When your turn begins, you may lose click. If you do, look at the top card of R&D.
+When your turn begins, you may lose ![[click.svg]]. If you do, look at the top card of R&D.

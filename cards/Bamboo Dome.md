@@ -29,6 +29,6 @@ nrdb: https://netrunnerdb.com/en/card/12053
 
 Install only in the root of R&D.
 
-click: Reveal the top 3 cards of R&D. Secretly choose 1 to add to HQ. Return the others to the top of R&D, in any order.
+![[click.svg]]: Reveal the top 3 cards of R&D. Secretly choose 1 to add to HQ. Return the others to the top of R&D, in any order.
 
 Limit 1 **region** per server.

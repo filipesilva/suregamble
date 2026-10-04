@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/08056
 
 ## Text
 
-↳ The Runner cannot draw cards for the remainder of this turn.
+![[subroutine.svg]] The Runner cannot draw cards for the remainder of this turn.

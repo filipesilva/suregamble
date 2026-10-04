@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/10020
 
 ## Text
 
-trash: The Corp cannot rez more than 1 piece of ice for the remainder of this run. Use this ability only during a run.
+![[trash.svg]]: The Corp cannot rez more than 1 piece of ice for the remainder of this run. Use this ability only during a run.

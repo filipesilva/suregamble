@@ -29,6 +29,6 @@ nrdb: https://netrunnerdb.com/en/card/03055
 
 The advancement requirement of all agendas is increased by 1.
 
-As an additional cost to steal an agenda, you must pay 3 credits.
+As an additional cost to steal an agenda, you must pay 3![[credit.svg]].
 
 Trash The Source when an agenda is scored or stolen.

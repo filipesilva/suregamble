@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/11085
 
 ## Text
 
-click, click, X credits: Remove X tags.
+![[click.svg]], ![[click.svg]], X![[credit.svg]]: Remove X tags.

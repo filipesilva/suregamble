@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/04068
 
 ## Text
 
-click: Trash any number of cards from your grip. For each trashed card of which you have another copy installed, draw 1 card.
+![[click.svg]]: Trash any number of cards from your grip. For each trashed card of which you have another copy installed, draw 1 card.

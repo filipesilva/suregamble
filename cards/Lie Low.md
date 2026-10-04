@@ -26,7 +26,7 @@ nrdb: https://netrunnerdb.com/en/card/35015
 
 ## Text
 
-As an additional cost to play this event, spend click.
+As an additional cost to play this event, spend ![[click.svg]].
 
 Resolve 1 of the following:
 

@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/26130
 
 Play only if there is no active **lockdown**. This operation is not trashed until your next turn begins.
 
-As an additional cost to steal an agenda, the Runner must pay 4 credits plus 2 credits for each advancement counter on that agenda.
+As an additional cost to steal an agenda, the Runner must pay 4![[credit.svg]] plus 2![[credit.svg]] for each advancement counter on that agenda.

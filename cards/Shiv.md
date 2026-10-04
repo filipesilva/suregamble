@@ -30,8 +30,8 @@ nrdb: https://netrunnerdb.com/en/card/08066
 
 ## Text
 
-If you have at least 2link, the memory cost of this program is 0MU, even if it is not installed.
+If you have at least 2![[link.svg]], the memory cost of this program is 0![[mu.svg]], even if it is not installed.
 
 This program gets +1 strength for each installed **icebreaker**.
 
-Interface → **trash:** Break up to 3 **sentry** subroutines.
+Interface → **![[trash.svg]]:** Break up to 3 **sentry** subroutines.

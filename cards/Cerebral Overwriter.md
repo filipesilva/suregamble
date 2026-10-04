@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/26099
 
 You can advance this asset.
 
-When the Runner accesses this asset while it is installed, you may pay 3 credits to do X core damage. X is equal to the number of hosted advancement counters.
+When the Runner accesses this asset while it is installed, you may pay 3![[credit.svg]] to do X core damage. X is equal to the number of hosted advancement counters.

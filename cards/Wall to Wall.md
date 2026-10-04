@@ -32,7 +32,7 @@ When your turn begins, if you have any other rezzed assets, resolve 1 of the fol
 
 - Draw 1 card.
 
-- Gain 1 credit.
+- Gain 1![[credit.svg]].
 
 - Place 1 advancement counter on an installed piece of ice.
 

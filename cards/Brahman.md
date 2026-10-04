@@ -29,8 +29,8 @@ nrdb: https://netrunnerdb.com/en/card/10062
 
 ## Text
 
-Interface → **1 credit:** Break up to 2 subroutines.
+Interface → **1![[credit.svg]]:** Break up to 2 subroutines.
 
-**2 credits:** +1 strength.
+**2![[credit.svg]]:** +1 strength.
 
 Whenever an encounter ends, if you used this program to break a subroutine during that encounter, add 1 installed non-**virus** program to the top of your stack.

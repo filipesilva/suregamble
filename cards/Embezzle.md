@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/21084
 
 ## Text
 
-Run HQ. If successful, instead of breaching HQ, name asset, ice, operation or upgrade, then reveal 2 cards from HQ at random. Trash each revealed card that has the named type, then gain 4 credits for each card trashed this way.
+Run HQ. If successful, instead of breaching HQ, name asset, ice, operation or upgrade, then reveal 2 cards from HQ at random. Trash each revealed card that has the named type, then gain 4![[credit.svg]] for each card trashed this way.

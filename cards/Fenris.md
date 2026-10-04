@@ -30,6 +30,6 @@ nrdb: https://netrunnerdb.com/en/card/04071
 
 When you rez this ice, take 1 bad publicity.
 
-↳ Do 1 core damage.
+![[subroutine.svg]] Do 1 core damage.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

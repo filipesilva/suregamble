@@ -28,12 +28,12 @@ nrdb: https://netrunnerdb.com/en/card/36028
 
 ## Text
 
-**Lose 2 clicks:** Break up to 2 subroutines on this ice. Only the Runner can use this ability.
+**Lose ![[click.svg]]![[click.svg]]:** Break up to 2 subroutines on this ice. Only the Runner can use this ability.
 
-↳ Trash 1 installed Runner card.
+![[subroutine.svg]] Trash 1 installed Runner card.
 
-↳ Remove 1 card in the heap from the game.
+![[subroutine.svg]] Remove 1 card in the heap from the game.
 
-↳ You may install 1 card from HQ or Archives.
+![[subroutine.svg]] You may install 1 card from HQ or Archives.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

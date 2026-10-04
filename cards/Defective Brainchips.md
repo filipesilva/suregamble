@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/08072
 
 This operation is not trashed until another **current** is played or an agenda is stolen.
 
-interrupt → The first time each turn the Runner would suffer core damage, increase that damage by 1.
+![[interrupt.svg]] → The first time each turn the Runner would suffer core damage, increase that damage by 1.

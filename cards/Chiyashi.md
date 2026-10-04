@@ -30,8 +30,8 @@ nrdb: https://netrunnerdb.com/en/card/11112
 
 Whenever the Runner breaks a subroutine on Chiyashi while there is an **AI** installed, trash the top 2 cards of the Runner's stack.
 
-↳ Do 2 net damage.
+![[subroutine.svg]] Do 2 net damage.
 
-↳ Do 2 net damage.
+![[subroutine.svg]] Do 2 net damage.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

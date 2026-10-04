@@ -27,8 +27,8 @@ nrdb: https://netrunnerdb.com/en/card/25009
 
 ## Text
 
-+1MU
++1![[mu.svg]]
 
-interrupt, once per turn → When you would play or install a card, you may trash 1 card from your grip. If you do, instead play or install that card paying 2 credits less.
+![[interrupt.svg]], once per turn → When you would play or install a card, you may trash 1 card from your grip. If you do, instead play or install that card paying 2![[credit.svg]] less.
 
 Limit 1 **console** per player.

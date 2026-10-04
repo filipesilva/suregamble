@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/09018
 
 ## Text
 
-When the Runner encounters this ice, they lose 1 credit.
+When the Runner encounters this ice, they lose 1![[credit.svg]].
 
-↳ Trace[5]. If successful, give the Runner 1 tag.
+![[subroutine.svg]] Trace[5]. If successful, give the Runner 1 tag.

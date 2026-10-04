@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/22036
 
 ## Text
 
-When your turn begins, you may remove an advancement token from an installed card to gain 3 credits.
+When your turn begins, you may remove an advancement token from an installed card to gain 3![[credit.svg]].

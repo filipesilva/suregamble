@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/12065
 
 ## Text
 
-The first time you derez a piece of ice each turn, gain 2 credits.
+The first time you derez a piece of ice each turn, gain 2![[credit.svg]].

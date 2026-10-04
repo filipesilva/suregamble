@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/05025
 
 ## Text
 
-↳ End the run.
+![[subroutine.svg]] End the run.

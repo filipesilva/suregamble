@@ -29,4 +29,4 @@ While the Runner is accessing this agenda in R&D, they must reveal it.
 
 When the Runner accesses this agenda anywhere except in Archives, do 2 net damage.
 
-As an additional cost to steal this agenda, the Runner must pay 2 credits.
+As an additional cost to steal this agenda, the Runner must pay 2![[credit.svg]].

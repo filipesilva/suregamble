@@ -26,8 +26,8 @@ nrdb: https://netrunnerdb.com/en/card/02071
 
 ## Text
 
-↳ The Runner loses click, if able.
+![[subroutine.svg]] The Runner loses ![[click.svg]], if able.
 
-↳ The Runner loses click, if able.
+![[subroutine.svg]] The Runner loses ![[click.svg]], if able.
 
-↳ The Runner loses click, if able.
+![[subroutine.svg]] The Runner loses ![[click.svg]], if able.

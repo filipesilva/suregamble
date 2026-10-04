@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/08119
 
 ## Text
 
-When your turn begins, gain 1 credit if there is a rezzed asset installed in the root of this server.
+When your turn begins, gain 1![[credit.svg]] if there is a rezzed asset installed in the root of this server.
 
 Limit 1 **region** per server.

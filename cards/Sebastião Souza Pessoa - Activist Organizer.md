@@ -29,6 +29,6 @@ nrdb: https://netrunnerdb.com/en/card/34066
 
 ## Text
 
-Whenever you take 1 or more tags, if you had no tags, you may install 1 **connection** resource from your grip, paying 2 credits less.
+Whenever you take 1 or more tags, if you had no tags, you may install 1 **connection** resource from your grip, paying 2![[credit.svg]] less.
 
 As an additional cost to trash a **connection** resource with the basic action, the Corp must trash 1 card from HQ.

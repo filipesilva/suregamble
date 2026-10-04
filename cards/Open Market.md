@@ -27,8 +27,8 @@ nrdb: https://netrunnerdb.com/en/card/35022
 
 ## Text
 
-When you install this resource, load 6 credits onto it. When it is empty, trash it.
+When you install this resource, load 6![[credit.svg]] onto it. When it is empty, trash it.
 
 You can spend hosted credits to install **connection** and **job** resources.
 
-When your turn begins, take 1 credit from this resource.
+When your turn begins, take 1![[credit.svg]] from this resource.

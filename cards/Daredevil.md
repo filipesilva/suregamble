@@ -27,7 +27,7 @@ nrdb: https://netrunnerdb.com/en/card/12066
 
 ## Text
 
-+2MU
++2![[mu.svg]]
 
 The first time you initiate a run on a server protected by 2 or more pieces of ice each turn, draw 2 cards.
 

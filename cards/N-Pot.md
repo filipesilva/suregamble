@@ -27,10 +27,10 @@ nrdb: https://netrunnerdb.com/en/card/35064
 
 ## Text
 
-**3 credits:** Break 1 subroutine on this ice. Only the Runner can use this ability.
+**3![[credit.svg]]:** Break 1 subroutine on this ice. Only the Runner can use this ability.
 
-↳ End the run.
+![[subroutine.svg]] End the run.
 
-↳ If the threat level is 2 or greater, end the run.
+![[subroutine.svg]] If the threat level is 2 or greater, end the run.
 
-↳ If the threat level is 4 or greater, end the run.
+![[subroutine.svg]] If the threat level is 4 or greater, end the run.

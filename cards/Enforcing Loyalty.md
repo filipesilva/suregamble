@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/11033
 
 ## Text
 
-As an additional cost to play this operation, spend click.
+As an additional cost to play this operation, spend ![[click.svg]].
 
 Trace[3]. If successful, trash an installed card that does not match the faction of the Runner's identity.

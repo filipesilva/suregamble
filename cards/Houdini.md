@@ -29,6 +29,6 @@ nrdb: https://netrunnerdb.com/en/card/11045
 
 ## Text
 
-Interface → **1 credit:** Break 1 **code gate** subroutine.
+Interface → **1![[credit.svg]]:** Break 1 **code gate** subroutine.
 
-**2 credits:** +4 strength for the remainder of this run. Use this ability only by spending at least 1 credit from a **stealth** card.
+**2![[credit.svg]]:** +4 strength for the remainder of this run. Use this ability only by spending at least 1 credit from a **stealth** card.

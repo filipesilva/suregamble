@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/29009
 
 NEXT Bronze has +1 strength for each rezzed piece of **NEXT** ice.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

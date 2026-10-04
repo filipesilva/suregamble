@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/12078
 
 ## Text
 
-As an additional cost to play this operation, forfeit an agenda and spend 2 clicks.
+As an additional cost to play this operation, forfeit an agenda and spend ![[click.svg]]![[click.svg]].
 
 Advance a card X times. X equals the advancement requirement of the agenda just forfeited.

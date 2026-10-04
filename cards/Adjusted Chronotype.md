@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/08003
 
 ## Text
 
-The first time each turn you lose click except by paying the trigger cost of a paid ability, gain click.
+The first time each turn you lose ![[click.svg]] except by paying the trigger cost of a paid ability, gain ![[click.svg]].

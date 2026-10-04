@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/22028
 
 ## Text
 
-↳ Gain 4 credits and end the run unless the Runner adds this ice to their score area as an agenda worth -1 agenda point.
+![[subroutine.svg]] Gain 4![[credit.svg]] and end the run unless the Runner adds this ice to their score area as an agenda worth -1 agenda point.

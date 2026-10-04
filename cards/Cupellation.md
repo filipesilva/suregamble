@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/34080
 
 Limit 1 hosted card.
 
-Access → **1 credit:** Host the non-agenda card you are accessing faceup on this program. *(If it was installed, it becomes uninstalled.)*
+Access → **1![[credit.svg]]:** Host the non-agenda card you are accessing faceup on this program. *(If it was installed, it becomes uninstalled.)*
 
-Whenever you breach HQ, if this program has a hosted Corp card, you may pay 1 credit and trash this program to access 2 additional cards.
+Whenever you breach HQ, if this program has a hosted Corp card, you may pay 1![[credit.svg]] and trash this program to access 2 additional cards.

@@ -27,8 +27,8 @@ nrdb: https://netrunnerdb.com/en/card/26038
 
 ## Text
 
-**click:** Place 1 power counter on this upgrade.
+**![[click.svg]]:** Place 1 power counter on this upgrade.
 
-As an additional cost to run this server, the Runner must spend click and 1 credit for each hosted power counter.
+As an additional cost to run this server, the Runner must spend ![[click.svg]] and 1![[credit.svg]] for each hosted power counter.
 
 When your turn begins, remove all hosted power counters.

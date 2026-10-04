@@ -33,4 +33,4 @@ When you rez this ice, you may spend any number of credits to place that many po
 
 This ice gets +1 strength for each hosted power counter.
 
-↳ Trace[2]. If successful, give the Runner 1 tag and end the run.
+![[subroutine.svg]] Trace[2]. If successful, give the Runner 1 tag and end the run.

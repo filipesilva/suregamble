@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/10004
 
 ## Text
 
-Make a run on a server with at least 1 piece of unrezzed ice. When the run ends, gain 12 credits if it was successful.
+Make a run on a server with at least 1 piece of unrezzed ice. When the run ends, gain 12![[credit.svg]] if it was successful.

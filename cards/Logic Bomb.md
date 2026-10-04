@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/21089
 
 ## Text
 
-trash: Bypass a piece of ice you are currently encountering. Lose any remaining clicks.
+![[trash.svg]]: Bypass a piece of ice you are currently encountering. Lose any remaining clicks.

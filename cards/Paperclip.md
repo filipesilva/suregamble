@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/11024
 
 Whenever you encounter a **barrier**, you may install this program from your heap.
 
-**X credits:** +X strength. Then, if this program can interface with the **barrier** you are encountering, break up to X subroutines.
+**X![[credit.svg]]:** +X strength. Then, if this program can interface with the **barrier** you are encountering, break up to X subroutines.

@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/12037
 
 ## Text
 
-When your turn begins, the Runner must pay 1 credit or trash the top card of the stack.
+When your turn begins, the Runner must pay 1![[credit.svg]] or trash the top card of the stack.

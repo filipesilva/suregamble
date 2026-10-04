@@ -29,6 +29,6 @@ nrdb: https://netrunnerdb.com/en/card/26105
 
 Remote server only.
 
-The first time each turn you install a card in the root of this server, gain 2 credits or draw 1 card.
+The first time each turn you install a card in the root of this server, gain 2![[credit.svg]] or draw 1 card.
 
 Limit 1 **region** per server.

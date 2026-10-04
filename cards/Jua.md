@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/21034
 
 When the Runner encounters this ice, they cannot install cards for the remainder of the turn.
 
-↳ Choose 2 installed Runner cards, if able. The Runner must add 1 of the chosen cards to the top of the stack.
+![[subroutine.svg]] Choose 2 installed Runner cards, if able. The Runner must add 1 of the chosen cards to the top of the stack.

@@ -25,6 +25,6 @@ nrdb: https://netrunnerdb.com/en/card/07046
 
 ## Text
 
-+3MU
++3![[mu.svg]]
 
 Use the MU on MemStrips only for **virus** programs.

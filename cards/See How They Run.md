@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/34105
 
 ## Text
 
-When you score this agenda, give the Runner 1 tag. Play a Psi Game. *(Players secretly bid 0–2 credits. Then each player reveals and spends their bid.)* If the bids differ, do 1 core damage. If the bids match, do 1 net damage.
+When you score this agenda, give the Runner 1 tag. Play a Psi Game. *(Players secretly bid 0–2![[credit.svg]]. Then each player reveals and spends their bid.)* If the bids differ, do 1 core damage. If the bids match, do 1 net damage.

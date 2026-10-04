@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/00009
 
 Draft format only.
 
-If you have more shaper cards installed than any other faction, when you install a card the first time each turn, draw 1 card.
+If you have more ![[shaper.svg]] cards installed than any other faction, when you install a card the first time each turn, draw 1 card.

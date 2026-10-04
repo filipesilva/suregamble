@@ -24,6 +24,6 @@ nrdb: https://netrunnerdb.com/en/card/21090
 
 ## Text
 
-When your turn begins, you may place 1 credit on Jackpot!.
+When your turn begins, you may place 1![[credit.svg]] on Jackpot!.
 
 Whenever an agenda is added to your score area, you may take any number of credits from Jackpot!. If you do, trash Jackpot!.

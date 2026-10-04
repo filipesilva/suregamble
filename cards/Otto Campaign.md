@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/35040
 
 ## Text
 
-When you rez this asset, load 6 credits onto it. When it is empty, trash it and gain 2 clicks.
+When you rez this asset, load 6![[credit.svg]] onto it. When it is empty, trash it and gain ![[click.svg]]![[click.svg]].
 
-When your turn begins, take 2 credits from this asset.
+When your turn begins, take 2![[credit.svg]] from this asset.

@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/22027
 
 ## Text
 
-When Hyperloop Extension is scored or stolen, the Corp gains 3 credits.
+When Hyperloop Extension is scored or stolen, the Corp gains 3![[credit.svg]].

@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/36031
 
 ## Text
 
-When the Runner passes this ice, if they have no click remaining, they cannot steal or trash Corp cards for the remainder of this run.
+When the Runner passes this ice, if they have no ![[click.svg]] remaining, they cannot steal or trash Corp cards for the remainder of this run.
 
-↳ The Runner loses click.
+![[subroutine.svg]] The Runner loses ![[click.svg]].

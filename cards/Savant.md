@@ -31,4 +31,4 @@ nrdb: https://netrunnerdb.com/en/card/13018
 
 This program gets +1 strength for each unused MU.
 
-Interface → **2 credits:** Break 1 **sentry** or 2 **code gate** subroutines.
+Interface → **2![[credit.svg]]:** Break 1 **sentry** or 2 **code gate** subroutines.

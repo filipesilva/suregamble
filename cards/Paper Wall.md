@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/04059
 
 When the Runner fully breaks this ice, trash it.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

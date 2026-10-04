@@ -27,8 +27,8 @@ nrdb: https://netrunnerdb.com/en/card/34059
 
 ## Text
 
-click, **1**credit, **reveal and trash this ice from HQ:** Place 3 advancement counters on 1 installed piece of ice.
+![[click.svg]], **1**![[credit.svg]], **reveal and trash this ice from HQ:** Place 3 advancement counters on 1 installed piece of ice.
 
 You can advance this ice. It gets +1 strength for each hosted advancement counter.
 
-↳ Gain 1 credit. End the run.
+![[subroutine.svg]] Gain 1![[credit.svg]]. End the run.

@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/02109
 
 ## Text
 
-interrupt → **2 credits:** Prevent 1 tag.
+![[interrupt.svg]] → **2![[credit.svg]]:** Prevent 1 tag.
 
 When you steal an agenda, trash this resource.

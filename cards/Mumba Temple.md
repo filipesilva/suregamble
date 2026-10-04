@@ -30,6 +30,6 @@ nrdb: https://netrunnerdb.com/en/card/10018
 
 This card costs 0 influence if you have 15 or fewer ice in your deck.
 
-2recurring credit
+2![[recurring-credit.svg]]
 
 Use these credits to rez cards.

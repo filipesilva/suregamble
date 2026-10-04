@@ -31,7 +31,7 @@ nrdb: https://netrunnerdb.com/en/card/35057
 
 ## Text
 
-When your action phase ends, if you played an operation this turn, gain 1 credit and flip this identity.
+When your action phase ends, if you played an operation this turn, gain 1![[credit.svg]] and flip this identity.
 
 ## Gemilang Arena: Burning Bright
 
@@ -41,6 +41,6 @@ When your action phase ends, if you played an operation this turn, gain 1 credit
 
 ### Text
 
-The first time each turn you play an operation, gain click.
+The first time each turn you play an operation, gain ![[click.svg]].
 
 When the Runner makes a successful run on HQ or R&D, flip this identity.

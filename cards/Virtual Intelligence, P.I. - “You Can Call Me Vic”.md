@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/36009
 
 ## Text
 
-Once per turn → click, **1 credit:** Draw 1 card and remove 1 tag.
+Once per turn → ![[click.svg]], **1![[credit.svg]]:** Draw 1 card and remove 1 tag.

@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/13039
 
 ## Text
 
-Whenever the Runner makes a successful run on this server, they must either suffer 1 core damage or jack out. If the Runner jacks out this way, gain 5 credits, draw 1 card, and trash this upgrade.
+Whenever the Runner makes a successful run on this server, they must either suffer 1 core damage or jack out. If the Runner jacks out this way, gain 5![[credit.svg]], draw 1 card, and trash this upgrade.

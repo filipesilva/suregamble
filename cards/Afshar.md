@@ -29,6 +29,6 @@ nrdb: https://netrunnerdb.com/en/card/26058
 
 While this ice is protecting HQ, the Runner cannot break more than 1 of its printed subroutines during each encounter.
 
-↳ The Runner loses 2 credits.
+![[subroutine.svg]] The Runner loses 2![[credit.svg]].
 
-↳ End the run.
+![[subroutine.svg]] End the run.

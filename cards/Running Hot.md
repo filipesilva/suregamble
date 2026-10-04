@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/33003
 
 As an additional cost to play this event, suffer 1 core damage.
 
-Gain 3 clicks.
+Gain ![[click.svg]]![[click.svg]]![[click.svg]].

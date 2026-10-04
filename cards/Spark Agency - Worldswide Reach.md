@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/25105
 
 ## Text
 
-The first time each turn you rez an **advertisement**, the Runner loses 1 credit.
+The first time each turn you rez an **advertisement**, the Runner loses 1![[credit.svg]].

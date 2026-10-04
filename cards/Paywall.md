@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/36052
 
 ## Text
 
-When the Runner encounters this ice, they lose 1 credit.
+When the Runner encounters this ice, they lose 1![[credit.svg]].
 
-↳ End the run unless the Runner pays 1 credit.
+![[subroutine.svg]] End the run unless the Runner pays 1![[credit.svg]].

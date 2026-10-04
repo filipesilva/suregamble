@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/05045
 
 ## Text
 
-trash: Break all but 1 subroutine on a piece of ice.
+![[trash.svg]]: Break all but 1 subroutine on a piece of ice.

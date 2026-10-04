@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/08116
 
 Worlds Plaza can host up to 3 assets.
 
-click: Install an asset from HQ on Worlds Plaza and rez it, lowering its rez cost by 2, if able.
+![[click.svg]]: Install an asset from HQ on Worlds Plaza and rez it, lowering its rez cost by 2, if able.

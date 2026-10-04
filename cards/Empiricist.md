@@ -29,8 +29,8 @@ nrdb: https://netrunnerdb.com/en/card/35052
 
 ## Text
 
-↳ Draw 1 card. You may add 1 card from HQ to the top of R&D.
+![[subroutine.svg]] Draw 1 card. You may add 1 card from HQ to the top of R&D.
 
-↳ Do 1 net damage. Give the Runner 1 tag.
+![[subroutine.svg]] Do 1 net damage. Give the Runner 1 tag.
 
-↳ Do 2 net damage.
+![[subroutine.svg]] Do 2 net damage.

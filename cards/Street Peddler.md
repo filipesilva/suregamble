@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/08062
 
 When you install Street Peddler, host the top 3 cards of your stack facedown on Street Peddler (you may look at these cards at any time).
 
-trash: Install 1 card hosted on Street Peddler, lowering its install cost by 1.
+![[trash.svg]]: Install 1 card hosted on Street Peddler, lowering its install cost by 1.

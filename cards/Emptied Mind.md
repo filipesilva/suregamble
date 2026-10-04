@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/10078
 
 ## Text
 
-When your turn begins, gain click if you have no cards in your grip.
+When your turn begins, gain ![[click.svg]] if you have no cards in your grip.

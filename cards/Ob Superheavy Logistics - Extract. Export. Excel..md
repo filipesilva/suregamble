@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/33057
 
 ## Text
 
-Once per turn → When you trash a rezzed card, except during installation, you may search R&D for 1 card with a printed rez cost exactly 1 credit less than the trashed card's printed rez cost. Install and rez the card you found, ignoring credit costs.
+Once per turn → When you trash a rezzed card, except during installation, you may search R&D for 1 card with a printed rez cost exactly 1![[credit.svg]] less than the trashed card's printed rez cost. Install and rez the card you found, ignoring credit costs.

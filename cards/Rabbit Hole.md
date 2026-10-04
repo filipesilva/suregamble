@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/20046
 
 ## Text
 
-+1link
++1![[link.svg]]
 
 When Rabbit Hole is installed, you may search your stack for another copy of Rabbit Hole and install it by paying its install cost. Shuffle your stack.

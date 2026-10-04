@@ -26,7 +26,7 @@ nrdb: https://netrunnerdb.com/en/card/13016
 
 ## Text
 
-+1MU
++1![[mu.svg]]
 
 When your turn begins, draw 1 card.
 

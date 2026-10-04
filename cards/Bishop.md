@@ -29,6 +29,6 @@ nrdb: https://netrunnerdb.com/en/card/04021
 
 Host ice gets -2 strength.
 
-click: Host this program on a piece of ice that is not hosting a **Caïssa** program.
+![[click.svg]]: Host this program on a piece of ice that is not hosting a **Caïssa** program.
 
-If this program is hosted on ice protecting a central server, its click ability can only be used to host it on ice protecting a remote server. If this program is hosted on ice protecting a remote server, its click ability can only be used to host it on ice protecting a central server.
+If this program is hosted on ice protecting a central server, its ![[click.svg]] ability can only be used to host it on ice protecting a remote server. If this program is hosted on ice protecting a remote server, its ![[click.svg]] ability can only be used to host it on ice protecting a central server.

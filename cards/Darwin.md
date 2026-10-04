@@ -30,8 +30,8 @@ nrdb: https://netrunnerdb.com/en/card/20008
 
 ## Text
 
-Interface → 2 credits: Break 1 subroutine.
+Interface → 2![[credit.svg]]: Break 1 subroutine.
 
 X is equal to the number of hosted virus counters.
 
-When your turn begins, you may pay 1 credit to place 1 virus counter on this program.
+When your turn begins, you may pay 1![[credit.svg]] to place 1 virus counter on this program.

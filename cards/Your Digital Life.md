@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/34056
 
 ## Text
 
-Gain 1 credit for each card in HQ.
+Gain 1![[credit.svg]] for each card in HQ.

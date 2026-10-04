@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/10054
 
 ## Text
 
-When your turn begins, gain 3 credits if there is no ice protecting this server.
+When your turn begins, gain 3![[credit.svg]] if there is no ice protecting this server.

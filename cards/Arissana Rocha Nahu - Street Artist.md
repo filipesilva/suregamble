@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/34020
 
 ## Text
 
-Once per turn → **0 credits:** Install 1 program from your grip *(paying its install cost)*. Use this ability only during a run. When that run ends, trash that program if it is not a **trojan**.
+Once per turn → **0![[credit.svg]]:** Install 1 program from your grip *(paying its install cost)*. Use this ability only during a run. When that run ends, trash that program if it is not a **trojan**.

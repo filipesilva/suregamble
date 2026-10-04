@@ -29,7 +29,7 @@ nrdb: https://netrunnerdb.com/en/card/20025
 
 ## Text
 
-+1MU
++1![[mu.svg]]
 
 Once per turn → When a successful run ends, you may run any server.
 

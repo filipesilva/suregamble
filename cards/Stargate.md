@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/26004
 
 ## Text
 
-Once per turn → click**:** Run R&D. If successful, instead of breaching R&D, reveal the top 3 cards of R&D. Trash 1 of the revealed cards.
+Once per turn → ![[click.svg]]**:** Run R&D. If successful, instead of breaching R&D, reveal the top 3 cards of R&D. Trash 1 of the revealed cards.

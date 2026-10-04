@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/30067
 
 ## Text
 
-When you score this agenda, gain 7 credits.
+When you score this agenda, gain 7![[credit.svg]].

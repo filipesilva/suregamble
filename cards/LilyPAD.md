@@ -26,7 +26,7 @@ nrdb: https://netrunnerdb.com/en/card/34023
 
 ## Text
 
-+2MU
++2![[mu.svg]]
 
 The first time each turn you install a program, you may draw 1 card.
 

@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/26020
 
 ## Text
 
-Play only as your first click.
+Play only as your first ![[click.svg]].
 
-For the remainder of this turn, whenever you install a card with a printed install cost of 1 credit or greater, draw 1 card or gain 1 credit.
+For the remainder of this turn, whenever you install a card with a printed install cost of 1![[credit.svg]] or greater, draw 1 card or gain 1![[credit.svg]].

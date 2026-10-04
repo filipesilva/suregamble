@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/11091
 
 ## Text
 
-If the Runner has fewer than 6 credits or no unspent clicks when a successful run on this server ends, you have 1 additional click to spend your next turn.
+If the Runner has fewer than 6![[credit.svg]] or no unspent clicks when a successful run on this server ends, you have 1 additional ![[click.svg]] to spend your next turn.
 
 Limit 1 **region** per server.

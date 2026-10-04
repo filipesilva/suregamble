@@ -29,10 +29,10 @@ nrdb: https://netrunnerdb.com/en/card/30014
 
 ## Text
 
-+1MU
++1![[mu.svg]]
 
-Whenever you make a successful run, place 1 credit on this hardware.
+Whenever you make a successful run, place 1![[credit.svg]] on this hardware.
 
-click**:** Place 1 credit on this hardware, then take all credits from it.
+![[click.svg]]**:** Place 1![[credit.svg]] on this hardware, then take all credits from it.
 
 Limit 1 **console** per player.

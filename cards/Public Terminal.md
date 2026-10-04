@@ -24,6 +24,6 @@ nrdb: https://netrunnerdb.com/en/card/05038
 
 ## Text
 
-1recurring credit
+1![[recurring-credit.svg]]
 
 Use this credit to play **run** events.

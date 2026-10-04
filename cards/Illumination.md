@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/35025
 
 ## Text
 
-Run R&D. If successful, install up to 3 cards from your grip *(one at a time)*, paying 1 credit less for each.
+Run R&D. If successful, install up to 3 cards from your grip *(one at a time)*, paying 1![[credit.svg]] less for each.

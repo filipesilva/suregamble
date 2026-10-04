@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/09015
 
 Resistor has +1 strength for each tag the Runner has.
 
-↳ Trace[4]. If successful, end the run.
+![[subroutine.svg]] Trace[4]. If successful, end the run.

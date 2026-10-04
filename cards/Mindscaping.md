@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/34045
 
 Resolve 1 of the following:
 
-- Gain 4 credits and draw 2 cards. Add 1 card from HQ to the top of R&D.
+- Gain 4![[credit.svg]] and draw 2 cards. Add 1 card from HQ to the top of R&D.
 
 - Do X net damage. X is equal to the number of tags the Runner has, up to 3.

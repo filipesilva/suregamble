@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/26050
 
 ## Text
 
-When the Runner passes this ice, gain 1 credit.
+When the Runner passes this ice, gain 1![[credit.svg]].
 
-↳ Gain 2 credits. The Runner gains 1 credit.
+![[subroutine.svg]] Gain 2![[credit.svg]]. The Runner gains 1![[credit.svg]].

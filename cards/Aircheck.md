@@ -26,7 +26,7 @@ nrdb: https://netrunnerdb.com/en/card/36018
 
 ## Text
 
-Place 4 credits on this event. While this event is active, you can spend hosted credits, and you cannot lose or spend credits from your credit pool.
+Place 4![[credit.svg]] on this event. While this event is active, you can spend hosted credits, and you cannot lose or spend credits from your credit pool.
 
 Run HQ or R&D.
 

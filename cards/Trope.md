@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/08081
 
 When your turn begins, place 1 power counter on Trope.
 
-click, **remove Trope from the game:** Shuffle 1 card from your heap into your stack for each power counter on Trope.
+![[click.svg]], **remove Trope from the game:** Shuffle 1 card from your heap into your stack for each power counter on Trope.

@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/30051
 
 ## Text
 
-The first time each turn the Runner takes a tag, gain 2 credits or draw 2 cards.
+The first time each turn the Runner takes a tag, gain 2![[credit.svg]] or draw 2 cards.

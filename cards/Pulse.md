@@ -27,8 +27,8 @@ nrdb: https://netrunnerdb.com/en/card/33099
 
 ## Text
 
-When you rez this ice during a run against this server, the Runner loses click.
+When you rez this ice during a run against this server, the Runner loses ![[click.svg]].
 
-↳ The Runner loses 1 credit for each rezzed piece of **harmonic** ice.
+![[subroutine.svg]] The Runner loses 1![[credit.svg]] for each rezzed piece of **harmonic** ice.
 
-↳ End the run unless the Runner spends click.
+![[subroutine.svg]] End the run unless the Runner spends ![[click.svg]].

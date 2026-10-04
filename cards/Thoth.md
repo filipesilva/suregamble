@@ -31,6 +31,6 @@ nrdb: https://netrunnerdb.com/en/card/11095
 
 When the Runner encounters this ice, give them 1 tag.
 
-↳ Trace[4]. If successful, do 1 net damage for each tag the Runner has.
+![[subroutine.svg]] Trace[4]. If successful, do 1 net damage for each tag the Runner has.
 
-↳ Trace[4]. If successful, the Runner loses 1 credit for each tag they have.
+![[subroutine.svg]] Trace[4]. If successful, the Runner loses 1![[credit.svg]] for each tag they have.

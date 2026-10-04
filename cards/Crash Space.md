@@ -26,8 +26,8 @@ nrdb: https://netrunnerdb.com/en/card/20034
 
 ## Text
 
-2recurring credit
+2![[recurring-credit.svg]]
 
 You can spend hosted credits to take the basic action to remove 1 tag.
 
-interrupt → trash**:** Prevent up to 3 meat damage.
+![[interrupt.svg]] → ![[trash.svg]]**:** Prevent up to 3 meat damage.

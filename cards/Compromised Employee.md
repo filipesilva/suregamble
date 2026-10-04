@@ -26,8 +26,8 @@ nrdb: https://netrunnerdb.com/en/card/02025
 
 ## Text
 
-1recurring credit
+1![[recurring-credit.svg]]
 
 Use this credit during traces.
 
-Gain 1 credit whenever the Corp rezzes a piece of ice.
+Gain 1![[credit.svg]] whenever the Corp rezzes a piece of ice.

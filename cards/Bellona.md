@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/26114
 
 ## Text
 
-As an additional cost to steal this agenda, the Runner must pay 5 credits.
+As an additional cost to steal this agenda, the Runner must pay 5![[credit.svg]].
 
-When you score this agenda, gain 5 credits.
+When you score this agenda, gain 5![[credit.svg]].

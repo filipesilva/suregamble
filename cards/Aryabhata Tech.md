@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/10070
 
 ## Text
 
-Whenever there is a successful trace, gain 1 credit and the Runner loses 1 credit.
+Whenever there is a successful trace, gain 1![[credit.svg]] and the Runner loses 1![[credit.svg]].

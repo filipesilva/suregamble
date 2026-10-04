@@ -25,6 +25,6 @@ nrdb: https://netrunnerdb.com/en/card/03047
 
 ## Text
 
-2recurring credit
+2![[recurring-credit.svg]]
 
 Use these credits to install programs (you cannot use Sahasrara to install a program that trashes Sahasrara).

@@ -25,6 +25,6 @@ nrdb: https://netrunnerdb.com/en/card/06035
 
 ## Text
 
-Play only as your first click.
+Play only as your first ![[click.svg]].
 
-When this turn ends, gain 2 credits for each successful run you made during it.
+When this turn ends, gain 2![[credit.svg]] for each successful run you made during it.

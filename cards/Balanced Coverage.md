@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/34050
 
 ## Text
 
-When your turn begins, you may choose a card type to look at the top card of R&D. If that card has the chosen type, you may reveal it and gain 2 credits.
+When your turn begins, you may choose a card type to look at the top card of R&D. If that card has the chosen type, you may reveal it and gain 2![[credit.svg]].

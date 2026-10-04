@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/07009
 
 ## Text
 
-Whenever you spend an agenda counter, gain 1 credit.
+Whenever you spend an agenda counter, gain 1![[credit.svg]].
 
-trash or **any agenda counter:** Gain 2 credits.
+![[trash.svg]] or **any agenda counter:** Gain 2![[credit.svg]].

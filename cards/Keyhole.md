@@ -24,6 +24,6 @@ nrdb: https://netrunnerdb.com/en/card/04061
 
 ## Text
 
-**click:** Run R&D. If successful, instead of breaching R&D, look at the top 3 cards of R&D. Trash 1 of those cards, then the Corp shuffles R&D.
+**![[click.svg]]:** Run R&D. If successful, instead of breaching R&D, look at the top 3 cards of R&D. Trash 1 of those cards, then the Corp shuffles R&D.
 
 

@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/21075
 
 ## Text
 
-↳Add an installed Runner card to the grip.
+![[subroutine.svg]]Add an installed Runner card to the grip.
 
-↳Add an installed Runner card to the grip.
+![[subroutine.svg]]Add an installed Runner card to the grip.

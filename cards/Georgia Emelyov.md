@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/11014
 
 Whenever the Runner makes an unsuccessful run on this server, do 1 net damage.
 
-2 credits: Move Georgia Emelyov to another server.
+2![[credit.svg]]: Move Georgia Emelyov to another server.

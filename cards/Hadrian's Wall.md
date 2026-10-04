@@ -29,6 +29,6 @@ nrdb: https://netrunnerdb.com/en/card/25132
 
 Hadrian's Wall can be advanced and has +1 strength for each advancement token on it.
 
-↳ End the run.
+![[subroutine.svg]] End the run.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

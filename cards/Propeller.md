@@ -30,6 +30,6 @@ nrdb: https://netrunnerdb.com/en/card/33027
 
 When you install this program, place 4 power counters on it.
 
-Interface → **1 credit:** Break 1 **barrier** subroutine.
+Interface → **1![[credit.svg]]:** Break 1 **barrier** subroutine.
 
 **Hosted power counter:** +2 strength.

@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/30002
 
 Resolve 1 of the following of the Corpʼs choice:
 
-- Gain 6 credits.
+- Gain 6![[credit.svg]].
 
 - Draw 4 cards.

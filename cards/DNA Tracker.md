@@ -28,8 +28,8 @@ nrdb: https://netrunnerdb.com/en/card/11053
 
 ## Text
 
-↳ Do 1 net damage. The Runner loses 2 credits.
+![[subroutine.svg]] Do 1 net damage. The Runner loses 2![[credit.svg]].
 
-↳ Do 1 net damage. The Runner loses 2 credits.
+![[subroutine.svg]] Do 1 net damage. The Runner loses 2![[credit.svg]].
 
-↳ Do 1 net damage. The Runner loses 2 credits.
+![[subroutine.svg]] Do 1 net damage. The Runner loses 2![[credit.svg]].

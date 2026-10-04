@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/12090
 
 ## Text
 
-The Runner may trash 1 card from the grip at random. If they do not, gain 2 clicks.
+The Runner may trash 1 card from the grip at random. If they do not, gain ![[click.svg]]![[click.svg]].

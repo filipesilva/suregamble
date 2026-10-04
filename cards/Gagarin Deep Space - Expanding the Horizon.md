@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/07002
 
 ## Text
 
-As an additional cost to access a card in the root of a remote server, the Runner must pay 1 credit.
+As an additional cost to access a card in the root of a remote server, the Runner must pay 1![[credit.svg]].

@@ -26,7 +26,7 @@ nrdb: https://netrunnerdb.com/en/card/04085
 
 ## Text
 
-+2MU
++2![[mu.svg]]
 
 Whenever you expose a card, the Corp must rez it by paying its rez cost, if able.
 

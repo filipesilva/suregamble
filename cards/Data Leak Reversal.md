@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/02103
 
 Install only if you made a successful run on a central server this turn.
 
-If you are tagged, Data Leak Reversal gains "click: The Corp trashes the top card of R&D."
+If you are tagged, Data Leak Reversal gains "![[click.svg]]: The Corp trashes the top card of R&D."

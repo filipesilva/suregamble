@@ -29,6 +29,6 @@ nrdb: https://netrunnerdb.com/en/card/33062
 
 When you rez this ice, you may trash 1 of your other installed cards. If you do, this ice gets +5 strength for the remainder of the run.
 
-↳ Trash 1 installed program.
+![[subroutine.svg]] Trash 1 installed program.
 
-↳ Trash 1 installed program.
+![[subroutine.svg]] Trash 1 installed program.

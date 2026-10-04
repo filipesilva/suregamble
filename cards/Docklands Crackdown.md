@@ -25,6 +25,6 @@ nrdb: https://netrunnerdb.com/en/card/06072
 
 ## Text
 
-click, click: Place 1 power counter on Docklands Crackdown.
+![[click.svg]], ![[click.svg]]: Place 1 power counter on Docklands Crackdown.
 
 The install cost of the first card the Runner installs each turn is increased by 1 for each power counter on Docklands Crackdown.

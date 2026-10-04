@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/25062
 
 ## Text
 
-Place 12 credits from the bank on Armitage Codebusting when it is installed. When there are no credits left on Armitage Codebusting, trash it.
+Place 12![[credit.svg]] from the bank on Armitage Codebusting when it is installed. When there are no credits left on Armitage Codebusting, trash it.
 
-click: Take 2 credits from Armitage Codebusting.
+![[click.svg]]: Take 2![[credit.svg]] from Armitage Codebusting.

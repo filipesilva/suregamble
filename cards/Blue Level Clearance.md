@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/25081
 
 ## Text
 
-As an additional cost to play this operation, spend click.
+As an additional cost to play this operation, spend ![[click.svg]].
 
-Gain 5 credits and draw 2 cards.
+Gain 5![[credit.svg]] and draw 2 cards.

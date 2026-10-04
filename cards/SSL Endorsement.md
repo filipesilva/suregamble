@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/21038
 
 ## Text
 
-When this agenda is scored or stolen, place 9 credits on it.
+When this agenda is scored or stolen, place 9![[credit.svg]] on it.
 
-When the Corp's turn begins, they may take 3 credits from this agenda. This ability is active even while this agenda is in the Runner's score area.
+When the Corp's turn begins, they may take 3![[credit.svg]] from this agenda. This ability is active even while this agenda is in the Runner's score area.

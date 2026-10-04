@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/13047
 
 ## Text
 
-↳ The Runner must trash either 1 installed program or the top 2 cards of the stack.
+![[subroutine.svg]] The Runner must trash either 1 installed program or the top 2 cards of the stack.

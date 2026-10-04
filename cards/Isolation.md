@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/26001
 
 As an additional cost to play this event, trash 1 installed resource.
 
-Gain 7 credits.
+Gain 7![[credit.svg]].

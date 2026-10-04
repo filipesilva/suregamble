@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/06024
 
 All **code gate** ice have +1 strength.
 
-When you score Encrypted Portals, gain 1 credit for each rezzed **code gate**.
+When you score Encrypted Portals, gain 1![[credit.svg]] for each rezzed **code gate**.

@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/12019
 
 ## Text
 
-Xrecurring credit
+X![[recurring-credit.svg]]
 
 Use these credits to rez ice protecting this server. X is the number of remote servers.

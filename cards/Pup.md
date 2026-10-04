@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/05018
 
 ## Text
 
-↳ Do 1 net damage unless the Runner pays 1 credit.
+![[subroutine.svg]] Do 1 net damage unless the Runner pays 1![[credit.svg]].
 
-↳ Do 1 net damage unless the Runner pays 1 credit.
+![[subroutine.svg]] Do 1 net damage unless the Runner pays 1![[credit.svg]].

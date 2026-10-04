@@ -30,10 +30,10 @@ nrdb: https://netrunnerdb.com/en/card/25061
 
 ## Text
 
-Interface → **1 credit:** Break 1 subroutine.
+Interface → **1![[credit.svg]]:** Break 1 subroutine.
 
-**1 credit:** +1 strength.
+**1![[credit.svg]]:** +1 strength.
 
-**click:** Place 1 virus counter on this program.
+**![[click.svg]]:** Place 1 virus counter on this program.
 
 Whenever an encounter ends, if you used this program to break a subroutine during that encounter, remove 1 hosted virus counter or trash this program.

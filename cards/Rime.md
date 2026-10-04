@@ -31,4 +31,4 @@ During runs against this server, you can rez this ice any time you could rez non
 
 Each piece of ice protecting this server gets +1 strength.
 
-↳ The Runner loses 1 credit.
+![[subroutine.svg]] The Runner loses 1![[credit.svg]].

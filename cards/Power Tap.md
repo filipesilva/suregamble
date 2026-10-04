@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/06016
 
 ## Text
 
-Gain 1 credit whenever a trace is initiated.
+Gain 1![[credit.svg]] whenever a trace is initiated.

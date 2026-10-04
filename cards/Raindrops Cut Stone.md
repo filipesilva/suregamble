@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/33068
 
 Run any server. Whenever a subroutine resolves during that run *(including a subroutine that ends the run)*, place 1 power counter on this event.
 
-When that run ends, draw 1 card for each hosted power counter and gain 3 credits.
+When that run ends, draw 1 card for each hosted power counter and gain 3![[credit.svg]].

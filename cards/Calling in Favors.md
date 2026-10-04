@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/05031
 
 ## Text
 
-Gain 1 credit for each installed **connection** resource.
+Gain 1![[credit.svg]] for each installed **connection** resource.

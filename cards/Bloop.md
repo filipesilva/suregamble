@@ -31,8 +31,8 @@ nrdb: https://netrunnerdb.com/en/card/33098
 
 As an additional cost to rez this ice, derez another piece of **harmonic** ice.
 
-↳ Do 1 core damage.
+![[subroutine.svg]] Do 1 core damage.
 
-↳ Trash 1 installed program.
+![[subroutine.svg]] Trash 1 installed program.
 
-↳ Trash 1 installed program.
+![[subroutine.svg]] Trash 1 installed program.

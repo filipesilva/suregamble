@@ -31,4 +31,4 @@ nrdb: https://netrunnerdb.com/en/card/31002
 
 ## Text
 
-The first piece of ice the Corp rezzes each turn costs 1 credit more to rez.
+The first piece of ice the Corp rezzes each turn costs 1![[credit.svg]] more to rez.

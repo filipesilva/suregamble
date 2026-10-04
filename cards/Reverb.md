@@ -27,8 +27,8 @@ nrdb: https://netrunnerdb.com/en/card/36029
 
 ## Text
 
-The rez cost of this ice is lowered by 1 credit for each other unrezzed piece of ice.
+The rez cost of this ice is lowered by 1![[credit.svg]] for each other unrezzed piece of ice.
 
-↳ End the run.
+![[subroutine.svg]] End the run.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

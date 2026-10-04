@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/02078
 
 ## Text
 
-You can advance this ice if it is rezzed. It gains "↳ End the run." for each hosted advancement counter.
+You can advance this ice if it is rezzed. It gains "![[subroutine.svg]] End the run." for each hosted advancement counter.

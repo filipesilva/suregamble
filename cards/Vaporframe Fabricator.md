@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/26100
 
 ## Text
 
-Once per turn → click**:** Install 1 card from HQ, ignoring all costs.
+Once per turn → ![[click.svg]]**:** Install 1 card from HQ, ignoring all costs.
 
 When the Runner trashes this asset, you may install 1 card from HQ, ignoring all costs. You cannot install that card in the root of this server.

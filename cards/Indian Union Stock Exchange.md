@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/10073
 
 ## Text
 
-Whenever you rez or play an out-of-faction card (including Indian Union Stock Exchange), gain 1 credit.
+Whenever you rez or play an out-of-faction card (including Indian Union Stock Exchange), gain 1![[credit.svg]].

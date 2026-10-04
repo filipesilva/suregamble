@@ -32,4 +32,4 @@ After you resolve this operation, your action phase ends.
 
 Give the Runner 2 tags.
 
-Threat 3 → You may pay 5 credits to give the Runner 2 tags. *(This ability is active if any player has 3 or more agenda points.)*
+Threat 3 → You may pay 5![[credit.svg]] to give the Runner 2 tags. *(This ability is active if any player has 3 or more agenda points.)*

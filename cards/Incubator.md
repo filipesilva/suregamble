@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/06113
 
 When your turn begins, place 1 virus counter on Incubator.
 
-click, trash: Move all virus counters from Incubator to another installed **virus** program.
+![[click.svg]], ![[trash.svg]]: Move all virus counters from Incubator to another installed **virus** program.

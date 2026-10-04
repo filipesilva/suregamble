@@ -27,7 +27,7 @@ nrdb: https://netrunnerdb.com/en/card/06055
 
 ## Text
 
-+2MU
++2![[mu.svg]]
 
 Your maximum hand size is increased by 2.
 

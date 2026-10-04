@@ -31,4 +31,4 @@ nrdb: https://netrunnerdb.com/en/card/30054
 
 When the Runner encounters this ice, end the run unless the Runner takes 1 tag.
 
-↳ Give the Runner 1 tag unless they pay 4 credits.
+![[subroutine.svg]] Give the Runner 1 tag unless they pay 4![[credit.svg]].

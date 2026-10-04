@@ -26,7 +26,7 @@ nrdb: https://netrunnerdb.com/en/card/11056
 
 ## Text
 
-Play only if the Runner has fewer than 6 credits.
+Play only if the Runner has fewer than 6![[credit.svg]].
 
 As an additional cost to play this operation, remove 1 tag.
 

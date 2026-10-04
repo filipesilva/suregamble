@@ -27,8 +27,8 @@ nrdb: https://netrunnerdb.com/en/card/35028
 
 ## Text
 
-click**:** Host any number of programs from your grip faceup on this hardware. *(They are not installed.)*
+![[click.svg]]**:** Host any number of programs from your grip faceup on this hardware. *(They are not installed.)*
 
-Once per turn → **0 credits:** Install 1 hosted program *(paying its install cost)*.
+Once per turn → **0![[credit.svg]]:** Install 1 hosted program *(paying its install cost)*.
 
 Limit 1 **console** per player.

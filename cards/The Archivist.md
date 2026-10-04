@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/12003
 
 ## Text
 
-+1link
++1![[link.svg]]
 
 Whenever the Corp scores an **initiative** or **security** agenda, they must trace[1]. If unsuccessful, give them 1 bad publicity.

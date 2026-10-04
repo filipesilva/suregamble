@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/04045
 
 ## Text
 
-**click:** Run HQ. If successful, instead of breaching HQ, you may reveal all cards in HQ.
+**![[click.svg]]:** Run HQ. If successful, instead of breaching HQ, you may reveal all cards in HQ.

@@ -31,8 +31,8 @@ nrdb: https://netrunnerdb.com/en/card/34060
 
 As an additional cost to rez this ice, take 1 bad publicity or remove 1 tag.
 
-↳ Gain 2 credits.
+![[subroutine.svg]] Gain 2![[credit.svg]].
 
-↳ The Runner loses 2 credits.
+![[subroutine.svg]] The Runner loses 2![[credit.svg]].
 
-↳ End the run if you have more credits than the Runner.
+![[subroutine.svg]] End the run if you have more credits than the Runner.

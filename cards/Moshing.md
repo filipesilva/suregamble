@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/26067
 
 As an additional cost to play this event, trash 3 cards from your grip.
 
-Gain 3 credits and draw 3 cards.
+Gain 3![[credit.svg]] and draw 3 cards.

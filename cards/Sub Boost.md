@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/07025
 
 ## Text
 
-Host this operation on a rezzed piece of ice as a condition counter with "Host ice gains **barrier** and gains '↳ End the run.' after its other subroutines."
+Host this operation on a rezzed piece of ice as a condition counter with "Host ice gains **barrier** and gains '![[subroutine.svg]] End the run.' after its other subroutines."

@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/05019
 
 ## Text
 
-↳ Look at the top 3 cards of R&D and arrange them in any order.
+![[subroutine.svg]] Look at the top 3 cards of R&D and arrange them in any order.
 
-↳ You may pay 1 credit. If you do not, the Runner breaches R&D. They cannot access cards in the root of R&D during that breach.
+![[subroutine.svg]] You may pay 1![[credit.svg]]. If you do not, the Runner breaches R&D. They cannot access cards in the root of R&D during that breach.

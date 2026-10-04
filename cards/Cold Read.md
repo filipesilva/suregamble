@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/11083
 
 ## Text
 
-Place 4 credits on this event, then run any server. You can spend hosted credits during that run. When that run ends, trash 1 installed program you used during that run. Trashing a program this way cannot be prevented.
+Place 4![[credit.svg]] on this event, then run any server. You can spend hosted credits during that run. When that run ends, trash 1 installed program you used during that run. Trashing a program this way cannot be prevented.

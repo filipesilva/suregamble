@@ -28,8 +28,8 @@ nrdb: https://netrunnerdb.com/en/card/26007
 
 ## Text
 
-When your turn begins and whenever you steal an agenda, place 1 credit on this resource.
+When your turn begins and whenever you steal an agenda, place 1![[credit.svg]] on this resource.
 
 Whenever you make a successful run, you can spend hosted credits for the remainder of that run.
 
-When your turn ends, if there are 3 or more hosted credits, you must pay 1 credit or trash this resource.
+When your turn ends, if there are 3 or more hosted credits, you must pay 1![[credit.svg]] or trash this resource.

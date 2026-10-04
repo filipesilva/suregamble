@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/06060
 
 ## Text
 
-You get +1 allotted click for each of your turns.
+You get +1 allotted ![[click.svg]] for each of your turns.
 
 If you are tagged, trash this resource.

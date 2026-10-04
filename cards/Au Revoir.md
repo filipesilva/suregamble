@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/06119
 
 ## Text
 
-Gain 1 credit whenever you jack out.
+Gain 1![[credit.svg]] whenever you jack out.

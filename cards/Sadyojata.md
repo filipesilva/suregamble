@@ -30,8 +30,8 @@ nrdb: https://netrunnerdb.com/en/card/10044
 
 ## Text
 
-Interface → **1 credit:** Break 1 subroutine on a piece of ice with 3 or more subtypes.
+Interface → **1![[credit.svg]]:** Break 1 subroutine on a piece of ice with 3 or more subtypes.
 
-**1 credit:** +1 strength.
+**1![[credit.svg]]:** +1 strength.
 
-**2 credits:** Swap this program with a **deva** program from your grip.
+**2![[credit.svg]]:** Swap this program with a **deva** program from your grip.

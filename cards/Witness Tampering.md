@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/04118
 
 ## Text
 
-As an additional cost to play this operation, spend click.
+As an additional cost to play this operation, spend ![[click.svg]].
 
 Remove up to 2 bad publicity.

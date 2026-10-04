@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/20054
 
 ## Text
 
-interrupt → trash**:** Prevent a player from trashing 1 installed program or piece of hardware.
+![[interrupt.svg]] → ![[trash.svg]]**:** Prevent a player from trashing 1 installed program or piece of hardware.

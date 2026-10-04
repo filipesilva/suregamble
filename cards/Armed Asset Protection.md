@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/34061
 
 ## Text
 
-Gain 3 credits. Gain 1 credit for each card type among faceup cards in Archives. If any of those cards are agendas, gain another 2 credits.
+Gain 3![[credit.svg]]. Gain 1![[credit.svg]] for each card type among faceup cards in Archives. If any of those cards are agendas, gain another 2![[credit.svg]].

@@ -27,10 +27,10 @@ nrdb: https://netrunnerdb.com/en/card/35082
 
 ## Text
 
-2recurring credit *(When you rez this upgrade and before your turn begins, refill to 2 hosted credits.)*
+2![[recurring-credit.svg]] *(When you rez this upgrade and before your turn begins, refill to 2 hosted credits.)*
 
 You can spend hosted credits to rez assets in the root of this server and ice protecting this server.
 
-Persistent → The trash cost of each asset in the root of this server is increased by 2 credits.
+Persistent → The trash cost of each asset in the root of this server is increased by 2![[credit.svg]].
 
 Limit 1 **region** per server.

@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/35037
 
 ## Text
 
-The first time the Runner trashes an installed Corp card during each of their turns, they may spend click. If they do not, you get +1 allotted click for your next turn.
+The first time the Runner trashes an installed Corp card during each of their turns, they may spend ![[click.svg]]. If they do not, you get +1 allotted ![[click.svg]] for your next turn.

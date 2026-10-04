@@ -30,6 +30,6 @@ nrdb: https://netrunnerdb.com/en/card/35080
 
 When an agenda is scored or stolen from this server or its root, trash this ice.
 
-↳ Give the Runner 1 tag unless they pay 3 credits.
+![[subroutine.svg]] Give the Runner 1 tag unless they pay 3![[credit.svg]].
 
-↳ End the run if the Runner is tagged.
+![[subroutine.svg]] End the run if the Runner is tagged.

@@ -31,6 +31,6 @@ nrdb: https://netrunnerdb.com/en/card/06065
 
 **Hosted power counter:** Do 1 net damage. Use this ability only during a run.
 
-↳ Do 1 net damage.
+![[subroutine.svg]] Do 1 net damage.
 
-↳ You and the Runner secretly spend 0 credits, 1 credit, or 2 credits. Reveal spent credits. If you and the Runner spent a different number of credits, place 1 power counter on Mamba.
+![[subroutine.svg]] You and the Runner secretly spend 0![[credit.svg]], 1![[credit.svg]], or 2![[credit.svg]]. Reveal spent credits. If you and the Runner spent a different number of credits, place 1 power counter on Mamba.

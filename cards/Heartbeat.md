@@ -27,8 +27,8 @@ nrdb: https://netrunnerdb.com/en/card/09032
 
 ## Text
 
-+1MU
++1![[mu.svg]]
 
-interrupt → **Trash 1 of your installed cards:** Prevent 1 damage.
+![[interrupt.svg]] → **Trash 1 of your installed cards:** Prevent 1 damage.
 
 Limit 1 **console** per player.

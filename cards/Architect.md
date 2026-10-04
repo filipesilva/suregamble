@@ -29,6 +29,6 @@ nrdb: https://netrunnerdb.com/en/card/06061
 
 Players cannot trash this ice.
 
-↳ Look at the top 5 cards of R&D. You may install 1 of those cards, ignoring the install cost.
+![[subroutine.svg]] Look at the top 5 cards of R&D. You may install 1 of those cards, ignoring the install cost.
 
-↳ You may install 1 card from Archives or HQ.
+![[subroutine.svg]] You may install 1 card from Archives or HQ.

@@ -28,8 +28,8 @@ nrdb: https://netrunnerdb.com/en/card/11116
 
 ## Text
 
-↳ The Corp gains 2 credits.
+![[subroutine.svg]] The Corp gains 2![[credit.svg]].
 
-↳ The Runner loses 2 credits.
+![[subroutine.svg]] The Runner loses 2![[credit.svg]].
 
-↳ Trace[2]. If successful, give the Runner 1 tag.
+![[subroutine.svg]] Trace[2]. If successful, give the Runner 1 tag.

@@ -28,12 +28,12 @@ nrdb: https://netrunnerdb.com/en/card/02012
 
 ## Text
 
-**Lose click:** Break 1 subroutine on this ice. Only the Runner can use this ability.
+**Lose ![[click.svg]]:** Break 1 subroutine on this ice. Only the Runner can use this ability.
 
-↳ Do 1 core damage.
+![[subroutine.svg]] Do 1 core damage.
 
-↳ Do 1 core damage.
+![[subroutine.svg]] Do 1 core damage.
 
-↳ Do 1 core damage.
+![[subroutine.svg]] Do 1 core damage.
 
-↳ Do 1 core damage.
+![[subroutine.svg]] Do 1 core damage.

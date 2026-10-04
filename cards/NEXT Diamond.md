@@ -30,10 +30,10 @@ nrdb: https://netrunnerdb.com/en/card/21112
 
 ## Text
 
-The rez cost of this ice is lowered by 1 credit for each other rezzed piece of **NEXT** ice.
+The rez cost of this ice is lowered by 1![[credit.svg]] for each other rezzed piece of **NEXT** ice.
 
-↳ Do 1 core damage.
+![[subroutine.svg]] Do 1 core damage.
 
-↳ Do 1 core damage.
+![[subroutine.svg]] Do 1 core damage.
 
-↳ Trash 1 installed Runner card.
+![[subroutine.svg]] Trash 1 installed Runner card.

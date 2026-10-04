@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/07013
 
 Wormhole can be advanced and its rez cost is lowered by 3 for each advancement token on it.
 
-↳ Resolve a subroutine on another piece of rezzed ice.
+![[subroutine.svg]] Resolve a subroutine on another piece of rezzed ice.

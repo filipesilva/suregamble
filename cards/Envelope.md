@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/21095
 
 ## Text
 
-↳ Do 1 net damage.
+![[subroutine.svg]] Do 1 net damage.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

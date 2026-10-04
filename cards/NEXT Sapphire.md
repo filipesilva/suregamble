@@ -30,8 +30,8 @@ nrdb: https://netrunnerdb.com/en/card/21050
 
 X is the number of rezzed **NEXT** ice.
 
-↳ Draw up to X cards.
+![[subroutine.svg]] Draw up to X cards.
 
-↳ Add up to X cards from Archives to HQ.
+![[subroutine.svg]] Add up to X cards from Archives to HQ.
 
-↳ Shuffle up to X cards from HQ into R&D.
+![[subroutine.svg]] Shuffle up to X cards from HQ into R&D.

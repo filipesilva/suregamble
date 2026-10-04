@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/13056
 
 ## Text
 
-↳ The Runner loses click.
+![[subroutine.svg]] The Runner loses ![[click.svg]].
 
-↳ The Runner trashes 1 card from their grip.
+![[subroutine.svg]] The Runner trashes 1 card from their grip.

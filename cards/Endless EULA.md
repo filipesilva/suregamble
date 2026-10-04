@@ -27,14 +27,14 @@ nrdb: https://netrunnerdb.com/en/card/21074
 
 ## Text
 
-↳End the run unless the Runner pays 1 credit.
+![[subroutine.svg]]End the run unless the Runner pays 1![[credit.svg]].
 
-↳End the run unless the Runner pays 1 credit.
+![[subroutine.svg]]End the run unless the Runner pays 1![[credit.svg]].
 
-↳End the run unless the Runner pays 1 credit.
+![[subroutine.svg]]End the run unless the Runner pays 1![[credit.svg]].
 
-↳End the run unless the Runner pays 1 credit.
+![[subroutine.svg]]End the run unless the Runner pays 1![[credit.svg]].
 
-↳End the run unless the Runner pays 1 credit.
+![[subroutine.svg]]End the run unless the Runner pays 1![[credit.svg]].
 
-↳End the run unless the Runner pays 1 credit.
+![[subroutine.svg]]End the run unless the Runner pays 1![[credit.svg]].

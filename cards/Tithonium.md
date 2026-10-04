@@ -31,8 +31,8 @@ You may forfeit an agenda to rez Tithonium instead of paying its rez cost.
 
 Tithonium cannot host cards.
 
-↳ Trash 1 program.
+![[subroutine.svg]] Trash 1 program.
 
-↳ Trash 1 program.
+![[subroutine.svg]] Trash 1 program.
 
-↳ Trash 1 resource and end the run.
+![[subroutine.svg]] Trash 1 resource and end the run.

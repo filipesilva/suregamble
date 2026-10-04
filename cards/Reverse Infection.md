@@ -28,4 +28,4 @@ Choose one:
 
 - Purge virus counters. Trash 1 card from the top of the stack for every 3 virus counters removed.
 
-- Gain 2 credits.
+- Gain 2![[credit.svg]].

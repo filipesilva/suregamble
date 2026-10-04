@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/34064
 
 Remote server only.
 
-Persistent → Whenever an agenda is scored or stolen from the root of this server, you may search R&D for 1 piece of ice. *(Shuffle R&D after searching it.)* Install and rez that ice, paying a total of 3 credits less.
+Persistent → Whenever an agenda is scored or stolen from the root of this server, you may search R&D for 1 piece of ice. *(Shuffle R&D after searching it.)* Install and rez that ice, paying a total of 3![[credit.svg]] less.

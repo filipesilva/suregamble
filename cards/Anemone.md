@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/33043
 
 When you rez this ice during a run against this server, you may trash 1 card from HQ to do 2 net damage.
 
-↳ Do 1 net damage.
+![[subroutine.svg]] Do 1 net damage.

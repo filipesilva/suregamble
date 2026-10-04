@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/02057
 
 ## Text
 
-You can advance this ice if it is rezzed. It gains "↳ Do 1 net damage." for each hosted advancement counter.
+You can advance this ice if it is rezzed. It gains "![[subroutine.svg]] Do 1 net damage." for each hosted advancement counter.

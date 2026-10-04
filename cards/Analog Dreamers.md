@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/08048
 
 ## Text
 
-**click:** Run R&D. If successful, instead of breaching R&D, you may choose 1 unrezzed non-ice card with no advancement counters on it. The Corp shuffles that card into R&D.
+**![[click.svg]]:** Run R&D. If successful, instead of breaching R&D, you may choose 1 unrezzed non-ice card with no advancement counters on it. The Corp shuffles that card into R&D.

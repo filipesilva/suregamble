@@ -24,10 +24,10 @@ nrdb: https://netrunnerdb.com/en/card/14011
 
 ## Text
 
-↳ Trash 1 resource.
+![[subroutine.svg]] Trash 1 resource.
 
-↳ Trash 1 resource.
+![[subroutine.svg]] Trash 1 resource.
 
-↳ Do 1 net damage.
+![[subroutine.svg]] Do 1 net damage.
 
-↳ The Runner loses click, if able. End the run.
+![[subroutine.svg]] The Runner loses ![[click.svg]], if able. End the run.

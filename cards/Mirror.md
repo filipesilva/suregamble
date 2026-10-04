@@ -27,7 +27,7 @@ nrdb: https://netrunnerdb.com/en/card/11005
 
 ## Text
 
-+2MU
++2![[mu.svg]]
 
 Whenever you make a successful run on R&D, you may replace 1 spent recurring credit.
 

@@ -24,6 +24,6 @@ nrdb: https://netrunnerdb.com/en/card/21106
 
 ## Text
 
-The first time the Corp gains credits through a card ability each turn, you may gain 1 credit.
+The first time the Corp gains credits through a card ability each turn, you may gain 1![[credit.svg]].
 
-click, 3 credits: Trash PAD Tap. Only the Corp can use this ability.
+![[click.svg]], 3![[credit.svg]]: Trash PAD Tap. Only the Corp can use this ability.

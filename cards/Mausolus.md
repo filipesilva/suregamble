@@ -30,8 +30,8 @@ nrdb: https://netrunnerdb.com/en/card/11097
 
 You can advance this ice.
 
-↳ Gain 1 credit. If there are 3 or more hosted advancement counters, instead gain 3 credits.
+![[subroutine.svg]] Gain 1![[credit.svg]]. If there are 3 or more hosted advancement counters, instead gain 3![[credit.svg]].
 
-↳ Do 1 net damage. If there are 3 or more hosted advancement counters, instead do 3 net damage.
+![[subroutine.svg]] Do 1 net damage. If there are 3 or more hosted advancement counters, instead do 3 net damage.
 
-↳ Give the Runner 1 tag. If there are 3 or more hosted advancement counters, instead give the Runner 1 tag and end the run.
+![[subroutine.svg]] Give the Runner 1 tag. If there are 3 or more hosted advancement counters, instead give the Runner 1 tag and end the run.

@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/34025
 
 Install only on a piece of ice.
 
-Whenever you pass host ice, you may gain click. If this is not the first time you gained click during a run this turn, add this program to your grip.
+Whenever you pass host ice, you may gain ![[click.svg]]. If this is not the first time you gained ![[click.svg]] during a run this turn, add this program to your grip.

@@ -23,4 +23,4 @@ nrdb: https://netrunnerdb.com/en/card/12096
 
 ## Text
 
-Choose resource, hardware, or program. The Runner may trash any of their installed cards of the chosen type and gain 1 credit for each card trashed this way. Gain 2 credits for each card of the chosen type that is still installed.
+Choose resource, hardware, or program. The Runner may trash any of their installed cards of the chosen type and gain 1![[credit.svg]] for each card trashed this way. Gain 2![[credit.svg]] for each card of the chosen type that is still installed.

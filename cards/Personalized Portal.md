@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/21056
 
 ## Text
 
-When your turn begins, the Runner draws 1 card. You may gain 1 credit for every 2 cards in the grip.
+When your turn begins, the Runner draws 1 card. You may gain 1![[credit.svg]] for every 2 cards in the grip.

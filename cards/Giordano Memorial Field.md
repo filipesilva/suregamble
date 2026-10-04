@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/22033
 
 ## Text
 
-Whenever the Runner makes a successful run on this server, end the run unless they pay 2 credits for each agenda in their score area.
+Whenever the Runner makes a successful run on this server, end the run unless they pay 2![[credit.svg]] for each agenda in their score area.

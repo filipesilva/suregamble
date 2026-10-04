@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/21117
 
 Play only if the Runner is tagged.
 
-The Runner loses 3 credits for each tag they have, then you gain 1 credit for each credit lost this way.
+The Runner loses 3![[credit.svg]] for each tag they have, then you gain 1![[credit.svg]] for each credit lost this way.

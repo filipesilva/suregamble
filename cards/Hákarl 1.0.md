@@ -32,8 +32,8 @@ nrdb: https://netrunnerdb.com/en/card/33036
 
 When you rez this ice during a run against this server, you may derez another installed card. If you do, the Runner cannot use paid abilities printed on **bioroid** ice for the remainder of this turn.
 
-**Lose click:** Break 1 subroutine on this ice. Only the Runner can use this ability.
+**Lose ![[click.svg]]:** Break 1 subroutine on this ice. Only the Runner can use this ability.
 
-↳ Do 1 core damage.
+![[subroutine.svg]] Do 1 core damage.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

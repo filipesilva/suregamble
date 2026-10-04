@@ -23,4 +23,4 @@ nrdb: https://netrunnerdb.com/en/card/14023
 
 This card is not trashed until another **current** is played or an agenda is stolen.
 
-The Runner must pay 2 credits as an additional cost to use an icebreaker.
+The Runner must pay 2![[credit.svg]] as an additional cost to use an icebreaker.

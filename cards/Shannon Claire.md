@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/09010
 
 ## Text
 
-click: Draw 1 card from the bottom of R&D.
+![[click.svg]]: Draw 1 card from the bottom of R&D.
 
-trash: Search R&D or Archives for an agenda and reveal it. Shuffle the rest of R&D if you searched it. Add the agenda to the bottom of R&D.
+![[trash.svg]]: Search R&D or Archives for an agenda and reveal it. Shuffle the rest of R&D if you searched it. Add the agenda to the bottom of R&D.

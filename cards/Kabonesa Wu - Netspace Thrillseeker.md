@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/21025
 
 ## Text
 
-click: Search your stack for a non-**virus** program and install it, lowering its install cost by 1 credit, then shuffle your stack. If that program is still installed when your turn ends, remove it from the game.
+![[click.svg]]: Search your stack for a non-**virus** program and install it, lowering its install cost by 1![[credit.svg]], then shuffle your stack. If that program is still installed when your turn ends, remove it from the game.

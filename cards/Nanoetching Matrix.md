@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/26034
 
 ## Text
 
-Once per turn → click**:** Gain 2 credits.
+Once per turn → ![[click.svg]]**:** Gain 2![[credit.svg]].
 
-When the Runner trashes this asset, you may gain 2 credits.
+When the Runner trashes this asset, you may gain 2![[credit.svg]].

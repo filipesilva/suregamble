@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/21044
 
 This card is not trashed until another **current** is played or an agenda is scored.
 
-The first time you install a card each turn, the Corp loses 1 credit.
+The first time you install a card each turn, the Corp loses 1![[credit.svg]].

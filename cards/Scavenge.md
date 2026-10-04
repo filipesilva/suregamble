@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/03034
 
 As an additional cost to play this event, trash 1 installed program.
 
- Install 1 program from your grip or heap, paying X credits less. X is equal to the install cost of the program you trashed.
+ Install 1 program from your grip or heap, paying X![[credit.svg]] less. X is equal to the install cost of the program you trashed.

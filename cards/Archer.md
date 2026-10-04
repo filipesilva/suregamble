@@ -31,10 +31,10 @@ nrdb: https://netrunnerdb.com/en/card/31075
 
 As an additional cost to rez this ice, forfeit 1 agenda.
 
-↳ Gain 2 credits.
+![[subroutine.svg]] Gain 2![[credit.svg]].
 
-↳ Trash 1 installed program.
+![[subroutine.svg]] Trash 1 installed program.
 
-↳ Trash 1 installed program.
+![[subroutine.svg]] Trash 1 installed program.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

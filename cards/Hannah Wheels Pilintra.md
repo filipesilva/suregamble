@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/34008
 
 ## Text
 
-Once per turn → click**:** Gain click. Run a remote server. When that run ends, if it was unsuccessful, take 1 tag.
+Once per turn → ![[click.svg]]**:** Gain ![[click.svg]]. Run a remote server. When that run ends, if it was unsuccessful, take 1 tag.
 
-click, trash**:** Gain 2 clicks. Remove 1 tag.
+![[click.svg]], ![[trash.svg]]**:** Gain ![[click.svg]]![[click.svg]]. Remove 1 tag.

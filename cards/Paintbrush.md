@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/04108
 
 ## Text
 
-click: Choose a rezzed piece of ice. That ice gains **sentry**, **code gate** or **barrier** until the end of the next run this turn.
+![[click.svg]]: Choose a rezzed piece of ice. That ice gains **sentry**, **code gate** or **barrier** until the end of the next run this turn.

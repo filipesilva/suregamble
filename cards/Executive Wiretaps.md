@@ -25,6 +25,6 @@ nrdb: https://netrunnerdb.com/en/card/04084
 
 ## Text
 
-As an additional cost to play this event, spend click.
+As an additional cost to play this event, spend ![[click.svg]].
 
 Reveal all cards in HQ.

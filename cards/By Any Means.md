@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/21001
 
 ## Text
 
-Play only as your first click.
+Play only as your first ![[click.svg]].
 
 For the remainder of the turn, whenever you access a card not in Archives, trash it and suffer 1 meat damage.

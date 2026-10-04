@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/31055
 
 The strength of this ice cannot be lowered.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

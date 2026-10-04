@@ -33,6 +33,6 @@ nrdb: https://netrunnerdb.com/en/card/30025
 
 This program gets +1 strength for each installed **icebreaker** *(including this one)*.
 
-Interface → **1 credit:** Break 1 **sentry** subroutine.
+Interface → **1![[credit.svg]]:** Break 1 **sentry** subroutine.
 
-**3 credits:** +2 strength.
+**3![[credit.svg]]:** +2 strength.

@@ -25,6 +25,6 @@ nrdb: https://netrunnerdb.com/en/card/06076
 
 ## Text
 
-The first time you install a program from your grip during your turn, gain click.
+The first time you install a program from your grip during your turn, gain ![[click.svg]].
 
 Trash Autoscripter if you make an unsuccessful run.

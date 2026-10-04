@@ -29,8 +29,8 @@ nrdb: https://netrunnerdb.com/en/card/35032
 
 ## Text
 
-This program costs 1 credit less to install for each other installed **icebreaker**. *(Programs trashed as part of installing this program don’t count.)*
+This program costs 1![[credit.svg]] less to install for each other installed **icebreaker**. *(Programs trashed as part of installing this program don’t count.)*
 
-Interface → **1 credit:** Break 1 **barrier** subroutine.
+Interface → **1![[credit.svg]]:** Break 1 **barrier** subroutine.
 
-**2 credits:** +2 strength.
+**2![[credit.svg]]:** +2 strength.

@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/21071
 
 While the Runner is accessing this upgrade in R&D, they must reveal it.
 
-When the Runner accesses this upgrade anywhere except in Archives, Trace[3]. If successful, the Runner must lose 2 clicks or suffer 1 core damage.
+When the Runner accesses this upgrade anywhere except in Archives, Trace[3]. If successful, the Runner must lose ![[click.svg]]![[click.svg]] or suffer 1 core damage.

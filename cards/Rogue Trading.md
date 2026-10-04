@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/21065
 
 ## Text
 
-Place 18 credits from the bank on Rogue Trading when it is installed. When there are no credits left on Rogue Trading, trash it.
+Place 18![[credit.svg]] from the bank on Rogue Trading when it is installed. When there are no credits left on Rogue Trading, trash it.
 
-click, click: Take 6 credits from Rogue Trading and take 1 tag.
+![[click.svg]], ![[click.svg]]: Take 6![[credit.svg]] from Rogue Trading and take 1 tag.

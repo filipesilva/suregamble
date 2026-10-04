@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/06084
 
 ## Text
 
-↳ Trace[2]. If successful, do 1 net damage. If your trace strength is 5 or greater, do 1 net damage.
+![[subroutine.svg]] Trace[2]. If successful, do 1 net damage. If your trace strength is 5 or greater, do 1 net damage.

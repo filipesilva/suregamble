@@ -29,8 +29,8 @@ nrdb: https://netrunnerdb.com/en/card/25035
 
 ## Text
 
-Interface → 0 credits: Break 1 **sentry** subroutine.
+Interface → 0![[credit.svg]]: Break 1 **sentry** subroutine.
 
-1 credit: +1 strength.
+1![[credit.svg]]: +1 strength.
 
 Whenever an encounter ends, if you used this program to break a subroutine during that encounter, trash this program.

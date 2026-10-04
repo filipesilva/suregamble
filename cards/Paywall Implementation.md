@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/06028
 
 This card is not trashed until another **current** is played or an agenda is stolen.
 
-Gain 1 credit whenever the Runner makes a successful run.
+Gain 1![[credit.svg]] whenever the Runner makes a successful run.

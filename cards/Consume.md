@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/21068
 
 Whenever you trash a Corp card, you may place 1 virus counter on Consume.
 
-click: Gain 2 credits for each hosted virus counter, then remove all virus counters from Consume.
+![[click.svg]]: Gain 2![[credit.svg]] for each hosted virus counter, then remove all virus counters from Consume.

@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/26091
 
 ## Text
 
-+1link
++1![[link.svg]]
 
 Whenever you install a non-**AI** **icebreaker**, that **icebreaker** gets +2 strength for the remainder of the turn.

@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/33091
 
 ## Text
 
-The first time each turn you make a successful run, you may trash 1 of your other installed cards to search your stack for 1 card of the same type. *(Shuffle your stack after searching it.)* Install the card you found, paying 3 credits less.
+The first time each turn you make a successful run, you may trash 1 of your other installed cards to search your stack for 1 card of the same type. *(Shuffle your stack after searching it.)* Install the card you found, paying 3![[credit.svg]] less.

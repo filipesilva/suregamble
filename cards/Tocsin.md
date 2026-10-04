@@ -27,10 +27,10 @@ nrdb: https://netrunnerdb.com/en/card/36060
 
 ## Text
 
-click, **1**credit, **reveal and trash this ice from HQ:** Search R&D for up to 1 **barrier** and up to 1 **sentry** and reveal them. *(Shuffle R&D after searching it.)* Add those cards to HQ.
+![[click.svg]], **1**![[credit.svg]], **reveal and trash this ice from HQ:** Search R&D for up to 1 **barrier** and up to 1 **sentry** and reveal them. *(Shuffle R&D after searching it.)* Add those cards to HQ.
 
-↳ The Runner loses 2 credits.
+![[subroutine.svg]] The Runner loses 2![[credit.svg]].
 
-↳ End the run.
+![[subroutine.svg]] End the run.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

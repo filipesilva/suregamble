@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/11020
 
 ## Text
 
-If you have at least 10 credits, each piece of ice has +1 strength for every 5 credits in your credit pool.
+If you have at least 10![[credit.svg]], each piece of ice has +1 strength for every 5![[credit.svg]] in your credit pool.

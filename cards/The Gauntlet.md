@@ -27,7 +27,7 @@ nrdb: https://netrunnerdb.com/en/card/11063
 
 ## Text
 
-+2MU
++2![[mu.svg]]
 
 Whenever you breach HQ during a run, access 1 additional card for each piece of ice protecting HQ that you fully broke during that run.
 

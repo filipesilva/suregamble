@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/26074
 
 ## Text
 
-Run a server protected by ice. When that run ends, gain 6 credits plus 1 credit for each piece of ice you passed during that run.
+Run a server protected by ice. When that run ends, gain 6![[credit.svg]] plus 1![[credit.svg]] for each piece of ice you passed during that run.

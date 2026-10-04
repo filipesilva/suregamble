@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/06108
 
 ## Text
 
-When the Runner encounters Troll, Trace[2]. If successful, the Runner must lose click or end the run.
+When the Runner encounters Troll, Trace[2]. If successful, the Runner must lose ![[click.svg]] or end the run.

@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/26018
 
 When a discard phase ends, if you installed this resource this turn, draw 4 cards.
 
-interrupt → The first time each turn you would draw any number of cards, look at the top X cards of your stack. Add 1 of those cards to the bottom of your stack. X is equal to the number of cards you would draw plus 1.
+![[interrupt.svg]] → The first time each turn you would draw any number of cards, look at the top X cards of your stack. Add 1 of those cards to the bottom of your stack. X is equal to the number of cards you would draw plus 1.

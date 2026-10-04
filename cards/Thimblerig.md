@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/22039
 
 When your turn begins and whenever the Runner passes this ice, you may swap this ice with another installed piece of ice.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

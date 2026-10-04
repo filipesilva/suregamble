@@ -29,6 +29,6 @@ nrdb: https://netrunnerdb.com/en/card/34063
 
 ## Text
 
-Threat 3 → click, **1**credit, **reveal and trash this upgrade from HQ:** Do 1 meat damage. *(This ability is active if any player has 3 or more agenda points.)*
+Threat 3 → ![[click.svg]], **1**![[credit.svg]], **reveal and trash this upgrade from HQ:** Do 1 meat damage. *(This ability is active if any player has 3 or more agenda points.)*
 
-When the Runner accesses this upgrade while it is rezzed, you may pay 2 credits to do 2 meat damage.
+When the Runner accesses this upgrade while it is rezzed, you may pay 2![[credit.svg]] to do 2 meat damage.

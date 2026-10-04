@@ -31,6 +31,6 @@ nrdb: https://netrunnerdb.com/en/card/12048
 
 The first time each turn you pass a piece of ice after an encounter during which this program fully broke that ice, you may swap it with another installed piece of ice.
 
-Interface → **1 credit:** Break 1 **code gate** subroutine.
+Interface → **1![[credit.svg]]:** Break 1 **code gate** subroutine.
 
-**1 credit:** +1 strength.
+**1![[credit.svg]]:** +1 strength.

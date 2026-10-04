@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/08108
 
 ## Text
 
-As an additional cost to take the basic action to trash 1 installed resource, the Corp must pay 2 credits.
+As an additional cost to take the basic action to trash 1 installed resource, the Corp must pay 2![[credit.svg]].

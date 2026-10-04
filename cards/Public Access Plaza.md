@@ -25,6 +25,6 @@ nrdb: https://netrunnerdb.com/en/card/35062
 
 ## Text
 
-When your turn begins, gain 1 credit.
+When your turn begins, gain 1![[credit.svg]].
 
 Threat 2 → When the Runner trashes this asset *(while it is rezzed)*, give them 1 tag.

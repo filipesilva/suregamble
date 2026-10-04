@@ -25,6 +25,6 @@ nrdb: https://netrunnerdb.com/en/card/13004
 
 ## Text
 
-As an additional cost to play this event, spend click.
+As an additional cost to play this event, spend ![[click.svg]].
 
 The Corp must either discard 2 cards or draw 4 cards.

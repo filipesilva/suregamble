@@ -29,6 +29,6 @@ nrdb: https://netrunnerdb.com/en/card/11006
 
 ## Text
 
-Interface → **2 credits:** Break all subroutines. Spend credits only from **stealth** cards to use this ability.
+Interface → **2![[credit.svg]]:** Break all subroutines. Spend credits only from **stealth** cards to use this ability.
 
-**1 credit:** +1 strength.
+**1![[credit.svg]]:** +1 strength.

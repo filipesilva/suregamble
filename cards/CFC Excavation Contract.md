@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/12110
 
 ## Text
 
-When you score CFC Excavation Contract, gain 2 credits for each rezzed **bioroid**.
+When you score CFC Excavation Contract, gain 2![[credit.svg]] for each rezzed **bioroid**.

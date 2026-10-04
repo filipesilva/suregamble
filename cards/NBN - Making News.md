@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/25104
 
 ## Text
 
-2recurring credit
+2![[recurring-credit.svg]]
 
 Use these credits during trace attempts.

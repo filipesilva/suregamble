@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/08024
 
 When you install this hardware, place 4 power counters on it.
 
-click, **hosted power counter:** Run any server. Whenever you would take tags during that run, prevent all of those tags.
+![[click.svg]], **hosted power counter:** Run any server. Whenever you would take tags during that run, prevent all of those tags.

@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/01089
 
 ## Text
 
-When the Runner encounters Matrix Analyzer, you may pay 1 credit to place 1 advancement token on a card that can be advanced.
+When the Runner encounters Matrix Analyzer, you may pay 1![[credit.svg]] to place 1 advancement token on a card that can be advanced.
 
-↳ Trace[2]. If successful, give the Runner 1 tag.
+![[subroutine.svg]] Trace[2]. If successful, give the Runner 1 tag.

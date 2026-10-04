@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/01075
 
 ## Text
 
-↳ The next piece of ice the Runner encounters during this run gets +2 strength. When that encounter ends, if the Runner did not fully break that ice, do 3 net damage.
+![[subroutine.svg]] The next piece of ice the Runner encounters during this run gets +2 strength. When that encounter ends, if the Runner did not fully break that ice, do 3 net damage.

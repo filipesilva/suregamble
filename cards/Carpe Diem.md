@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/33012
 
 Identify your mark. *(If you don’t have a mark, a random central server becomes your mark for this turn.)*
 
-Gain 4 credits. You may run your mark.
+Gain 4![[credit.svg]]. You may run your mark.

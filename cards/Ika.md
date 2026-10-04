@@ -30,8 +30,8 @@ nrdb: https://netrunnerdb.com/en/card/22019
 
 ## Text
 
-**2 credits:** Host this program on a piece of ice.
+**2![[credit.svg]]:** Host this program on a piece of ice.
 
-Interface → **1 credit:** Break up to 2 subroutines on host **sentry**.
+Interface → **1![[credit.svg]]:** Break up to 2 subroutines on host **sentry**.
 
-**2 credits:** +3 strength.
+**2![[credit.svg]]:** +3 strength.

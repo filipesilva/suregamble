@@ -31,4 +31,4 @@ nrdb: https://netrunnerdb.com/en/card/34027
 
 This program can only interface with ice hosting a **trojan** program.
 
-Interface → **2 credits:** Break up to 3 **code gate** subroutines. If at least 1 subroutine was broken this way, each player may draw 1 card.
+Interface → **2![[credit.svg]]:** Break up to 3 **code gate** subroutines. If at least 1 subroutine was broken this way, each player may draw 1 card.

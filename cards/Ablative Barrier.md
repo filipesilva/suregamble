@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/34034
 
 Threat 3 → When you rez this ice during a run against this server, you may install 1 non-agenda card from HQ or Archives in the root of or protecting another server. *(This ability is active if any player has 3 or more agenda points.)*
 
-↳ End the run.
+![[subroutine.svg]] End the run.

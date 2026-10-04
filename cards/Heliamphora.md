@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/34072
 
 ## Text
 
-interrupt → Whenever you would access a card in Archives, you may host it faceup on this program instead. *(It is not installed.)* Use this ability only once each time you breach Archives.
+![[interrupt.svg]] → Whenever you would access a card in Archives, you may host it faceup on this program instead. *(It is not installed.)* Use this ability only once each time you breach Archives.
 
 When the Corp purges virus counters, they trash 2 cards from HQ at random. Trash this program.

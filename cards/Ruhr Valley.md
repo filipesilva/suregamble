@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/02111
 
 ## Text
 
-As an additional cost to make a run on this server, the Runner must spend click.
+As an additional cost to make a run on this server, the Runner must spend ![[click.svg]].
 
 Limit 1 **region** per server.

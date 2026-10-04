@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/30029
 
 ## Text
 
-Place 5 credits on this event, then run any server. You can spend hosted credits during that run.
+Place 5![[credit.svg]] on this event, then run any server. You can spend hosted credits during that run.

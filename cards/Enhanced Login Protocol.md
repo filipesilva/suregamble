@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/06022
 
 This operation is not trashed until another **current** is played or an agenda is stolen.
 
-As an additional cost to take the basic action to run a server for the first time each turn, the Runner must spend click.
+As an additional cost to take the basic action to run a server for the first time each turn, the Runner must spend ![[click.svg]].

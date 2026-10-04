@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/33083
 
 When your turn begins, identify your mark. *(If you donʼt have a mark, a random central server becomes your mark for this turn.)*
 
-The first time each turn a run on your mark ends, gain 2 credits if you breached that server during that run.
+The first time each turn a run on your mark ends, gain 2![[credit.svg]] if you breached that server during that run.

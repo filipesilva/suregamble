@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/22001
 
 ## Text
 
-When your turn begins, gain 1 credit if you have 2 or fewer cards in your grip.
+When your turn begins, gain 1![[credit.svg]] if you have 2 or fewer cards in your grip.

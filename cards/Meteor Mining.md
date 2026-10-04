@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/12076
 
 ## Text
 
-When you score Meteor Mining, you may gain 7 credits. If the Runner has at least 2 tags, you may do 7 meat damage instead.
+When you score Meteor Mining, you may gain 7![[credit.svg]]. If the Runner has at least 2 tags, you may do 7 meat damage instead.

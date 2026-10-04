@@ -27,12 +27,12 @@ nrdb: https://netrunnerdb.com/en/card/11075
 
 ## Text
 
-When the Runner encounters this ice, they take 1 tag unless they pay 3 credits.
+When the Runner encounters this ice, they take 1 tag unless they pay 3![[credit.svg]].
 
-↳ End the run if the Runner is tagged.
+![[subroutine.svg]] End the run if the Runner is tagged.
 
-↳ End the run if the Runner is tagged.
+![[subroutine.svg]] End the run if the Runner is tagged.
 
-↳ End the run if the Runner is tagged.
+![[subroutine.svg]] End the run if the Runner is tagged.
 
-↳ End the run if the Runner is tagged.
+![[subroutine.svg]] End the run if the Runner is tagged.

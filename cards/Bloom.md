@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/12032
 
 ## Text
 
-↳ You may install 1 piece of ice from HQ protecting another server, ignoring all costs.
+![[subroutine.svg]] You may install 1 piece of ice from HQ protecting another server, ignoring all costs.
 
-↳ You may install 1 piece of ice from HQ directly inward from this ice, ignoring all costs.
+![[subroutine.svg]] You may install 1 piece of ice from HQ directly inward from this ice, ignoring all costs.

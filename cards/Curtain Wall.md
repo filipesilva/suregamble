@@ -28,8 +28,8 @@ nrdb: https://netrunnerdb.com/en/card/04078
 
 If Curtain Wall is the outermost piece of ice protecting a server, it has +4 strength.
 
-↳ End the run.
+![[subroutine.svg]] End the run.
 
-↳ End the run.
+![[subroutine.svg]] End the run.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

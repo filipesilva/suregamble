@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/22034
 
 ## Text
 
-**click**, **1 credit:** Install 1 card from HQ in the root of a remote server, then place 1 advancement counter on it. You cannot score or rez that card until your next turn begins.
+**![[click.svg]]**, **1![[credit.svg]]:** Install 1 card from HQ in the root of a remote server, then place 1 advancement counter on it. You cannot score or rez that card until your next turn begins.

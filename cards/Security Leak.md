@@ -23,4 +23,4 @@ nrdb: https://netrunnerdb.com/en/card/14009
 
 This card is not trashed until another **current** is played or an agenda is scored.
 
-As an additional cost to advance a card, the Corp must pay 1 credit.
+As an additional cost to advance a card, the Corp must pay 1![[credit.svg]].

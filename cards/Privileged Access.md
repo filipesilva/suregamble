@@ -29,6 +29,6 @@ Play only if you are not tagged.
 
 Run Archives. If successful, instead of breaching Archives, take 1 tag.
 
-When you take a tag with this event, you may install 1 resource from your heap, paying 2 credits less.
+When you take a tag with this event, you may install 1 resource from your heap, paying 2![[credit.svg]] less.
 
 Threat 3 → When you take a tag with this event, you may install 1 program from your heap.

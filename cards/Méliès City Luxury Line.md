@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/36026
 
 ## Text
 
-As an additional cost to steal this agenda, the Runner must spend click.
+As an additional cost to steal this agenda, the Runner must spend ![[click.svg]].
 
-When you score this agenda, gain click.
+When you score this agenda, gain ![[click.svg]].

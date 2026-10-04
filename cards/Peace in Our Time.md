@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/11109
 
 ## Text
 
-Play only as your first click and only if the Corp scored no agendas during their last turn.
+Play only as your first ![[click.svg]] and only if the Corp scored no agendas during their last turn.
 
-Gain 10 credits. The Corp gains 5 credits. You cannot make any runs this turn.
+Gain 10![[credit.svg]]. The Corp gains 5![[credit.svg]]. You cannot make any runs this turn.

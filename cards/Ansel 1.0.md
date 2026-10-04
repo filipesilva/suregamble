@@ -31,10 +31,10 @@ nrdb: https://netrunnerdb.com/en/card/30038
 
 ## Text
 
-**Lose click:** Break 1 subroutine on this ice. Only the Runner can use this ability.
+**Lose ![[click.svg]]:** Break 1 subroutine on this ice. Only the Runner can use this ability.
 
-↳ Trash 1 installed Runner card.
+![[subroutine.svg]] Trash 1 installed Runner card.
 
-↳ You may install 1 card from HQ or Archives.
+![[subroutine.svg]] You may install 1 card from HQ or Archives.
 
-↳ The Runner cannot steal or trash Corp cards for the remainder of this run.
+![[subroutine.svg]] The Runner cannot steal or trash Corp cards for the remainder of this run.

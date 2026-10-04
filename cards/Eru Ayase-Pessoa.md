@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/34007
 
 ## Text
 
-Once per turn → click, **take 1 tag:** Run Archives. If successful, instead of breaching Archives, breach R&D.
+Once per turn → ![[click.svg]], **take 1 tag:** Run Archives. If successful, instead of breaching Archives, breach R&D.
 
 Threat 3 → Whenever you breach R&D during a run on Archives, access 1 additional card. *(This ability is active if any player has 3 or more agenda points.)*

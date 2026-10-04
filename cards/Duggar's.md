@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/06054
 
 ## Text
 
-click,click,click,click: Draw 10 cards.
+![[click.svg]],![[click.svg]],![[click.svg]],![[click.svg]]: Draw 10 cards.

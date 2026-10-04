@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/22038
 
 ## Text
 
-↳ You may place up to 3 advancement counters on 1 card installed in the root of a remote server. If you do, the Runner accesses that card unless they pay 3 credits.
+![[subroutine.svg]] You may place up to 3 advancement counters on 1 card installed in the root of a remote server. If you do, the Runner accesses that card unless they pay 3![[credit.svg]].

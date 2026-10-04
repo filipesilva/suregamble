@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/21040
 
 ## Text
 
-The Runner gains 2 credits. Trash up to 2 cards from HQ, then shuffle up to 2 cards from Archives into R&D. Remove Distract the Masses from the game instead of trashing it.
+The Runner gains 2![[credit.svg]]. Trash up to 2 cards from HQ, then shuffle up to 2 cards from Archives into R&D. Remove Distract the Masses from the game instead of trashing it.

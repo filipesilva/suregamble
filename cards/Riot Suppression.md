@@ -29,6 +29,6 @@ nrdb: https://netrunnerdb.com/en/card/21113
 
 Play only if the Runner trashed a Corp card during their last turn.
 
-The Runner may suffer 1 core damage. If they do not, they get -3 allotted click for their next turn.
+The Runner may suffer 1 core damage. If they do not, they get -3 allotted ![[click.svg]] for their next turn.
 
 Remove this operation from the game.

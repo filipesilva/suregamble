@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/07017
 
 When you rez this ice, take 1 bad publicity.
 
-↳ Trace[5]. If successful, do 3 meat damage when this run becomes successful.
+![[subroutine.svg]] Trace[5]. If successful, do 3 meat damage when this run becomes successful.

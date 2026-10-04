@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/35004
 
 ## Text
 
-As an additional cost to play this event, spend click.
+As an additional cost to play this event, spend ![[click.svg]].
 
 Install 1 program from your heap. You may add 1 program from your heap to the bottom of your stack.

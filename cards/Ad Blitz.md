@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/09020
 
 ## Text
 
-As an additional cost to play this operation, spend click.
+As an additional cost to play this operation, spend ![[click.svg]].
 
 Install and rez (paying all costs) X **advertisements** from Archives and/or HQ, if able.

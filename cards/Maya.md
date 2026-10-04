@@ -27,7 +27,7 @@ nrdb: https://netrunnerdb.com/en/card/10007
 
 ## Text
 
-+2MU
++2![[mu.svg]]
 
 Once per turn → When you finish accessing a card in R&D, you may add that card to the bottom of R&D. If you do, take 1 tag.
 

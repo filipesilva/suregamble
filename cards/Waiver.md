@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/10091
 
 ## Text
 
-↳ Trace[5]. If successful, the Runner reveals the grip. Trash each card revealed this way with a play or install cost of X or less. X is equal to the amount by which your trace strength exceeded the Runner's link strength.
+![[subroutine.svg]] Trace[5]. If successful, the Runner reveals the grip. Trash each card revealed this way with a play or install cost of X or less. X is equal to the amount by which your trace strength exceeded the Runner's link strength.

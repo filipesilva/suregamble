@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/25095
 
 ## Text
 
-↳ Do 3 net damage.
+![[subroutine.svg]] Do 3 net damage.

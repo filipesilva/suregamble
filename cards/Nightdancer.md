@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/21030
 
 ## Text
 
-↳ The Runner loses click, if able. You have an additional click to spend during your next turn.
+![[subroutine.svg]] The Runner loses ![[click.svg]], if able. You have an additional ![[click.svg]] to spend during your next turn.
 
-↳ The Runner loses click, if able. You have an additional click to spend during your next turn.
+![[subroutine.svg]] The Runner loses ![[click.svg]], if able. You have an additional ![[click.svg]] to spend during your next turn.

@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/09033
 
 ## Text
 
-Interface → **Trash 1 installed card:** Break 1 "↳ End the run." subroutine.
+Interface → **Trash 1 installed card:** Break 1 "![[subroutine.svg]] End the run." subroutine.

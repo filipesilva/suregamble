@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/26107
 
 ## Text
 
-interrupt → Whenever you would do 1 or more net damage, you may prevent 1 net damage. If you do, place 1 power counter on this asset and gain 3 credits.
+![[interrupt.svg]] → Whenever you would do 1 or more net damage, you may prevent 1 net damage. If you do, place 1 power counter on this asset and gain 3![[credit.svg]].
 
-2 clicks, **trash:** Do 1 net damage for each hosted power counter.
+![[click.svg]]![[click.svg]], **![[trash.svg]]:** Do 1 net damage for each hosted power counter.

@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/02074
 
 ## Text
 
-↳ Trace[4]. If successful, the Runner cannot make another run this turn.
+![[subroutine.svg]] Trace[4]. If successful, the Runner cannot make another run this turn.
 
-↳ Trace[4]. If successful, end the run.
+![[subroutine.svg]] Trace[4]. If successful, end the run.

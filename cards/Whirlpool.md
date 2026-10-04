@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/20103
 
 ## Text
 
-↳ The Runner cannot jack out for the remainder of this run. Trash Whirlpool.
+![[subroutine.svg]] The Runner cannot jack out for the remainder of this run. Trash Whirlpool.

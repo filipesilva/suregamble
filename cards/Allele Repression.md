@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/08073
 
 Allele Repression can be advanced.
 
-trash: Swap 1 card in HQ with 1 card in Archives for each advancement token on Allele Repression.
+![[trash.svg]]: Swap 1 card in HQ with 1 card in Archives for each advancement token on Allele Repression.

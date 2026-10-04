@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/04005
 
 ## Text
 
-Whenever the Corp spends a click to draw 1 card or gain 1 credit (not through a card ability), place 1 virus counter on Gorman Drip v1.
+Whenever the Corp spends a ![[click.svg]] to draw 1 card or gain 1![[credit.svg]] (not through a card ability), place 1 virus counter on Gorman Drip v1.
 
-click, trash: Gain 1 credit for each virus counter on Gorman Drip v1.
+![[click.svg]], ![[trash.svg]]: Gain 1![[credit.svg]] for each virus counter on Gorman Drip v1.

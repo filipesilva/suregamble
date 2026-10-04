@@ -27,8 +27,8 @@ nrdb: https://netrunnerdb.com/en/card/11120
 
 ## Text
 
-↳ The Runner trashes 1 of their installed cards.
+![[subroutine.svg]] The Runner trashes 1 of their installed cards.
 
-↳ The Runner trashes 1 of their installed cards.
+![[subroutine.svg]] The Runner trashes 1 of their installed cards.
 
-↳ The Runner trashes 1 of their installed cards.
+![[subroutine.svg]] The Runner trashes 1 of their installed cards.

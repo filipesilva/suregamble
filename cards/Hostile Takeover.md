@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/31071
 
 ## Text
 
-When you score this agenda, gain 7 credits and take 1 bad publicity.
+When you score this agenda, gain 7![[credit.svg]] and take 1 bad publicity.

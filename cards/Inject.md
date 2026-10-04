@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/06073
 
 ## Text
 
-Reveal the top 4 cards of your stack and trash all programs revealed. Gain 1 credit for each program trashed, and add the rest of the revealed cards to your grip.
+Reveal the top 4 cards of your stack and trash all programs revealed. Gain 1![[credit.svg]] for each program trashed, and add the rest of the revealed cards to your grip.

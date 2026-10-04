@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/34012
 
 Run a central server. The first time you encounter a piece of ice during that run, bypass it.
 
-Threat 4 → The second time you encounter a piece of ice during that run, you may spend click to bypass it. *(This ability is active if any player has 4 or more agenda points.)*
+Threat 4 → The second time you encounter a piece of ice during that run, you may spend ![[click.svg]] to bypass it. *(This ability is active if any player has 4 or more agenda points.)*

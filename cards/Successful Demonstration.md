@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/03014
 
 Play only if the Runner made an unsuccessful run during their last turn.
 
-Gain 7 credits.
+Gain 7![[credit.svg]].

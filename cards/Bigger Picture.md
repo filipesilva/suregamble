@@ -32,4 +32,4 @@ Resolve 1 of the following:
 
 - Give the Runner 1 tag.
 
-- Remove any number of tags. The Runner loses 5 credits for each tag removed this way. Gain credits equal to the number of credits the Runner lost.
+- Remove any number of tags. The Runner loses 5![[credit.svg]] for each tag removed this way. Gain credits equal to the number of credits the Runner lost.

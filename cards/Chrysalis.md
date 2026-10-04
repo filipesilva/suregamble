@@ -33,4 +33,4 @@ While the Runner is accessing this ice in R&D, they must reveal it.
 
 When the Runner accesses this ice anywhere except in Archives, they encounter it.
 
-↳ Do 2 net damage.
+![[subroutine.svg]] Do 2 net damage.

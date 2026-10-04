@@ -26,10 +26,10 @@ nrdb: https://netrunnerdb.com/en/card/34036
 
 ## Text
 
-trash**:** End the run unless the Runner spends click. Use this ability only during a run on this server.
+![[trash.svg]]**:** End the run unless the Runner spends ![[click.svg]]. Use this ability only during a run on this server.
 
-↳ The Runner loses click.
+![[subroutine.svg]] The Runner loses ![[click.svg]].
 
-↳ The Runner loses click.
+![[subroutine.svg]] The Runner loses ![[click.svg]].
 
-↳ End the run.
+![[subroutine.svg]] End the run.

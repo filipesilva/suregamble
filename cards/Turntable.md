@@ -27,7 +27,7 @@ nrdb: https://netrunnerdb.com/en/card/08043
 
 ## Text
 
-+1MU
++1![[mu.svg]]
 
 Whenever you steal an agenda, you may swap that agenda with an agenda in the Corp's score area.
 

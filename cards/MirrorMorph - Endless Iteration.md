@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/26031
 
 ## Text
 
-If the first, second, and third actions you take on your turn are each different from one another, when the third action completes, you may gain 1 credit or take another different action, paying click less.
+If the first, second, and third actions you take on your turn are each different from one another, when the third action completes, you may gain 1![[credit.svg]] or take another different action, paying ![[click.svg]] less.

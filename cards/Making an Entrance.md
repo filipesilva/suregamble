@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/10058
 
 ## Text
 
-Play only as your first click.
+Play only as your first ![[click.svg]].
 
 Look at the top 6 cards of your stack. You may trash any of those cards and arrange the rest in any order.

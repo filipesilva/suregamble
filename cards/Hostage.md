@@ -25,6 +25,6 @@ nrdb: https://netrunnerdb.com/en/card/25025
 
 ## Text
 
-As an additional cost to play this event, spend click.
+As an additional cost to play this event, spend ![[click.svg]].
 
 Search your stack for a **connection**, reveal it, and add it to your grip. You may install that **connection** (paying its install cost). Shuffle your stack.

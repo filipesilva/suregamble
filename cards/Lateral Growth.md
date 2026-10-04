@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/10104
 
 ## Text
 
-Gain 4 credits. You may install 1 card (paying the install cost).
+Gain 4![[credit.svg]]. You may install 1 card (paying the install cost).

@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/22037
 
 Neurostasis can be advanced.
 
-If you pay 3 credits when the Runner accesses Neurostasis, choose 1 installed Runner card for each advancement token on Neurostasis. The Runner must shuffle the chosen cards into the stack.
+If you pay 3![[credit.svg]] when the Runner accesses Neurostasis, choose 1 installed Runner card for each advancement token on Neurostasis. The Runner must shuffle the chosen cards into the stack.

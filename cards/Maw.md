@@ -27,7 +27,7 @@ nrdb: https://netrunnerdb.com/en/card/12002
 
 ## Text
 
-+2MU
++2![[mu.svg]]
 
 The first time each turn you access a card not in Archives and do not steal or trash it, the Corp must trash 1 card from HQ at random.
 

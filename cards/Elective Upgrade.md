@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/13030
 
 When you score this agenda, place 2 agenda counters on it.
 
-Once per turn → click, **hosted agenda counter:** Gain 2 clicks.
+Once per turn → ![[click.svg]], **hosted agenda counter:** Gain ![[click.svg]]![[click.svg]].

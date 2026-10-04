@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/06115
 
 ## Text
 
-Run R&D. If successful, instead of breaching R&D, you may search your stack for 1 program. Install it, paying 3 credits less for each piece of ice protecting R&D, and then take 1 tag.
+Run R&D. If successful, instead of breaching R&D, you may search your stack for 1 program. Install it, paying 3![[credit.svg]] less for each piece of ice protecting R&D, and then take 1 tag.

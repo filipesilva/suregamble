@@ -31,4 +31,4 @@ nrdb: https://netrunnerdb.com/en/card/25128
 
 When you rez this asset, remove 1 bad publicity.
 
-click, trash**:** Trash 1 installed **location** resource. Take 1 bad publicity.
+![[click.svg]], ![[trash.svg]]**:** Trash 1 installed **location** resource. Take 1 bad publicity.

@@ -31,4 +31,4 @@ nrdb: https://netrunnerdb.com/en/card/30072
 
 While this ice is protecting a remote server, it gets +2 strength.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

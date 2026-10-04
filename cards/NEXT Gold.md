@@ -32,6 +32,6 @@ nrdb: https://netrunnerdb.com/en/card/08011
 
 X is the number of rezzed **NEXT** ice.
 
-↳ Do X net damage.
+![[subroutine.svg]] Do X net damage.
 
-↳ Trash X programs.
+![[subroutine.svg]] Trash X programs.

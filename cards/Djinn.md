@@ -26,8 +26,8 @@ nrdb: https://netrunnerdb.com/en/card/01009
 
 ## Text
 
-Djinn can host up to 3MU of non-**icebreaker** programs.
+Djinn can host up to 3![[mu.svg]] of non-**icebreaker** programs.
 
 The memory costs of hosted programs do not count against your memory limit.
 
-click, 1 credit: Search your stack for a **virus** program, reveal it, and add it to your grip. Shuffle your stack.
+![[click.svg]], 1![[credit.svg]]: Search your stack for a **virus** program, reveal it, and add it to your grip. Shuffle your stack.

@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/11103
 
 ## Text
 
-interrupt → **X credits**, trash**:** Prevent X damage from a card you are accessing.
+![[interrupt.svg]] → **X![[credit.svg]]**, ![[trash.svg]]**:** Prevent X damage from a card you are accessing.

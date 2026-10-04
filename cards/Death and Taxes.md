@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/21058
 
 This card is not trashed until another **current** is played or an agenda is stolen.
 
-Whenever the Runner installs a card or trashes an installed card, you may gain 1 credit.
+Whenever the Runner installs a card or trashes an installed card, you may gain 1![[credit.svg]].

@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/09034
 
 ## Text
 
-interrupt → When this program would be trashed, turn it facedown instead of adding it to your heap. *(It is still considered trashed.)*
+![[interrupt.svg]] → When this program would be trashed, turn it facedown instead of adding it to your heap. *(It is still considered trashed.)*

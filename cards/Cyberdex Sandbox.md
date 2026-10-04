@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/26128
 
 ## Text
 
-The first time each turn you purge virus counters, gain 4 credits.
+The first time each turn you purge virus counters, gain 4![[credit.svg]].
 
 When you score this agenda, you may purge virus counters.

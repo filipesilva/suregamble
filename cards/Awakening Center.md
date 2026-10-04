@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/03021
 
 You can install **bioroid** ice onto this upgrade at no install cost.
 
-Whenever the Runner passes all of the ice protecting this server, you may rez 1 hosted piece of ice, paying 7 credits less. If you do, the Runner encounters that ice. When this run ends, trash that ice.
+Whenever the Runner passes all of the ice protecting this server, you may rez 1 hosted piece of ice, paying 7![[credit.svg]] less. If you do, the Runner encounters that ice. When this run ends, trash that ice.

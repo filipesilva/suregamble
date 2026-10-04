@@ -31,4 +31,4 @@ nrdb: https://netrunnerdb.com/en/card/11081
 
 Whenever you encounter a **sentry**, you may install this program from your heap.
 
-**3 credits:** +2 strength. Then, if this program can interface with the **sentry** you are encountering, break up to 2 subroutines.
+**3![[credit.svg]]:** +2 strength. Then, if this program can interface with the **sentry** you are encountering, break up to 2 subroutines.

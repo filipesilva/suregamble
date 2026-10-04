@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/35070
 
 ## Text
 
-When you score this agenda, gain 2 credits.
+When you score this agenda, gain 2![[credit.svg]].
 
-When you forfeit this agenda, gain 4 credits.
+When you forfeit this agenda, gain 4![[credit.svg]].

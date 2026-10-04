@@ -23,4 +23,4 @@ nrdb: https://netrunnerdb.com/en/card/12099
 
 ## Text
 
-Turn an agenda faceup and install Transparency Initiative on that agenda as a hosted condition counter with the text "Host agenda gains **public**. Whenever you advance host agenda, gain 1 credit."
+Turn an agenda faceup and install Transparency Initiative on that agenda as a hosted condition counter with the text "Host agenda gains **public**. Whenever you advance host agenda, gain 1![[credit.svg]]."

@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/36003
 
 Each piece of ice gets −1 strength.
 
-The first time each turn you break a subroutine on a piece of ice with 0 or less strength, gain 1 credit.
+The first time each turn you break a subroutine on a piece of ice with 0 or less strength, gain 1![[credit.svg]].

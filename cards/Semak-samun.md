@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/35054
 
 The Runner cannot break the printed subroutine on this ice except using a **fracter**.
 
-↳ End the run unless the Runner suffers 3 net damage.
+![[subroutine.svg]] End the run unless the Runner suffers 3 net damage.

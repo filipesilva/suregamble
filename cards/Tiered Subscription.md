@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/26049
 
 ## Text
 
-The first time each turn a run begins, gain 1 credit.
+The first time each turn a run begins, gain 1![[credit.svg]].

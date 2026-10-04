@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/02034
 
 ## Text
 
-↳ For the remainder of this run, while the Runner is encountering another piece of ice, it gains "↳ End the run." after its other subroutines.
+![[subroutine.svg]] For the remainder of this run, while the Runner is encountering another piece of ice, it gains "![[subroutine.svg]] End the run." after its other subroutines.

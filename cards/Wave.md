@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/33037
 
 When you rez this ice during a run against this server, you may search R&D for a piece of ice and reveal it. *(Shuffle R&D after searching it.)* Add that ice to HQ.
 
-↳ Gain 1 credit for each rezzed piece of **harmonic** ice.
+![[subroutine.svg]] Gain 1![[credit.svg]] for each rezzed piece of **harmonic** ice.

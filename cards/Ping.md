@@ -31,4 +31,4 @@ nrdb: https://netrunnerdb.com/en/card/30055
 
 When you rez this ice during a run against this server, give the Runner 1 tag.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

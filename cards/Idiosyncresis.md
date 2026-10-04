@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/35061
 
 You can advance this asset.
 
-When your turn begins, you may trash this asset. If you do, for each hosted advancement counter, gain 3 credits and the Runner loses 2 credits.
+When your turn begins, you may trash this asset. If you do, for each hosted advancement counter, gain 3![[credit.svg]] and the Runner loses 2![[credit.svg]].

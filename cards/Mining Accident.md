@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/12101
 
 Play only if you made a successful run on a central server this turn.
 
-Give the Corp 1 bad publicity unless they pay 5 credits.
+Give the Corp 1 bad publicity unless they pay 5![[credit.svg]].
 
 Remove this event from the game.

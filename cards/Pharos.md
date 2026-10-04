@@ -31,8 +31,8 @@ nrdb: https://netrunnerdb.com/en/card/30063
 
 You can advance this ice. It gets +5 strength while there are 3 or more hosted advancement counters.
 
-↳ Give the Runner 1 tag.
+![[subroutine.svg]] Give the Runner 1 tag.
 
-↳ End the run.
+![[subroutine.svg]] End the run.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

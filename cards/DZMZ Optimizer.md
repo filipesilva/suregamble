@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/30022
 
 ## Text
 
-+1MU
++1![[mu.svg]]
 
-The first program you install each turn costs 1 credit less to install.
+The first program you install each turn costs 1![[credit.svg]] less to install.

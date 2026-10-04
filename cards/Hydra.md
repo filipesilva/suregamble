@@ -28,10 +28,10 @@ nrdb: https://netrunnerdb.com/en/card/22046
 
 ## Text
 
-↳ Do 3 net damage if the Runner is tagged; otherwise, give the Runner 1 tag.
+![[subroutine.svg]] Do 3 net damage if the Runner is tagged; otherwise, give the Runner 1 tag.
 
-↳ Gain 5 credits if the Runner is tagged; otherwise, give the Runner 1 tag.
+![[subroutine.svg]] Gain 5![[credit.svg]] if the Runner is tagged; otherwise, give the Runner 1 tag.
 
-↳ End the run if the Runner is tagged; otherwise, give the Runner 1 tag.
+![[subroutine.svg]] End the run if the Runner is tagged; otherwise, give the Runner 1 tag.
 
 

@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/01032
 
 ## Text
 
-interrupt → trash**:** Prevent 1 tag.
+![[interrupt.svg]] → ![[trash.svg]]**:** Prevent 1 tag.

@@ -27,8 +27,8 @@ nrdb: https://netrunnerdb.com/en/card/08057
 
 ## Text
 
-↳ End the run.
+![[subroutine.svg]] End the run.
 
-↳ End the run.
+![[subroutine.svg]] End the run.
 
-↳ The Runner gains 5 credits.
+![[subroutine.svg]] The Runner gains 5![[credit.svg]].

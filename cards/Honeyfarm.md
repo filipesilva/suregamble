@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/13054
 
 While the Runner is accessing this asset in R&D, they must reveal it.
 
-When the Runner accesses this asset, they lose 1 credit.
+When the Runner accesses this asset, they lose 1![[credit.svg]].

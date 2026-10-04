@@ -31,4 +31,4 @@ Gene Splicer can be advanced.
 
 When the Runner accesses Gene Splicer, do 1 net damage for each advancement token on Gene Splicer.
 
-**click, 3 hosted advancement tokens:** Add Gene Splicer to your score area as an agenda worth 1 agenda point.
+**![[click.svg]], 3 hosted advancement tokens:** Add Gene Splicer to your score area as an agenda worth 1 agenda point.

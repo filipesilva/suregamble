@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/10037
 
 ## Text
 
-When you score Corporate Sales Team, place 10 credits on it.
+When you score Corporate Sales Team, place 10![[credit.svg]] on it.
 
-When each player's turn begins, take 1 credit from Corporate Sales Team.
+When each player's turn begins, take 1![[credit.svg]] from Corporate Sales Team.

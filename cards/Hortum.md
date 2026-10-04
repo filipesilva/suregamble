@@ -29,6 +29,6 @@ nrdb: https://netrunnerdb.com/en/card/31076
 
 You can advance this ice. If there are 3 or more hosted advancement counters, the Runner cannot break subroutines on this ice using **AI** programs.
 
-↳ Gain 1 credit. If there are 3 or more hosted advancement counters, instead gain 4 credits.
+![[subroutine.svg]] Gain 1![[credit.svg]]. If there are 3 or more hosted advancement counters, instead gain 4![[credit.svg]].
 
-↳ End the run. If there are 3 or more hosted advancement counters, instead search R&D for up to 2 cards. Add those cards to HQ, then end the run.
+![[subroutine.svg]] End the run. If there are 3 or more hosted advancement counters, instead search R&D for up to 2 cards. Add those cards to HQ, then end the run.

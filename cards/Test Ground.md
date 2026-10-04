@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/08071
 
 Test Ground can be advanced.
 
-trash: Derez 1 card for each advancement token on Test Ground.
+![[trash.svg]]: Derez 1 card for each advancement token on Test Ground.

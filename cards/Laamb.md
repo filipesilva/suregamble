@@ -29,8 +29,8 @@ nrdb: https://netrunnerdb.com/en/card/21086
 
 ## Text
 
-Once per turn → When you encounter a piece of ice, you may pay 2 credits. If you do, it gains **barrier** for the remainder of that encounter.
+Once per turn → When you encounter a piece of ice, you may pay 2![[credit.svg]]. If you do, it gains **barrier** for the remainder of that encounter.
 
-Interface → **2 credits:** Break any number of **barrier** subroutines.
+Interface → **2![[credit.svg]]:** Break any number of **barrier** subroutines.
 
-**3 credits:** +6 strength.
+**3![[credit.svg]]:** +6 strength.

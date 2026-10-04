@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/02008
 
 ## Text
 
-+1link
++1![[link.svg]]
 
-trash: Choose an **icebreaker**. That **icebreaker** has +2 strength until the end of the turn.
+![[trash.svg]]: Choose an **icebreaker**. That **icebreaker** has +2 strength until the end of the turn.

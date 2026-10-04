@@ -23,6 +23,6 @@ nrdb: https://netrunnerdb.com/en/card/07036
 
 ## Text
 
-As an additional cost to play this event, spend 3 clicks.
+As an additional cost to play this event, spend ![[click.svg]]![[click.svg]]![[click.svg]].
 
-Gain 10 credits.
+Gain 10![[credit.svg]].

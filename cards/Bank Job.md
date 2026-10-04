@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/25038
 
 ## Text
 
-When you install this resource, load 8 credits on it. When it is empty, trash it.
+When you install this resource, load 8![[credit.svg]] on it. When it is empty, trash it.
 
 Whenever you make a successful run on a remote server, instead of breaching that server, you may take any number of credits from this resource.

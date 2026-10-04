@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/21006
 
 ## Text
 
-+1MU
++1![[mu.svg]]
 
-The first time each turn you fully break a piece of ice, gain 1 credit.
+The first time each turn you fully break a piece of ice, gain 1![[credit.svg]].

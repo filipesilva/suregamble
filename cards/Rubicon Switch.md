@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/12043
 
 ## Text
 
-Once per turn → click, **X credits:** Derez 1 piece of ice with a printed rez cost of X credits that was rezzed this turn.
+Once per turn → ![[click.svg]], **X![[credit.svg]]:** Derez 1 piece of ice with a printed rez cost of X![[credit.svg]] that was rezzed this turn.

@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/21107
 
 ## Text
 
-click, trash, **trash a card from your grip**: Install a program, piece of hardware, or **virtual** resource from your heap, paying its install cost.
+![[click.svg]], ![[trash.svg]], **trash a card from your grip**: Install a program, piece of hardware, or **virtual** resource from your heap, paying its install cost.

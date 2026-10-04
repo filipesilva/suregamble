@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/26082
 
 The first time each turn you use a piece of hardware during a run, place 1 power counter on this resource.
 
-click, **remove this resource from the game:** For each hosted power counter, choose up to 2 cards in your heap with trash abilities. Shuffle the chosen cards into your stack.
+![[click.svg]], **remove this resource from the game:** For each hosted power counter, choose up to 2 cards in your heap with ![[trash.svg]] abilities. Shuffle the chosen cards into your stack.

@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/33084
 
 ## Text
 
-Set aside cards from the top of your stack faceup until you set aside a program. You may install that program, paying 10 credits less. Shuffle the set-aside cards into your stack.
+Set aside cards from the top of your stack faceup until you set aside a program. You may install that program, paying 10![[credit.svg]] less. Shuffle the set-aside cards into your stack.

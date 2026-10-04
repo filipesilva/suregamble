@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/05039
 
 Use this hardware only if you have made a successful run on HQ this turn.
 
-**2 clicks:** Trash 1 rezzed **bioroid**, **clone**, **executive**, or **sysop** in the root of a remote server.
+**![[click.svg]]![[click.svg]]:** Trash 1 rezzed **bioroid**, **clone**, **executive**, or **sysop** in the root of a remote server.

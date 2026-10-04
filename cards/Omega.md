@@ -28,8 +28,8 @@ nrdb: https://netrunnerdb.com/en/card/04088
 
 ## Text
 
-Interface → **1 credit:** Break 1 subroutine.
+Interface → **1![[credit.svg]]:** Break 1 subroutine.
 
-**1 credit:** +1 strength.
+**1![[credit.svg]]:** +1 strength.
 
 This program can only interface with the innermost piece of ice protecting a server.

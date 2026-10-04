@@ -29,6 +29,6 @@ nrdb: https://netrunnerdb.com/en/card/21109
 
 Flame-out can host a single program.
 
-When you install Flame-out, place 9 credits on it. Use these credits to pay for using hosted program.
+When you install Flame-out, place 9![[credit.svg]] on it. Use these credits to pay for using hosted program.
 
 When a turn ends in which you used credits on Flame-out, trash hosted program.

@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/07007
 
 Place 1 agenda counter on High-Risk Investment when you score it.
 
-click, **hosted agenda counter:** Gain 1 credit for each credit in the Runner's credit pool.
+![[click.svg]], **hosted agenda counter:** Gain 1![[credit.svg]] for each credit in the Runner's credit pool.

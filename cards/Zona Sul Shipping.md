@@ -24,8 +24,8 @@ nrdb: https://netrunnerdb.com/en/card/06097
 
 ## Text
 
-Place 1 credit on Zona Sul Shipping when your turn begins.
+Place 1![[credit.svg]] on Zona Sul Shipping when your turn begins.
 
-click: Take all credits from Zona Sul Shipping.
+![[click.svg]]: Take all credits from Zona Sul Shipping.
 
 Trash Zona Sul Shipping if you are tagged.

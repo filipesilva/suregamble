@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/20012
 
 Whenever you make a successful run, place 1 virus counter on Hemorrhage.
 
-click, **2 hosted virus counters:** The Corp trashes 1 card from HQ.
+![[click.svg]], **2 hosted virus counters:** The Corp trashes 1 card from HQ.

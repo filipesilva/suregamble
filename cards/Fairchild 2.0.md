@@ -28,10 +28,10 @@ nrdb: https://netrunnerdb.com/en/card/11031
 
 ## Text
 
-**Lose 2 clicks:** Break up to 2 subroutines on this ice. Only the Runner can use this ability.
+**Lose ![[click.svg]]![[click.svg]]:** Break up to 2 subroutines on this ice. Only the Runner can use this ability.
 
-↳ The Runner must pay 2 credits or trash 1 of their installed cards.
+![[subroutine.svg]] The Runner must pay 2![[credit.svg]] or trash 1 of their installed cards.
 
-↳ The Runner must pay 2 credits or trash 1 of their installed cards.
+![[subroutine.svg]] The Runner must pay 2![[credit.svg]] or trash 1 of their installed cards.
 
-↳ Do 1 core damage.
+![[subroutine.svg]] Do 1 core damage.

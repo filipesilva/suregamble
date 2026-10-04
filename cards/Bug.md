@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/05043
 
 Install only if you made a successful run on HQ this turn.
 
-Whenever the Corp draws a card, you may pay 2 credits to reveal that card.
+Whenever the Corp draws a card, you may pay 2![[credit.svg]] to reveal that card.

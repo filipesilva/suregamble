@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/35081
 
 Play only if you have not finished an action yet this turn.
 
-Gain 5 credits. If you played this operation from anywhere except HQ, gain click.
+Gain 5![[credit.svg]]. If you played this operation from anywhere except HQ, gain ![[click.svg]].
 
-click**:** Play this operation from Archives. After it resolves, remove it from the game.
+![[click.svg]]**:** Play this operation from Archives. After it resolves, remove it from the game.

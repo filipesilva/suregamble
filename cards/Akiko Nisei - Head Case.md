@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/22015
 
 ## Text
 
-Whenever you breach R&D, you and the Corp secretly spend 0 credits, 1 credit, or 2 credits. Reveal spent credits. If you and the Corp spent the same number of credits, access 1 additional card.
+Whenever you breach R&D, you and the Corp secretly spend 0![[credit.svg]], 1![[credit.svg]], or 2![[credit.svg]]. Reveal spent credits. If you and the Corp spent the same number of credits, access 1 additional card.

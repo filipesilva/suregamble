@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/21105
 
 ## Text
 
-As an additional cost to play this event, spend click.
+As an additional cost to play this event, spend ![[click.svg]].
 
-Run HQ. If successful, instead of breaching HQ, you may force the Corp to lose up to 5 credits, then you gain 1 credit for each credit lost.
+Run HQ. If successful, instead of breaching HQ, you may force the Corp to lose up to 5![[credit.svg]], then you gain 1![[credit.svg]] for each credit lost.

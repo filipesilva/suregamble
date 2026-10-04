@@ -30,6 +30,6 @@ nrdb: https://netrunnerdb.com/en/card/34043
 
 When the Runner passes this ice, if there are 4 or more cards in the grip, give them 1 tag.
 
-↳ Do 1 net damage.
+![[subroutine.svg]] Do 1 net damage.
 
-↳ Do 1 net damage.
+![[subroutine.svg]] Do 1 net damage.

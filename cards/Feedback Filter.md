@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/03037
 
 ## Text
 
-interrupt → **3 credits:** Prevent 1 net damage.
+![[interrupt.svg]] → **3![[credit.svg]]:** Prevent 1 net damage.
 
-interrupt → **trash:** Prevent up to 2 core damage.
+![[interrupt.svg]] → **![[trash.svg]]:** Prevent up to 2 core damage.

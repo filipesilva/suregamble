@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/35060
 
 When this agenda is scored or stolen, place 1 agenda counter on it.
 
-**click**, **hosted agenda counter:** Draw 4 cards. Shuffle any number of cards from HQ into R&D. The Corp can use this ability even if this agenda is in the Runner's score area.
+**![[click.svg]]**, **hosted agenda counter:** Draw 4 cards. Shuffle any number of cards from HQ into R&D. The Corp can use this ability even if this agenda is in the Runner's score area.

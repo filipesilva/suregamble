@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/26014
 
 ## Text
 
-interrupt → **Remove this hardware from the game:** Prevent a Corp card ability from ending the run. Use this ability only if you made a successful run on HQ this turn.
+![[interrupt.svg]] → **Remove this hardware from the game:** Prevent a Corp card ability from ending the run. Use this ability only if you made a successful run on HQ this turn.

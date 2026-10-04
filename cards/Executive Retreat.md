@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/02039
 
 When you score Executive Retreat, place 1 agenda counter on it and shuffle HQ into R&D.
 
-click, **hosted agenda counter:** Draw 5 cards.
+![[click.svg]], **hosted agenda counter:** Draw 5 cards.

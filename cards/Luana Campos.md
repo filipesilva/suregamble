@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/36057
 
 ## Text
 
-When your turn begins, you may host 1 of your bad publicity counters on this asset. *(It has no effect while hosted.)* If you do, gain 3 credits and draw 1 card.
+When your turn begins, you may host 1 of your bad publicity counters on this asset. *(It has no effect while hosted.)* If you do, gain 3![[credit.svg]] and draw 1 card.
 
-interrupt → When this asset would be uninstalled, take all hosted bad publicity.
+![[interrupt.svg]] → When this asset would be uninstalled, take all hosted bad publicity.

@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/34122
 
 ## Text
 
-click, **1 credit**, **reveal and trash this agenda from HQ:** Install and rez 1 card from HQ, paying a total of 5 credits less.
+![[click.svg]], **1![[credit.svg]]**, **reveal and trash this agenda from HQ:** Install and rez 1 card from HQ, paying a total of 5![[credit.svg]] less.
 
 When you score this agenda, you may search R&D for 1 card. *(Shuffle R&D after searching it.)* Install and rez that card, ignoring all costs.

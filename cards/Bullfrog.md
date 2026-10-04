@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/02073
 
 ## Text
 
-↳ You and the Runner secretly spend 0 credits, 1 credit or 2 credits. Reveal spent credits. If you and the Runner spent a different number of credits and this ice is installed, move this ice to the outermost position protecting another server. *(The run continues from this new position.)*
+![[subroutine.svg]] You and the Runner secretly spend 0![[credit.svg]], 1![[credit.svg]] or 2![[credit.svg]]. Reveal spent credits. If you and the Runner spent a different number of credits and this ice is installed, move this ice to the outermost position protecting another server. *(The run continues from this new position.)*

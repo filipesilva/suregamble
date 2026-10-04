@@ -24,6 +24,6 @@ nrdb: https://netrunnerdb.com/en/card/33017
 
 ## Text
 
-2recurring credit *(When you install this card and before your turn begins, refill to 2 hosted credits.)*
+2![[recurring-credit.svg]] *(When you install this card and before your turn begins, refill to 2 hosted credits.)*
 
 You can spend hosted credits during runs on central servers.

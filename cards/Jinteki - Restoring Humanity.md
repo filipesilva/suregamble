@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/30043
 
 ## Text
 
-When your discard phase ends, if there is a facedown card in Archives, gain 1 credit.
+When your discard phase ends, if there is a facedown card in Archives, gain 1![[credit.svg]].

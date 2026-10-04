@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/04044
 
 ## Text
 
-As an additional cost to play this event, spend click.
+As an additional cost to play this event, spend ![[click.svg]].
 
-Make a run. During this run, the Corp must pay X credits as an additional cost to rez each piece of ice, where X is the rez cost of that ice.
+Make a run. During this run, the Corp must pay X![[credit.svg]] as an additional cost to rez each piece of ice, where X is the rez cost of that ice.

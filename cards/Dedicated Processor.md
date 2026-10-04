@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/12047
 
 Install Dedicated Processor on a non-**AI icebreaker**.
 
-Host **icebreaker** gains "2 credits: +4 strength."
+Host **icebreaker** gains "2![[credit.svg]]: +4 strength."

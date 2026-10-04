@@ -31,4 +31,4 @@ nrdb: https://netrunnerdb.com/en/card/30024
 
 Whenever a successful run on R&D ends, you may place 1 virus counter on this program.
 
-click**:** Run R&D. If successful, access X additional cards when you breach R&D. X is equal to the number of hosted virus counters.
+![[click.svg]]**:** Run R&D. If successful, access X additional cards when you breach R&D. X is equal to the number of hosted virus counters.

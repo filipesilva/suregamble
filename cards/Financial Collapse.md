@@ -23,6 +23,6 @@ nrdb: https://netrunnerdb.com/en/card/11039
 
 ## Text
 
-Play only if the Runner has at least 6 credits.
+Play only if the Runner has at least 6![[credit.svg]].
 
-The Runner loses 2 credits for each installed resource. The Runner can trash a resource to prevent this.
+The Runner loses 2![[credit.svg]] for each installed resource. The Runner can trash a resource to prevent this.

@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/30064
 
 ## Text
 
-Gain 15 credits.
+Gain 15![[credit.svg]].

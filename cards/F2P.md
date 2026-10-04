@@ -27,8 +27,8 @@ nrdb: https://netrunnerdb.com/en/card/26115
 
 ## Text
 
-**2 credits:** Break 1 subroutine on this ice. Only the Runner can use this ability, and only if they are not tagged.
+**2![[credit.svg]]:** Break 1 subroutine on this ice. Only the Runner can use this ability, and only if they are not tagged.
 
-↳ Add 1 installed Runner card to the grip.
+![[subroutine.svg]] Add 1 installed Runner card to the grip.
 
-↳ Give the Runner 1 tag.
+![[subroutine.svg]] Give the Runner 1 tag.

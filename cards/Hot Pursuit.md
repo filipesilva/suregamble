@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/22009
 
 ## Text
 
-Make a run on HQ. If successful, gain 9 credits and take 1 tag.
+Make a run on HQ. If successful, gain 9![[credit.svg]] and take 1 tag.

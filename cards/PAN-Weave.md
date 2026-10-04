@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/33014
 
 When you install this hardware, suffer 1 meat damage.
 
-The first time each turn you make a successful run on HQ, the Corp loses 1 credit. If they do, gain 1 credit.
+The first time each turn you make a successful run on HQ, the Corp loses 1![[credit.svg]]. If they do, gain 1![[credit.svg]].

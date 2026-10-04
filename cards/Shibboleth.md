@@ -30,6 +30,6 @@ nrdb: https://netrunnerdb.com/en/card/34018
 
 Threat 4 → This program gets −2 strength. *(This ability is active if any player has 4 or more agenda points.)*
 
-Interface → **1 credit:** Break 1 **code gate** subroutine.
+Interface → **1![[credit.svg]]:** Break 1 **code gate** subroutine.
 
-**2 credits:** +2 strength.
+**2![[credit.svg]]:** +2 strength.

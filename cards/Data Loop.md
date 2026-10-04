@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/12095
 
 When the Runner encounters this ice, they add 2 cards from the grip to the top of the stack.
 
-↳ End the run if the Runner is tagged.
+![[subroutine.svg]] End the run if the Runner is tagged.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

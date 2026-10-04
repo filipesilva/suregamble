@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/05036
 
 ## Text
 
-As an additional cost to play this event, spend click.
+As an additional cost to play this event, spend ![[click.svg]].
 
 Search your stack for a **run** event and play that **run** event (paying its play cost), ignoring any additional costs. Shuffle your stack.

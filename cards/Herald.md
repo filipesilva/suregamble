@@ -32,6 +32,6 @@ While the Runner is accessing this ice in R&D, they must reveal it.
 
 When the Runner accesses this ice anywhere except in Archives, they encounter it.
 
-↳ Gain 2 credits.
+![[subroutine.svg]] Gain 2![[credit.svg]].
 
-↳ You may pay up to 2 credits to place that many advancement counters on 1 installed card you can advance.
+![[subroutine.svg]] You may pay up to 2![[credit.svg]] to place that many advancement counters on 1 installed card you can advance.

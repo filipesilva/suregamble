@@ -29,10 +29,10 @@ nrdb: https://netrunnerdb.com/en/card/21004
 
 ## Text
 
-This program gets +1 strength and costs +1MU for each hosted power counter.
+This program gets +1 strength and costs +1![[mu.svg]] for each hosted power counter.
 
-Interface → **1 credit:** Break 1 **sentry** subroutine.
+Interface → **1![[credit.svg]]:** Break 1 **sentry** subroutine.
 
-**2 credits:** +1 strength.
+**2![[credit.svg]]:** +1 strength.
 
-**click:** Place 1 power counter on this program or remove 1 hosted power counter.
+**![[click.svg]]:** Place 1 power counter on this program or remove 1 hosted power counter.

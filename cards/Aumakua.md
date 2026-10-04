@@ -36,4 +36,4 @@ Whenever you expose a card, place 1 virus counter on this program.
 
 Whenever you finish breaching a server, if you did not steal or trash any accessed cards, place 1 virus counter on this program.
 
-Interface → **1 credit:** Break 1 subroutine.
+Interface → **1![[credit.svg]]:** Break 1 subroutine.

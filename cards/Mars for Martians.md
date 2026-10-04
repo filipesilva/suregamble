@@ -25,6 +25,6 @@ nrdb: https://netrunnerdb.com/en/card/12081
 
 ## Text
 
-Play only as your first click.
+Play only as your first ![[click.svg]].
 
-Draw 1 card for each installed **clan** resource. Gain 1 credit for each tag you have.
+Draw 1 card for each installed **clan** resource. Gain 1![[credit.svg]] for each tag you have.

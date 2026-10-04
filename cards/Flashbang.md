@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/12085
 
 ## Text
 
-Interface → **6 credits:** Derez the **sentry** you are encountering.
+Interface → **6![[credit.svg]]:** Derez the **sentry** you are encountering.
 
-**1 credit:** +1 strength.
+**1![[credit.svg]]:** +1 strength.

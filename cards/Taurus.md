@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/06009
 
 ## Text
 
-↳ Trace[2]. If successful, trash 1 piece of hardware. If your trace strength is 5 or greater, trash 1 piece of hardware.
+![[subroutine.svg]] Trace[2]. If successful, trash 1 piece of hardware. If your trace strength is 5 or greater, trash 1 piece of hardware.

@@ -29,8 +29,8 @@ nrdb: https://netrunnerdb.com/en/card/26005
 
 ## Text
 
-Interface → **X credits:** Break X **code gate** subroutines. Use this ability only once per run.
+Interface → **X![[credit.svg]]:** Break X **code gate** subroutines. Use this ability only once per run.
 
-Interface → **1 credit:** Break 1 **code gate** subroutine. Use this ability only if you have 3 or more installed **virtual** resources.
+Interface → **1![[credit.svg]]:** Break 1 **code gate** subroutine. Use this ability only if you have 3 or more installed **virtual** resources.
 
-**1 credit:** +1 strength.
+**1![[credit.svg]]:** +1 strength.

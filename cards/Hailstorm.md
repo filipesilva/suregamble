@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/13049
 
 ## Text
 
-↳ Remove a card in the heap from the game.
+![[subroutine.svg]] Remove a card in the heap from the game.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

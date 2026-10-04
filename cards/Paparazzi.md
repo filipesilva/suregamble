@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/08087
 
 You are tagged.
 
-interrupt → Whenever you would take meat damage, prevent all of that damage.
+![[interrupt.svg]] → Whenever you would take meat damage, prevent all of that damage.

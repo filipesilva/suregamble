@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/29012
 
 ## Text
 
-Gain 1 credit whenever you create a server.
+Gain 1![[credit.svg]] whenever you create a server.

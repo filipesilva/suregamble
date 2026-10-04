@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/36015
 
 ## Text
 
-Once per turn → click**:** Run Archives. When you would approach Archives *(after passing all ice)*, you may pay 1 credit to instead change the attacked server to HQ or R&D and approach that server. Spend credits only from **stealth** cards to pay this cost.
+Once per turn → ![[click.svg]]**:** Run Archives. When you would approach Archives *(after passing all ice)*, you may pay 1![[credit.svg]] to instead change the attacked server to HQ or R&D and approach that server. Spend credits only from **stealth** cards to pay this cost.

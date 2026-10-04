@@ -28,10 +28,10 @@ nrdb: https://netrunnerdb.com/en/card/11119
 
 ## Text
 
-↳ Trace[4]. If successful, purge virus counters.
+![[subroutine.svg]] Trace[4]. If successful, purge virus counters.
 
-↳ Trace[3]. If successful, trash 1 **virus**.
+![[subroutine.svg]] Trace[3]. If successful, trash 1 **virus**.
 
-↳ Trace[2]. If successful, remove a **virus** in the heap from the game.
+![[subroutine.svg]] Trace[2]. If successful, remove a **virus** in the heap from the game.
 
-↳ Trace[1]. If successful, end the run.
+![[subroutine.svg]] Trace[1]. If successful, end the run.

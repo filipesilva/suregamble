@@ -28,10 +28,10 @@ nrdb: https://netrunnerdb.com/en/card/35074
 
 ## Text
 
-You can forfeit 1 agenda as you rez this ice to pay for 10 credits of its rez cost.
+You can forfeit 1 agenda as you rez this ice to pay for 10![[credit.svg]] of its rez cost.
 
-↳ Trash 1 installed program or end the run.
+![[subroutine.svg]] Trash 1 installed program or end the run.
 
-↳ Trash 1 installed resource or end the run.
+![[subroutine.svg]] Trash 1 installed resource or end the run.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/10084
 
 ## Text
 
-interrupt → Whenever you would take net or meat damage, prevent all of that damage.
+![[interrupt.svg]] → Whenever you would take net or meat damage, prevent all of that damage.
 
-Whenever this resource prevents 1 or more damage, trash it unless you pay 4 credits.
+Whenever this resource prevents 1 or more damage, trash it unless you pay 4![[credit.svg]].

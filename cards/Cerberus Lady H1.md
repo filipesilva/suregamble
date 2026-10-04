@@ -35,4 +35,4 @@ When you install this program, place 4 power counters on it.
 
 Interface → **Hosted power counter:** Break up to 2 **barrier** subroutines.
 
-**1 credit:** +1 strength.
+**1![[credit.svg]]:** +1 strength.

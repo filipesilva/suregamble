@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/10111
 
 Zealous Judge can only be rezzed if the Runner is tagged.
 
-click, 1 credit: Give the Runner 1 tag.
+![[click.svg]], 1![[credit.svg]]: Give the Runner 1 tag.

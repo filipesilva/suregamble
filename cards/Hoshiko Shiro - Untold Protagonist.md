@@ -32,7 +32,7 @@ nrdb: https://netrunnerdb.com/en/card/26066
 
 ## Text
 
-When your turn ends, if you accessed a card this turn, gain 2 credits and flip this identity.
+When your turn ends, if you accessed a card this turn, gain 2![[credit.svg]] and flip this identity.
 
 ## Hoshiko Shiro: Mahou Shoujo
 
@@ -42,6 +42,6 @@ When your turn ends, if you accessed a card this turn, gain 2 credits and flip t
 
 ### Text
 
-When your turn begins, draw 1 card and lose 1 credit.
+When your turn begins, draw 1 card and lose 1![[credit.svg]].
 
 When your turn ends, if you did not access any cards this turn, flip this identity.

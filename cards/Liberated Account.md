@@ -25,6 +25,6 @@ nrdb: https://netrunnerdb.com/en/card/31010
 
 ## Text
 
-When you install this resource, load 16 credits onto it. When it is empty, trash it.
+When you install this resource, load 16![[credit.svg]] onto it. When it is empty, trash it.
 
-click**:** Take 4 credits from this resource.
+![[click.svg]]**:** Take 4![[credit.svg]] from this resource.

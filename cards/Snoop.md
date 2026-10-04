@@ -31,4 +31,4 @@ When the Runner encounters Snoop, reveal all cards in the Runner's grip.
 
 **Hosted power counter:** Reveal all cards in the Runner's grip. Trash 1 of those cards.
 
-↳ Trace[3]. If successful, place 1 power counter on Snoop.
+![[subroutine.svg]] Trace[3]. If successful, place 1 power counter on Snoop.

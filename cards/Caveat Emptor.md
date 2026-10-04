@@ -29,6 +29,6 @@ Resolve 1 of the following:
 
 
 
-- Gain 6 credits. The Runner gets −1 allotted click for their next turn.
+- Gain 6![[credit.svg]]. The Runner gets −1 allotted ![[click.svg]] for their next turn.
 
-- Gain 10 credits. The Runner gets +1 allotted click for their next turn.
+- Gain 10![[credit.svg]]. The Runner gets +1 allotted ![[click.svg]] for their next turn.

@@ -31,4 +31,4 @@ When the Runner encounters Quicksand, place 1 power counter on Quicksand.
 
 Quicksand has +1 strength for each power counter on it.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

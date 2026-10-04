@@ -30,6 +30,6 @@ nrdb: https://netrunnerdb.com/en/card/26035
 
 This ice gets −1 strength for each installed **icebreaker**.
 
-↳ Trash 1 installed program that is not a **decoder**, **fracter**, or **killer**.
+![[subroutine.svg]] Trash 1 installed program that is not a **decoder**, **fracter**, or **killer**.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

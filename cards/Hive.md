@@ -27,14 +27,14 @@ nrdb: https://netrunnerdb.com/en/card/20087
 
 ## Text
 
-This ice loses 1 of its printed "↳ End the run." subroutines for each agenda point in your score area.
+This ice loses 1 of its printed "![[subroutine.svg]] End the run." subroutines for each agenda point in your score area.
 
-↳ End the run.
+![[subroutine.svg]] End the run.
 
-↳ End the run.
+![[subroutine.svg]] End the run.
 
-↳ End the run.
+![[subroutine.svg]] End the run.
 
-↳ End the run.
+![[subroutine.svg]] End the run.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

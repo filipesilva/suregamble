@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/12044
 
 ## Text
 
-Whenever you access a card with a trash cost not in Archives and do not trash it, you may reveal it and gain 1 credit.
+Whenever you access a card with a trash cost not in Archives and do not trash it, you may reveal it and gain 1![[credit.svg]].

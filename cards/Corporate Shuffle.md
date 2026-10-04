@@ -25,6 +25,6 @@ nrdb: https://netrunnerdb.com/en/card/04113
 
 ## Text
 
-As an additional cost to play this operation, spend click.
+As an additional cost to play this operation, spend ![[click.svg]].
 
 Shuffle all cards in HQ into R&D. Draw 5 cards.

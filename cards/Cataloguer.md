@@ -27,4 +27,4 @@ When you install this hardware, load 2 power counters onto it. When it is empty,
 
 Whenever you make a successful run on R&D, instead of breaching R&D, you may remove 1 hosted power counter to look at the top 4 cards of R&D and arrange them in any order.
 
-click, **hosted power counter:** Breach R&D. Use this ability only if you made a successful run on R&D this turn.
+![[click.svg]], **hosted power counter:** Breach R&D. Use this ability only if you made a successful run on R&D this turn.

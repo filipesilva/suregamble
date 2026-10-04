@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/34089
 
 When you install this program, place 2 power counters on it.
 
-**Hosted power counter:** Gain 2 credits. Use this ability only during your turn.
+**Hosted power counter:** Gain 2![[credit.svg]]. Use this ability only during your turn.

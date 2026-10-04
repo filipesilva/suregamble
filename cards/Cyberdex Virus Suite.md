@@ -30,4 +30,4 @@ While the Runner is accessing this upgrade in R&D, they must reveal it.
 
 When the Runner accesses this upgrade, you may purge virus counters.
 
-**trash:** Purge virus counters.
+**![[trash.svg]]:** Purge virus counters.

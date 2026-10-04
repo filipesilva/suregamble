@@ -29,8 +29,8 @@ nrdb: https://netrunnerdb.com/en/card/26087
 
 ## Text
 
-Interface → **0 credits:** Break 1 **code gate** subroutine. Use this ability only if this program was installed this turn.
+Interface → **0![[credit.svg]]:** Break 1 **code gate** subroutine. Use this ability only if this program was installed this turn.
 
-Interface → **2 credits:** Break up to 2 **code gate** subroutines.
+Interface → **2![[credit.svg]]:** Break up to 2 **code gate** subroutines.
 
-**1 credit:** +1 strength.
+**1![[credit.svg]]:** +1 strength.

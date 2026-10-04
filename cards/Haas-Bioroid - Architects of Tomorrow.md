@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/31040
 
 ## Text
 
-The first time each turn the Runner passes a rezzed piece of **bioroid** ice, you may rez 1 **bioroid** card, paying 4 credits less.
+The first time each turn the Runner passes a rezzed piece of **bioroid** ice, you may rez 1 **bioroid** card, paying 4![[credit.svg]] less.

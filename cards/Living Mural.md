@@ -33,6 +33,6 @@ Install only on a piece of ice.
 
 Threat 4 → When you install this program, it gets +3 strength for the remainder of the turn. *(This ability is active if any player has 4 or more agenda points.)*
 
-Interface → **1 credit:** Break 1 subroutine on a **sentry** protecting this server.
+Interface → **1![[credit.svg]]:** Break 1 subroutine on a **sentry** protecting this server.
 
-**1 credit:** +2 strength.
+**1![[credit.svg]]:** +2 strength.

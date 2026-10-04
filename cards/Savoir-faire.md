@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/04105
 
 You cannot use Savoir-faire more than once each turn.
 
-2 credits: Install a program from your grip, paying the install cost.
+2![[credit.svg]]: Install a program from your grip, paying the install cost.

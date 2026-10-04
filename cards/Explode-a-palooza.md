@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/25106
 
 While the Runner is accessing this agenda in R&D, they must reveal it.
 
-When the Runner accesses this agenda, you may gain 5 credits.
+When the Runner accesses this agenda, you may gain 5![[credit.svg]].

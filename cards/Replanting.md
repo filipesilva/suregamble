@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/12033
 
 ## Text
 
-As an additional cost to play this operation, spend click.
+As an additional cost to play this operation, spend ![[click.svg]].
 
 Add one of your installed cards to HQ. Install 2 cards from HQ, ignoring all costs.

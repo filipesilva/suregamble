@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/12108
 
 ## Text
 
-interrupt → **Trash 1 card from your grip:** Prevent the Corp from trashing 1 installed card of the same type.
+![[interrupt.svg]] → **Trash 1 card from your grip:** Prevent the Corp from trashing 1 installed card of the same type.

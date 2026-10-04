@@ -25,6 +25,6 @@ nrdb: https://netrunnerdb.com/en/card/04027
 
 ## Text
 
-As an additional cost to play this event, spend click.
+As an additional cost to play this event, spend ![[click.svg]].
 
-Reveal the top card of your stack. You may install that card, lowering the install cost by 10 credits, if able; otherwise, trash it.
+Reveal the top card of your stack. You may install that card, lowering the install cost by 10![[credit.svg]], if able; otherwise, trash it.

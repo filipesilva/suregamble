@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/06015
 
 ## Text
 
-Play only as your first click.
+Play only as your first ![[click.svg]].
 
 Remove all tags.

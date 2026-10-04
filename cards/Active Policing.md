@@ -30,6 +30,6 @@ Play only if the Runner stole or trashed a Corp card during their last turn.
 
 After you resolve this operation, your action phase ends.
 
-You may install 1 card from HQ. The Runner gets −1 allotted click for their next turn.
+You may install 1 card from HQ. The Runner gets −1 allotted ![[click.svg]] for their next turn.
 
-Threat 3 → You may pay 2 credits. If you do, the Runner gets −1 allotted click for their next turn. *(This ability is active if any player has 3 or more agenda points.)*
+Threat 3 → You may pay 2![[credit.svg]]. If you do, the Runner gets −1 allotted ![[click.svg]] for their next turn. *(This ability is active if any player has 3 or more agenda points.)*

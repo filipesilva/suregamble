@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/25071
 
 Aggressive Secretary can be advanced.
 
-If you pay 2 credits when the Runner accesses Aggressive Secretary, trash 1 program for each advancement token on Aggressive Secretary.
+If you pay 2![[credit.svg]] when the Runner accesses Aggressive Secretary, trash 1 program for each advancement token on Aggressive Secretary.

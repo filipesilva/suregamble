@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/03027
 
 ## Text
 
-↳ The Runner must pay 2 credits, if able. If the Runner cannot pay 2 credits, end the run.
+![[subroutine.svg]] The Runner must pay 2![[credit.svg]], if able. If the Runner cannot pay 2![[credit.svg]], end the run.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

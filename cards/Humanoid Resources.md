@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/35039
 
 ## Text
 
-3 clicks, trash**:** Gain 4 credits and draw 3 cards. Install up to 2 cards from HQ *(one at a time)*. You may play 1 operation from HQ.
+![[click.svg]]![[click.svg]]![[click.svg]], ![[trash.svg]]**:** Gain 4![[credit.svg]] and draw 3 cards. Install up to 2 cards from HQ *(one at a time)*. You may play 1 operation from HQ.

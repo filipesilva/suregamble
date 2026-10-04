@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/10030
 
 ## Text
 
-The first time each turn the Runner draws a card, gain 1 credit.
+The first time each turn the Runner draws a card, gain 1![[credit.svg]].

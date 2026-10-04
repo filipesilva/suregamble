@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/30050
 
 ## Text
 
-Whenever the Runner approaches this server, you may pay 2 credits and trash 2 cards from HQ. If you do, end the run.
+Whenever the Runner approaches this server, you may pay 2![[credit.svg]] and trash 2 cards from HQ. If you do, end the run.

@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/26113
 
 ## Text
 
-Whenever a Corp card ability causes the Runner to spend or lose at least 1 credit during a run, gain 1 credit.
+Whenever a Corp card ability causes the Runner to spend or lose at least 1![[credit.svg]] during a run, gain 1![[credit.svg]].

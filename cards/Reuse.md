@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/06070
 
 ## Text
 
-As an additional cost to play this operation, spend click.
+As an additional cost to play this operation, spend ![[click.svg]].
 
-Trash any number of cards from HQ. Gain 2 credits for each card trashed.
+Trash any number of cards from HQ. Gain 2![[credit.svg]] for each card trashed.

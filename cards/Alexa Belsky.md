@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/11055
 
 ## Text
 
-trash: Shuffle all cards in HQ into R&D. The Runner may pay any number of credits to prevent 1 random card in HQ from being shuffled into R&D for every 2 credits spent.
+![[trash.svg]]: Shuffle all cards in HQ into R&D. The Runner may pay any number of credits to prevent 1 random card in HQ from being shuffled into R&D for every 2![[credit.svg]] spent.

@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/08102
 
 ## Text
 
-2 credits: Swap a piece of **barrier** ice currently being encountered with a piece of ice directly before or after it. The run continues from this new position. You are still encountering that ice.
+2![[credit.svg]]: Swap a piece of **barrier** ice currently being encountered with a piece of ice directly before or after it. The run continues from this new position. You are still encountering that ice.

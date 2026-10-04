@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/21015
 
 ## Text
 
-click, click, click: Add Echo Chamber to your score area as an agenda worth 1 agenda point.
+![[click.svg]], ![[click.svg]], ![[click.svg]]: Add Echo Chamber to your score area as an agenda worth 1 agenda point.

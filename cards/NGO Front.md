@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/21039
 
 NGO Front can be advanced.
 
-trash,**1 hosted advancement token**: Gain 5 credits.
+![[trash.svg]],**1 hosted advancement token**: Gain 5![[credit.svg]].
 
-trash,**2 hosted advancement tokens**: Gain 8 credits.
+![[trash.svg]],**2 hosted advancement tokens**: Gain 8![[credit.svg]].

@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/01054
 
 ## Text
 
-The first time you install a card each turn, gain 1 credit.
+The first time you install a card each turn, gain 1![[credit.svg]].

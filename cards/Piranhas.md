@@ -30,8 +30,8 @@ nrdb: https://netrunnerdb.com/en/card/34117
 
 As an additional cost to rez this ice, take 1 bad publicity or remove 1 tag.
 
-↳ You may draw 1 card.
+![[subroutine.svg]] You may draw 1 card.
 
-↳ Do 1 net damage.
+![[subroutine.svg]] Do 1 net damage.
 
-↳ End the run if there are more cards in HQ than in the grip.
+![[subroutine.svg]] End the run if there are more cards in HQ than in the grip.

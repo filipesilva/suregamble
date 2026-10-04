@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/25093
 
 ## Text
 
-1 credit: Add Himitsu-Bako to HQ.
+1![[credit.svg]]: Add Himitsu-Bako to HQ.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

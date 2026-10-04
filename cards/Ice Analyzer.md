@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/25057
 
 ## Text
 
-Whenever the Corp rezzes a piece of ice, place 1 credit on Ice Analyzer.
+Whenever the Corp rezzes a piece of ice, place 1![[credit.svg]] on Ice Analyzer.
 
 You may use credits on Ice Analyzer to install programs.

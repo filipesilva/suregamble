@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/09052
 
 ## Text
 
-Reduce the cost to install Jak Sinclair by 1 for each link you have.
+Reduce the cost to install Jak Sinclair by 1 for each ![[link.svg]] you have.
 
 When your turn begins, you may make a run. You cannot use programs during this run.

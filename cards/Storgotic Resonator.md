@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/26043
 
 The first time each turn you trash a card that matches the faction of the Runnerʼs identity *(from any location)*, place 1 power counter on this asset.
 
-click, **hosted power counter:** Do 1 net damage. 
+![[click.svg]], **hosted power counter:** Do 1 net damage. 

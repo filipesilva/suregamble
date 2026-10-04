@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/11070
 
 When your discard phase ends while you are tagged, the Corp must trace[1]. If unsuccessful, remove 1 tag.
 
-interrupt → trash, **trash all cards from your grip:** Prevent all meat damage.
+![[interrupt.svg]] → ![[trash.svg]], **trash all cards from your grip:** Prevent all meat damage.

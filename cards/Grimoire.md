@@ -26,7 +26,7 @@ nrdb: https://netrunnerdb.com/en/card/01006
 
 ## Text
 
-+2MU
++2![[mu.svg]]
 
 Whenever you install a **virus** program, place 1 virus counter on that program.
 

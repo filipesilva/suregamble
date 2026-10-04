@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/30012
 
 ## Text
 
-Run any server. During that run, the rez cost of each piece of ice is increased by 3 credits.
+Run any server. During that run, the rez cost of each piece of ice is increased by 3![[credit.svg]].

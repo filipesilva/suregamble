@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/34054
 
 Whenever the Runner passes this ice after encountering it, if they did not break its printed subroutine with a **decoder** during that encounter, give them 1 tag.
 
-↳ The Runner loses 1 credit.
+![[subroutine.svg]] The Runner loses 1![[credit.svg]].

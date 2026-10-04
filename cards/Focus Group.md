@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/26052
 
 Play only if the Runner made a successful run during their last turn.
 
-Choose a card type, then reveal the grip. Choose a value for X equal to or less than the number of revealed cards of the chosen type. You may pay X credits to place X advancement counters on 1 installed card.
+Choose a card type, then reveal the grip. Choose a value for X equal to or less than the number of revealed cards of the chosen type. You may pay X![[credit.svg]] to place X advancement counters on 1 installed card.

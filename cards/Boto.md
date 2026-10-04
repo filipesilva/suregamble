@@ -29,8 +29,8 @@ nrdb: https://netrunnerdb.com/en/card/34109
 
 Threat 4 → This ice gets +2 strength. *(This ability is active if any player has 4 or more agenda points.)*
 
-↳ Do 2 net damage.
+![[subroutine.svg]] Do 2 net damage.
 
-↳ You may trash 1 card from HQ to end the run.
+![[subroutine.svg]] You may trash 1 card from HQ to end the run.
 
-↳ You may trash 1 card from HQ to end the run.
+![[subroutine.svg]] You may trash 1 card from HQ to end the run.

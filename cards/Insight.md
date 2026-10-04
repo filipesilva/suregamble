@@ -26,7 +26,7 @@ nrdb: https://netrunnerdb.com/en/card/22016
 
 ## Text
 
-As an additional cost to play this event, spend click.
+As an additional cost to play this event, spend ![[click.svg]].
 
 The Corp may look at the top 4 cards of R&D and arrange them in any order.
 

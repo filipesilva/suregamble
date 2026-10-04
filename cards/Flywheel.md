@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/36059
 
 ## Text
 
-↳ Gain 1 credit. You may draw 1 card.
+![[subroutine.svg]] Gain 1![[credit.svg]]. You may draw 1 card.
 
-↳ Gain 1 credit. You may draw 1 card.
+![[subroutine.svg]] Gain 1![[credit.svg]]. You may draw 1 card.

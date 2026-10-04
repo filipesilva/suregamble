@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/08083
 
 ## Text
 
-When your turn begins, lose 1 credit.
+When your turn begins, lose 1![[credit.svg]].
 
 When the Corp's turn begins, draw 1 card.

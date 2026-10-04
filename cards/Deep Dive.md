@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/33022
 
 Play only if you made a successful run on HQ, R&D, and Archives this turn.
 
-The Corp must set aside the top 8 cards of R&D faceup. Access 1 of those cards. You may spend click to access another 1 of those cards. Then, the Corp shuffles the set-aside cards into R&D.
+The Corp must set aside the top 8 cards of R&D faceup. Access 1 of those cards. You may spend ![[click.svg]] to access another 1 of those cards. Then, the Corp shuffles the set-aside cards into R&D.

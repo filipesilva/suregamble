@@ -23,4 +23,4 @@ nrdb: https://netrunnerdb.com/en/card/34011
 
 ## Text
 
-The Corp may reveal an agenda from HQ. If they do, gain click and draw 1 card. Otherwise, look at the top 3 cards of R&D.
+The Corp may reveal an agenda from HQ. If they do, gain ![[click.svg]] and draw 1 card. Otherwise, look at the top 3 cards of R&D.

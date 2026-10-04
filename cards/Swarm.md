@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/04018
 
 When you rez this ice, take 1 bad publicity.
 
-You can advance this ice. It gains "↳ Trash 1 installed program unless the Runner pays 3 credits." for each hosted advancement counter.
+You can advance this ice. It gains "![[subroutine.svg]] Trash 1 installed program unless the Runner pays 3![[credit.svg]]." for each hosted advancement counter.

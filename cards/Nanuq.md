@@ -32,6 +32,6 @@ When this program is uninstalled, remove it from the game.
 
 When an agenda is scored or stolen, remove this program from the game.
 
-Interface → **2 credits:** Break up to 2 subroutines.
+Interface → **2![[credit.svg]]:** Break up to 2 subroutines.
 
-1 credit: +1 strength.
+1![[credit.svg]]: +1 strength.

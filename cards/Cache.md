@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/29004
 
 Place 3 virus counters on Cache when it is installed.
 
-**Hosted virus counter:** Gain 1 credit.
+**Hosted virus counter:** Gain 1![[credit.svg]].

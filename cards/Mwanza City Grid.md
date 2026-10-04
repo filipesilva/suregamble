@@ -29,6 +29,6 @@ nrdb: https://netrunnerdb.com/en/card/21096
 
 Root of HQ or R&D only.
 
-Whenever the Runner breaches this server, they access 3 additional cards. When the breach ends, gain 2 credits for each time the Runner accessed a card during that breach.
+Whenever the Runner breaches this server, they access 3 additional cards. When the breach ends, gain 2![[credit.svg]] for each time the Runner accessed a card during that breach.
 
 Limit 1 **region** per server.

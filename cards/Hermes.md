@@ -26,7 +26,7 @@ nrdb: https://netrunnerdb.com/en/card/34014
 
 ## Text
 
-+1MU
++1![[mu.svg]]
 
 Whenever an agenda is scored or stolen, add 1 unrezzed card to HQ.
 

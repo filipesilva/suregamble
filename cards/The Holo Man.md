@@ -31,4 +31,4 @@ nrdb: https://netrunnerdb.com/en/card/34120
 
 When your turn begins, you may move this upgrade to the root of another server.
 
-Once per turn → click, **4 credits:** Place 2 advancement counters on 1 card in the root of or protecting this server. If you have not installed any cards from HQ this turn, instead place 3 advancement counters on that card.
+Once per turn → ![[click.svg]], **4![[credit.svg]]:** Place 2 advancement counters on 1 card in the root of or protecting this server. If you have not installed any cards from HQ this turn, instead place 3 advancement counters on that card.

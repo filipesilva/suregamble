@@ -23,4 +23,4 @@ nrdb: https://netrunnerdb.com/en/card/34002
 
 ## Text
 
-Trash the top 4 cards of your stack. You may install 1 of those cards, paying 3 credits less.
+Trash the top 4 cards of your stack. You may install 1 of those cards, paying 3![[credit.svg]] less.

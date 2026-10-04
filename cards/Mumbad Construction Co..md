@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/10036
 
 When your turn begins, place 1 advancement token on Mumbad Construction Co.
 
-2 credits: Move 1 advancement token from Mumbad Construction Co. to a faceup card.
+2![[credit.svg]]: Move 1 advancement token from Mumbad Construction Co. to a faceup card.

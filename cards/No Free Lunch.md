@@ -23,6 +23,6 @@ nrdb: https://netrunnerdb.com/en/card/33020
 
 ## Text
 
-trash**:** Gain 3 credits.
+![[trash.svg]]**:** Gain 3![[credit.svg]].
 
-trash**:** Remove 1 tag.
+![[trash.svg]]**:** Remove 1 tag.

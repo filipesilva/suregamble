@@ -30,6 +30,6 @@ nrdb: https://netrunnerdb.com/en/card/33089
 
 The first time each turn this program fully breaks a piece of ice, you may charge 1 of your installed cards. *(Add 1 power counter to a card that already has one.)*
 
-Interface → **2 credits:** Break any number of **sentry** subroutines.
+Interface → **2![[credit.svg]]:** Break any number of **sentry** subroutines.
 
-**2 credits:** +3 strength.
+**2![[credit.svg]]:** +3 strength.

@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/04055
 
 ## Text
 
-When the Runner's turn begins, give them 1 tag unless they pay 1 credit.
+When the Runner's turn begins, give them 1 tag unless they pay 1![[credit.svg]].

@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/12069
 
 When the Runner encounters this ice, choose another rezzed piece of ice. For the remainder of this run, this ice gains the subtypes of the chosen ice and gains the subroutines of that ice in order before its other subroutines.
 
-↳ End the run unless the Runner shuffles all cards from the grip into the stack.
+![[subroutine.svg]] End the run unless the Runner shuffles all cards from the grip into the stack.

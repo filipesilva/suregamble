@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/26085
 
 As an additional cost to use this hardware, trash 1 installed program. Ignore this cost if an installed program has already been trashed this turn.
 
-**trash:** Install 1 program from your heap, paying 3 credits less.
+**![[trash.svg]]:** Install 1 program from your heap, paying 3![[credit.svg]] less.

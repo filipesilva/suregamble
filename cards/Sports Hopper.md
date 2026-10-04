@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/10064
 
 ## Text
 
- +1link
+ +1![[link.svg]]
 
-trash: Draw 3 cards.
+![[trash.svg]]: Draw 3 cards.

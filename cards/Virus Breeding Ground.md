@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/07052
 
 When your turn begins, place 1 virus counter on Virus Breeding Ground.
 
-click: Move 1 virus counter on Virus Breeding Ground to another card with at least 1 virus counter on it.
+![[click.svg]]: Move 1 virus counter on Virus Breeding Ground to another card with at least 1 virus counter on it.

@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/35017
 
 ## Text
 
-Run HQ. If successful, take 1 tag and the Corp loses 3 credits. Gain 2 credits for each credit lost this way.
+Run HQ. If successful, take 1 tag and the Corp loses 3![[credit.svg]]. Gain 2![[credit.svg]] for each credit lost this way.

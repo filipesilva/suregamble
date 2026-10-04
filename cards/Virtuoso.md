@@ -26,7 +26,7 @@ nrdb: https://netrunnerdb.com/en/card/33015
 
 ## Text
 
-+1MU
++1![[mu.svg]]
 
 When your turn begins, identify your mark. *(If you don’t have a mark, a random central server becomes your mark for this turn.)*
 

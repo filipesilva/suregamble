@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/06063
 
 When you score this agenda, place 2 power counters on it.
 
-interrupt → **Hosted power counter:** Prevent the Runner from jacking out. The Runner cannot jack out for the remainder of this run.
+![[interrupt.svg]] → **Hosted power counter:** Prevent the Runner from jacking out. The Runner cannot jack out for the remainder of this run.

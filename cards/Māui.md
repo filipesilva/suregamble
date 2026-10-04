@@ -29,9 +29,9 @@ nrdb: https://netrunnerdb.com/en/card/12063
 
 ## Text
 
-+2MU
++2![[mu.svg]]
 
-Xrecurring credit
+X![[recurring-credit.svg]]
 
 Use these credits during runs on HQ. X is the number of pieces of ice protecting HQ.
 

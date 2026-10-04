@@ -31,6 +31,6 @@ nrdb: https://netrunnerdb.com/en/card/10101
 
 Whenever this program fully breaks a **barrier**, add that **barrier** to HQ.
 
-Interface → **2 credits:** Break 1 **barrier** subroutine.
+Interface → **2![[credit.svg]]:** Break 1 **barrier** subroutine.
 
-**1 credit:** +1 strength.
+**1![[credit.svg]]:** +1 strength.

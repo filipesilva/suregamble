@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/20014
 
 ## Text
 
-Interface → **1 credit:** Break any number of **barrier** subroutines.
+Interface → **1![[credit.svg]]:** Break any number of **barrier** subroutines.

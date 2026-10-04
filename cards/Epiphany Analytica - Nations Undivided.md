@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/34048
 
 The first time each turn the Runner steals or trashes a Corp card, place 1 power counter on this identity.
 
-click, **hosted power counter:** Look at the top 3 cards of R&D. You may install 1 of those cards.
+![[click.svg]], **hosted power counter:** Look at the top 3 cards of R&D. You may install 1 of those cards.

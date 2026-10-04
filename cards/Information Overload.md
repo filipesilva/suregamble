@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/06027
 
 When the Runner encounters this ice, Trace[1]. If successful, give them 1 tag.
 
-This ice gains "↳ The Runner trashes 1 of their installed cards." for each tag the Runner has.
+This ice gains "![[subroutine.svg]] The Runner trashes 1 of their installed cards." for each tag the Runner has.

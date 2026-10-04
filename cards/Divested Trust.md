@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/26055
 
 ## Text
 
-Whenever the Runner steals another agenda, you may forfeit this agenda to gain 5 credits and add the stolen agenda to HQ.
+Whenever the Runner steals another agenda, you may forfeit this agenda to gain 5![[credit.svg]] and add the stolen agenda to HQ.

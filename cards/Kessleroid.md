@@ -29,6 +29,6 @@ nrdb: https://netrunnerdb.com/en/card/35075
 
 The Runner cannot trash this ice *(while it is rezzed)*.
 
-↳ End the run.
+![[subroutine.svg]] End the run.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

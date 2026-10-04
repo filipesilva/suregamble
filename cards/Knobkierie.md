@@ -27,7 +27,7 @@ nrdb: https://netrunnerdb.com/en/card/21062
 
 ## Text
 
-+3MU
++3![[mu.svg]]
 
 Use the MU on Knobkierie only for **virus** programs.
 

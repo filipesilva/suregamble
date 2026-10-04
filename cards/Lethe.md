@@ -29,6 +29,6 @@ nrdb: https://netrunnerdb.com/en/card/36051
 
 Whenever the Runner bypasses or fully breaks this ice, give them 1 tag.
 
-↳ You may add 1 card from Archives to the top or bottom of R&D.
+![[subroutine.svg]] You may add 1 card from Archives to the top or bottom of R&D.
 
-↳ Add 1 installed Runner card to the grip.
+![[subroutine.svg]] Add 1 installed Runner card to the grip.

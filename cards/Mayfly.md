@@ -31,6 +31,6 @@ nrdb: https://netrunnerdb.com/en/card/30032
 
 ## Text
 
-Interface → **1 credit:** Break 1 subroutine. When this run ends, trash this program.
+Interface → **1![[credit.svg]]:** Break 1 subroutine. When this run ends, trash this program.
 
-**1 credit:** +1 strength.
+**1![[credit.svg]]:** +1 strength.

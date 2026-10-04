@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/04057
 
 ## Text
 
-This ice gains "↳ The Runner loses 1 credit." for each bad publicity you have.
+This ice gains "![[subroutine.svg]] The Runner loses 1![[credit.svg]]." for each bad publicity you have.

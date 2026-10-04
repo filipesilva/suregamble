@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/12006
 
 ## Text
 
-interrupt → trash**:** Prevent all but 1 net damage.
+![[interrupt.svg]] → ![[trash.svg]]**:** Prevent all but 1 net damage.

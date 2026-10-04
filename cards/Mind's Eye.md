@@ -27,10 +27,10 @@ nrdb: https://netrunnerdb.com/en/card/22017
 
 ## Text
 
-+1MU
++1![[mu.svg]]
 
 Whenever you make a successful run on R&D, you may place 1 power counter on this hardware.
 
-**click**, **3 hosted power counters:** Breach R&D. You cannot access cards in the root of R&D during this breach.
+**![[click.svg]]**, **3 hosted power counters:** Breach R&D. You cannot access cards in the root of R&D during this breach.
 
 Limit 1 **console** per player.

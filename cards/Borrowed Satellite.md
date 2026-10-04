@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/03050
 
 ## Text
 
-+1link
++1![[link.svg]]
 
 Your maximum hand size is increased by 1.

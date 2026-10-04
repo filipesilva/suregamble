@@ -28,4 +28,4 @@ Limit 4 hosted cards.
 
 When you install this program and when your turn begins, you may host 1 card from your grip facedown on this program to draw 1 card.
 
-trash**:** Shuffle all hosted cards into your stack.
+![[trash.svg]]**:** Shuffle all hosted cards into your stack.

@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/11069
 
 This card is not trashed until another **current** is played or an agenda is scored.
 
-While secretly spending credits, players cannot spend 2 credits.
+While secretly spending credits, players cannot spend 2![[credit.svg]].

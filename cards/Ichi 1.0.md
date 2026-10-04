@@ -30,10 +30,10 @@ nrdb: https://netrunnerdb.com/en/card/25075
 
 ## Text
 
-**Lose click:** Break 1 subroutine on this ice. Only the Runner can use this ability.
+**Lose ![[click.svg]]:** Break 1 subroutine on this ice. Only the Runner can use this ability.
 
-↳ Trash 1 installed program.
+![[subroutine.svg]] Trash 1 installed program.
 
-↳ Trash 1 installed program.
+![[subroutine.svg]] Trash 1 installed program.
 
-↳ Trace[1]. If successful, do 1 core damage and give the Runner 1 tag.
+![[subroutine.svg]] Trace[1]. If successful, do 1 core damage and give the Runner 1 tag.

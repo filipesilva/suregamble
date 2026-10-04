@@ -28,8 +28,8 @@ nrdb: https://netrunnerdb.com/en/card/26078
 
 ## Text
 
-+1MU
++1![[mu.svg]]
 
-The first time each turn you play a **run** event, gain click.
+The first time each turn you play a **run** event, gain ![[click.svg]].
 
 Limit 1 **console** per player.

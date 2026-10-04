@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/26129
 
 ## Text
 
-**Forfeit this agenda:** If the Runner has 2 or more click remaining, they lose 2 clicks.
+**Forfeit this agenda:** If the Runner has 2 or more ![[click.svg]] remaining, they lose ![[click.svg]]![[click.svg]].

@@ -31,4 +31,4 @@ nrdb: https://netrunnerdb.com/en/card/12041
 
 Whenever you encounter a **barrier**, for the remainder of that encounter this program gets +1 strength for each subroutine on that **barrier**.
 
-Interface → **2 credits:** Break up to 2 **barrier** subroutines.
+Interface → **2![[credit.svg]]:** Break up to 2 **barrier** subroutines.

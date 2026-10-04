@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/34028
 
 ## Text
 
-2 clicks**:** Run HQ. If successful, instead of breaching HQ, breach R&D. When you do, access 1 additional card.
+![[click.svg]]![[click.svg]]**:** Run HQ. If successful, instead of breaching HQ, breach R&D. When you do, access 1 additional card.

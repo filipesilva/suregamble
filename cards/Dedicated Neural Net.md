@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/10088
 
 ## Text
 
-The first time there is a successful run on HQ each turn, you and the Runner secretly spend 0 credits, 1 credit, or 2 credits. Reveal spent credits. If you and the Runner spent a different number of credits, you choose which cards the Runner accesses from HQ for the remainder of this run.
+The first time there is a successful run on HQ each turn, you and the Runner secretly spend 0![[credit.svg]], 1![[credit.svg]], or 2![[credit.svg]]. Reveal spent credits. If you and the Runner spent a different number of credits, you choose which cards the Runner accesses from HQ for the remainder of this run.

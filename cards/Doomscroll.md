@@ -29,8 +29,8 @@ nrdb: https://netrunnerdb.com/en/card/35063
 
 ## Text
 
-↳ Give the Runner 1 tag.
+![[subroutine.svg]] Give the Runner 1 tag.
 
-↳ Do 1 net damage.
+![[subroutine.svg]] Do 1 net damage.
 
-↳ Do 2 net damage if the Runner has at least 2 tags.
+![[subroutine.svg]] Do 2 net damage if the Runner has at least 2 tags.

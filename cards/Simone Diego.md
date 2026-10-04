@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/02099
 
 ## Text
 
-2recurring credit
+2![[recurring-credit.svg]]
 
 You can spend hosted credits to take the basic action to advance cards in the root of or protecting this server.

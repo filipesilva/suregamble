@@ -26,8 +26,8 @@ nrdb: https://netrunnerdb.com/en/card/13037
 
 ## Text
 
-↳ The Runner loses click, if able.
+![[subroutine.svg]] The Runner loses ![[click.svg]], if able.
 
-↳ The Corp may draw 1 card.
+![[subroutine.svg]] The Corp may draw 1 card.
 
-↳ The Corp may add 1 card from HQ to the top of R&D.
+![[subroutine.svg]] The Corp may add 1 card from HQ to the top of R&D.

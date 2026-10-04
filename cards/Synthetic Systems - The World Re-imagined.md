@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/00011
 
 Draft format only.
 
-If you have more jinteki cards rezzed than any other faction, when your turn begins, you may swap 2 pieces of installed ice.
+If you have more ![[jinteki.svg]] cards rezzed than any other faction, when your turn begins, you may swap 2 pieces of installed ice.

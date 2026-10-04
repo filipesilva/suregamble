@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/02052
 
 ## Text
 
-↳ Trace[3]. If successful, the Runner loses click, if able.
+![[subroutine.svg]] Trace[3]. If successful, the Runner loses ![[click.svg]], if able.
 
-↳ Trace[3]. If successful, end the run.
+![[subroutine.svg]] Trace[3]. If successful, end the run.

@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/34079
 
 When your turn ends, if you made a successful run on HQ, R&D, and Archives this turn, you may add this hardware to your score area as an **assassination** agenda worth 0 agenda points. Then, if you have 3 **assassination** agendas in your score area, you win the game.
 
-Threat 3 → Whenever you bypass a piece of ice, you may spend click to install this hardware from your heap.
+Threat 3 → Whenever you bypass a piece of ice, you may spend ![[click.svg]] to install this hardware from your heap.

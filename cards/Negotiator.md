@@ -28,8 +28,8 @@ nrdb: https://netrunnerdb.com/en/card/08019
 
 ## Text
 
-2 credits: Break 1 subroutine on this ice. Only the Runner can use this ability.
+2![[credit.svg]]: Break 1 subroutine on this ice. Only the Runner can use this ability.
 
-↳ Gain 2 credits.
+![[subroutine.svg]] Gain 2![[credit.svg]].
 
-↳ Trash 1 installed program.
+![[subroutine.svg]] Trash 1 installed program.

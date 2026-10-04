@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/12103
 
 ## Text
 
-**trash:** The Corp trashes the top X cards of R&D. X is equal to the amount of damage you have suffered this turn. Use this ability only during the next paid ability window after suffering any amount of damage.
+**![[trash.svg]]:** The Corp trashes the top X cards of R&D. X is equal to the amount of damage you have suffered this turn. Use this ability only during the next paid ability window after suffering any amount of damage.

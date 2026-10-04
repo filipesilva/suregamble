@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/22045
 
 ## Text
 
-When the Runner encounters this ice, choose a card type, then reveal all cards in the grip. For the remainder of this run, this ice gains "↳ End the run unless the Runner takes 1 tag." for each revealed card of the chosen type.
+When the Runner encounters this ice, choose a card type, then reveal all cards in the grip. For the remainder of this run, this ice gains "![[subroutine.svg]] End the run unless the Runner takes 1 tag." for each revealed card of the chosen type.

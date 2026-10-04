@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/06118
 
 ## Text
 
-Make a run. During this run, the Corp must pay X credits as an additional cost to rez the first unrezzed piece of ice approached.
+Make a run. During this run, the Corp must pay X![[credit.svg]] as an additional cost to rez the first unrezzed piece of ice approached.

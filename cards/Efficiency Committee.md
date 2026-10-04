@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/03005
 
 Place 3 agenda counters on Efficiency Committee when you score it.
 
-click, **hosted agenda counter:** Gain 2 clicks. You cannot advance cards for the remainder of this turn.
+![[click.svg]], **hosted agenda counter:** Gain ![[click.svg]]![[click.svg]]. You cannot advance cards for the remainder of this turn.

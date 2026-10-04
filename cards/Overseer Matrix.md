@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/21100
 
 ## Text
 
-Persistent → Whenever the Runner trashes a card from this server or its root, you may pay 1 credit to give the Runner 1 tag. *(If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)*
+Persistent → Whenever the Runner trashes a card from this server or its root, you may pay 1![[credit.svg]] to give the Runner 1 tag. *(If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)*

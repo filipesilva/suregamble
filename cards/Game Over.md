@@ -29,6 +29,6 @@ nrdb: https://netrunnerdb.com/en/card/26053
 
 Play only if the Runner stole an agenda during their last turn.
 
-Choose a Runner card type. Trash all installed non-**icebreaker** cards of the chosen type. For each card that would be trashed this way, the Runner may pay 3 credits to prevent that card from being trashed.
+Choose a Runner card type. Trash all installed non-**icebreaker** cards of the chosen type. For each card that would be trashed this way, the Runner may pay 3![[credit.svg]] to prevent that card from being trashed.
 
 Take 1 bad publicity.

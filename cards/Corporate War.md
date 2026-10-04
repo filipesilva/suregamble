@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/02120
 
 ## Text
 
-If you have at least 7 credits when you score Corporate War, gain 7 credits; otherwise, lose all credits in your credit pool.
+If you have at least 7![[credit.svg]] when you score Corporate War, gain 7![[credit.svg]]; otherwise, lose all credits in your credit pool.

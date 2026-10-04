@@ -30,10 +30,10 @@ nrdb: https://netrunnerdb.com/en/card/04035
 
 When you rez this ice, take 1 bad publicity.
 
-↳ Trace[1]. If successful, give the Runner 1 tag.
+![[subroutine.svg]] Trace[1]. If successful, give the Runner 1 tag.
 
-↳ Trace[2]. If successful, give the Runner 1 tag.
+![[subroutine.svg]] Trace[2]. If successful, give the Runner 1 tag.
 
-↳ Trace[3]. If successful, give the Runner 1 tag.
+![[subroutine.svg]] Trace[3]. If successful, give the Runner 1 tag.
 
-↳ End the run if the Runner is tagged.
+![[subroutine.svg]] End the run if the Runner is tagged.

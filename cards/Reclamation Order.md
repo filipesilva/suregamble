@@ -25,6 +25,6 @@ nrdb: https://netrunnerdb.com/en/card/04111
 
 ## Text
 
-As an additional cost to play this operation, spend click.
+As an additional cost to play this operation, spend ![[click.svg]].
 
 Name a card other than Reclamation Order. Reveal any number of copies of the named card from Archives and add them to HQ.

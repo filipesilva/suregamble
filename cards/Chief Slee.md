@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/11077
 
 Whenever an encounter with a piece of ice ends, place 1 power counter on Chief Slee for each unbroken subroutine on the encountered piece of ice.
 
-click, **5 hosted power counters**: Do 5 meat damage.
+![[click.svg]], **5 hosted power counters**: Do 5 meat damage.

@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/05040
 
 ## Text
 
-click: Draw 1 card from the bottom of your stack.
+![[click.svg]]: Draw 1 card from the bottom of your stack.

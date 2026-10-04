@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/13025
 
 ## Text
 
-trash: Choose an **icebreaker**. Until the end of the run, that **icebreaker** has +1 strength for each card in your grip.
+![[trash.svg]]: Choose an **icebreaker**. Until the end of the run, that **icebreaker** has +1 strength for each card in your grip.

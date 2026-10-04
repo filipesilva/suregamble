@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/05050
 
 You cannot use this resource more than once per turn.
 
-click**:** Gain 2 credits.
+![[click.svg]]**:** Gain 2![[credit.svg]].
 
 When this resource is trashed, suffer 3 meat damage.

@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/02058
 
 ## Text
 
-Choose a piece of ice. Gain 1 credit for each advancement token on that ice.
+Choose a piece of ice. Gain 1![[credit.svg]] for each advancement token on that ice.

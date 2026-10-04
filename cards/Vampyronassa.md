@@ -27,10 +27,10 @@ nrdb: https://netrunnerdb.com/en/card/33109
 
 ## Text
 
-↳ The Runner loses 2 credits.
+![[subroutine.svg]] The Runner loses 2![[credit.svg]].
 
-↳ Gain 2 credits.
+![[subroutine.svg]] Gain 2![[credit.svg]].
 
-↳ Do 2 net damage.
+![[subroutine.svg]] Do 2 net damage.
 
-↳ You may draw 1 or 2 cards.
+![[subroutine.svg]] You may draw 1 or 2 cards.

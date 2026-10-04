@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/07018
 
 Fire Wall can be advanced and gains +1 strength for each advancement token on it.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

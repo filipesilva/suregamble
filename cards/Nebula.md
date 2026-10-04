@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/07014
 
 Nebula can be advanced and its rez cost is lowered by 3 for each advancement token on it.
 
-↳ Trash 1 program.
+![[subroutine.svg]] Trash 1 program.

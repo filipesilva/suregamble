@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/04002
 
 ## Text
 
-click: Host this program on the outermost piece of ice protecting a central server.
+![[click.svg]]: Host this program on the outermost piece of ice protecting a central server.
 
 Whenever you make a successful run while this program is hosted on a piece of ice, host it on the next inward piece of ice. If you cannot, trash this program and install 1 other **Caïssa** program from your grip or heap, ignoring all costs.

@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/12031
 
 ## Text
 
-When the Runner's next turn begins, they lose click.
+When the Runner's next turn begins, they lose ![[click.svg]].

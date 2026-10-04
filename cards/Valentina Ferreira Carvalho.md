@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/34095
 
 ## Text
 
-Whenever you remove 1 or more tags, gain 1 credit.
+Whenever you remove 1 or more tags, gain 1![[credit.svg]].
 
-Threat 3 → When you install this resource during your turn, you may remove 1 tag or gain 2 credits. *(This ability is active if any player has 3 or more agenda points.)*
+Threat 3 → When you install this resource during your turn, you may remove 1 tag or gain 2![[credit.svg]]. *(This ability is active if any player has 3 or more agenda points.)*

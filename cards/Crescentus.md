@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/02065
 
 ## Text
 
-**trash:** Derez 1 piece of ice you fully broke during this encounter.
+**![[trash.svg]]:** Derez 1 piece of ice you fully broke during this encounter.

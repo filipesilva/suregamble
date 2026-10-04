@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/33009
 
 ## Text
 
-click, trash, **suffer 1 core damage:** Run a remote server. During that run, cards in the root of the attacked server lose all abilities. When that run is successful, trash all cards in the root of the attacked server.
+![[click.svg]], ![[trash.svg]], **suffer 1 core damage:** Run a remote server. During that run, cards in the root of the attacked server lose all abilities. When that run is successful, trash all cards in the root of the attacked server.

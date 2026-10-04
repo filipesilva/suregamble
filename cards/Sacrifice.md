@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/12039
 
 As an additional cost to play this operation, forfeit 1 agenda.
 
-Remove X bad publicity. X is equal to the agenda point value of the forfeited agenda. Gain 1 credit for each bad publicity removed this way.
+Remove X bad publicity. X is equal to the agenda point value of the forfeited agenda. Gain 1![[credit.svg]] for each bad publicity removed this way.

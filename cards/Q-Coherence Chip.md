@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/05052
 
 ## Text
 
-+1MU
++1![[mu.svg]]
 
 When an installed program is trashed, trash this hardware.

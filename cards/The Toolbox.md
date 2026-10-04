@@ -26,9 +26,9 @@ nrdb: https://netrunnerdb.com/en/card/01041
 
 ## Text
 
-+2MU +2link
++2![[mu.svg]] +2![[link.svg]]
 
-2recurring credit
+2![[recurring-credit.svg]]
 
 Use these credits to pay for using **icebreakers**.
 

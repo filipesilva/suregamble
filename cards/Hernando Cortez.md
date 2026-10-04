@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/11004
 
 ## Text
 
-If the Corp has at least 10 credits, as an additional cost to rez each piece of ice, the Corp must spend credits equal to the number of subroutines on that ice.
+If the Corp has at least 10![[credit.svg]], as an additional cost to rez each piece of ice, the Corp must spend credits equal to the number of subroutines on that ice.

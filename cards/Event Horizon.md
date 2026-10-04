@@ -27,8 +27,8 @@ nrdb: https://netrunnerdb.com/en/card/36058
 
 ## Text
 
-trash**:** End the run. Use this ability only during a run against this server.
+![[trash.svg]]**:** End the run. Use this ability only during a run against this server.
 
-↳ Trash 1 installed program unless the Runner pays 3 credits.
+![[subroutine.svg]] Trash 1 installed program unless the Runner pays 3![[credit.svg]].
 
-↳ End the run unless the Runner pays 3 credits.
+![[subroutine.svg]] End the run unless the Runner pays 3![[credit.svg]].

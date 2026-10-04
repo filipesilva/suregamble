@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/31077
 
 You can advance this ice. It gets +1 strength for each hosted advancement counter.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

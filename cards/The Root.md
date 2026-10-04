@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/06008
 
 ## Text
 
-3recurring credit
+3![[recurring-credit.svg]]
 
 Use these credits to advance, install, and rez cards.

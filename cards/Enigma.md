@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/31081
 
 ## Text
 
-↳ The Runner loses click.
+![[subroutine.svg]] The Runner loses ![[click.svg]].
 
-↳ End the run.
+![[subroutine.svg]] End the run.

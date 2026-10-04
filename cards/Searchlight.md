@@ -30,6 +30,6 @@ nrdb: https://netrunnerdb.com/en/card/07019
 
 Searchlight can be advanced. X is the number of advancement tokens on Searchlight.
 
-↳Trace[X]. If successful, give the Runner 1 tag.
+![[subroutine.svg]]Trace[X]. If successful, give the Runner 1 tag.
 
-↳Trace[X]. If successful, give the Runner 1 tag.
+![[subroutine.svg]]Trace[X]. If successful, give the Runner 1 tag.

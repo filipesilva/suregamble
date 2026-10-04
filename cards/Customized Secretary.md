@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/12027
 
 When you install Customized Secretary reveal the top 5 cards of the stack. You may host any number of revealed programs from your stack on it. Shuffle your stack.
 
-click: Install a hosted program, paying all install costs.
+![[click.svg]]: Install a hosted program, paying all install costs.

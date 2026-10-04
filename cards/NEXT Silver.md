@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/29010
 
 ## Text
 
-This ice gains "↳ End the run." for each rezzed piece of **NEXT** ice.
+This ice gains "![[subroutine.svg]] End the run." for each rezzed piece of **NEXT** ice.

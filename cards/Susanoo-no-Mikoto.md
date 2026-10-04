@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/05020
 
 ## Text
 
-↳ If the attacked server is not Archives, the Runner moves to the outermost position of Archives instead of passing this ice. The Runner cannot jack out this run until after they encounter a piece of ice.
+![[subroutine.svg]] If the attacked server is not Archives, the Runner moves to the outermost position of Archives instead of passing this ice. The Runner cannot jack out this run until after they encounter a piece of ice.

@@ -31,6 +31,6 @@ nrdb: https://netrunnerdb.com/en/card/12067
 
 Whenever this program fully breaks a piece of ice, the first 3 subroutines of the next encounter this run do not resolve.
 
-Interface → **2 credits:** Break 1 **code gate** subroutine.
+Interface → **2![[credit.svg]]:** Break 1 **code gate** subroutine.
 
-**1 credit:** +1 strength.
+**1![[credit.svg]]:** +1 strength.

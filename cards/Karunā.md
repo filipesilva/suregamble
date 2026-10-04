@@ -32,6 +32,6 @@ nrdb: https://netrunnerdb.com/en/card/30047
 
 ## Text
 
-↳ Do 2 net damage. The Runner may jack out.
+![[subroutine.svg]] Do 2 net damage. The Runner may jack out.
 
-↳ Do 2 net damage.
+![[subroutine.svg]] Do 2 net damage.

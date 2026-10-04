@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/36004
 
 ## Text
 
-Interface → **1 credit:** Break 1 **barrier** subroutine.
+Interface → **1![[credit.svg]]:** Break 1 **barrier** subroutine.
 
-**1 credit:** The **barrier** you are encountering gets −3 strength for the remainder of this encounter. Spend credits only from **stealth** cards to use this ability.
+**1![[credit.svg]]:** The **barrier** you are encountering gets −3 strength for the remainder of this encounter. Spend credits only from **stealth** cards to use this ability.

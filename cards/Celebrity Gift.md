@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/31057
 
 ## Text
 
-As an additional cost to play this operation, spend click.
+As an additional cost to play this operation, spend ![[click.svg]].
 
-Reveal up to 5 cards in HQ. Gain 2 credits for each card you revealed this way.
+Reveal up to 5 cards in HQ. Gain 2![[credit.svg]] for each card you revealed this way.

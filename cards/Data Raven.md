@@ -33,4 +33,4 @@ When the Runner encounters this ice, they must take 1 tag or end the run.
 
 **Hosted power counter:** Give the Runner 1 tag.
 
-↳ Trace[3]. If successful, place 1 power counter on this ice.
+![[subroutine.svg]] Trace[3]. If successful, place 1 power counter on this ice.

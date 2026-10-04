@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/10067
 
 ## Text
 
-This card costs 0 influence if you have 6 or more non-**alliance** haas bioroid cards in your deck.
+This card costs 0 influence if you have 6 or more non-**alliance** ![[haas-bioroid.svg]] cards in your deck.
 
-The first time you spend 3click on the same action each turn, gain click.
+The first time you spend 3![[click.svg]] on the same action each turn, gain ![[click.svg]].

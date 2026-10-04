@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/10026
 
 Play only if you have a **seedy** card installed.
 
-The Corp gets -1 allotted click for their next turn.
+The Corp gets -1 allotted ![[click.svg]] for their next turn.

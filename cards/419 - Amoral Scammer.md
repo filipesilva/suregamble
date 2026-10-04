@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/21063
 
 ## Text
 
-The first time the Corp installs a card each turn, you may expose that card unless the Corp pays 1 credit.
+The first time the Corp installs a card each turn, you may expose that card unless the Corp pays 1![[credit.svg]].

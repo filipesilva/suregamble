@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/12034
 
 ## Text
 
-The first time the Runner spends click to gain 1 credit each turn (not through a card effect), gain 1 credit.
+The first time the Runner spends ![[click.svg]] to gain 1![[credit.svg]] each turn (not through a card effect), gain 1![[credit.svg]].

@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/36025
 
 As an additional cost to score an agenda the Corp installed this turn, they must add this resource to their score area as an agenda worth −1 agenda points with “You cannot forfeit this agenda.”.
 
-When the Corp scores an agenda they did not install this turn, trash this resource, gain 4 credits, and draw 1 card.
+When the Corp scores an agenda they did not install this turn, trash this resource, gain 4![[credit.svg]], and draw 1 card.

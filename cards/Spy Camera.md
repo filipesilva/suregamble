@@ -25,8 +25,8 @@ nrdb: https://netrunnerdb.com/en/card/10042
 
 ## Text
 
-click: Look at the top X cards of your stack and arrange them in any order. X is the number of copies of Spy Camera installed.
+![[click.svg]]: Look at the top X cards of your stack and arrange them in any order. X is the number of copies of Spy Camera installed.
 
-trash: Look at the top card of R&D.
+![[trash.svg]]: Look at the top card of R&D.
 
 Limit 6 per deck.

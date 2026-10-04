@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/06018
 
 ## Text
 
-Play only as your first click.
+Play only as your first ![[click.svg]].
 
 Choose an unrezzed piece of ice. If the Corp rezzes that piece of ice this turn, gain credits equal to its rez cost.

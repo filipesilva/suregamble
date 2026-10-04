@@ -29,6 +29,6 @@ nrdb: https://netrunnerdb.com/en/card/11104
 
 Install only if you made a successful run on a central server this turn.
 
-When your turn begins, gain 1 credit for every 5 credits in the Corp's credit pool.
+When your turn begins, gain 1![[credit.svg]] for every 5![[credit.svg]] in the Corp's credit pool.
 
 Trash Tapwrm if the Corp purges virus counters.

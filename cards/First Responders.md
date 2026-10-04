@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/11048
 
 ## Text
 
-2 credits: Draw 1 card. Use this ability only if you have suffered damage from a Corp card ability this turn.
+2![[credit.svg]]: Draw 1 card. Use this ability only if you have suffered damage from a Corp card ability this turn.

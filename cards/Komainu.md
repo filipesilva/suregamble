@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/05017
 
 ## Text
 
-When the Runner encounters this ice, it gains X "↳ Do 1 net damage." subroutines for the remainder of this run. X is equal to the number of cards in the grip.
+When the Runner encounters this ice, it gains X "![[subroutine.svg]] Do 1 net damage." subroutines for the remainder of this run. X is equal to the number of cards in the grip.

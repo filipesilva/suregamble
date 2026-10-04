@@ -30,6 +30,6 @@ nrdb: https://netrunnerdb.com/en/card/09028
 
 ## Text
 
-↳ Trace[5]. If successful, do 3 net damage.
+![[subroutine.svg]] Trace[5]. If successful, do 3 net damage.
 
-↳ Trace[4]. If successful, trash 1 program.
+![[subroutine.svg]] Trace[4]. If successful, trash 1 program.

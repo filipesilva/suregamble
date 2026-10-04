@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/12073
 
 ## Text
 
-Once per turn → click**:** Gain 1 credit for each tag the Runner has.
+Once per turn → ![[click.svg]]**:** Gain 1![[credit.svg]] for each tag the Runner has.

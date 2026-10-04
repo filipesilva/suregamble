@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/09036
 
 ## Text
 
-The first time each turn you trash 1 of your installed cards, gain 1 credit.
+The first time each turn you trash 1 of your installed cards, gain 1![[credit.svg]].

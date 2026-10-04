@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/34076
 
 Choose **connection** or **virtual**. You may search your stack for 1 resource with the chosen subtype and reveal it. Add that card to your grip.
 
-Reveal any number of cards with the chosen subtype in your grip. Gain 1 credit for each card revealed this way.
+Reveal any number of cards with the chosen subtype in your grip. Gain 1![[credit.svg]] for each card revealed this way.

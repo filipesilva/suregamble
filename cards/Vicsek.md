@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/36042
 
 ## Text
 
-↳ Do X net damage and give the Runner X tags. X is equal to the number of tags the Runner has.
+![[subroutine.svg]] Do X net damage and give the Runner X tags. X is equal to the number of tags the Runner has.
 
-↳ Give the Runner 1 tag. Trash this ice.
+![[subroutine.svg]] Give the Runner 1 tag. Trash this ice.

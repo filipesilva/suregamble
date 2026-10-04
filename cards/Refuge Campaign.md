@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/33033
 
 ## Text
 
-When your turn begins, gain 2 credits.
+When your turn begins, gain 2![[credit.svg]].

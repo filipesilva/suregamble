@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/10055
 
 ## Text
 
-click: Search R&D for an **alliance** card, reveal it, and play or install it (paying all costs). Shuffle R&D.
+![[click.svg]]: Search R&D for an **alliance** card, reveal it, and play or install it (paying all costs). Shuffle R&D.

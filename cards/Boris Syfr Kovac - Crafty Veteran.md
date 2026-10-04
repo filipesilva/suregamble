@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/00008
 
 Draft format only.
 
-If you have more criminal cards installed than any other faction, when your turn begins, remove 1 tag.
+If you have more ![[criminal.svg]] cards installed than any other faction, when your turn begins, remove 1 tag.

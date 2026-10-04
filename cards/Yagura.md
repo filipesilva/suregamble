@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/25099
 
 ## Text
 
-↳ Look at the top card of R&D. You may add that card to the bottom of R&D.
+![[subroutine.svg]] Look at the top card of R&D. You may add that card to the bottom of R&D.
 
-↳ Do 1 net damage.
+![[subroutine.svg]] Do 1 net damage.

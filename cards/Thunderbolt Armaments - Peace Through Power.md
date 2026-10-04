@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/34096
 
 ## Text
 
-Whenever you rez a piece of **AP** or **destroyer** ice during a run, that ice gets +1 strength and gains “↳ End the run unless the Runner trashes 1 of their installed cards.” after its other subroutines for the remainder of that run.
+Whenever you rez a piece of **AP** or **destroyer** ice during a run, that ice gets +1 strength and gains “![[subroutine.svg]] End the run unless the Runner trashes 1 of their installed cards.” after its other subroutines for the remainder of that run.

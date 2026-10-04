@@ -29,6 +29,6 @@ nrdb: https://netrunnerdb.com/en/card/10068
 
 ## Text
 
-This asset costs 0 influence if you have 6 or more non-**alliance** jinteki cards in your deck.
+This asset costs 0 influence if you have 6 or more non-**alliance** ![[jinteki.svg]] cards in your deck.
 
-Once per turn → When you draw a card, you may lose click. If you do, reveal that card and 1 card in Archives of the same type. Swap those cards.
+Once per turn → When you draw a card, you may lose ![[click.svg]]. If you do, reveal that card and 1 card in Archives of the same type. Swap those cards.

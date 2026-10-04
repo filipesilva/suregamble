@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/22052
 
 Place 3 power counters on Drudge Work when it is rezzed. When there are no power counters left on Drudge Work, trash it.
 
-click, **hosted power counter**: Reveal an agenda in HQ or Archives. Gain credits equal to its agenda points, then shuffle it into R&D.
+![[click.svg]], **hosted power counter**: Reveal an agenda in HQ or Archives. Gain credits equal to its agenda points, then shuffle it into R&D.

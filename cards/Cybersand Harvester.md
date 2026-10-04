@@ -24,8 +24,8 @@ nrdb: https://netrunnerdb.com/en/card/34058
 
 ## Text
 
-Whenever you rez a piece of ice, place 2 credits on this asset.
+Whenever you rez a piece of ice, place 2![[credit.svg]] on this asset.
 
 You can spend hosted credits to pay install costs.
 
-trash**:** Take all credits from this asset.
+![[trash.svg]]**:** Take all credits from this asset.

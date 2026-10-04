@@ -32,7 +32,7 @@ nrdb: https://netrunnerdb.com/en/card/35023
 
 ## Text
 
-Whenever you make a successful run, if your MU is full, you may flip this identity and gain 1 credit.
+Whenever you make a successful run, if your ![[mu.svg]] is full, you may flip this identity and gain 1![[credit.svg]].
 
 ## Dewi Subrotoputri: Shadow Guide
 
@@ -42,4 +42,4 @@ Whenever you make a successful run, if your MU is full, you may flip this identi
 
 ### Text
 
-Whenever you make a successful run, if you have at least 1 unused MU, you may flip this identity and draw 1 card.
+Whenever you make a successful run, if you have at least 1 unused ![[mu.svg]], you may flip this identity and draw 1 card.

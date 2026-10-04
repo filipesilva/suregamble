@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/02005
 
 ## Text
 
-trash: Choose a piece of ice. The Corp must pay 2 credits as an additional cost to rez that ice until the end of the turn.
+![[trash.svg]]: Choose a piece of ice. The Corp must pay 2![[credit.svg]] as an additional cost to rez that ice until the end of the turn.

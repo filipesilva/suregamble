@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/34083
 
 Whenever a run on HQ or R&D ends, if you accessed 3 or more cards during that run, place 1 power counter on this resource.
 
-When your turn begins, you may remove 3 hosted power counters and trash this resource. If you do, the Corp loses 10 credits.
+When your turn begins, you may remove 3 hosted power counters and trash this resource. If you do, the Corp loses 10![[credit.svg]].

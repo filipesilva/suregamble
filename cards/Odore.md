@@ -29,8 +29,8 @@ nrdb: https://netrunnerdb.com/en/card/26071
 
 ## Text
 
-Interface → **2 credits:** Break any number of **sentry** subroutines.
+Interface → **2![[credit.svg]]:** Break any number of **sentry** subroutines.
 
-Interface → **0 credits:** Break 1 **sentry** subroutine. Use this ability only if you have 3 or more installed **virtual** resources.
+Interface → **0![[credit.svg]]:** Break 1 **sentry** subroutine. Use this ability only if you have 3 or more installed **virtual** resources.
 
-**3 credits:** +3 strength.
+**3![[credit.svg]]:** +3 strength.

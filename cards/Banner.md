@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/34005
 
 ## Text
 
-Interface → **2 credits:** Subroutines on the **barrier** you are encountering cannot end the run for the remainder of this encounter.
+Interface → **2![[credit.svg]]:** Subroutines on the **barrier** you are encountering cannot end the run for the remainder of this encounter.

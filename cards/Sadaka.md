@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/21073
 
 ## Text
 
-↳ Look at the top 3 cards of R&D and either arrange them in any order or shuffle R&D. You may draw 1 card.
+![[subroutine.svg]] Look at the top 3 cards of R&D and either arrange them in any order or shuffle R&D. You may draw 1 card.
 
-↳ You may trash 1 card in HQ. If you do, trash 1 resource. Trash Sadaka.
+![[subroutine.svg]] You may trash 1 card in HQ. If you do, trash 1 resource. Trash Sadaka.

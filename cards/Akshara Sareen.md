@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/10046
 
 ## Text
 
-Each player gets +1 allotted click for each of their turns.
+Each player gets +1 allotted ![[click.svg]] for each of their turns.

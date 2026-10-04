@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/06038
 
 This card is not trashed until another **current** is played or an agenda is scored.
 
-1recurring credit
+1![[recurring-credit.svg]]
 
 Use this credit during a run.

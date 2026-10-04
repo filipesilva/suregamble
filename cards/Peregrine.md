@@ -29,8 +29,8 @@ nrdb: https://netrunnerdb.com/en/card/11044
 
 ## Text
 
-Interface → 1 credit: Break 1 **code gate** subroutine.
+Interface → 1![[credit.svg]]: Break 1 **code gate** subroutine.
 
-**3 credits:** +3 strength.
+**3![[credit.svg]]:** +3 strength.
 
-**2 credits**, **add this program to your grip:** Derez 1 **code gate** this program fully broke during this encounter.
+**2![[credit.svg]]**, **add this program to your grip:** Derez 1 **code gate** this program fully broke during this encounter.

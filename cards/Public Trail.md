@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/30057
 
 Play only if the Runner made a successful run during their last turn.
 
-Give the Runner 1 tag unless they pay 8 credits.
+Give the Runner 1 tag unless they pay 8![[credit.svg]].

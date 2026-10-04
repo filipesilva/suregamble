@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/06075
 
 ## Text
 
-Whenever the Corp purges virus counters, if the Corp has at least 2 credits, they lose 2 credits.
+Whenever the Corp purges virus counters, if the Corp has at least 2![[credit.svg]], they lose 2![[credit.svg]].

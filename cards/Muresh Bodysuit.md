@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/02044
 
 ## Text
 
-interrupt → The first time each turn you would suffer meat damage, prevent 1 meat damage.
+![[interrupt.svg]] → The first time each turn you would suffer meat damage, prevent 1 meat damage.

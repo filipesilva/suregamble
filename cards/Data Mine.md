@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/01076
 
 ## Text
 
-↳ Do 1 net damage. Trash Data Mine.
+![[subroutine.svg]] Do 1 net damage. Trash Data Mine.

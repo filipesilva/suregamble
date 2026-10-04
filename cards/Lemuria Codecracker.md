@@ -23,4 +23,4 @@ nrdb: https://netrunnerdb.com/en/card/01023
 
 ## Text
 
-click, 1 credit: Expose 1 card. Use this ability only if you have made a successful run on HQ this turn.
+![[click.svg]], 1![[credit.svg]]: Expose 1 card. Use this ability only if you have made a successful run on HQ this turn.

@@ -32,10 +32,10 @@ nrdb: https://netrunnerdb.com/en/card/30039
 
 ## Text
 
-**Lose click:** Break 1 subroutine on this ice. Only the Runner can use this ability.
+**Lose ![[click.svg]]:** Break 1 subroutine on this ice. Only the Runner can use this ability.
 
-↳ You may install 1 piece of ice from HQ or Archives directly inward from this ice, ignoring all costs.
+![[subroutine.svg]] You may install 1 piece of ice from HQ or Archives directly inward from this ice, ignoring all costs.
 
-↳ End the run.
+![[subroutine.svg]] End the run.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

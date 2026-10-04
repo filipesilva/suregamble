@@ -33,4 +33,4 @@ When your turn begins, you may take 1 tag to place 2 virus counters on this prog
 
 Interface → **Hosted virus counter:** Break 1 subroutine.
 
-**2 credits:** +1 strength.
+**2![[credit.svg]]:** +1 strength.

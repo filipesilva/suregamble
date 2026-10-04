@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/22056
 
 ## Text
 
-Play only if you have less than 10 credits.
+Play only if you have less than 10![[credit.svg]].
 
-Gain 7 credits and take 1 bad publicity.
+Gain 7![[credit.svg]] and take 1 bad publicity.

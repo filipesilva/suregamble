@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/12029
 
 Seidr Adaptive Barrier has +1 strength for each piece of ice protecting this server.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

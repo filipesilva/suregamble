@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/25040
 
 ## Text
 
-+1MU
++1![[mu.svg]]

@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/12045
 
 ## Text
 
-click, **remove an installed program from the game**: Search your stack for a non-**virus** program, shuffle your stack, then install that program, lowering the install cost by the cost of the program removed from the game.
+![[click.svg]], **remove an installed program from the game**: Search your stack for a non-**virus** program, shuffle your stack, then install that program, lowering the install cost by the cost of the program removed from the game.

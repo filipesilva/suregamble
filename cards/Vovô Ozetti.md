@@ -29,8 +29,8 @@ nrdb: https://netrunnerdb.com/en/card/34038
 
 ## Text
 
-The rez cost of each piece of ice protecting this server is lowered by 2 credits.
+The rez cost of each piece of ice protecting this server is lowered by 2![[credit.svg]].
 
-Threat 4 → The rez cost of each card in the root of this server is lowered by 2 credits. *(This ability is active if any player has 4 or more agenda points.)*
+Threat 4 → The rez cost of each card in the root of this server is lowered by 2![[credit.svg]]. *(This ability is active if any player has 4 or more agenda points.)*
 
 When your turn ends, you may move this upgrade to the root of another server.

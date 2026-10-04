@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/34033
 
 ## Text
 
-Whenever you finish taking an action, if you have taken that action exactly 3 times this turn, gain click.
+Whenever you finish taking an action, if you have taken that action exactly 3 times this turn, gain ![[click.svg]].

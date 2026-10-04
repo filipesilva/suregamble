@@ -30,10 +30,10 @@ nrdb: https://netrunnerdb.com/en/card/11089
 
 ## Text
 
-↳ End the run unless the Runner pays 4 credits.
+![[subroutine.svg]] End the run unless the Runner pays 4![[credit.svg]].
 
-↳ End the run unless the Runner pays 4 credits.
+![[subroutine.svg]] End the run unless the Runner pays 4![[credit.svg]].
 
-↳ End the run unless the Runner trashes 1 of their installed cards.
+![[subroutine.svg]] End the run unless the Runner trashes 1 of their installed cards.
 
-↳ End the run unless the Runner suffers 1 core damage.
+![[subroutine.svg]] End the run unless the Runner suffers 1 core damage.

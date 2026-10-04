@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/20060
 
 ## Text
 
-When your turn begins, gain 1 credit if you have at least 2link.
+When your turn begins, gain 1![[credit.svg]] if you have at least 2![[link.svg]].

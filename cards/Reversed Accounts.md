@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/31064
 
 You can advance this asset.
 
-click, trash**:** The Runner loses 4 credits for each hosted advancement counter.
+![[click.svg]], ![[trash.svg]]**:** The Runner loses 4![[credit.svg]] for each hosted advancement counter.

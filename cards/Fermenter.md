@@ -31,4 +31,4 @@ nrdb: https://netrunnerdb.com/en/card/30007
 
 When you install this program and when your turn begins, place 1 virus counter on this program.
 
-click, trash**:** Gain 2 credits for each hosted virus counter.
+![[click.svg]], ![[trash.svg]]**:** Gain 2![[credit.svg]] for each hosted virus counter.

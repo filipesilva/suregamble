@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/26033
 
 ## Text
 
-Once per turn → click**:** Draw 2 cards.
+Once per turn → ![[click.svg]]**:** Draw 2 cards.
 
 When the Runner trashes this asset, you may draw 2 cards.

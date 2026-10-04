@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/25083
 
 ## Text
 
-Whenever an encounter with a piece of ice protecting this server ends, if the Runner broke at least 1 subroutine during that encounter, they lose click.
+Whenever an encounter with a piece of ice protecting this server ends, if the Runner broke at least 1 subroutine during that encounter, they lose ![[click.svg]].

@@ -33,4 +33,4 @@ When you install this program, place 1 power counter on it for each unused MU. *
 
 Interface → **Hosted power counter:** Break 1 subroutine.
 
-**1 credit:** +1 strength.
+**1![[credit.svg]]:** +1 strength.

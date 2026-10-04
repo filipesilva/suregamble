@@ -22,4 +22,4 @@ nrdb: https://netrunnerdb.com/en/card/14025
 
 ## Text
 
-click,trash: Make a run and gain click. If that run is successful when it ends, you may immediately make another run on another server.
+![[click.svg]],![[trash.svg]]: Make a run and gain ![[click.svg]]. If that run is successful when it ends, you may immediately make another run on another server.

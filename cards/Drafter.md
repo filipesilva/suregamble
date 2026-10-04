@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/26101
 
 ## Text
 
-↳ You may add 1 card from Archives to HQ.
+![[subroutine.svg]] You may add 1 card from Archives to HQ.
 
-↳ You may install 1 card from Archives or HQ, ignoring all costs.
+![[subroutine.svg]] You may install 1 card from Archives or HQ, ignoring all costs.

@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/10056
 
 ## Text
 
-Whenever the Runner breaks a subroutine on Bailiff, gain 1 credit.
+Whenever the Runner breaks a subroutine on Bailiff, gain 1![[credit.svg]].
 
-↳ End the run.
+![[subroutine.svg]] End the run.

@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/25065
 
 You cannot use this resource more than once per turn.
 
-click**:** Place 3 credits on this resource.
+![[click.svg]]**:** Place 3![[credit.svg]] on this resource.
 
-click**:** Take all credits from this resource.
+![[click.svg]]**:** Take all credits from this resource.

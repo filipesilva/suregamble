@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/31067
 
 While there are no installed **fracter** programs, this ice gets +7 strength.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/36024
 
 Install only on a piece of ice.
 
-Whenever you make a successful run on this server, gain 2 credits.
+Whenever you make a successful run on this server, gain 2![[credit.svg]].

@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/21017
 
 Remote server only.
 
-**trash:** Place 1 advancement counter on a card installed in the root of this server.
+**![[trash.svg]]:** Place 1 advancement counter on a card installed in the root of this server.

@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/10082
 
 ## Text
 
-click**:** Place 1 power counter on this resource.
+![[click.svg]]**:** Place 1 power counter on this resource.
 
-Once per turn → **Hosted power counter:** Gain click. Use this ability only during your turn.
+Once per turn → **Hosted power counter:** Gain ![[click.svg]]. Use this ability only during your turn.

@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/36006
 
 ## Text
 
-You can install unique *(♦)* **companion** resources and unique *(♦)* **connection** resources onto this resource. Each resource installed this way costs 1 credit less to install.
+You can install unique *(♦)* **companion** resources and unique *(♦)* **connection** resources onto this resource. Each resource installed this way costs 1![[credit.svg]] less to install.
 
 While this resource has a hosted **companion** and a hosted **connection**, you get +2 maximum hand size.

@@ -20,4 +20,4 @@ nrdb: https://netrunnerdb.com/en/card/14018
 
 ## Text
 
-Whenever the Corp spends click to draw 1 or more cards (including through a card ability), reveal the first card drawn.
+Whenever the Corp spends ![[click.svg]] to draw 1 or more cards (including through a card ability), reveal the first card drawn.

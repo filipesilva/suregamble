@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/08070
 
 ## Text
 
-When your turn begins, you may remove Hyperdriver from the game and gain 3 clicks.
+When your turn begins, you may remove Hyperdriver from the game and gain ![[click.svg]]![[click.svg]]![[click.svg]].

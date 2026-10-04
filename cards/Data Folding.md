@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/07055
 
 ## Text
 
-When your turn begins, gain 1 credit if you have 2 or more unused MU.
+When your turn begins, gain 1![[credit.svg]] if you have 2 or more unused MU.

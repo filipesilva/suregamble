@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/10057
 
 ## Text
 
-Whenever you rez another card in the root of or protecting this server, you may rez 1 card, paying 2 credits less.
+Whenever you rez another card in the root of or protecting this server, you may rez 1 card, paying 2![[credit.svg]] less.
 
 Limit 1 **region** per server.

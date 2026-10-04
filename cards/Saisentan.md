@@ -31,8 +31,8 @@ nrdb: https://netrunnerdb.com/en/card/26044
 
 When the Runner encounters this ice, choose a card type. For the remainder of the encounter, whenever you trash a card of the chosen type with net damage from a subroutine on this ice, do 1 net damage.
 
-↳ Do 1 net damage.
+![[subroutine.svg]] Do 1 net damage.
 
-↳ Do 1 net damage.
+![[subroutine.svg]] Do 1 net damage.
 
-↳ Do 1 net damage.
+![[subroutine.svg]] Do 1 net damage.

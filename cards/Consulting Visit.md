@@ -27,8 +27,8 @@ nrdb: https://netrunnerdb.com/en/card/10094
 
 ## Text
 
-This card costs 0 influence if you have 6 or more non-**alliance** weyland consortium cards in your deck.
+This card costs 0 influence if you have 6 or more non-**alliance** ![[weyland-consortium.svg]] cards in your deck.
 
-As an additional cost to play this operation, spend click.
+As an additional cost to play this operation, spend ![[click.svg]].
 
 Search R&D for an operation and play it (paying all costs). Shuffle R&D.

@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/30036
 
 ## Text
 
-When you score this agenda, gain 3 clicks. You cannot score agendas for the remainder of the turn.
+When you score this agenda, gain ![[click.svg]]![[click.svg]]![[click.svg]]. You cannot score agendas for the remainder of the turn.
 
 Limit 1 per deck.

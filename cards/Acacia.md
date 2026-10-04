@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/21021
 
 ## Text
 
-Whenever the Corp purges virus counters, you may gain 1 credit for each virus counter removed and trash Acacia.
+Whenever the Corp purges virus counters, you may gain 1![[credit.svg]] for each virus counter removed and trash Acacia.

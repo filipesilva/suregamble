@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/33029
 
 Whenever you install a program or piece of hardware, place 1 power counter on this resource.
 
-When there are 4 or more hosted power counters, trash this resource and gain 9 credits.
+When there are 4 or more hosted power counters, trash this resource and gain 9![[credit.svg]].

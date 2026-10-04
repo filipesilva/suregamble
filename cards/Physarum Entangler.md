@@ -29,6 +29,6 @@ nrdb: https://netrunnerdb.com/en/card/34082
 
 Install only on a piece of ice.
 
-Whenever you encounter host ice, if it is not a **barrier**, you may pay 1 credit for each subroutine it has. If you do, bypass that ice.
+Whenever you encounter host ice, if it is not a **barrier**, you may pay 1![[credit.svg]] for each subroutine it has. If you do, bypass that ice.
 
 When the Corp purges virus counters, trash this program.

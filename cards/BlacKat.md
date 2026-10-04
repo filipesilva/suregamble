@@ -29,6 +29,6 @@ nrdb: https://netrunnerdb.com/en/card/06053
 
 ## Text
 
-Interface → **1 credit:** Break 1 **barrier** subroutine. If you spent a credit from a **stealth** card to use this ability, instead break up to 3 **barrier** subroutines.
+Interface → **1![[credit.svg]]:** Break 1 **barrier** subroutine. If you spent a credit from a **stealth** card to use this ability, instead break up to 3 **barrier** subroutines.
 
-**2 credits:** +1 strength. If you spent at least 1 credit from a **stealth** card to use this ability, instead +2 strength.
+**2![[credit.svg]]:** +1 strength. If you spent at least 1 credit from a **stealth** card to use this ability, instead +2 strength.

@@ -30,10 +30,10 @@ nrdb: https://netrunnerdb.com/en/card/31022
 
 ## Text
 
-Interface → **1 credit:** Break 1 **sentry** subroutine.
+Interface → **1![[credit.svg]]:** Break 1 **sentry** subroutine.
 
-**2 credits:** +1 strength.
+**2![[credit.svg]]:** +1 strength.
 
 When you install this program, choose 1 installed piece of ice.
 
-Whenever you encounter the chosen ice, you may pay 1 credit for each subroutine it has. If you do, bypass that ice.
+Whenever you encounter the chosen ice, you may pay 1![[credit.svg]] for each subroutine it has. If you do, bypass that ice.

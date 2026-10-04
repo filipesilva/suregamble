@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/36027
 
 ## Text
 
-The first **double** operation you play each turn costs click less to play.
+The first **double** operation you play each turn costs ![[click.svg]] less to play.

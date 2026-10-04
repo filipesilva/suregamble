@@ -24,6 +24,6 @@ nrdb: https://netrunnerdb.com/en/card/09055
 
 ## Text
 
-Whenever you install a piece of hardware or a program, place 1 credit from the bank on Technical Writer.
+Whenever you install a piece of hardware or a program, place 1![[credit.svg]] from the bank on Technical Writer.
 
-click,trash: Take all credits from Technical Writer.
+![[click.svg]],![[trash.svg]]: Take all credits from Technical Writer.

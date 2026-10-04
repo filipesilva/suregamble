@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/09046
 
 ## Text
 
-trash: Choose an **icebreaker** (or any number of **cloud icebreakers**). Each chosen **icebreaker** has +1 strength for each link you have for the remainder of this run. Use this ability only during a run.
+![[trash.svg]]: Choose an **icebreaker** (or any number of **cloud icebreakers**). Each chosen **icebreaker** has +1 strength for each ![[link.svg]] you have for the remainder of this run. Use this ability only during a run.

@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/12040
 
 The strength of Self-Adapting Code Wall cannot be lowered.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

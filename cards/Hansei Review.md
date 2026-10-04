@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/30048
 
 ## Text
 
-Gain 10 credits. If there are any cards in HQ, trash 1 of them.
+Gain 10![[credit.svg]]. If there are any cards in HQ, trash 1 of them.

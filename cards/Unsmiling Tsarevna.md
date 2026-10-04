@@ -27,10 +27,10 @@ nrdb: https://netrunnerdb.com/en/card/33117
 
 ## Text
 
-When you rez this ice during a run against this server, you may have the Runner gain 2 credits. If you do, during each encounter with this ice for the remainder of that run, the Runner cannot break more than 1 of its printed subroutines.
+When you rez this ice during a run against this server, you may have the Runner gain 2![[credit.svg]]. If you do, during each encounter with this ice for the remainder of that run, the Runner cannot break more than 1 of its printed subroutines.
 
-↳ Give the Runner 1 tag.
+![[subroutine.svg]] Give the Runner 1 tag.
 
-↳ Do 2 net damage.
+![[subroutine.svg]] Do 2 net damage.
 
-↳ You may draw 2 cards.
+![[subroutine.svg]] You may draw 2 cards.

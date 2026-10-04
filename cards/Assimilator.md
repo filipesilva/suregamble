@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/21008
 
 ## Text
 
-click,click: Turn one of your facedown installed cards faceup. If that card is an event, trash it.
+![[click.svg]],![[click.svg]]: Turn one of your facedown installed cards faceup. If that card is an event, trash it.

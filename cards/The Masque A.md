@@ -22,4 +22,4 @@ nrdb: https://netrunnerdb.com/en/card/14024
 
 ## Text
 
-click,trash: Make a run and gain click. If successful, draw 1 card.
+![[click.svg]],![[trash.svg]]: Make a run and gain ![[click.svg]]. If successful, draw 1 card.

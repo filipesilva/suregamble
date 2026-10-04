@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/31053
 
 You can advance this asset.
 
-click, trash**:** Do 3 net damage. Use this ability only if there are 4 or more hosted advancement counters.
+![[click.svg]], ![[trash.svg]]**:** Do 3 net damage. Use this ability only if there are 4 or more hosted advancement counters.

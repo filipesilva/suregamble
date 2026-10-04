@@ -30,8 +30,8 @@ nrdb: https://netrunnerdb.com/en/card/21051
 
 Whenever an encounter with this ice ends, if the Runner did not fully break it, do 3 net damage.
 
-↳ Look at the top 5 cards of R&D and arrange them in any order.
+![[subroutine.svg]] Look at the top 5 cards of R&D and arrange them in any order.
 
-↳ You may draw 1 card. The Runner may pay 2 credits to draw 1 card.
+![[subroutine.svg]] You may draw 1 card. The Runner may pay 2![[credit.svg]] to draw 1 card.
 
-↳ Do 1 net damage.
+![[subroutine.svg]] Do 1 net damage.

@@ -25,6 +25,6 @@ nrdb: https://netrunnerdb.com/en/card/25003
 
 ## Text
 
-As an additional cost to play this event, spend click.
+As an additional cost to play this event, spend ![[click.svg]].
 
-Place up to 3 advancement counters on 1 unrezzed card in the root of a remote server. Gain 2 credits for each counter placed this way. You cannot access that card for the remainder of the turn.
+Place up to 3 advancement counters on 1 unrezzed card in the root of a remote server. Gain 2![[credit.svg]] for each counter placed this way. You cannot access that card for the remainder of the turn.

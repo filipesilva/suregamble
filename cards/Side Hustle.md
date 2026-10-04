@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/35034
 
 ## Text
 
-When you install this resource and whenever a run begins, place 1 credit on this resource.
+When you install this resource and whenever a run begins, place 1![[credit.svg]] on this resource.
 
 When there are 6 or more hosted credits, take all credits from this resource, trash it, and draw 1 card.

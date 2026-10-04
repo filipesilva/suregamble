@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/25039
 
 ## Text
 
-**click**, **forfeit 1 agenda:** Gain 9 credits.
+**![[click.svg]]**, **forfeit 1 agenda:** Gain 9![[credit.svg]].

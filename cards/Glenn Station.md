@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/07005
 
 Glenn Station can host a single card.
 
-click: Host a card from HQ facedown on Glenn Station.
+![[click.svg]]: Host a card from HQ facedown on Glenn Station.
 
-click: Add a card on Glenn Station to HQ.
+![[click.svg]]: Add a card on Glenn Station to HQ.

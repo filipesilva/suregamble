@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/07041
 
 Whenever an installed Corp card is trashed, place 1 virus counter on Gravedigger.
 
-click, **hosted virus counter:** The Corp trashes the top card of R&D.
+![[click.svg]], **hosted virus counter:** The Corp trashes the top card of R&D.

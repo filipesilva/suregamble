@@ -28,8 +28,8 @@ nrdb: https://netrunnerdb.com/en/card/28004
 
 When the Runner encounters this ice, they put the top card of the stack on the bottom, then you reveal the top 3 cards of the stack.
 
-↳ The Runner loses 3 credits.
+![[subroutine.svg]] The Runner loses 3![[credit.svg]].
 
-↳ If you revealed 2 or more cards that share a type when this encounter began, gain 3 credits.
+![[subroutine.svg]] If you revealed 2 or more cards that share a type when this encounter began, gain 3![[credit.svg]].
 
-↳ If you revealed 3 or more cards that share a type when this encounter began, place 3 advancement tokens on an installed card.
+![[subroutine.svg]] If you revealed 3 or more cards that share a type when this encounter began, place 3 advancement tokens on an installed card.

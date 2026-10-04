@@ -30,6 +30,6 @@ When you rez this ice, place 4 power counters on it.
 
 When your turn begins, remove 1 hosted power counter.
 
-This ice gains "↳ End the run." before its other subroutines for each hosted power counter.
+This ice gains "![[subroutine.svg]] End the run." before its other subroutines for each hosted power counter.
 
-↳ Trash this ice.
+![[subroutine.svg]] Trash this ice.

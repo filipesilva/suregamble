@@ -32,8 +32,8 @@ nrdb: https://netrunnerdb.com/en/card/34110
 
 Whenever an encounter with this ice ends, if it was rezzed this turn, trash 1 installed Runner card unless the Runner takes 2 tags or suffers 3 net damage.
 
-↳ Trash 1 installed Runner card.
+![[subroutine.svg]] Trash 1 installed Runner card.
 
-↳ Give the Runner 2 tags.
+![[subroutine.svg]] Give the Runner 2 tags.
 
-↳ Do 3 net damage.
+![[subroutine.svg]] Do 3 net damage.

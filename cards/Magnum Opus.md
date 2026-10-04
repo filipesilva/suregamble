@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/20050
 
 ## Text
 
-click: Gain 2 credits.
+![[click.svg]]: Gain 2![[credit.svg]].

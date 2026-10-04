@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/06110
 
 ## Text
 
-As an additional cost to steal an agenda, the Runner must pay 2 credits for each advancement token on that agenda.
+As an additional cost to steal an agenda, the Runner must pay 2![[credit.svg]] for each advancement token on that agenda.
 
 Limit 1 per deck.

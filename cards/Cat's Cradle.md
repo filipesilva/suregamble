@@ -28,8 +28,8 @@ nrdb: https://netrunnerdb.com/en/card/33016
 
 ## Text
 
-The rez cost of each piece of **code gate** ice is increased by 1 credit.
+The rez cost of each piece of **code gate** ice is increased by 1![[credit.svg]].
 
-Interface → **1 credit:** Break 1 **code gate** subroutine.
+Interface → **1![[credit.svg]]:** Break 1 **code gate** subroutine.
 
-**1 credit:** +1 strength.
+**1![[credit.svg]]:** +1 strength.

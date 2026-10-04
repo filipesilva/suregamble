@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/09011
 
 ## Text
 
-The Runner gets -1 allotted click for each of their turns.
+The Runner gets -1 allotted ![[click.svg]] for each of their turns.
 
 When this asset is trashed from anywhere while being accessed, add it to the Runner's score area as an agenda worth 2 agenda points.

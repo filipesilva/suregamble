@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/26029
 
 As an additional cost to play this event, add 1 installed program or piece of hardware to your grip.
 
-Install 1 program or piece of hardware from your grip, paying X credits less. X is equal to the printed install cost of the card you added to your grip.
+Install 1 program or piece of hardware from your grip, paying X![[credit.svg]] less. X is equal to the printed install cost of the card you added to your grip.

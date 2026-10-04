@@ -27,10 +27,10 @@ nrdb: https://netrunnerdb.com/en/card/03036
 
 ## Text
 
-+3MU
++3![[mu.svg]]
 
-When you install this hardware, install up to 3 programs from your grip, paying 4 credits less for each.
+When you install this hardware, install up to 3 programs from your grip, paying 4![[credit.svg]] less for each.
 
-interrupt → **Trash 1 program from your grip:** Prevent 1 core damage or 1 net damage.
+![[interrupt.svg]] → **Trash 1 program from your grip:** Prevent 1 core damage or 1 net damage.
 
 Limit 1 **console** per player.

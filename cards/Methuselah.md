@@ -27,9 +27,9 @@ nrdb: https://netrunnerdb.com/en/card/36020
 
 ## Text
 
-+1MU
++1![[mu.svg]]
 
-Whenever a run begins, you may trash 1 piece of hardware from your grip to place 2 credits on this hardware.
+Whenever a run begins, you may trash 1 piece of hardware from your grip to place 2![[credit.svg]] on this hardware.
 
 You can spend hosted credits during runs.
 

@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/31036
 
 ## Text
 
-click**:** Gain 1 credit and draw 1 card.
+![[click.svg]]**:** Gain 1![[credit.svg]] and draw 1 card.

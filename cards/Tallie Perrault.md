@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/04083
 
 Whenever a **gray ops** or **black ops** operation is trashed after resolving, you may give the Corp 1 bad publicity and take 1 tag.
 
-trash**:** Draw 1 card for each bad publicity the Corp has.
+![[trash.svg]]**:** Draw 1 card for each bad publicity the Corp has.

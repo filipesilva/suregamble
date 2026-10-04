@@ -32,6 +32,6 @@ nrdb: https://netrunnerdb.com/en/card/35008
 
 When you install this program, place 2 virus counters on it.
 
-Interface → **1 credit:** Break 1 **sentry** subroutine.
+Interface → **1![[credit.svg]]:** Break 1 **sentry** subroutine.
 
 **Hosted virus counter:** +2 strength.

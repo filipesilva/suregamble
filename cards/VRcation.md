@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/30021
 
 ## Text
 
-Draw 4 cards. If you have any click remaining, lose click.
+Draw 4 cards. If you have any ![[click.svg]] remaining, lose ![[click.svg]].

@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/13032
 
 Whenever you install a card in the root of a remote server, place 1 power counter on this asset.
 
-**trash:** For each power counter on this asset, gain 2 credits and draw 1 card.
+**![[trash.svg]]:** For each power counter on this asset, gain 2![[credit.svg]] and draw 1 card.

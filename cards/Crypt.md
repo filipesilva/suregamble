@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/21043
 
 Whenever you make a successful run on Archives, you may place 1 virus counter on Crypt.
 
-click, trash, **3 hosted virus counters**: Search your stack for a **virus** program and install it (paying its install cost), then shuffle your stack.
+![[click.svg]], ![[trash.svg]], **3 hosted virus counters**: Search your stack for a **virus** program and install it (paying its install cost), then shuffle your stack.

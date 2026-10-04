@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/25120
 
 While the Runner is accessing this upgrade in R&D, they must reveal it.
 
-When the Runner accesses this upgrade anywhere except in Archives, gain 2 credits.
+When the Runner accesses this upgrade anywhere except in Archives, gain 2![[credit.svg]].

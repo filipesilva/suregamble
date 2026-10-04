@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/07054
 
 ## Text
 
-When your turn begins, you may lose click. If you do, the first time you would take tags from now until your next turn begins, prevent 1 tag.
+When your turn begins, you may lose ![[click.svg]]. If you do, the first time you would take tags from now until your next turn begins, prevent 1 tag.

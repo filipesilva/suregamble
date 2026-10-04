@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/22026
 
 ## Text
 
-Whenever an agenda is scored or stolen, gain 2 credits or draw 2 cards.
+Whenever an agenda is scored or stolen, gain 2![[credit.svg]] or draw 2 cards.

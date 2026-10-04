@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/22020
 
 Install only on a piece of ice.
 
-Whenever you pass host ice, gain 2 credits.
+Whenever you pass host ice, gain 2![[credit.svg]].

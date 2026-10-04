@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/12011
 
 Defense Construct can be advanced.
 
-trash: Add 1 facedown card from Archives to HQ for each advancement token on Defense Construct. Use this ability only during a run on Archives.
+![[trash.svg]]: Add 1 facedown card from Archives to HQ for each advancement token on Defense Construct. Use this ability only during a run on Archives.

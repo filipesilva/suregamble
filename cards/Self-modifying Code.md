@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/26090
 
 ## Text
 
-**2 credits**, **trash:** Search your stack for 1 program. Install it. *(Shuffle your stack after searching it.)*
+**2![[credit.svg]]**, **![[trash.svg]]:** Search your stack for 1 program. Install it. *(Shuffle your stack after searching it.)*

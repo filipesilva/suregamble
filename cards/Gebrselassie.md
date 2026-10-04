@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/21087
 
 ## Text
 
-click: Host this hardware on an installed non-AI **icebreaker**.
+![[click.svg]]: Host this hardware on an installed non-AI **icebreaker**.
 
 Abilities that increase host icebreaker's strength last for the remainder of the turn *(instead of any shorter duration)*.

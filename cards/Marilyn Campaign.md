@@ -27,8 +27,8 @@ nrdb: https://netrunnerdb.com/en/card/31042
 
 ## Text
 
-When you rez this asset, load 8 credits onto it. When it is empty, trash it.
+When you rez this asset, load 8![[credit.svg]] onto it. When it is empty, trash it.
 
-When your turn begins, take 2 credits from this asset.
+When your turn begins, take 2![[credit.svg]] from this asset.
 
-interrupt → When this asset would be trashed, you may shuffle it into R&D instead of adding it to Archives. *(It is still considered trashed.)*
+![[interrupt.svg]] → When this asset would be trashed, you may shuffle it into R&D instead of adding it to Archives. *(It is still considered trashed.)*

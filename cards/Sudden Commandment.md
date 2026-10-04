@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/34119
 
 Draw 2 cards. You may play 1 non-**terminal** operation from HQ.
 
-Threat 3 → If this operation is the first **mandate** you played this turn, you may pay 3 credits to gain click. *(This ability is active if any player has 3 or more agenda points.)*
+Threat 3 → If this operation is the first **mandate** you played this turn, you may pay 3![[credit.svg]] to gain ![[click.svg]]. *(This ability is active if any player has 3 or more agenda points.)*

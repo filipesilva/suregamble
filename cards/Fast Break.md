@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/22031
 
 ## Text
 
-Gain X credits. Draw up to X cards. Install up to X cards in the root of and/or protecting a single remote server. X is equal to the number of agendas in the Runner's score area.
+Gain X![[credit.svg]]. Draw up to X cards. Install up to X cards in the root of and/or protecting a single remote server. X is equal to the number of agendas in the Runner's score area.

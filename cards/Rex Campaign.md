@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/04070
 
 ## Text
 
-When you rez this asset, load 3 power counters onto it. When it is empty, trash it and either remove 1 bad publicity or gain 5 credits.
+When you rez this asset, load 3 power counters onto it. When it is empty, trash it and either remove 1 bad publicity or gain 5![[credit.svg]].
 
 When your turn begins, remove 1 hosted power counter.

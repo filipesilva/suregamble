@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/08017
 
 This card is not trashed until another **current** is played or an agenda is stolen.
 
-As an additional cost to steal an agenda, the Runner must pay 2 credits.
+As an additional cost to steal an agenda, the Runner must pay 2![[credit.svg]].

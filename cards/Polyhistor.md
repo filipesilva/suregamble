@@ -26,7 +26,7 @@ nrdb: https://netrunnerdb.com/en/card/13005
 
 ## Text
 
-+1MU, +1link
++1![[mu.svg]], +1![[link.svg]]
 
 The first time each turn you pass all of the ice protecting HQ, you may draw 1 card to force the Corp to draw 1 card.
 

@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/34084
 
 When you install this resource, load 4 power counters onto it. When it is empty, trash it.
 
-The first time each turn you take an action on an installed resource, remove 1 hosted power counter and gain click.
+The first time each turn you take an action on an installed resource, remove 1 hosted power counter and gain ![[click.svg]].

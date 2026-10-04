@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/10002
 
 ## Text
 
-interrupt → trash**:** Prevent up to X core damage or net damage. Trash cards from the top of your stack equal to the amount of damage prevented. X is equal to the number of other installed copies of Ramujan-reliant 550 BMI plus 1.
+![[interrupt.svg]] → ![[trash.svg]]**:** Prevent up to X core damage or net damage. Trash cards from the top of your stack equal to the amount of damage prevented. X is equal to the number of other installed copies of Ramujan-reliant 550 BMI plus 1.
 
 Limit 6 per deck.

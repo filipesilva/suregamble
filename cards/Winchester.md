@@ -29,8 +29,8 @@ nrdb: https://netrunnerdb.com/en/card/26125
 
 ## Text
 
-↳ Trace[4]. If successful, trash 1 installed program.
+![[subroutine.svg]] Trace[4]. If successful, trash 1 installed program.
 
-↳ Trace[3]. If successful, trash 1 installed piece of hardware.
+![[subroutine.svg]] Trace[3]. If successful, trash 1 installed piece of hardware.
 
-While this ice is protecting HQ, it gains “↳ Trace[3]. If successful, end the run.” after its other subroutines.
+While this ice is protecting HQ, it gains “![[subroutine.svg]] Trace[3]. If successful, end the run.” after its other subroutines.

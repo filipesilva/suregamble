@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/05013
 
 Play only if the Runner made a successful run during their last turn.
 
-You and the Runner secretly spend 0 credits, 1 credit, or 2 credits. Reveal spent credits. If you and the Runner spent a different number of credits, they must suffer 1 core damage or take 1 tag.
+You and the Runner secretly spend 0![[credit.svg]], 1![[credit.svg]], or 2![[credit.svg]]. Reveal spent credits. If you and the Runner spent a different number of credits, they must suffer 1 core damage or take 1 tag.

@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/25020
 
 ## Text
 
-The first time you make a successful run on HQ each turn, gain 2 credits.
+The first time you make a successful run on HQ each turn, gain 2![[credit.svg]].

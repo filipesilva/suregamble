@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/08054
 
 ## Text
 
-trash: Do 1 core damage. Use this ability only during a run against this server and only if the Runner has no unspent click.
+![[trash.svg]]: Do 1 core damage. Use this ability only during a run against this server and only if the Runner has no unspent ![[click.svg]].

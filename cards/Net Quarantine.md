@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/11114
 
 ## Text
 
-For the first trace each turn, the Runner's link is treated as 0. *(They can still increase their link strength by spending credits.)*
+For the first trace each turn, the Runner's ![[link.svg]] is treated as 0. *(They can still increase their link strength by spending credits.)*
 
-Whenever the Runner spends credits to increase their link strength, gain 1 credit for every 2 credits they spent.
+Whenever the Runner spends credits to increase their link strength, gain 1![[credit.svg]] for every 2![[credit.svg]] they spent.

@@ -31,8 +31,8 @@ nrdb: https://netrunnerdb.com/en/card/30015
 
 ## Text
 
-If you made a successful run this turn, this program costs 2 credits less to install.
+If you made a successful run this turn, this program costs 2![[credit.svg]] less to install.
 
-Interface → **1 credit:** Break 1 **sentry** subroutine.
+Interface → **1![[credit.svg]]:** Break 1 **sentry** subroutine.
 
-**2 credits:** +3 strength.
+**2![[credit.svg]]:** +3 strength.

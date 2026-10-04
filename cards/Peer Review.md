@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/35055
 
 Reveal all but 1 card in HQ.
 
-Gain 7 credits. You may install 1 card from HQ in the root of a remote server.
+Gain 7![[credit.svg]]. You may install 1 card from HQ in the root of a remote server.

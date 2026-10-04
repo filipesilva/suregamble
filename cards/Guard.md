@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/05024
 
 Guard cannot be bypassed.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

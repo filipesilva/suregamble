@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/01096
 
 ## Text
 
-click, **trash a rezzed piece of ice:** Gain 4 credits.
+![[click.svg]], **trash a rezzed piece of ice:** Gain 4![[credit.svg]].

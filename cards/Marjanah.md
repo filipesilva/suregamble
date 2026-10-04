@@ -31,6 +31,6 @@ nrdb: https://netrunnerdb.com/en/card/30016
 
 ## Text
 
-Interface → **2 credits:** Break 1 **barrier** subroutine. If you made a successful run this turn, this ability costs 1 credit less to use.
+Interface → **2![[credit.svg]]:** Break 1 **barrier** subroutine. If you made a successful run this turn, this ability costs 1![[credit.svg]] less to use.
 
-**1 credit:** +1 strength.
+**1![[credit.svg]]:** +1 strength.

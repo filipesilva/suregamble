@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/01045
 
 ## Text
 
-interrupt → The first time each turn you would suffer net damage, you may pay 1 credit to prevent 1 net damage.
+![[interrupt.svg]] → The first time each turn you would suffer net damage, you may pay 1![[credit.svg]] to prevent 1 net damage.

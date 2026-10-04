@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/08030
 
 ## Text
 
-click, click: Search your stack for a piece of hardware, reveal it, and add it to your grip. Shuffle your stack.
+![[click.svg]], ![[click.svg]]: Search your stack for a piece of hardware, reveal it, and add it to your grip. Shuffle your stack.

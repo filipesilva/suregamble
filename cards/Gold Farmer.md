@@ -27,8 +27,8 @@ nrdb: https://netrunnerdb.com/en/card/26116
 
 ## Text
 
-Whenever the Runner breaks a printed subroutine on this ice, they lose 1 credit.
+Whenever the Runner breaks a printed subroutine on this ice, they lose 1![[credit.svg]].
 
-↳ End the run unless the Runner pays 3 credits.
+![[subroutine.svg]] End the run unless the Runner pays 3![[credit.svg]].
 
-↳ End the run unless the Runner pays 3 credits.
+![[subroutine.svg]] End the run unless the Runner pays 3![[credit.svg]].

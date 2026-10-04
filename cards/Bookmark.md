@@ -24,8 +24,8 @@ nrdb: https://netrunnerdb.com/en/card/08106
 
 ## Text
 
-**click:** Host up to 3 cards from your grip facedown on this hardware *(you may look at these cards at any time)*.
+**![[click.svg]]:** Host up to 3 cards from your grip facedown on this hardware *(you may look at these cards at any time)*.
 
-**click:** Add all hosted cards to your grip.
+**![[click.svg]]:** Add all hosted cards to your grip.
 
-**trash:** Add all hosted cards to your grip.
+**![[trash.svg]]:** Add all hosted cards to your grip.

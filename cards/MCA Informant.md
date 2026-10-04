@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/12036
 
 After you resolve this operation, your action phase ends.
 
-Host this operation on an installed **connection** resource as a condition counter with "The Runner is considered to have 1 additional tag. Host resource gains '**click**, **2 credits:** Trash this resource.'"
+Host this operation on an installed **connection** resource as a condition counter with "The Runner is considered to have 1 additional tag. Host resource gains '**![[click.svg]]**, **2![[credit.svg]]:** Trash this resource.'"

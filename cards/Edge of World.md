@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/02053
 
 ## Text
 
-When the Runner accesses this asset while it is installed, you may pay 3 credits. If you do, do 1 core damage for each piece of ice protecting this server.
+When the Runner accesses this asset while it is installed, you may pay 3![[credit.svg]]. If you do, do 1 core damage for each piece of ice protecting this server.

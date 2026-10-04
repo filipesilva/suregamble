@@ -27,8 +27,8 @@ nrdb: https://netrunnerdb.com/en/card/21003
 
 ## Text
 
-+2MU
++2![[mu.svg]]
 
-Whenever a Corp card is exposed, you may gain 1 credit.
+Whenever a Corp card is exposed, you may gain 1![[credit.svg]].
 
 Limit 1 **console** per player.

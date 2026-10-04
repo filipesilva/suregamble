@@ -24,6 +24,6 @@ nrdb: https://netrunnerdb.com/en/card/02075
 
 ## Text
 
-Xrecurring credit
+X![[recurring-credit.svg]]
 
 Use these credits during traces. X is the number of links the Runner has.

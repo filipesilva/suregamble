@@ -27,10 +27,10 @@ nrdb: https://netrunnerdb.com/en/card/25097
 
 ## Text
 
-↳ End the run unless the Corp pays 1 credit.
+![[subroutine.svg]] End the run unless the Corp pays 1![[credit.svg]].
 
-↳ Do 1 net damage.
+![[subroutine.svg]] Do 1 net damage.
 
-↳ Do 1 net damage.
+![[subroutine.svg]] Do 1 net damage.
 
-↳ Do 1 net damage.
+![[subroutine.svg]] Do 1 net damage.

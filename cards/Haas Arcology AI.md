@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/03011
 
 You can advance this asset if it is unrezzed.
 
-Once per turn → click, **hosted advancement counter:** Gain 2 clicks.
+Once per turn → ![[click.svg]], **hosted advancement counter:** Gain ![[click.svg]]![[click.svg]].

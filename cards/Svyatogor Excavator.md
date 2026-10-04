@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/33059
 
 ## Text
 
-When your turn begins, you may trash 1 of your other installed cards. If you do, gain 3 credits.
+When your turn begins, you may trash 1 of your other installed cards. If you do, gain 3![[credit.svg]].

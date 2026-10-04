@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/21046
 
 ## Text
 
-Make a run on a remote server. When the run ends, gain click and add Marathon to your grip instead of trashing it if the run was successful. You may not make another run on that server for the remainder of this turn.
+Make a run on a remote server. When the run ends, gain ![[click.svg]] and add Marathon to your grip instead of trashing it if the run was successful. You may not make another run on that server for the remainder of this turn.

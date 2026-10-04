@@ -25,6 +25,6 @@ nrdb: https://netrunnerdb.com/en/card/09004
 
 ## Text
 
-click: Shuffle 15 Minutes into R&D. The Corp can trigger this ability while 15 Minutes is in the Runner's score area.
+![[click.svg]]: Shuffle 15 Minutes into R&D. The Corp can trigger this ability while 15 Minutes is in the Runner's score area.
 
 Limit 1 per deck.

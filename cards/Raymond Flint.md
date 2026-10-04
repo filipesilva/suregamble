@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/04049
 
 Whenever the Corp takes bad publicity, breach HQ. You cannot access cards in the root of HQ during this breach.
 
-**trash:** Expose 1 card.
+**![[trash.svg]]:** Expose 1 card.

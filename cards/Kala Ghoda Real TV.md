@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/10015
 
 When your turn begins, you may look at the top card of the stack.
 
-**trash:** The Runner trashes the top card of the stack.
+**![[trash.svg]]:** The Runner trashes the top card of the stack.

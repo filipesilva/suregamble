@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/13045
 
 ## Text
 
-When your turn begins, gain 1 credit and draw 1 card.
+When your turn begins, gain 1![[credit.svg]] and draw 1 card.
 
 When the Runner trashes this asset *(while it is rezzed)*, take 1 bad publicity.

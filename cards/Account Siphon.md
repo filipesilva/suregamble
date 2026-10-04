@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/01018
 
 ## Text
 
-Run HQ. If successful, instead of breaching HQ, you may force the Corp to lose up to 5 credits, then you gain 2 credits for each credit lost and take 2 tags.
+Run HQ. If successful, instead of breaching HQ, you may force the Corp to lose up to 5![[credit.svg]], then you gain 2![[credit.svg]] for each credit lost and take 2 tags.

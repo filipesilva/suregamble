@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/04006
 
 ## Text
 
-1recurring credit
+1![[recurring-credit.svg]]
 
 Use this credit to pay for using **decoders**.

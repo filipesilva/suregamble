@@ -23,4 +23,4 @@ nrdb: https://netrunnerdb.com/en/card/29013
 
 ## Text
 
-Gain 1 credit for each card in the Runner's grip.
+Gain 1![[credit.svg]] for each card in the Runner's grip.

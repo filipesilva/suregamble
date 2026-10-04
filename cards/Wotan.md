@@ -28,10 +28,10 @@ nrdb: https://netrunnerdb.com/en/card/04030
 
 ## Text
 
-↳ End the run unless the Runner spends 2 clicks.
+![[subroutine.svg]] End the run unless the Runner spends ![[click.svg]]![[click.svg]].
 
-↳ End the run unless the Runner pays 3 credits.
+![[subroutine.svg]] End the run unless the Runner pays 3![[credit.svg]].
 
-↳ End the run unless the Runner trashes 1 installed program.
+![[subroutine.svg]] End the run unless the Runner trashes 1 installed program.
 
-↳ End the run unless the Runner suffers 1 core damage.
+![[subroutine.svg]] End the run unless the Runner suffers 1 core damage.

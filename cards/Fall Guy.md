@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/20035
 
 ## Text
 
-interrupt → trash**:** Prevent a player from trashing another installed resource.
+![[interrupt.svg]] → ![[trash.svg]]**:** Prevent a player from trashing another installed resource.
 
-trash**:** Gain 2 credits.
+![[trash.svg]]**:** Gain 2![[credit.svg]].

@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/08034
 
 Crick has +3 strength while protecting Archives.
 
-↳ Install a card from Archives (paying its install cost).
+![[subroutine.svg]] Install a card from Archives (paying its install cost).

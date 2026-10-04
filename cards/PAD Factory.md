@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/10038
 
 This card costs 0 influence if you have 3 PAD Campaigns in your deck.
 
-click: Place 1 advancement token on a card. You cannot score that card until your next turn begins.
+![[click.svg]]: Place 1 advancement token on a card. You cannot score that card until your next turn begins.

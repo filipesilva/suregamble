@@ -30,8 +30,8 @@ nrdb: https://netrunnerdb.com/en/card/04043
 
 ## Text
 
-Interface → **2 credits:** Break 1 subroutine on host ice.
+Interface → **2![[credit.svg]]:** Break 1 subroutine on host ice.
 
-**click:** Host this program on a piece of ice that is not hosting a **Caïssa** program.
+**![[click.svg]]:** Host this program on a piece of ice that is not hosting a **Caïssa** program.
 
-If this program is hosted on ice, its click ability cannot be used to host it on the next inward or outward piece of ice.
+If this program is hosted on ice, its ![[click.svg]] ability cannot be used to host it on the next inward or outward piece of ice.

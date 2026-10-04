@@ -25,8 +25,8 @@ nrdb: https://netrunnerdb.com/en/card/11029
 
 ## Text
 
-When your turn begins, you may move up to 3 credits from your credit pool to Algo Trading.
+When your turn begins, you may move up to 3![[credit.svg]] from your credit pool to Algo Trading.
 
-When your turn begins, place 2 credits on Algo Trading from the bank if there are at least 6 credits on it.
+When your turn begins, place 2![[credit.svg]] on Algo Trading from the bank if there are at least 6![[credit.svg]] on it.
 
-click,trash: Take all credits from Algo Trading.
+![[click.svg]],![[trash.svg]]: Take all credits from Algo Trading.

@@ -31,4 +31,4 @@ nrdb: https://netrunnerdb.com/en/card/22006
 
 This program gets -1 strength for each card in your grip.
 
-Interface → **2 credits:** Break any number of **code gate** subroutines.
+Interface → **2![[credit.svg]]:** Break any number of **code gate** subroutines.

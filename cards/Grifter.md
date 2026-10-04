@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/04046
 
 ## Text
 
-When your turn ends, gain 1 credit if you made a successful run this turn; otherwise, trash Grifter.
+When your turn ends, gain 1![[credit.svg]] if you made a successful run this turn; otherwise, trash Grifter.

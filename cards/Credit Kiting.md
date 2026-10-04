@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/21023
 
 Play only if you made a successful run on a central server this turn.
 
-Install a card from your grip, lowering its install cost by 8 credits, and take 1 tag.
+Install a card from your grip, lowering its install cost by 8![[credit.svg]], and take 1 tag.

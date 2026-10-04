@@ -33,4 +33,4 @@ While the Runner is accessing this ice in R&D, they must reveal it.
 
 When the Runner accesses this ice anywhere except in Archives, they encounter it.
 
-↳ Trash 1 installed program.
+![[subroutine.svg]] Trash 1 installed program.

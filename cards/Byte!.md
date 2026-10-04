@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/35050
 
 While the Runner is accessing this asset in R&D, they must reveal it.
 
-When the Runner accesses this asset anywhere except in Archives, you may pay 4 credits. If you do, give the Runner 1 tag and do 3 net damage.
+When the Runner accesses this asset anywhere except in Archives, you may pay 4![[credit.svg]]. If you do, give the Runner 1 tag and do 3 net damage.

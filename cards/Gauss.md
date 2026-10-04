@@ -31,6 +31,6 @@ nrdb: https://netrunnerdb.com/en/card/26024
 
 When you install this program, it gets +3 strength for the remainder of the turn.
 
-Interface → **1 credit:** Break 1 **barrier** subroutine.
+Interface → **1![[credit.svg]]:** Break 1 **barrier** subroutine.
 
-**2 credits:** +2 strength.
+**2![[credit.svg]]:** +2 strength.

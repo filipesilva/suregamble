@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/21101
 
 ## Text
 
-Once per turn → click, **suffer 1 net damage:** Gain 1 credit and draw 2 cards.
+Once per turn → ![[click.svg]], **suffer 1 net damage:** Gain 1![[credit.svg]] and draw 2 cards.

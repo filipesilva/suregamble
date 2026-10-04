@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/06043
 
 ## Text
 
-↳ You may choose 1 card in HQ. If you do, the Runner breaches HQ. During this breach, the Runner cannot access cards in the root of HQ, and the first card they access must be the chosen card. When the breach ends, trash this ice.
+![[subroutine.svg]] You may choose 1 card in HQ. If you do, the Runner breaches HQ. During this breach, the Runner cannot access cards in the root of HQ, and the first card they access must be the chosen card. When the breach ends, trash this ice.

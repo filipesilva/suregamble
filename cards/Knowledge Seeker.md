@@ -28,8 +28,8 @@ nrdb: https://netrunnerdb.com/en/card/36040
 
 Whenever an encounter with this ice ends, if it has 3 or more hosted virus counters, purge virus counters and derez this ice.
 
-↳ Place 1 virus counter on this ice.
+![[subroutine.svg]] Place 1 virus counter on this ice.
 
-↳ Look at the top 4 cards of R&D and arrange them in any order.
+![[subroutine.svg]] Look at the top 4 cards of R&D and arrange them in any order.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

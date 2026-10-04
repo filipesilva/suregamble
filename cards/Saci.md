@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/34017
 
 Install only on a piece of ice.
 
-Whenever host ice is rezzed or derezzed, gain 3 credits.
+Whenever host ice is rezzed or derezzed, gain 3![[credit.svg]].

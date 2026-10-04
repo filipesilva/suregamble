@@ -27,7 +27,7 @@ nrdb: https://netrunnerdb.com/en/card/26084
 
 ## Text
 
-+1MU
++1![[mu.svg]]
 
 The first time each turn an event is trashed *(from any location)*, draw 1 card.
 

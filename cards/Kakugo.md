@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/12013
 
 When the Runner passes Kakugo, do 1 net damage.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

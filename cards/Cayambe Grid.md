@@ -29,6 +29,6 @@ nrdb: https://netrunnerdb.com/en/card/26127
 
 When your turn begins, place 1 advancement counter on a piece of ice protecting this server.
 
-Whenever the Runner approaches this server, end the run unless they pay 2 credits for each advanced piece of ice protecting this server.
+Whenever the Runner approaches this server, end the run unless they pay 2![[credit.svg]] for each advanced piece of ice protecting this server.
 
 Limit 1 **region** per server.

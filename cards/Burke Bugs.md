@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/02119
 
 ## Text
 
-↳ Trace[0]. If successful, the Runner trashes 1 program.
+![[subroutine.svg]] Trace[0]. If successful, the Runner trashes 1 program.

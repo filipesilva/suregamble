@@ -29,6 +29,6 @@ nrdb: https://netrunnerdb.com/en/card/08029
 
 Trash all programs hosted on London Library when your turn ends.
 
-click: Install a non-**virus** program from your grip on London Library, ignoring the install cost.
+![[click.svg]]: Install a non-**virus** program from your grip on London Library, ignoring the install cost.
 
-click: Add a program on London Library to your grip.
+![[click.svg]]: Add a program on London Library to your grip.

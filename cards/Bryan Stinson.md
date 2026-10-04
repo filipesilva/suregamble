@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/11117
 
 ## Text
 
-While the Runner has fewer than 6 credits, Bryan Stinson gains "click: Play a **transaction** operation from Archives, ignoring all costs. Remove that **transaction** from the game instead of trashing it."
+While the Runner has fewer than 6![[credit.svg]], Bryan Stinson gains "![[click.svg]]: Play a **transaction** operation from Archives, ignoring all costs. Remove that **transaction** from the game instead of trashing it."

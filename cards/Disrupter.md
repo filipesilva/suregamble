@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/02061
 
 ## Text
 
-interrupt → trash: Reduce the base trace strength of a trace to 0.
+![[interrupt.svg]] → ![[trash.svg]]: Reduce the base trace strength of a trace to 0.

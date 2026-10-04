@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/33005
 
 When you install this hardware, suffer 1 core damage.
 
-The play cost of each event is lowered by 1 credit.
+The play cost of each event is lowered by 1![[credit.svg]].

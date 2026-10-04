@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/11057
 
 This operation is not trashed until another **current** is played or an agenda is stolen.
 
-As an additional cost to run for the first time during their turn, the Runner must spend 1 credit.
+As an additional cost to run for the first time during their turn, the Runner must spend 1![[credit.svg]].

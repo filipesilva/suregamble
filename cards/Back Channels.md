@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/08099
 
 ## Text
 
-Choose 1 card in the root of a remote server. Gain 3 credits for each advancement counter on that card, then trash it.
+Choose 1 card in the root of a remote server. Gain 3![[credit.svg]] for each advancement counter on that card, then trash it.

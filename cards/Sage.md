@@ -32,4 +32,4 @@ nrdb: https://netrunnerdb.com/en/card/06117
 
 This program gets +1 strength for each unused MU.
 
-Interface → **2 credits:** Break 1 **code gate** or 1 **barrier** subroutine.
+Interface → **2![[credit.svg]]:** Break 1 **code gate** or 1 **barrier** subroutine.

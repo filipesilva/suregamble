@@ -30,6 +30,6 @@ nrdb: https://netrunnerdb.com/en/card/34115
 
 ## Text
 
-When your turn begins, place 3 credits on this asset.
+When your turn begins, place 3![[credit.svg]] on this asset.
 
-click, **add this asset to HQ:** Take all credits from this asset. You may install 1 card from HQ.
+![[click.svg]], **add this asset to HQ:** Take all credits from this asset. You may install 1 card from HQ.

@@ -33,9 +33,9 @@ nrdb: https://netrunnerdb.com/en/card/26120
 
 Limit 1 remote server.
 
-As an additional cost to run HQ, the Runner must pay 1 credit.
+As an additional cost to run HQ, the Runner must pay 1![[credit.svg]].
 
-**click:** Flip this identity.
+**![[click.svg]]:** Flip this identity.
 
 ## Earth Station: Ascending to Orbit
 
@@ -47,6 +47,6 @@ As an additional cost to run HQ, the Runner must pay 1 credit.
 
 Limit 1 remote server.
 
-As an additional cost to run a remote server, the Runner must pay 6 credits.
+As an additional cost to run a remote server, the Runner must pay 6![[credit.svg]].
 
 When the Runner makes a successful run on HQ, flip this identity.

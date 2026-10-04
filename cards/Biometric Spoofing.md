@@ -23,4 +23,4 @@ nrdb: https://netrunnerdb.com/en/card/13026
 
 ## Text
 
-interrupt → trash**:** Prevent 2 damage.
+![[interrupt.svg]] → ![[trash.svg]]**:** Prevent 2 damage.

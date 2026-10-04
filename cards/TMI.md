@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/02017
 
 When you rez TMI, Trace[2]. If unsuccessful, derez TMI.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

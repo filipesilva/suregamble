@@ -25,6 +25,6 @@ nrdb: https://netrunnerdb.com/en/card/04060
 
 ## Text
 
-As an additional cost to play this operation, spend click.
+As an additional cost to play this operation, spend ![[click.svg]].
 
 Install a non-operation card from Archives or HQ, ignoring the install cost.

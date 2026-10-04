@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/02059
 
 ## Text
 
-Place 14 credits from the bank on Private Contracts when it is rezzed. When there are no credits left on Private Contracts, trash it.
+Place 14![[credit.svg]] from the bank on Private Contracts when it is rezzed. When there are no credits left on Private Contracts, trash it.
 
-click: Take 2 credits from Private Contracts.
+![[click.svg]]: Take 2![[credit.svg]] from Private Contracts.

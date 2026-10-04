@@ -31,8 +31,8 @@ nrdb: https://netrunnerdb.com/en/card/04115
 
 When you rez this ice, take 1 bad publicity.
 
-↳ Trace[1]. If successful, do 1 net damage.
+![[subroutine.svg]] Trace[1]. If successful, do 1 net damage.
 
-↳ Trace[2]. If successful, do 2 net damage.
+![[subroutine.svg]] Trace[2]. If successful, do 2 net damage.
 
-↳ Trace[3]. If successful, do 3 net damage and end the run.
+![[subroutine.svg]] Trace[3]. If successful, do 3 net damage and end the run.

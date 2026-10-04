@@ -26,8 +26,8 @@ nrdb: https://netrunnerdb.com/en/card/07016
 
 ## Text
 
-click: Move this piece of ice to the outermost position protecting any server.
+![[click.svg]]: Move this piece of ice to the outermost position protecting any server.
 
-↳ Place 1 advancement token on a piece of ice protecting this server that can be advanced.
+![[subroutine.svg]] Place 1 advancement token on a piece of ice protecting this server that can be advanced.
 
-↳ Place 1 advancement token on a piece of ice protecting this server that can be advanced.
+![[subroutine.svg]] Place 1 advancement token on a piece of ice protecting this server that can be advanced.

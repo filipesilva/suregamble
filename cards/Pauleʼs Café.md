@@ -30,6 +30,6 @@ nrdb: https://netrunnerdb.com/en/card/26092
 
 ## Text
 
-**click:** Host 1 program or piece of hardware from your grip faceup on this resource.
+**![[click.svg]]:** Host 1 program or piece of hardware from your grip faceup on this resource.
 
-**1 credit:** Install 1 hosted card. The first card you install this way during each of your turns costs 1 credit less to install for each unique (♦) **connection** resource you have installed.
+**1![[credit.svg]]:** Install 1 hosted card. The first card you install this way during each of your turns costs 1![[credit.svg]] less to install for each unique (♦) **connection** resource you have installed.

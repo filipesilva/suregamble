@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/03012
 
 Thomas Haas can be advanced.
 
-trash: Gain 2 credits for each advancement token on Thomas Haas.
+![[trash.svg]]: Gain 2![[credit.svg]] for each advancement token on Thomas Haas.

@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/33080
 
 ## Text
 
-Interface → **3 credits:** Break up to 2 **barrier** subroutines. This ability costs 1 credit less to use for each installed piece of **cybernetic** hardware.
+Interface → **3![[credit.svg]]:** Break up to 2 **barrier** subroutines. This ability costs 1![[credit.svg]] less to use for each installed piece of **cybernetic** hardware.
 
-**2 credits:** +2 strength.
+**2![[credit.svg]]:** +2 strength.

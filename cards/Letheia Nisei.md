@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/26046
 
 ## Text
 
-The first time the Runner approaches this server during each run, play a Psi Game. *(Players secretly bid 0–2 credits. Then each player reveals and spends their bid.)* If the bids differ, you may trash this upgrade. If you do, the Runner moves to the outermost position of this server. They may jack out.
+The first time the Runner approaches this server during each run, play a Psi Game. *(Players secretly bid 0–2![[credit.svg]]. Then each player reveals and spends their bid.)* If the bids differ, you may trash this upgrade. If you do, the Runner moves to the outermost position of this server. They may jack out.

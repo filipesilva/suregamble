@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/13011
 
 ## Text
 
-+1link
++1![[link.svg]]
 
-trash: Derez a piece of ice protecting a remote server. Use this ability only during the next paid ability window after a successful run on HQ ends.
+![[trash.svg]]: Derez a piece of ice protecting a remote server. Use this ability only during the next paid ability window after a successful run on HQ ends.

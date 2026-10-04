@@ -27,10 +27,10 @@ nrdb: https://netrunnerdb.com/en/card/35018
 
 ## Text
 
-+1MU
++1![[mu.svg]]
 
 The first time each turn you make a successful run on HQ, you may host 1 card from HQ at random faceup on this hardware. *(It is not installed or rezzed.)*
 
-click, **add 2 hosted cards to HQ:** The Runner may access 1 card in HQ at random. Any player can use this ability.
+![[click.svg]], **add 2 hosted cards to HQ:** The Runner may access 1 card in HQ at random. Any player can use this ability.
 
 Limit 1 **console** per player.

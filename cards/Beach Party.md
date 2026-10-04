@@ -24,6 +24,6 @@ nrdb: https://netrunnerdb.com/en/card/08031
 
 ## Text
 
-When your turn begins, lose click.
+When your turn begins, lose ![[click.svg]].
 
 Your maximum hand size is increased by 5.

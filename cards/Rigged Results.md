@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/10102
 
 ## Text
 
-Secretly spend up to 2 credits. The Corp guesses how much you spent. Reveal spent credits. If the Corp guessed incorrectly, choose a piece of ice protecting a server and run that server. The first time during this run you encounter the chosen ice, bypass it.
+Secretly spend up to 2![[credit.svg]]. The Corp guesses how much you spent. Reveal spent credits. If the Corp guessed incorrectly, choose a piece of ice protecting a server and run that server. The first time during this run you encounter the chosen ice, bypass it.

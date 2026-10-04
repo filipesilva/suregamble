@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/33063
 
 ## Text
 
-Gain 6 credits. You may trash 1 of your installed cards to gain 3 credits.
+Gain 6![[credit.svg]]. You may trash 1 of your installed cards to gain 3![[credit.svg]].

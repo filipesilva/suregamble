@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/03008
 
 Place 1 power counter on Alix T4LB07 whenever you install a card.
 
-click,trash: Gain 2 credits for each power counter on Alix T4LB07.
+![[click.svg]],![[trash.svg]]: Gain 2![[credit.svg]] for each power counter on Alix T4LB07.

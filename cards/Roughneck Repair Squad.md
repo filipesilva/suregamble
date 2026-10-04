@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/26057
 
 ## Text
 
-3 clicks**:** Gain 6 credits. You may remove 1 bad publicity.
+![[click.svg]]![[click.svg]]![[click.svg]]**:** Gain 6![[credit.svg]]. You may remove 1 bad publicity.

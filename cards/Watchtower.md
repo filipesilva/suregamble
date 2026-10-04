@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/12038
 
 ## Text
 
-↳ Search R&D for a card and add it to HQ. Shuffle R&D.
+![[subroutine.svg]] Search R&D for a card and add it to HQ. Shuffle R&D.

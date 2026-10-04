@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/36055
 
 ## Text
 
-As long as an agenda was scored or stolen this turn, the rez cost of this upgrade is lowered by 6 credits.
+As long as an agenda was scored or stolen this turn, the rez cost of this upgrade is lowered by 6![[credit.svg]].
 
-trash**:** Place 1 advancement counter on a card you can advance in the root of this server.
+![[trash.svg]]**:** Place 1 advancement counter on a card you can advance in the root of this server.

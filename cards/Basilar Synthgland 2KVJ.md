@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/33086
 
 When you install this hardware, suffer 2 core damage.
 
-You get +1 allotted click for each of your turns.
+You get +1 allotted ![[click.svg]] for each of your turns.

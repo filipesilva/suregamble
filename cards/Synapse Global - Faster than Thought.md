@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/35058
 
 The first time each turn a tag is removed, you may reveal and install 1 card from HQ, ignoring all costs.
 
-click, **remove 1 tag:** Gain 2 credits.
+![[click.svg]], **remove 1 tag:** Gain 2![[credit.svg]].

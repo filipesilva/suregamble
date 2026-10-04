@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/06082
 
 ## Text
 
-↳ Trace[2]. If successful, trash 1 program. If your trace strength is 5 or greater, trash 1 program.
+![[subroutine.svg]] Trace[2]. If successful, trash 1 program. If your trace strength is 5 or greater, trash 1 program.

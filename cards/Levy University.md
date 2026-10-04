@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/03024
 
 ## Text
 
-click, 1 credit: Search R&D for a piece of ice, reveal it, and add it to HQ. Shuffle R&D.
+![[click.svg]], 1![[credit.svg]]: Search R&D for a piece of ice, reveal it, and add it to HQ. Shuffle R&D.

@@ -25,6 +25,6 @@ nrdb: https://netrunnerdb.com/en/card/22011
 
 ## Text
 
-Whenever you make a successful run, you may place 1 credit from the bank on Bankroll.
+Whenever you make a successful run, you may place 1![[credit.svg]] from the bank on Bankroll.
 
-trash: Take all credits from Bankroll.
+![[trash.svg]]: Take all credits from Bankroll.

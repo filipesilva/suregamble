@@ -30,6 +30,6 @@ nrdb: https://netrunnerdb.com/en/card/06059
 
 Whenever you make a successful run on Archives, instead of breaching Archives, you may install this resource from your grip, ignoring all costs.
 
-**trash:** Breach Archives. You cannot access cards in the root of Archives during this breach.
+**![[trash.svg]]:** Breach Archives. You cannot access cards in the root of Archives during this breach.
 
 Limit 1 per deck.

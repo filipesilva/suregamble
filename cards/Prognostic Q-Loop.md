@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/26077
 
 The first time each turn a run begins, you may look at the top 2 cards of your stack.
 
-Once per turn → **1 credit:** Reveal the top card of your stack. If that card is a program or piece of hardware, you may install it.
+Once per turn → **1![[credit.svg]]:** Reveal the top card of your stack. If that card is a program or piece of hardware, you may install it.

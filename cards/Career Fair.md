@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/31015
 
 ## Text
 
-Install 1 resource from your grip, paying 3 credits less.
+Install 1 resource from your grip, paying 3![[credit.svg]] less.

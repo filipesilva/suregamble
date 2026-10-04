@@ -27,7 +27,7 @@ nrdb: https://netrunnerdb.com/en/card/09047
 
 ## Text
 
-+1MU, +1link
++1![[mu.svg]], +1![[link.svg]]
 
 Once per turn → When you encounter a piece of ice, you may have the Corp trace[5]. If successful, they give you 1 tag and end the run. If unsuccesful, bypass the encountered ice.
 

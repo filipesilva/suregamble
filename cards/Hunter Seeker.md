@@ -26,7 +26,7 @@ nrdb: https://netrunnerdb.com/en/card/13051
 
 ## Text
 
-As an additional cost to play this operation, spend click.
+As an additional cost to play this operation, spend ![[click.svg]].
 
 Play only if the Runner stole an agenda during their last turn.
 

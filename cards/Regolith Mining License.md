@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/30071
 
 ## Text
 
-When you rez this asset, load 15 credits onto it. When it is empty, trash it.
+When you rez this asset, load 15![[credit.svg]] onto it. When it is empty, trash it.
 
-click**:** Take 3 credits from this asset.
+![[click.svg]]**:** Take 3![[credit.svg]] from this asset.

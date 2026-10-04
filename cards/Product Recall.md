@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/10029
 
 ## Text
 
-This card costs 0 influence if you have 6 or more non-**alliance** haas bioroid cards in your deck.
+This card costs 0 influence if you have 6 or more non-**alliance** ![[haas-bioroid.svg]] cards in your deck.
 
 Trash a rezzed asset or upgrade. If you do, gain credits equal to its trash cost.

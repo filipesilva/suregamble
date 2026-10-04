@@ -32,4 +32,4 @@ nrdb: https://netrunnerdb.com/en/card/31025
 
 Before drawing your starting hand, set aside the top 6 cards of your stack facedown. *(You may look at those cards at any time.)* Shuffle 2 of those cards into your stack.
 
-click**:** Add 1 card set aside with this identity to your grip.
+![[click.svg]]**:** Add 1 card set aside with this identity to your grip.

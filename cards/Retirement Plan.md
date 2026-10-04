@@ -25,6 +25,6 @@ nrdb: https://netrunnerdb.com/en/card/36034
 
 ## Text
 
-As an additional cost to play this operation, spend click.
+As an additional cost to play this operation, spend ![[click.svg]].
 
 Install 1 agenda, asset, or piece of ice from Archives.

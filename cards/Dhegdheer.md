@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/13020
 
 ## Text
 
-You can install other programs onto this program. Each program installed this way costs 1 credit less to install. Limit 1 hosted program.
+You can install other programs onto this program. Each program installed this way costs 1![[credit.svg]] less to install. Limit 1 hosted program.
 
 The memory cost of the hosted program does not count against your memory limit.

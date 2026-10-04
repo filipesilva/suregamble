@@ -31,4 +31,4 @@ nrdb: https://netrunnerdb.com/en/card/33108
 
 When you rez this ice during a run against this server, you may trash 1 card from HQ. If you do, choose 1 installed Runner card. That cardʼs abilities cannot break subroutines for the remainder of that run.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

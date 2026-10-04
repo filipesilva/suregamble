@@ -27,7 +27,7 @@ nrdb: https://netrunnerdb.com/en/card/35006
 
 ## Text
 
-+1MU
++1![[mu.svg]]
 
 Whenever you install a card without spending credits, you may host the top card of your stack faceup on this hardware. *(It is not installed.)*
 

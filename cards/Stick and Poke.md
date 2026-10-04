@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/36008
 
 ## Text
 
-The first time each turn you encounter a piece of ice, it gains “↳ Do 1 net damage. The Runner draws 1 card.”, before its other subroutines, for the remainder of that encounter.
+The first time each turn you encounter a piece of ice, it gains “![[subroutine.svg]] Do 1 net damage. The Runner draws 1 card.”, before its other subroutines, for the remainder of that encounter.

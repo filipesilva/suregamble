@@ -34,4 +34,4 @@ Resolve 2 of the following in any order:
 
 - Place 1 advancement counter on an installed card you can advance.
 
-- Gain 2 credits.
+- Gain 2![[credit.svg]].

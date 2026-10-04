@@ -26,8 +26,8 @@ nrdb: https://netrunnerdb.com/en/card/26013
 
 Use this hardware only during your turn.
 
-trash**:** Jack out.
+![[trash.svg]]**:** Jack out.
 
-trash**:** Remove 1 tag.
+![[trash.svg]]**:** Remove 1 tag.
 
-interrupt → trash**:** Reduce the base trace strength of a trace to 0.
+![[interrupt.svg]] → ![[trash.svg]]**:** Reduce the base trace strength of a trace to 0.

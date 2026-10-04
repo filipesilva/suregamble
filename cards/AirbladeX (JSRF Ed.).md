@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/34022
 
 When you install this hardware, load 3 power counters onto it. When it is empty, trash it.
 
-interrupt → **Hosted power counter:** Prevent 1 net damage. Use this ability only during a run.
+![[interrupt.svg]] → **Hosted power counter:** Prevent 1 net damage. Use this ability only during a run.
 
-interrupt → **Hosted power counter:** Prevent a "when encountered" ability on a piece of ice.
+![[interrupt.svg]] → **Hosted power counter:** Prevent a "when encountered" ability on a piece of ice.

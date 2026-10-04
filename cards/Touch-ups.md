@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/35067
 
 ## Text
 
-As an additional cost to play this operation, spend click.
+As an additional cost to play this operation, spend ![[click.svg]].
 
 Place 2 advancement counters on 1 installed card you can advance. If you do, choose a card type and reveal the grip. Choose up to 2 revealed cards of that type. The Runner shuffles those cards into the stack.

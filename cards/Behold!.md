@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/34051
 
 While the Runner is accessing this asset in R&D, they must reveal it.
 
-When the Runner accesses this asset anywhere except in Archives, you may pay 4 credits to give them 2 tags.
+When the Runner accesses this asset anywhere except in Archives, you may pay 4![[credit.svg]] to give them 2 tags.

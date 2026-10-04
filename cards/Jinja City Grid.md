@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/21031
 
 ## Text
 
-Whenever you draw a piece of ice, you may reveal it and install it protecting this server, paying 4 credits less.
+Whenever you draw a piece of ice, you may reveal it and install it protecting this server, paying 4![[credit.svg]] less.
 
 Limit 1 **region** per server.

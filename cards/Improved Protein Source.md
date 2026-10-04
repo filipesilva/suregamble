@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/10105
 
 ## Text
 
-When Improved Protein Source is scored or stolen, the Runner gains 4 credits.
+When Improved Protein Source is scored or stolen, the Runner gains 4![[credit.svg]].

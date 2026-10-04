@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/10048
 
 Place 3 agenda counters on Voting Machine Initiative when you score it.
 
-When the Runner's turn begins, you may spend 1 hosted agenda counter. If you do, the Runner loses click, if able.
+When the Runner's turn begins, you may spend 1 hosted agenda counter. If you do, the Runner loses ![[click.svg]], if able.

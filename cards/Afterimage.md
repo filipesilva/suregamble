@@ -29,8 +29,8 @@ nrdb: https://netrunnerdb.com/en/card/26079
 
 ## Text
 
-Once per turn → When you encounter a **sentry**, you may pay 2 credits to bypass it. Spend credits only from **stealth** cards to use this ability.
+Once per turn → When you encounter a **sentry**, you may pay 2![[credit.svg]] to bypass it. Spend credits only from **stealth** cards to use this ability.
 
-Interface → **1 credit:** Break up to 2 **sentry** subroutines.
+Interface → **1![[credit.svg]]:** Break up to 2 **sentry** subroutines.
 
-**1 credit:** +2 strength. Spend credits only from **stealth** cards to use this ability.
+**1![[credit.svg]]:** +2 strength. Spend credits only from **stealth** cards to use this ability.

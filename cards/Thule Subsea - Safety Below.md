@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/33095
 
 ## Text
 
-Whenever the Runner steals an agenda, do 1 core damage unless they spend click and 2 credits.
+Whenever the Runner steals an agenda, do 1 core damage unless they spend ![[click.svg]] and 2![[credit.svg]].

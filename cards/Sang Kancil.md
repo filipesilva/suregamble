@@ -29,6 +29,6 @@ nrdb: https://netrunnerdb.com/en/card/35020
 
 ## Text
 
-Interface → **1 credit:** Break 1 **code gate** subroutine.
+Interface → **1![[credit.svg]]:** Break 1 **code gate** subroutine.
 
-**3 credits:** +2 strength. If a **run** event is active, this ability costs 2 credits less to use.
+**3![[credit.svg]]:** +2 strength. If a **run** event is active, this ability costs 2![[credit.svg]] less to use.

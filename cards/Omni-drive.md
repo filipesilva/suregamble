@@ -26,8 +26,8 @@ nrdb: https://netrunnerdb.com/en/card/03039
 
 ## Text
 
-Omni-drive can host a single program of 1MU or less. The memory cost of the hosted program does not count against your memory limit.
+Omni-drive can host a single program of 1![[mu.svg]] or less. The memory cost of the hosted program does not count against your memory limit.
 
-1recurring credit
+1![[recurring-credit.svg]]
 
 Use this credit to pay for using the hosted program.

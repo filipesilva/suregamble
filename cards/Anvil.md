@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/33124
 
 When the Runner encounters this ice, you may trash 1 of your other installed cards. If you do, the Runner cannot break this iceʼs printed subroutines for the remainder of this encounter.
 
-↳ Gain 1 credit. The Runner loses 1 credit.
+![[subroutine.svg]] Gain 1![[credit.svg]]. The Runner loses 1![[credit.svg]].
 
-↳ The Runner trashes 1 of their installed cards.
+![[subroutine.svg]] The Runner trashes 1 of their installed cards.

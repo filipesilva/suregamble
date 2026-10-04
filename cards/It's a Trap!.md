@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/08090
 
 Whenever this ice is exposed, do 2 net damage.
 
-↳ The Runner trashes 1 of their installed cards. Trash this ice.
+![[subroutine.svg]] The Runner trashes 1 of their installed cards. Trash this ice.

@@ -23,4 +23,4 @@ nrdb: https://netrunnerdb.com/en/card/07050
 
 ## Text
 
-interrupt → trash**:** Prevent all damage. Trash all installed hardware, all installed non-**virtual** resources, and all cards from your grip. Lose all credits in your credit pool. Remove all tags.
+![[interrupt.svg]] → ![[trash.svg]]**:** Prevent all damage. Trash all installed hardware, all installed non-**virtual** resources, and all cards from your grip. Lose all credits in your credit pool. Remove all tags.

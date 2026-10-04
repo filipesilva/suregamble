@@ -33,4 +33,4 @@ Lycan can be advanced.
 
 While Lycan has an odd number of advancement tokens on it, it gains **code gate** and loses **sentry**.
 
-↳ Trash 1 program.
+![[subroutine.svg]] Trash 1 program.

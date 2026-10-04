@@ -23,4 +23,4 @@ nrdb: https://netrunnerdb.com/en/card/04023
 
 ## Text
 
-When your turn begins, gain 2 credits and lose click.
+When your turn begins, gain 2![[credit.svg]] and lose ![[click.svg]].

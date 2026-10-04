@@ -30,6 +30,6 @@ nrdb: https://netrunnerdb.com/en/card/33070
 
 The first time each turn this program fully breaks a piece of ice, you may trash 1 card from your grip to draw 1 card.
 
-Interface → **1 credit:** Break 1 **code gate** subroutine.
+Interface → **1![[credit.svg]]:** Break 1 **code gate** subroutine.
 
-**2 credits:** +2 strength.
+**2![[credit.svg]]:** +2 strength.

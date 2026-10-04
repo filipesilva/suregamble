@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/34121
 
 Whenever you finish resolving an operation or an action on an **expendable** card, look at the top card of R&D. You may trash that card.
 
-The first time you trash a card from R&D during each of your turns, gain 2 credits.
+The first time you trash a card from R&D during each of your turns, gain 2![[credit.svg]].

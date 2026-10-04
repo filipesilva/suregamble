@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/21060
 
 The install cost of each program, piece of hardware, and **virtual** resource is increased by 1.
 
-Whenever the Runner installs a program, piece of hardware, or **virtual** resource, you may gain 1 credit.
+Whenever the Runner installs a program, piece of hardware, or **virtual** resource, you may gain 1![[credit.svg]].

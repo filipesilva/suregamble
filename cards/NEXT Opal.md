@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/12050
 
 ## Text
 
-This ice gains "↳ You may install 1 card from HQ." for each rezzed piece of **NEXT** ice.
+This ice gains "![[subroutine.svg]] You may install 1 card from HQ." for each rezzed piece of **NEXT** ice.

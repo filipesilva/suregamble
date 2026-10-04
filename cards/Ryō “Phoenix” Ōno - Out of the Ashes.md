@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/35001
 
 ## Text
 
-The first time each turn a run becomes successful after a subroutine resolved during that run, gain 1 credit and the Corp trashes 1 card from HQ.
+The first time each turn a run becomes successful after a subroutine resolved during that run, gain 1![[credit.svg]] and the Corp trashes 1 card from HQ.

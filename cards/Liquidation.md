@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/11037
 
 ## Text
 
-As an additional cost to play this operation, spend click.
+As an additional cost to play this operation, spend ![[click.svg]].
 
-Trash any number of your rezzed cards and gain 3 credits for each card trashed.
+Trash any number of your rezzed cards and gain 3![[credit.svg]] for each card trashed.

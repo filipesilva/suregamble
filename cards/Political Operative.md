@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/10043
 
 Install only if you made a successful run on HQ this turn.
 
-**trash**, **X credits:** Trash 1 rezzed card with trash cost equal to X.
+**![[trash.svg]]**, **X![[credit.svg]]:** Trash 1 rezzed card with trash cost equal to X.

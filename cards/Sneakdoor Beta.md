@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/31023
 
 ## Text
 
-click**:** Run Archives. If that run would be declared successful, change the attacked server to HQ for the remainder of that run.
+![[click.svg]]**:** Run Archives. If that run would be declared successful, change the attacked server to HQ for the remainder of that run.

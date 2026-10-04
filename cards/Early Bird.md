@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/05032
 
 Play only as your first click.
 
-Gain click. Run any server.
+Gain ![[click.svg]]. Run any server.

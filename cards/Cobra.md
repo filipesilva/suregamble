@@ -29,6 +29,6 @@ nrdb: https://netrunnerdb.com/en/card/10074
 
 ## Text
 
-↳ Trash 1 program.
+![[subroutine.svg]] Trash 1 program.
 
-↳ Do 2 net damage.
+![[subroutine.svg]] Do 2 net damage.

@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/33061
 
 ## Text
 
-↳ Gain 2 credits.
+![[subroutine.svg]] Gain 2![[credit.svg]].
 
-↳ End the run.
+![[subroutine.svg]] End the run.

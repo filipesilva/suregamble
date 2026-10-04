@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/06026
 
 This card is not trashed until another **current** is played or an agenda is stolen.
 
-Name a card. Gain 10 credits whenever the Runner plays or installs a copy of that card.
+Name a card. Gain 10![[credit.svg]] whenever the Runner plays or installs a copy of that card.

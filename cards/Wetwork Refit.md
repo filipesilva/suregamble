@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/11071
 
 ## Text
 
-Host this operation on a rezzed piece of **bioroid** ice as a condition counter with "Host ice gains '↳ Do 1 core damage.' before all its other subroutines."
+Host this operation on a rezzed piece of **bioroid** ice as a condition counter with "Host ice gains '![[subroutine.svg]] Do 1 core damage.' before all its other subroutines."

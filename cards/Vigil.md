@@ -26,7 +26,7 @@ nrdb: https://netrunnerdb.com/en/card/07047
 
 ## Text
 
-+1MU
++1![[mu.svg]]
 
 When your turn begins, if the Corp has cards in HQ equal to their maximum hand size, draw 1 card.
 

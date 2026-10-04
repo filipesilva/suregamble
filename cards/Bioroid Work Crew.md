@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/12051
 
 ## Text
 
-**trash:** Install 1 card from HQ. Use this ability only during the next paid ability window after playing and resolving an operation.
+**![[trash.svg]]:** Install 1 card from HQ. Use this ability only during the next paid ability window after playing and resolving an operation.

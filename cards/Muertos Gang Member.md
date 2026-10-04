@@ -30,4 +30,4 @@ When you install Muertos Gang Member, the Corp must derez a card.
 
 When Muertos Gang Member is uninstalled, the Corp may rez a card, ignoring the rez cost.
 
-trash: Draw 1 card.
+![[trash.svg]]: Draw 1 card.

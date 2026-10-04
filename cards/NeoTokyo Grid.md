@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/05021
 
 ## Text
 
-The first time each turn an advancement counter is placed on a card in the root of this server, gain 1 credit.
+The first time each turn an advancement counter is placed on a card in the root of this server, gain 1![[credit.svg]].
 
 Limit 1 **region** per server.

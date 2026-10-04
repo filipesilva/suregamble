@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/09014
 
 ## Text
 
-↳ Trace[3]. If successful, give the Runner 1 tag.
+![[subroutine.svg]] Trace[3]. If successful, give the Runner 1 tag.
 
-If a **current** is active, this ice gains "↳ End the run." after its other subroutines.
+If a **current** is active, this ice gains "![[subroutine.svg]] End the run." after its other subroutines.

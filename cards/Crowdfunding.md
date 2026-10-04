@@ -26,8 +26,8 @@ nrdb: https://netrunnerdb.com/en/card/28002
 
 ## Text
 
-When you install this resource, load 3 credits onto it. When it is empty, trash it and draw 1 card.
+When you install this resource, load 3![[credit.svg]] onto it. When it is empty, trash it and draw 1 card.
 
-When your turn begins, take 1 credit from this resource.
+When your turn begins, take 1![[credit.svg]] from this resource.
 
 When your turn ends, if you made at least 3 successful runs this turn and this card is in your heap, you may install it, ignoring all costs.

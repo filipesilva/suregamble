@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/31066
 
 ## Text
 
-When the Runner encounters this ice, they must pay 3 credits, if able. If they do not, end the run.
+When the Runner encounters this ice, they must pay 3![[credit.svg]], if able. If they do not, end the run.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

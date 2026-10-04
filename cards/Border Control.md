@@ -26,8 +26,8 @@ nrdb: https://netrunnerdb.com/en/card/28005
 
 ## Text
 
-trash: End the run. Use this ability only during a run on this server.
+![[trash.svg]]: End the run. Use this ability only during a run on this server.
 
-↳ Gain 1 credit for each piece of ice protecting this server.
+![[subroutine.svg]] Gain 1![[credit.svg]] for each piece of ice protecting this server.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

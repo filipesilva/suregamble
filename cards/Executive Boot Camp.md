@@ -25,6 +25,6 @@ nrdb: https://netrunnerdb.com/en/card/29015
 
 ## Text
 
-When your turn begins, you may rez a card, lowering the rez cost by 1 credit.
+When your turn begins, you may rez a card, lowering the rez cost by 1![[credit.svg]].
 
-1 credit,trash: Search R&D for an asset, reveal it, and add it to HQ. Shuffle R&D.
+1![[credit.svg]],![[trash.svg]]: Search R&D for an asset, reveal it, and add it to HQ. Shuffle R&D.

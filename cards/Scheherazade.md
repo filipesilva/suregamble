@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/04022
 
 Scheherazade can host any number of programs.
 
-Whenever you install a program on Scheherazade, gain 1 credit.
+Whenever you install a program on Scheherazade, gain 1![[credit.svg]].

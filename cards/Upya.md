@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/21007
 
 Whenever you make a successful run on R&D, you may place 1 power counter on this program.
 
-Once per turn → click, **3 hosted power counters:** Gain 2 clicks.
+Once per turn → ![[click.svg]], **3 hosted power counters:** Gain ![[click.svg]]![[click.svg]].

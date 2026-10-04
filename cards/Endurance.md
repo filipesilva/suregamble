@@ -27,7 +27,7 @@ nrdb: https://netrunnerdb.com/en/card/33025
 
 ## Text
 
-+2MU
++2![[mu.svg]]
 
 When you install this hardware, place 3 power counters on it.
 

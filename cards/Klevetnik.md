@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/33116
 
 ## Text
 
-When you rez this ice during a run against this server, you may have the Runner gain 2 credits. If you do, choose 1 installed resource. That resource loses all abilities until your next turn ends.
+When you rez this ice during a run against this server, you may have the Runner gain 2![[credit.svg]]. If you do, choose 1 installed resource. That resource loses all abilities until your next turn ends.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/06039
 
 ## Text
 
-interrupt → **3 credits** or trash**:** Prevent a player from trashing 1 installed piece of hardware.
+![[interrupt.svg]] → **3![[credit.svg]]** or ![[trash.svg]]**:** Prevent a player from trashing 1 installed piece of hardware.

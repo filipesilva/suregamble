@@ -32,6 +32,6 @@ Whenever you encounter a **barrier**, you may spend 3 hosted power counters to b
 
 Whenever this program fully breaks a piece of ice, place 1 power counter on this program.
 
-Interface → **1 credit:** Break 1 **barrier** subroutine.
+Interface → **1![[credit.svg]]:** Break 1 **barrier** subroutine.
 
-**1 credit:** +1 strength.
+**1![[credit.svg]]:** +1 strength.

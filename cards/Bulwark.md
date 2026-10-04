@@ -30,10 +30,10 @@ nrdb: https://netrunnerdb.com/en/card/11078
 
 When you rez this ice, take 1 bad publicity.
 
-When the Runner encounters this ice, if there is an installed **AI** program, gain 2 credits.
+When the Runner encounters this ice, if there is an installed **AI** program, gain 2![[credit.svg]].
 
-↳ The Runner trashes 1 installed program.
+![[subroutine.svg]] The Runner trashes 1 installed program.
 
-↳ Gain 2 credits. End the run.
+![[subroutine.svg]] Gain 2![[credit.svg]]. End the run.
 
-↳ Gain 2 credits. End the run.
+![[subroutine.svg]] Gain 2![[credit.svg]]. End the run.

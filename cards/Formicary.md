@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/22054
 
 Whenever the Runner approaches a server, you may rez this ice. If you do, move this ice to the innermost position protecting the approached server. The Runner moves to this ice and encounters it.
 
-↳ End the run unless the Runner suffers 2 net damage.
+![[subroutine.svg]] End the run unless the Runner suffers 2 net damage.

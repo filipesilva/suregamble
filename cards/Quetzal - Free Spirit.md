@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/31001
 
 ## Text
 
-Once per turn → **0 credits:** Break 1 **barrier** subroutine.
+Once per turn → **0![[credit.svg]]:** Break 1 **barrier** subroutine.

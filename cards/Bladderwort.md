@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/33041
 
 ## Text
 
-When your turn begins, gain 1 credit. Then, if you have 4 credits or less, do 1 net damage.
+When your turn begins, gain 1![[credit.svg]]. Then, if you have 4![[credit.svg]] or less, do 1 net damage.

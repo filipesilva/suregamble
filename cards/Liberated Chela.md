@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/10081
 
 ## Text
 
-5 clicks, **forfeit an agenda:** The Corp may forfeit an agenda to remove this resource from the game. If they do not, add this resource to your score area as an agenda worth 2 agenda points.
+![[click.svg]]![[click.svg]]![[click.svg]]![[click.svg]]![[click.svg]], **forfeit an agenda:** The Corp may forfeit an agenda to remove this resource from the game. If they do not, add this resource to your score area as an agenda worth 2 agenda points.

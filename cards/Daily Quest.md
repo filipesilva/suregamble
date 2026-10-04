@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/26048
 
 Rez only during your action phase.
 
-Whenever the Runner makes a successful run on this server, they gain 2 credits.
+Whenever the Runner makes a successful run on this server, they gain 2![[credit.svg]].
 
-When your turn begins, if the Runner did not make a successful run on this server during their last turn, gain 3 credits.
+When your turn begins, if the Runner did not make a successful run on this server during their last turn, gain 3![[credit.svg]].

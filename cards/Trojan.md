@@ -22,4 +22,4 @@ nrdb: https://netrunnerdb.com/en/card/14008
 
 If Trojan is accessed from R&D, then Runner must reveal it.
 
-When the Runner accesses Trojan, lose 2 credits, trash 1 card from HQ at random, and destroy Trojan. Ignore this ability if the Runner accesses Trojan from Archives.
+When the Runner accesses Trojan, lose 2![[credit.svg]], trash 1 card from HQ at random, and destroy Trojan. Ignore this ability if the Runner accesses Trojan from Archives.

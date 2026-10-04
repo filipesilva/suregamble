@@ -26,10 +26,10 @@ nrdb: https://netrunnerdb.com/en/card/08065
 
 ## Text
 
-+1link
++1![[link.svg]]
 
-interrupt → **trash:** Prevent 1 tag.
+![[interrupt.svg]] → **![[trash.svg]]:** Prevent 1 tag.
 
-**trash:** Remove 1 tag.
+**![[trash.svg]]:** Remove 1 tag.
 
 Limit 1 **console** per player.

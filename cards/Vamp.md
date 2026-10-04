@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/02021
 
 ## Text
 
-Run HQ. If successful, instead of breaching HQ, you may spend X credits. If you do, the Corp loses X credits. If you spent credits, take 1 tag.
+Run HQ. If successful, instead of breaching HQ, you may spend X![[credit.svg]]. If you do, the Corp loses X![[credit.svg]]. If you spent credits, take 1 tag.

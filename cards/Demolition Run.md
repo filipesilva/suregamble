@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/20002
 
 Run HQ or R&D.
 
-Access → **0 credits:** Trash the card you are accessing.
+Access → **0![[credit.svg]]:** Trash the card you are accessing.

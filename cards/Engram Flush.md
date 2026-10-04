@@ -30,6 +30,6 @@ nrdb: https://netrunnerdb.com/en/card/26108
 
 When the Runner encounters this ice, choose a card type. For the remainder of the encounter, whenever you reveal the grip with a subroutine on this ice, you may trash 1 revealed card of the chosen type.
 
-↳ Reveal the grip.
+![[subroutine.svg]] Reveal the grip.
 
-↳ Reveal the grip.
+![[subroutine.svg]] Reveal the grip.

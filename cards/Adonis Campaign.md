@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/25070
 
 ## Text
 
-Put 12 credits from the bank on Adonis Campaign when rezzed. When there are no credits left on Adonis Campaign, trash it.
+Put 12![[credit.svg]] from the bank on Adonis Campaign when rezzed. When there are no credits left on Adonis Campaign, trash it.
 
-Take 3 credits from Adonis Campaign when your turn begins.
+Take 3![[credit.svg]] from Adonis Campaign when your turn begins.

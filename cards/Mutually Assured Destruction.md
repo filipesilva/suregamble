@@ -25,6 +25,6 @@ nrdb: https://netrunnerdb.com/en/card/33064
 
 ## Text
 
-As an additional cost to play this operation, spend 2 clicks.
+As an additional cost to play this operation, spend ![[click.svg]]![[click.svg]].
 
 Trash any number of your rezzed cards. Give the Runner 1 tag for each card trashed this way.

@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/12022
 
 Whenever you suffer any amount of damage, place 1 power counter on Clan Vengeance.
 
-trash: Trash 1 card from HQ at random for each power counter on Clan Vengeance.
+![[trash.svg]]: Trash 1 card from HQ at random for each power counter on Clan Vengeance.

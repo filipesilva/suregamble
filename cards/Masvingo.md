@@ -31,4 +31,4 @@ You can advance this ice.
 
 When you rez this ice, place 1 advancement counter on it.
 
-This ice gains "↳ End the run." for each hosted advancement counter.
+This ice gains "![[subroutine.svg]] End the run." for each hosted advancement counter.

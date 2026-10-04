@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/05014
 
 ## Text
 
-Gain 8 credits. The Runner gains 3 credits.
+Gain 8![[credit.svg]]. The Runner gains 3![[credit.svg]].

@@ -30,4 +30,4 @@ When you rez Chimera, choose **sentry**, **code gate**, or **barrier**. Chimera 
 
 When a turn ends, derez Chimera.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

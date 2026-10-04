@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/04110
 
 ## Text
 
-↳ The Runner's maximum hand size is reduced by 2 until the beginning of the Corp's next turn.
+![[subroutine.svg]] The Runner's maximum hand size is reduced by 2 until the beginning of the Corp's next turn.

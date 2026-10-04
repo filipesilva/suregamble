@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/36062
 
 ## Text
 
-Install and rez 1 piece of ice from Archives, paying a total of 10 credits less. If you rezzed a piece of non-**liability** ice this way, take 1 bad publicity.
+Install and rez 1 piece of ice from Archives, paying a total of 10![[credit.svg]] less. If you rezzed a piece of non-**liability** ice this way, take 1 bad publicity.

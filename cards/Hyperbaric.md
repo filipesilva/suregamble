@@ -32,6 +32,6 @@ When you install this program, place 1 power counter on it.
 
 This program gets +1 strength for each hosted power counter.
 
-Interface → **1 credit:** Break 1 **code gate** subroutine.
+Interface → **1![[credit.svg]]:** Break 1 **code gate** subroutine.
 
-**2 credits:** Place 1 power counter on this program.
+**2![[credit.svg]]:** Place 1 power counter on this program.

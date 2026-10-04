@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/20080
 
 ## Text
 
-interrupt → Whenever you would do meat damage, increase that damage by 1.
+![[interrupt.svg]] → Whenever you would do meat damage, increase that damage by 1.

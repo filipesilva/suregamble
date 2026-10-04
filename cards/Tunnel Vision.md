@@ -30,6 +30,6 @@ nrdb: https://netrunnerdb.com/en/card/33081
 
 When your turn begins, identify your mark. *(If you donʼt have a mark, a random central server becomes your mark for this turn.)*
 
-Interface → **2 credits:** Break up to 2 subroutines on a piece of ice protecting your mark.
+Interface → **2![[credit.svg]]:** Break up to 2 subroutines on a piece of ice protecting your mark.
 
-**2 credits:** +2 strength.
+**2![[credit.svg]]:** +2 strength.

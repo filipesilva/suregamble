@@ -30,6 +30,6 @@ Before taking your first turn, install up to 5 cards, ignoring all install costs
 
 Detective's Bureau: Upholding the Law
 
-The first time the Runner initiates a run each turn, force the Runner to lose 1 credit for each agenda point in his or her score area, then you gain 1 credit for each credit lost.
+The first time the Runner initiates a run each turn, force the Runner to lose 1![[credit.svg]] for each agenda point in his or her score area, then you gain 1![[credit.svg]] for each credit lost.
 
-click: Gain 3 credits or draw 3 cards.
+![[click.svg]]: Gain 3![[credit.svg]] or draw 3 cards.

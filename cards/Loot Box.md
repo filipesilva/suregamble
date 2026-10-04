@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/26051
 
 ## Text
 
-↳ End the run unless the Runner pays 2 credits.
+![[subroutine.svg]] End the run unless the Runner pays 2![[credit.svg]].
 
-↳ Reveal the top 3 cards of the stack. Add 1 of those cards to the grip and gain X credits, where X is equal to that cardʼs play or install cost. The Runner shuffles the stack. Trash this ice.
+![[subroutine.svg]] Reveal the top 3 cards of the stack. Add 1 of those cards to the grip and gain X![[credit.svg]], where X is equal to that cardʼs play or install cost. The Runner shuffles the stack. Trash this ice.

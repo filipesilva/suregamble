@@ -30,8 +30,8 @@ Resolve 2 of the following in any order:
 
 - Draw 2 cards.
 
-- Gain 2 credits.
+- Gain 2![[credit.svg]].
 
 - Install 1 non-agenda card from HQ.
 
-- Gain click.
+- Gain ![[click.svg]].

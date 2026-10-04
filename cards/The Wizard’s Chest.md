@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/34070
 
 Use this hardware only if you made a successful run on HQ, R&D, and Archives this turn.
 
-trash**:** Choose hardware, program, or resource. Set aside cards from the top of your stack faceup until you set aside 2 cards of the chosen type. You may install 1 of those 2 cards, ignoring all costs. Shuffle the rest of the set-aside cards into your stack.
+![[trash.svg]]**:** Choose hardware, program, or resource. Set aside cards from the top of your stack faceup until you set aside 2 cards of the chosen type. You may install 1 of those 2 cards, ignoring all costs. Shuffle the rest of the set-aside cards into your stack.

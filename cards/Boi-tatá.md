@@ -30,8 +30,8 @@ nrdb: https://netrunnerdb.com/en/card/34071
 
 ## Text
 
-If you trashed any of your installed cards this turn, paid abilities on this program cost 1 credit less to use.
+If you trashed any of your installed cards this turn, paid abilities on this program cost 1![[credit.svg]] less to use.
 
-Interface → **2 credits:** Break up to 2 **sentry** subroutines.
+Interface → **2![[credit.svg]]:** Break up to 2 **sentry** subroutines.
 
-**3 credits:** +3 strength.
+**3![[credit.svg]]:** +3 strength.

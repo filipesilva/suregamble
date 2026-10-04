@@ -24,6 +24,6 @@ nrdb: https://netrunnerdb.com/en/card/22024
 
 ## Text
 
-Reduce the play cost of Office Supplies by 1 for each link you have.
+Reduce the play cost of Office Supplies by 1 for each ![[link.svg]] you have.
 
-Gain 4 credits or draw 4 cards.
+Gain 4![[credit.svg]] or draw 4 cards.

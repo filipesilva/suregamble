@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/10069
 
 ## Text
 
-↳ You and the Runner secretly spend 0 credits, 1 credit, or 2 credits. Reveal spent credits. If you and the Runner spent a different number of credits, the Runner loses 2 credits.
+![[subroutine.svg]] You and the Runner secretly spend 0![[credit.svg]], 1![[credit.svg]], or 2![[credit.svg]]. Reveal spent credits. If you and the Runner spent a different number of credits, the Runner loses 2![[credit.svg]].
 
-↳ Resolve a subroutine on a piece of rezzed **psi** ice.
+![[subroutine.svg]] Resolve a subroutine on a piece of rezzed **psi** ice.

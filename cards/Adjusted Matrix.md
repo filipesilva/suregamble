@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/12046
 
 Install only on an **icebreaker**.
 
-Host **icebreaker** gains **AI** and "Interface → **Lose click:** Break 1 subroutine."
+Host **icebreaker** gains **AI** and "Interface → **Lose ![[click.svg]]:** Break 1 subroutine."

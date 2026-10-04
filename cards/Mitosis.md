@@ -25,6 +25,6 @@ nrdb: https://netrunnerdb.com/en/card/33046
 
 ## Text
 
-As an additional cost to play this operation, spend click.
+As an additional cost to play this operation, spend ![[click.svg]].
 
 Install up to 2 cards from HQ, creating a new remote server each time. Place 2 advancement counters on each of those cards. You cannot score or rez either of those cards this turn.

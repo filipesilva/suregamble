@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/33035
 
 Whenever you rez a piece of **harmonic** ice, place 1 power counter on this ice.
 
-This ice gains "↳ End the run." for each hosted power counter.
+This ice gains "![[subroutine.svg]] End the run." for each hosted power counter.

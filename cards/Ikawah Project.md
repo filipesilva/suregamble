@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/21010
 
 ## Text
 
-As an additional cost to steal Ikawah Project, the Runner must spend click and 2 credits.
+As an additional cost to steal Ikawah Project, the Runner must spend ![[click.svg]] and 2![[credit.svg]].

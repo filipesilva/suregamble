@@ -30,4 +30,4 @@ You can install **virus** programs onto this program. Limit 1 hosted program.
 
 The memory cost of the hosted program does not count against your memory limit.
 
-interrupt → Whenever virus counters would be purged, prevent 1 virus counter on the hosted program from being removed.
+![[interrupt.svg]] → Whenever virus counters would be purged, prevent 1 virus counter on the hosted program from being removed.

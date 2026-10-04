@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/12087
 
 This program gets +1 strength for each installed program.
 
-Interface → **2 credits:** Break 1 subroutine.
+Interface → **2![[credit.svg]]:** Break 1 subroutine.

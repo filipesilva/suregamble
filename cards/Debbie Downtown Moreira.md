@@ -28,8 +28,8 @@ nrdb: https://netrunnerdb.com/en/card/34019
 
 ## Text
 
-Threat 4 → When you install this resource, place 2 credits on it. *(This ability is active if any player has 4 or more agenda points.)*
+Threat 4 → When you install this resource, place 2![[credit.svg]] on it. *(This ability is active if any player has 4 or more agenda points.)*
 
-Whenever you play a **run** event, place 1 credit on this resource.
+Whenever you play a **run** event, place 1![[credit.svg]] on this resource.
 
-click**:** Run any server. You can spend hosted credits during that run.
+![[click.svg]]**:** Run any server. You can spend hosted credits during that run.

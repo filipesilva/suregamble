@@ -27,8 +27,8 @@ nrdb: https://netrunnerdb.com/en/card/26081
 
 ## Text
 
-If you made a successful run on HQ this turn, this resource costs 2 credits less to install.
+If you made a successful run on HQ this turn, this resource costs 2![[credit.svg]] less to install.
 
-When you install this resource, load 4 credits onto it. When it is empty, trash it.
+When you install this resource, load 4![[credit.svg]] onto it. When it is empty, trash it.
 
 You can spend hosted credits during runs.

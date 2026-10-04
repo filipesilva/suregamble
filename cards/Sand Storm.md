@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/12114
 
 ## Text
 
-↳ If this ice is installed, move it to the outermost position protecting another server. *(The run continues from this new position.)* Trash this ice.
+![[subroutine.svg]] If this ice is installed, move it to the outermost position protecting another server. *(The run continues from this new position.)* Trash this ice.

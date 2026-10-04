@@ -31,8 +31,8 @@ nrdb: https://netrunnerdb.com/en/card/34090
 
 When you install this program and whenever it fully breaks a **code gate**, place 1 power counter on this program.
 
-Interface → **1 credit:** Break 1 **code gate** subroutine.
+Interface → **1![[credit.svg]]:** Break 1 **code gate** subroutine.
 
-Interface → **X credits**, **hosted power counter:** Break X **barrier** subroutines.
+Interface → **X![[credit.svg]]**, **hosted power counter:** Break X **barrier** subroutines.
 
-**1 credit:** +2 strength.
+**1![[credit.svg]]:** +2 strength.

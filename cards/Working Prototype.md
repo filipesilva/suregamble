@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/34099
 
 Whenever you rez a card *(including this asset)*, place 1 power counter on this asset.
 
-click, **hosted power counter:** Gain 3 credits.
+![[click.svg]], **hosted power counter:** Gain 3![[credit.svg]].
 
-click, **5 hosted power counters:** Gain 6 credits. Add 1 installed resource to the top of the stack.
+![[click.svg]], **5 hosted power counters:** Gain 6![[credit.svg]]. Add 1 installed resource to the top of the stack.

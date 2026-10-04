@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/12024
 
 ## Text
 
-Run R&D. If successful, when that run ends, you may run R&D again. If the second run is successful, gain 4 credits.
+Run R&D. If successful, when that run ends, you may run R&D again. If the second run is successful, gain 4![[credit.svg]].

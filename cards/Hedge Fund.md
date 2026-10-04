@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/30075
 
 ## Text
 
-Gain 9 credits.
+Gain 9![[credit.svg]].

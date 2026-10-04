@@ -31,6 +31,6 @@ nrdb: https://netrunnerdb.com/en/card/34107
 
 You can advance this asset.
 
-When your turn begins, you may remove 1 hosted advancement counter to gain 4 credits and draw 1 card.
+When your turn begins, you may remove 1 hosted advancement counter to gain 4![[credit.svg]] and draw 1 card.
 
-trash, **hosted advancement counter:** Gain 3 credits.
+![[trash.svg]], **hosted advancement counter:** Gain 3![[credit.svg]].

@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/05002
 
 ## Text
 
-Whenever you and the Runner reveal secretly spent credits, gain 1 credit.
+Whenever you and the Runner reveal secretly spent credits, gain 1![[credit.svg]].

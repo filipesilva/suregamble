@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/10106
 
 Play only if there is an agenda in the Runner's score area.
 
-You and the Runner secretly spend 0 credits, 1 credit, or 2 credits. Reveal spent credits. If you and the Runner spent a different number of credits, trash 1 resource.
+You and the Runner secretly spend 0![[credit.svg]], 1![[credit.svg]], or 2![[credit.svg]]. Reveal spent credits. If you and the Runner spent a different number of credits, trash 1 resource.

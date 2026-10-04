@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/06013
 
 ## Text
 
-Play only as your first click.
+Play only as your first ![[click.svg]].
 
 Choose a server. The Corp may rez 1 piece of ice protecting that server. If they do not, run that server. The Corp cannot rez ice during that run.

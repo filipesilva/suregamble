@@ -29,8 +29,8 @@ nrdb: https://netrunnerdb.com/en/card/26016
 
 ## Text
 
-Interface → **1 credit:** Break 1 **sentry** subroutine.
+Interface → **1![[credit.svg]]:** Break 1 **sentry** subroutine.
 
-**1 credit:** +1 strength.
+**1![[credit.svg]]:** +1 strength.
 
-The first time each turn this program fully breaks a piece of ice, gain 2 credits.
+The first time each turn this program fully breaks a piece of ice, gain 2![[credit.svg]].

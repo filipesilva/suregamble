@@ -26,8 +26,8 @@ nrdb: https://netrunnerdb.com/en/card/06029
 
 ## Text
 
-**1 credit:** Move any number of credits from your credit pool to this asset.
+**1![[credit.svg]]:** Move any number of credits from your credit pool to this asset.
 
-**click:** Take any number of credits from this asset.
+**![[click.svg]]:** Take any number of credits from this asset.
 
-**trash:** Take any number of credits from this asset.
+**![[trash.svg]]:** Take any number of credits from this asset.

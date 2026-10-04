@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/03022
 
 ## Text
 
-interrupt → When a subroutine would be broken on a piece of **bioroid** ice protecting this server, you may rez this upgrade.
+![[interrupt.svg]] → When a subroutine would be broken on a piece of **bioroid** ice protecting this server, you may rez this upgrade.
 
-interrupt → **trash:** Prevent 1 subroutine from being broken on a piece of **bioroid** ice protecting this server.
+![[interrupt.svg]] → **![[trash.svg]]:** Prevent 1 subroutine from being broken on a piece of **bioroid** ice protecting this server.

@@ -30,10 +30,10 @@ nrdb: https://netrunnerdb.com/en/card/03019
 
 ## Text
 
-**Lose 2 clicks:** Break up to 2 subroutines on this ice. Only the Runner can use this ability.
+**Lose ![[click.svg]]![[click.svg]]:** Break up to 2 subroutines on this ice. Only the Runner can use this ability.
 
 **Hosted power counter:** Do 1 core damage.
 
-↳ Trace[2]. If successful, place 1 power counter on this ice.
+![[subroutine.svg]] Trace[2]. If successful, place 1 power counter on this ice.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

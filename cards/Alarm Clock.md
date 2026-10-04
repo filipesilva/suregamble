@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/34078
 
 ## Text
 
-When your turn begins, you may run HQ. The first time you encounter a piece of ice during that run, you may spend 2 clicks to bypass it.
+When your turn begins, you may run HQ. The first time you encounter a piece of ice during that run, you may spend ![[click.svg]]![[click.svg]] to bypass it.

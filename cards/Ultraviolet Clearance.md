@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/13038
 
 ## Text
 
-As an additional cost to play this operation, spend 2 clicks.
+As an additional cost to play this operation, spend ![[click.svg]]![[click.svg]].
 
-Gain 10 credits and draw 4 cards. You may install 1 card from HQ.
+Gain 10![[credit.svg]] and draw 4 cards. You may install 1 card from HQ.

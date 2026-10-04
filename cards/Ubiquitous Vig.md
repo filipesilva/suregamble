@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/33052
 
 You can advance this asset.
 
-When your turn begins, gain 1 credit for each hosted advancement counter.
+When your turn begins, gain 1![[credit.svg]] for each hosted advancement counter.

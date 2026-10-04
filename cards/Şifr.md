@@ -29,7 +29,7 @@ nrdb: https://netrunnerdb.com/en/card/11101
 
 ## Text
 
-+2MU
++2![[mu.svg]]
 
 Once per turn → When you encounter a piece of ice, you may get –1 maximum hand size until your next turn begins. If you do, the strength of that ice is lowered to 0 for the remainder of the encounter.
 

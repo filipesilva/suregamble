@@ -28,8 +28,8 @@ nrdb: https://netrunnerdb.com/en/card/21115
 
 ## Text
 
-↳ Do 1 net damage unless the Runner trashes the top 2 cards of the stack.
+![[subroutine.svg]] Do 1 net damage unless the Runner trashes the top 2 cards of the stack.
 
-↳ Do 2 net damage unless the Runner trashes the top 3 cards of the stack.
+![[subroutine.svg]] Do 2 net damage unless the Runner trashes the top 3 cards of the stack.
 
-↳ Do 3 net damage unless the Runner trashes the top 4 cards of the stack.
+![[subroutine.svg]] Do 3 net damage unless the Runner trashes the top 4 cards of the stack.

@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/34044
 
 ## Text
 
-When the Runner passes this ice, you may swap it with a piece of ice from HQ. If you do, gain 4 credits. *(The new ice is installed unrezzed. You do not pay an install cost.)*
+When the Runner passes this ice, you may swap it with a piece of ice from HQ. If you do, gain 4![[credit.svg]]. *(The new ice is installed unrezzed. You do not pay an install cost.)*
 
-↳ End the run.
+![[subroutine.svg]] End the run.

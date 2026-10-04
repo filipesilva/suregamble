@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/33092
 
 When you install this resource, load 2 power counters onto it. When it is empty, trash it.
 
-click, **hosted power counter:** Draw 3 cards.
+![[click.svg]], **hosted power counter:** Draw 3 cards.

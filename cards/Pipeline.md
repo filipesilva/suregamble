@@ -29,6 +29,6 @@ nrdb: https://netrunnerdb.com/en/card/25055
 
 ## Text
 
-Interface → **1 credit:** Break 1 **sentry** subroutine.
+Interface → **1![[credit.svg]]:** Break 1 **sentry** subroutine.
 
-**2 credits:** +1 strength for the remainder of this run.
+**2![[credit.svg]]:** +1 strength for the remainder of this run.

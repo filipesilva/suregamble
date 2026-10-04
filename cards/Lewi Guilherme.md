@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/21005
 
 ## Text
 
-When your turn begins, either lose 1 credit or trash Lewi Guilherme.
+When your turn begins, either lose 1![[credit.svg]] or trash Lewi Guilherme.
 
 The Corp's maximum hand size is reduced by 1.

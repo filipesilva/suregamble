@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/08009
 
 ## Text
 
-The first time you spend click to draw 1 card (not through a card ability) each turn, gain 1 credit.
+The first time you spend ![[click.svg]] to draw 1 card (not through a card ability) each turn, gain 1![[credit.svg]].

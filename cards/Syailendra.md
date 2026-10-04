@@ -32,8 +32,8 @@ You can advance this ice.
 
 When the Runner encounters this ice, if it has 3 or more hosted advancement counters, you may place 1 advancement counter on an installed card you can advance.
 
-↳ You may place 1 advancement counter on an installed card you can advance.
+![[subroutine.svg]] You may place 1 advancement counter on an installed card you can advance.
 
-↳ The Runner loses 2 credits.
+![[subroutine.svg]] The Runner loses 2![[credit.svg]].
 
-↳ Do 1 net damage.
+![[subroutine.svg]] Do 1 net damage.

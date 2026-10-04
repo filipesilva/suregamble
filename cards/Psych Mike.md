@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/22021
 
 ## Text
 
-The first time each turn a successful run on R&D ends, you may gain 1 credit for each time you accessed a card in R&D during that run.
+The first time each turn a successful run on R&D ends, you may gain 1![[credit.svg]] for each time you accessed a card in R&D during that run.

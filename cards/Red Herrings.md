@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/25121
 
 ## Text
 
-Persistent → As an additional cost to steal an agenda from this server or its root, the Runner must pay 5 credits. *(If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)*
+Persistent → As an additional cost to steal an agenda from this server or its root, the Runner must pay 5![[credit.svg]]. *(If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)*

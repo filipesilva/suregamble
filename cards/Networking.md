@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/31020
 
 ## Text
 
-Remove 1 tag. Then, you may pay 1 credit to add this event to your grip.
+Remove 1 tag. Then, you may pay 1![[credit.svg]] to add this event to your grip.

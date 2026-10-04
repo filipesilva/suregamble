@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/33073
 
 ## Text
 
-Interface → **2 credits:** Break 1 **sentry** subroutine.
+Interface → **2![[credit.svg]]:** Break 1 **sentry** subroutine.

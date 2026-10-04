@@ -25,6 +25,6 @@ nrdb: https://netrunnerdb.com/en/card/13013
 
 ## Text
 
-Play only as your first click.
+Play only as your first ![[click.svg]].
 
 Choose 1 card installed in the root of or protecting a remote server. That card cannot be rezzed this turn.

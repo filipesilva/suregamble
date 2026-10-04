@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/10010
 
 ## Text
 
-click: Place 1 power counter on Chatterjee University.
+![[click.svg]]: Place 1 power counter on Chatterjee University.
 
-click: Install a program from your grip, lowering the install cost by 1 for each power counter on Chatterjee University. Remove 1 hosted power counter.
+![[click.svg]]: Install a program from your grip, lowering the install cost by 1 for each power counter on Chatterjee University. Remove 1 hosted power counter.

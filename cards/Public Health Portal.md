@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/26042
 
 ## Text
 
-When your turn begins, reveal the top card of R&D and gain 2 credits.
+When your turn begins, reveal the top card of R&D and gain 2![[credit.svg]].

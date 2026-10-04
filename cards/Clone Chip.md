@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/03038
 
 ## Text
 
-trash: Install a program from your heap (paying the install cost).
+![[trash.svg]]: Install a program from your heap (paying the install cost).

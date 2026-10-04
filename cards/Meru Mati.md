@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/08039
 
 Meru Mati has +3 strength while protecting HQ.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

@@ -27,8 +27,8 @@ nrdb: https://netrunnerdb.com/en/card/06102
 
 ## Text
 
-↳ The Corp gains 1 credit or draws 1 card.
+![[subroutine.svg]] The Corp gains 1![[credit.svg]] or draws 1 card.
 
-↳ The Corp gains 1 credit or draws 1 card.
+![[subroutine.svg]] The Corp gains 1![[credit.svg]] or draws 1 card.
 
-↳ The Corp gains 1 credit or draws 1 card.
+![[subroutine.svg]] The Corp gains 1![[credit.svg]] or draws 1 card.

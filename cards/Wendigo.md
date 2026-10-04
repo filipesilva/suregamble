@@ -32,4 +32,4 @@ Wendigo can be advanced.
 
 While Wendigo has an odd number of advancement tokens on it, it gains **barrier** and loses **code gate**.
 
-↳ Choose a program. The Runner cannot use the chosen program for the remainder of this run.
+![[subroutine.svg]] Choose a program. The Runner cannot use the chosen program for the remainder of this run.

@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/35047
 
 ## Text
 
-When your discard phase ends, if there are 3 or fewer cards in HQ, you may pay 1 credit to place 1 advancement counter on an unrezzed card you can advance. *(You cannot score that card this turn.)*
+When your discard phase ends, if there are 3 or fewer cards in HQ, you may pay 1![[credit.svg]] to place 1 advancement counter on an unrezzed card you can advance. *(You cannot score that card this turn.)*

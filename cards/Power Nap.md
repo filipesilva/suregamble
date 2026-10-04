@@ -25,6 +25,6 @@ nrdb: https://netrunnerdb.com/en/card/04107
 
 ## Text
 
-As an additional cost to play this event, spend click.
+As an additional cost to play this event, spend ![[click.svg]].
 
-Gain 2 credits. Gain an additional 1 credit for each **double** event in your heap.
+Gain 2![[credit.svg]]. Gain an additional 1![[credit.svg]] for each **double** event in your heap.

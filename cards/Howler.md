@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/03016
 
 ## Text
 
-↳ You may install and rez 1 piece of **bioroid** ice from HQ or Archives directly inward from this ice, ignoring all costs. When this run ends, if you installed a piece of ice this way, trash this ice and derez the ice you installed.
+![[subroutine.svg]] You may install and rez 1 piece of **bioroid** ice from HQ or Archives directly inward from this ice, ignoring all costs. When this run ends, if you installed a piece of ice this way, trash this ice and derez the ice you installed.

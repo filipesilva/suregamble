@@ -27,8 +27,8 @@ nrdb: https://netrunnerdb.com/en/card/34125
 
 ## Text
 
-click, **1 credit**, **reveal and trash this ice from HQ:** Draw 1 card. Reveal up to 2 agendas in HQ and/or Archives and shuffle them into R&D.
+![[click.svg]], **1![[credit.svg]]**, **reveal and trash this ice from HQ:** Draw 1 card. Reveal up to 2 agendas in HQ and/or Archives and shuffle them into R&D.
 
 When your turn begins, you may add this ice to HQ.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

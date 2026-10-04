@@ -32,4 +32,4 @@ When you install this program, suffer 1 core damage.
 
 This program gets +1 strength for each core damage you have taken this game.
 
-Interface → **1 credit:** Break any number of **barrier** subroutines.
+Interface → **1![[credit.svg]]:** Break any number of **barrier** subroutines.

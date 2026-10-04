@@ -28,8 +28,8 @@ nrdb: https://netrunnerdb.com/en/card/01013
 
 ## Text
 
-Interface → **3 credits:** Break 1 subroutine on a piece of ice with 0 or less strength.
+Interface → **3![[credit.svg]]:** Break 1 subroutine on a piece of ice with 0 or less strength.
 
-Interface → **1 credit:** The ice you are encountering gets -1 strength for the remainder of this encounter.
+Interface → **1![[credit.svg]]:** The ice you are encountering gets -1 strength for the remainder of this encounter.
 
-**1 credit:** +1 strength.
+**1![[credit.svg]]:** +1 strength.

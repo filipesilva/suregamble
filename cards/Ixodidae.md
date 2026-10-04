@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/06114
 
 ## Text
 
-Whenever the Corp loses at least 1 credit, gain 1 credit.
+Whenever the Corp loses at least 1![[credit.svg]], gain 1![[credit.svg]].
 
 Trash Ixodidae if the Corp purges virus counters.

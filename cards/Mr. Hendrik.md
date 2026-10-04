@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/33103
 
 ## Text
 
-When the Runner accesses this upgrade while it is installed, you may pay 2 credits to do 1 core damage. If the Runner has any click remaining, they may lose all their click to prevent this damage.
+When the Runner accesses this upgrade while it is installed, you may pay 2![[credit.svg]] to do 1 core damage. If the Runner has any ![[click.svg]] remaining, they may lose all their ![[click.svg]] to prevent this damage.

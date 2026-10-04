@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/06042
 
 ## Text
 
-click,click,click: Rez a card, ignoring all costs.
+![[click.svg]],![[click.svg]],![[click.svg]]: Rez a card, ignoring all costs.

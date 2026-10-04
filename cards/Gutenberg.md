@@ -30,4 +30,4 @@ nrdb: https://netrunnerdb.com/en/card/08037
 
 Gutenberg has +3 strength while protecting R&D.
 
-↳ Trace[7]. If successful, give the Runner 1 tag.
+![[subroutine.svg]] Trace[7]. If successful, give the Runner 1 tag.

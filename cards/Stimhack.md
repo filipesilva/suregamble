@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/25007
 
 ## Text
 
-Place 9 credits on this event, then run any server. During that run, hosted credits are considered to be in your credit pool. When that run ends, suffer 1 core damage. This damage cannot be prevented.
+Place 9![[credit.svg]] on this event, then run any server. During that run, hosted credits are considered to be in your credit pool. When that run ends, suffer 1 core damage. This damage cannot be prevented.

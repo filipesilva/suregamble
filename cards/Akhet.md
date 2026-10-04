@@ -31,6 +31,6 @@ You can advance this ice.
 
 While there are 3 or more hosted advancement counters, this ice gets +3 strength and the Runner cannot break more than 1 of its printed subroutines during each encounter.
 
-↳ Gain 1 credit. Place 1 advancement counter on an installed card.
+![[subroutine.svg]] Gain 1![[credit.svg]]. Place 1 advancement counter on an installed card.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

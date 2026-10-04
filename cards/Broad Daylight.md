@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/22051
 
 When you score this agenda, you may take 1 bad publicity. Place 1 agenda counter on this agenda for each bad publicity you have.
 
-Once per turn → click, **hosted agenda counter:** Do 2 meat damage.
+Once per turn → ![[click.svg]], **hosted agenda counter:** Do 2 meat damage.

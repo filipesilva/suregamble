@@ -25,9 +25,9 @@ nrdb: https://netrunnerdb.com/en/card/02049
 
 ## Text
 
-click: Host a program or piece of hardware from your grip on Personal Workshop and place power counters on it equal to its install cost.
+![[click.svg]]: Host a program or piece of hardware from your grip on Personal Workshop and place power counters on it equal to its install cost.
 
-1 credit: Remove 1 power counter from a hosted card.
+1![[credit.svg]]: Remove 1 power counter from a hosted card.
 
 When your turn begins, remove 1 power counter from a hosted card.
 

@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/36063
 
 ## Text
 
-Gain 14 credits and take 1 bad publicity.
+Gain 14![[credit.svg]] and take 1 bad publicity.

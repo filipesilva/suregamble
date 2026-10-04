@@ -31,4 +31,4 @@ nrdb: https://netrunnerdb.com/en/card/30010
 
 ## Text
 
-Once per turn → When a run on HQ or R&D ends, you may gain 1 credit for each time you accessed a card during that run.
+Once per turn → When a run on HQ or R&D ends, you may gain 1![[credit.svg]] for each time you accessed a card during that run.

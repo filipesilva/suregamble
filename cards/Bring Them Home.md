@@ -32,4 +32,4 @@ After you resolve this operation, your action phase ends.
 
 Reveal and add 2 cards at random from the grip to the top of the stack.
 
-Threat 3 → You may pay 2 credits to reveal 1 card in the grip at random. The Runner shuffles it into the stack.
+Threat 3 → You may pay 2![[credit.svg]] to reveal 1 card in the grip at random. The Runner shuffles it into the stack.

@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/35079
 
 When you rez this ice during a run against this server, purge virus counters.
 
-↳ End the run.
+![[subroutine.svg]] End the run.

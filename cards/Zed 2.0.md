@@ -30,10 +30,10 @@ nrdb: https://netrunnerdb.com/en/card/12010
 
 ## Text
 
-**Lose 2 clicks:** Break up to 2 subroutines on this ice. Only the Runner can use this ability.
+**Lose ![[click.svg]]![[click.svg]]:** Break up to 2 subroutines on this ice. Only the Runner can use this ability.
 
-↳ Trash 1 installed piece of hardware.
+![[subroutine.svg]] Trash 1 installed piece of hardware.
 
-↳ Trash 1 installed piece of hardware.
+![[subroutine.svg]] Trash 1 installed piece of hardware.
 
-↳ If the Runner has lost click to break a subroutine during this run, do 2 core damage.
+![[subroutine.svg]] If the Runner has lost ![[click.svg]] to break a subroutine during this run, do 2 core damage.

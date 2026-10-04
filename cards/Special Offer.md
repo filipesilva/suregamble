@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/09016
 
 ## Text
 
-↳ The Corp gains 5 credits. Trash Special Offer.
+![[subroutine.svg]] The Corp gains 5![[credit.svg]]. Trash Special Offer.

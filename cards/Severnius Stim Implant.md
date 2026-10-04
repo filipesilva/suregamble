@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/12021
 
 ## Text
 
-**click:** Trash 2 or more cards from your grip. Run HQ or R&D. Whenever you breach that server during this run, access 1 additional card for every 2 cards you trashed.
+**![[click.svg]]:** Trash 2 or more cards from your grip. Run HQ or R&D. Whenever you breach that server during this run, access 1 additional card for every 2 cards you trashed.

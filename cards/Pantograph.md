@@ -29,8 +29,8 @@ nrdb: https://netrunnerdb.com/en/card/30023
 
 ## Text
 
-+1MU
++1![[mu.svg]]
 
-Whenever an agenda is scored or stolen, gain 1 credit. Then, you may install 1 card from your grip.
+Whenever an agenda is scored or stolen, gain 1![[credit.svg]]. Then, you may install 1 card from your grip.
 
 Limit 1 **console** per player.

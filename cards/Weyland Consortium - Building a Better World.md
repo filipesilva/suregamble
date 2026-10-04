@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/31070
 
 ## Text
 
-Whenever you play a **transaction** operation, gain 1 credit.
+Whenever you play a **transaction** operation, gain 1![[credit.svg]].

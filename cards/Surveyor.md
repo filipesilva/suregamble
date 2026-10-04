@@ -30,6 +30,6 @@ nrdb: https://netrunnerdb.com/en/card/21118
 
 X is twice the number of ice protecting this server.
 
-↳Trace[X]. If successful, give the Runner 2 tags.
+![[subroutine.svg]]Trace[X]. If successful, give the Runner 2 tags.
 
-↳Trace[X]. If successful, end the run.
+![[subroutine.svg]]Trace[X]. If successful, end the run.

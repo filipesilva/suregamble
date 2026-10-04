@@ -30,6 +30,6 @@ nrdb: https://netrunnerdb.com/en/card/30056
 
 Resolve 1 of the following. If the Runner is tagged, you may resolve both instead.
 
-- Gain 3 credits.
+- Gain 3![[credit.svg]].
 
 - Draw 3 cards.

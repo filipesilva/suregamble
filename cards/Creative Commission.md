@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/30020
 
 ## Text
 
-Gain 5 credits. If you have any click remaining, lose click.
+Gain 5![[credit.svg]]. If you have any ![[click.svg]] remaining, lose ![[click.svg]].

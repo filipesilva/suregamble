@@ -29,7 +29,7 @@ nrdb: https://netrunnerdb.com/en/card/10109
 
 ## Text
 
-This card costs 0 influence if you have 6 or more non-**alliance** nbn cards in your deck.
+This card costs 0 influence if you have 6 or more non-**alliance** ![[nbn.svg]] cards in your deck.
 
 As an additional cost to rez Ibrahim Salem, forfeit an agenda.
 

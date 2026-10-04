@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/05026
 
 ## Text
 
-Gain 1 credit for each remote server with a card in its root.
+Gain 1![[credit.svg]] for each remote server with a card in its root.

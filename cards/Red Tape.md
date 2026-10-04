@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/10093
 
 ## Text
 
-↳ All ice has +3 strength for the remainder of this run.
+![[subroutine.svg]] All ice has +3 strength for the remainder of this run.

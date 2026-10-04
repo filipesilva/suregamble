@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/25110
 
 ## Text
 
-When your turn begins, take 1 credit from Marked Accounts, if able.
+When your turn begins, take 1![[credit.svg]] from Marked Accounts, if able.
 
-click: Place 3 credits from the bank on Marked Accounts.
+![[click.svg]]: Place 3![[credit.svg]] from the bank on Marked Accounts.

@@ -30,4 +30,4 @@ This card is not trashed until another **current** is played or an agenda is sto
 
 The play cost of each operation and event is increased by 1.
 
-The first time the Runner plays an event each turn, gain 1 credit.
+The first time the Runner plays an event each turn, gain 1![[credit.svg]].

@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/31012
 
 ## Text
 
-The rez cost of each piece of ice is increased by 1 credit.
+The rez cost of each piece of ice is increased by 1![[credit.svg]].

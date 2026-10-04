@@ -26,4 +26,4 @@ nrdb: https://netrunnerdb.com/en/card/34057
 
 ## Text
 
-click, **1**credit, **reveal and trash this agenda from HQ:** Place 2 advancement counters on 1 installed card that you can advance.
+![[click.svg]], **1**![[credit.svg]], **reveal and trash this agenda from HQ:** Place 2 advancement counters on 1 installed card that you can advance.

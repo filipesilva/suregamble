@@ -25,6 +25,6 @@ nrdb: https://netrunnerdb.com/en/card/34074
 
 ## Text
 
-click, trash**:** Gain 5 credits and remove 1 tag.
+![[click.svg]], ![[trash.svg]]**:** Gain 5![[credit.svg]] and remove 1 tag.
 
-click, trash**:** Gain 9 credits and take 1 tag. Use this ability only if you are not tagged.
+![[click.svg]], ![[trash.svg]]**:** Gain 9![[credit.svg]] and take 1 tag. Use this ability only if you are not tagged.

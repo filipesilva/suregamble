@@ -29,4 +29,4 @@ nrdb: https://netrunnerdb.com/en/card/25113
 
 ## Text
 
-↳Trace[6]. If successful, trash 1 piece of hardware, do 2 meat damage (cannot be prevented), and end the run.
+![[subroutine.svg]]Trace[6]. If successful, trash 1 piece of hardware, do 2 meat damage (cannot be prevented), and end the run.

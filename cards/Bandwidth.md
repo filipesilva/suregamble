@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/08016
 
 ## Text
 
-↳ Give the Runner 1 tag. If this run is successful, the Runner removes 1 tag.
+![[subroutine.svg]] Give the Runner 1 tag. If this run is successful, the Runner removes 1 tag.

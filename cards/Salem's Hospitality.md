@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/10071
 
 ## Text
 
-This operation costs 0 influence if you have 6 or more non-**alliance** nbn cards in your deck.
+This operation costs 0 influence if you have 6 or more non-**alliance** ![[nbn.svg]] cards in your deck.
 
 Choose a card name. The Runner reveals the grip and trashes all cards with the chosen name revealed this way.

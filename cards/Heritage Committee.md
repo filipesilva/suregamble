@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/10013
 
 ## Text
 
-This card costs 0 influence if you have 6 or more non-**alliance** jinteki cards in your deck.
+This card costs 0 influence if you have 6 or more non-**alliance** ![[jinteki.svg]] cards in your deck.
 
 Draw 3 cards. Add 1 card from HQ to the top of R&D.

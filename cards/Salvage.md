@@ -27,4 +27,4 @@ nrdb: https://netrunnerdb.com/en/card/02098
 
 ## Text
 
-You can advance this ice if it is rezzed. It gains "↳ Trace[2]. If successful, give the Runner 1 tag." for each hosted advancement counter.
+You can advance this ice if it is rezzed. It gains "![[subroutine.svg]] Trace[2]. If successful, give the Runner 1 tag." for each hosted advancement counter.

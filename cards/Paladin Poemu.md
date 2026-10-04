@@ -28,7 +28,7 @@ nrdb: https://netrunnerdb.com/en/card/26073
 
 ## Text
 
-When your turn begins and whenever you steal an agenda, place 1 credit on this resource.
+When your turn begins and whenever you steal an agenda, place 1![[credit.svg]] on this resource.
 
 You can spend hosted credits to install non-**connection** cards.
 

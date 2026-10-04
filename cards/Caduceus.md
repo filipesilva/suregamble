@@ -28,6 +28,6 @@ nrdb: https://netrunnerdb.com/en/card/25131
 
 ## Text
 
-↳ Trace[3]. If successful, the Corp gains 3 credits.
+![[subroutine.svg]] Trace[3]. If successful, the Corp gains 3![[credit.svg]].
 
-↳ Trace[2]. If successful, end the run.
+![[subroutine.svg]] Trace[2]. If successful, end the run.

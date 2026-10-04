@@ -26,8 +26,8 @@ nrdb: https://netrunnerdb.com/en/card/26062
 
 ## Text
 
-When you rez this upgrade, you may pay up to 4 credits to place that many power counters on it.
+When you rez this upgrade, you may pay up to 4![[credit.svg]] to place that many power counters on it.
 
-As an additional cost to run this server, the Runner must pay 2 credits for each hosted power counter.
+As an additional cost to run this server, the Runner must pay 2![[credit.svg]] for each hosted power counter.
 
 Whenever the Runner makes a successful run on a central server, remove 1 hosted power counter.

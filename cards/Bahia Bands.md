@@ -29,8 +29,8 @@ Run any server. If successful, resolve 2 of the following in any order:
 
 - Draw 2 cards.
 
-- Install 1 card from your grip, paying 1 credit less.
+- Install 1 card from your grip, paying 1![[credit.svg]] less.
 
 - Remove 1 tag.
 
-- Place 4 credits on this event. You can spend hosted credits to pay trash costs for the remainder of this run.
+- Place 4![[credit.svg]] on this event. You can spend hosted credits to pay trash costs for the remainder of this run.

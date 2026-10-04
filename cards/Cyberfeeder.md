@@ -26,6 +26,6 @@ nrdb: https://netrunnerdb.com/en/card/25008
 
 ## Text
 
-1recurring credit
+1![[recurring-credit.svg]]
 
 Use this credit to pay for using **icebreakers** or for installing **virus** programs.

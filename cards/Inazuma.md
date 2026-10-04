@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/05016
 
 ## Text
 
-↳ During the next encounter this run, the Runner cannot break subroutines on the encountered ice.
+![[subroutine.svg]] During the next encounter this run, the Runner cannot break subroutines on the encountered ice.
 
-↳ The Runner cannot jack out this run until after their next encounter with a piece of ice begins.
+![[subroutine.svg]] The Runner cannot jack out this run until after their next encounter with a piece of ice begins.

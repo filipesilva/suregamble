@@ -27,10 +27,10 @@ nrdb: https://netrunnerdb.com/en/card/26023
 
 ## Text
 
-+2MU
++2![[mu.svg]]
 
 You get +1 maximum hand size.
 
-When your turn ends, if you and the Corp have the same number of credits, you may gain 2 credits.
+When your turn ends, if you and the Corp have the same number of credits, you may gain 2![[credit.svg]].
 
 Limit 1 **console** per player.

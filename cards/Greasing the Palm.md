@@ -25,4 +25,4 @@ nrdb: https://netrunnerdb.com/en/card/34037
 
 ## Text
 
-Gain 5 credits. You may install 1 card from HQ. You may remove 1 tag to place 1 advancement counter on that card.
+Gain 5![[credit.svg]]. You may install 1 card from HQ. You may remove 1 tag to place 1 advancement counter on that card.

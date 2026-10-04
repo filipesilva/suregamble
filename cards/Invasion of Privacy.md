@@ -27,6 +27,6 @@ nrdb: https://netrunnerdb.com/en/card/04016
 
 ## Text
 
-As an additional cost to play this operation, spend click.
+As an additional cost to play this operation, spend ![[click.svg]].
 
 Trace[2]. If successful, reveal the grip. Trash up to X resources and/or events revealed this way, where X is equal to the amount by which your trace strength exceeded the Runner's link strength. If unsuccessful, take 1 bad publicity.

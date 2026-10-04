@@ -28,4 +28,4 @@ nrdb: https://netrunnerdb.com/en/card/03006
 
 When you score this agenda, place 3 agenda counters on it.
 
-**Hosted agenda counter:** The rezzed piece of **bioroid** ice the Runner is approaching gains "↳ End the run." after its other subroutines for the remainder of this run.
+**Hosted agenda counter:** The rezzed piece of **bioroid** ice the Runner is approaching gains "![[subroutine.svg]] End the run." after its other subroutines for the remainder of this run.

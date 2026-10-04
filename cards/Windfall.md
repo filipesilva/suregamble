@@ -24,4 +24,4 @@ nrdb: https://netrunnerdb.com/en/card/09054
 
 ## Text
 
-Shuffle your stack. Trash the top card of your stack. Gain X credits where X is equal to the install cost of that card.
+Shuffle your stack. Trash the top card of your stack. Gain X![[credit.svg]] where X is equal to the install cost of that card.
