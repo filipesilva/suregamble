@@ -92,8 +92,31 @@
 
 (defn raw [_ node] (h/raw (md/node->text node)))
 
+(defn span [class] (fn [ctx node] (md/into-hiccup [:span {:class class}] ctx node)))
+
+(defn footnote-ref
+  "The number links to the footnote at the end, the popup shows it on hover, see .footnote-ref in site.css."
+  [{:keys [footnotes seen] :as ctx} {:keys [ref]}]
+  (let [n (inc ref)
+        [before] (swap-vals! seen conj ref)]
+    [:span.footnote-ref
+     [:sup [:a (cond-> {:href (str "#fn-" n)} (not (before ref)) (assoc :id (str "fnref-" n))) n]]
+     (md/into-hiccup [:span.footnote-popup] (assoc ctx :paragraph (span "p")) (get footnotes ref))]))
+
+(defn doc [ctx {:keys [footnotes] :as node}]
+  (let [ctx (assoc ctx :footnotes footnotes :seen (atom #{}))]
+    (cond-> (md/into-hiccup [:div] ctx node)
+      (seq footnotes)
+      (conj (into [:ol.footnotes]
+                  (for [{:keys [ref content]} footnotes
+                        :let [n (inc ref)
+                              ps (mapv (partial md/->hiccup ctx) content)]]
+                    (into [:li {:id (str "fn-" n)}]
+                          (update ps (dec (count ps)) conj " " [:a.footnote-back {:href (str "#fnref-" n)} "↩"]))))))))
+
 (def renderers
   (assoc md/default-hiccup-renderers
+         :doc doc :footnote-ref footnote-ref
          :internal-link wikilink :embed image :image md-image :blockquote callout :code code :paragraph paragraph
          :hashtag (fn [ctx {:keys [text]}] (or (hook ctx :component {:language "tag" :tag text}) (str "#" text)))
          :html-block raw :html-inline raw))
@@ -102,12 +125,11 @@
   "Markdown as inline html, for text that lives inside a link: blocks become spans, only images resolve.
    ctx carries :root and :url as in html."
   [src {:keys [url] :as ctx}]
-  (let [span (fn [class] (fn [ctx node] (md/into-hiccup [:span {:class class}] ctx node)))]
-    (->> (parse src)
-         (md/->hiccup (assoc (merge renderers ctx) :doc (span "doc") :paragraph (span "p") :heading (span "h")
-                             :bullet-list (span "list") :list-item (span "item")
-                             :url #(when (image? %) (url %))))
-         h/html str)))
+  (->> (parse src)
+       (md/->hiccup (assoc (merge renderers ctx) :doc (span "doc") :paragraph (span "p") :heading (span "h")
+                           :bullet-list (span "list") :list-item (span "item")
+                           :url #(when (image? %) (url %))))
+       h/html str))
 
 (defn html
   "ctx carries :root, :url (vault name -> url, or nil), :component (fence -> html, or nil),

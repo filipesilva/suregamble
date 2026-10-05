@@ -140,6 +140,46 @@ pre {
   }
 }
 
+.footnote-ref {
+  position: relative;
+
+  & a {
+    text-decoration: none;
+  }
+  & .footnote-popup {
+    display: none;
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    translate: -50%;
+    z-index: 1;
+    width: max-content;
+    max-width: 20rem;
+    padding: .5rem .75rem;
+    border: 1px solid var(--rule);
+    border-radius: var(--radius);
+    background: #111;
+    font-size: .9375rem;
+    line-height: 1.5;
+  }
+  & .p {
+    display: block;
+  }
+  &:hover .footnote-popup, &:focus-within .footnote-popup {
+    display: block;
+  }
+}
+
+.footnotes {
+  margin-block-start: 2rem;
+  padding-block-start: 1rem;
+  border-block-start: 1px solid var(--rule);
+
+  & .footnote-back {
+    text-decoration: none;
+  }
+}
+
 @view-transition {
   navigation: auto;
 }

@@ -189,11 +189,11 @@
      (-> (render "page.html" (assoc data :main main)) hoist (cljs root) tidy)]))
 
 (defn feed-content
-  "An article's body for the feed: absolute links, no styles, card previews, spoiler toggles or decklist identity images,
+  "An article's body for the feed: absolute links, no styles, card previews, footnote popups, spoiler toggles or decklist identity images,
    icons as text since mail apps block svg. Goes inside CDATA."
   [data article]
   (let [doc (Jsoup/parseBodyFragment (body data article site))
-        html (do (.remove (.select doc "style, .card-preview, .spoiler > input, .decklist header > img"))
+        html (do (.remove (.select doc "style, .card-preview, .footnote-popup, .spoiler > input, .decklist header > img"))
                  (doseq [icon (.select doc "img[src*=/assets/nsg/]")] (.replaceWith icon (org.jsoup.nodes.TextNode. (str/replace (.attr icon "alt") "-" " "))))
                  (.html (.body doc)))]
     (when (str/includes? html "]]>") (fail (:file article) "contains ]]> which cannot go in the feed"))
